@@ -1,0 +1,49 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Frequency List {{ .LanguageName }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+</head>
+<body>
+    <div style="max-width: 75rem; margin-left: auto; margin-right: auto;">
+    <h1 style="padding-top: 3rem">Frequency List {{ .LanguageName }}</h1>
+    <h2 style="font-size:1rem">Top 1000 most frequent words in {{ .LanguageName }} with their English translation.</h2>
+    <div style="display: flex">
+        <p style="width: 10rem; margin-top: 1rem">Choose language:</p> 
+        <select class="form-select" style="width: 15rem" aria-label="Default select example" id="lang-select" oninput="changeLanguage()">
+            <option selected>Languages available:</option>
+            <option value="cs">Czech</option>
+            <option value="el">Greek</option>
+            <option value="zh">Mandarin</option>
+            <option value="ro">Romanian</option>
+            <option value="sv">Swedish</option>
+        </select>
+    </div>
+    <table class="table table-striped table-hover table-bordered table-responsive" style="margin-top: 2rem">
+    <thead style="background-color: blue; color: white">
+        <tr>
+        <th scope="col">#</th>
+        <th scope="col">{{ .LanguageName }}</th>
+        <th scope="col">English</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $index, $element := .Payload }}
+        <tr>
+            <td>{{ print $index }}</td>
+            <td>{{ .Word }}</td>
+            <td>{{ .Translation }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+    </table>
+    <p>Source: Word frequency list by <a href="https://github.com/rspeer/wordfreq">wordfreq</a>, translation by <a href="https://www.deepl.com/">DeepL</a>.</p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        function changeLanguage() {
+            const lang = document.querySelector("#lang-select").value;
+            document.location.href = `freq-list-${lang}.html`;
+        }
+    </script>
+</body>

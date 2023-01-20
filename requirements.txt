@@ -1,0 +1,2 @@
+wordfreq==3.0.2
+deepl==1.11.0
