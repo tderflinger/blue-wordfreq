@@ -7,19 +7,29 @@ Based on [wordfreq](https://github.com/rspeer/wordfreq), translated using [DeepL
 
 ## Installation
 
+```bash
 python3 -m venv venv
 
 . venv/bin/activate
 
 pip3 install -r requirements.txt
-
-export DEEPL_KEY=xxx
+```
 
 ## Run
 
+```bash
 . venv/bin/activate
 source ./deepl.env
 python3 app.py languageId
+````
+
+Where languageId is one of the following:
+
+- cs (Czech)
+- el (Greek)
+- zh (Mandarin)
+- ro (Romanian)
+- sv (Swedish)
 
 ## Converter
 
