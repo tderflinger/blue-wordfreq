@@ -19,9 +19,11 @@ pip3 install -r requirements.txt
 
 ```bash
 . venv/bin/activate
+
 source ./deepl.env
+
 python3 app.py languageId
-````
+```
 
 Where languageId is one of the following:
 
@@ -37,7 +39,14 @@ Converter is a Go application that converts the JSON wordlist into
 HTML.
 
 Run:
+
+```bash
 go run converter.go languageId languageName
+```
+
+## References
+
+Thanks to the work of [wordfreq](https://github.com/rspeer/wordfreq)!
 
 ## License
 
