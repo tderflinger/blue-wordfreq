@@ -46,11 +46,13 @@ func main() {
 
 	data := struct {
 		LanguageName string
+		LanguageCode string
 		Payload      WordList
 	}{}
 
 	data.Payload = payload
 	data.LanguageName = langName
+	data.LanguageCode = lang
 
 	f, err := os.Create("../dist/freq-list-" + lang + ".html")
 	if err != nil {
