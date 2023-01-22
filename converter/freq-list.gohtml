@@ -26,18 +26,16 @@
         <th scope="col">#</th>
         <th scope="col">{{ .LanguageName }}</th>
         <th scope="col">English</th>
+        <th scope="col">Links</th>
         </tr>
     </thead>
     <tbody>
         {{ range $index, $element := .Payload }}
         <tr>
             <td>{{ print $index }}</td>
-            <td><a style="text-decoration: none" data-bs-toggle="collapse" href="#collapseExample-{{ $index }}" role="button" aria-expanded="false" aria-controls="collapseExample">{{ .Word }}</a>
-                <div class="collapse" id="collapseExample-{{ $index }}" style="margin-top: 1rem; margin-bottom: 1rem">
-                    <a href="https://{{ $.LanguageCode }}.wiktionary.org/wiki/{{ .Word }}" target="_blank">Wiktionary</a>
-                </div>
-            </td>
+            <td>{{ .Word }}</td>
             <td>{{ .Translation }}</td>
+            <td><a href="https://{{ $.LanguageCode }}.wiktionary.org/wiki/{{ .Word }}" target="_blank">{{ $.LanguageName }} Wiktionary</a> <a style="margin-left: 1.2rem" href="https://en.wiktionary.org/wiki/{{ .Word }}" target="_blank">English Wiktionary</a></td>
         </tr>
         {{ end }}
     </tbody>

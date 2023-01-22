@@ -46,6 +46,13 @@ Run:
 go run converter.go languageId languageName
 ```
 
+## Deployment
+
+```bash
+cd dist
+netlify deploy
+```
+
 ## References
 
 Thanks to the work of [wordfreq](https://github.com/rspeer/wordfreq)!
