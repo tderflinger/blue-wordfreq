@@ -38,7 +38,7 @@ Where languageId is one of the following:
 ## Converter
 
 Converter is a Go application that converts the JSON wordlist into
-HTML.
+HTML. The JSON wordlists are located in the `word-lists` directory.
 
 Run:
 
