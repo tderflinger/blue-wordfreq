@@ -1,7 +1,7 @@
 # blue-wordfreq
 
-Word frequency list for Czech, Greek, Mandarin, Romanian and Swedish with English translations.
-Ideal for second language acquisition and language learning.
+Word frequency list for Czech, Greek, French, Spanish, Mandarin, Romanian and Swedish with English translations.
+Ideal for second language acquisition and language learning. The lists contain the 1000 most common words in each language.
 
 Based on [wordfreq](https://github.com/rspeer/wordfreq), translated using [DeepL](https://www.deepl.com/translator).
 
