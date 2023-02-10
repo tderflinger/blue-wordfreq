@@ -45,6 +45,7 @@ HTML. The JSON wordlists are located in the `word-lists` directory.
 Run:
 
 ```bash
+cd converter
 go run converter.go languageId languageName
 ```
 
