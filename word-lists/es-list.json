@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "de",
+        "en-us": "from"
+    },
+    {
+        "word": "la",
+        "en-us": "the"
+    },
+    {
+        "word": "que",
+        "en-us": "that"
+    },
+    {
+        "word": "el",
+        "en-us": "the"
+    },
+    {
+        "word": "en",
+        "en-us": "at"
+    },
+    {
+        "word": "y",
+        "en-us": "y"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "los",
+        "en-us": "the"
+    },
+    {
+        "word": "no",
+        "en-us": "no"
+    },
+    {
+        "word": "un",
+        "en-us": "a"
+    },
+    {
+        "word": "se",
+        "en-us": "to"
+    },
+    {
+        "word": "por",
+        "en-us": "by"
+    },
+    {
+        "word": "es",
+        "en-us": "is"
+    },
+    {
+        "word": "del",
+        "en-us": "from"
+    },
+    {
+        "word": "las",
+        "en-us": "the"
+    },
+    {
+        "word": "con",
+        "en-us": "with"
+    },
+    {
+        "word": "una",
+        "en-us": "a"
+    },
+    {
+        "word": "para",
+        "en-us": "for"
+    },
+    {
+        "word": "lo",
+        "en-us": "lo"
+    },
+    {
+        "word": "su",
+        "en-us": "your"
+    },
+    {
+        "word": "al",
+        "en-us": "at"
+    },
+    {
+        "word": "como",
+        "en-us": "like"
+    },
+    {
+        "word": "me",
+        "en-us": "me"
+    },
+    {
+        "word": "m\u00e1s",
+        "en-us": "more"
+    },
+    {
+        "word": "si",
+        "en-us": "yes"
+    },
+    {
+        "word": "pero",
+        "en-us": "but"
+    },
+    {
+        "word": "te",
+        "en-us": "you"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "mi",
+        "en-us": "my"
+    },
+    {
+        "word": "le",
+        "en-us": "le"
+    },
+    {
+        "word": "este",
+        "en-us": "this"
+    },
+    {
+        "word": "sus",
+        "en-us": "your"
+    },
+    {
+        "word": "esta",
+        "en-us": "this"
+    },
+    {
+        "word": "todo",
+        "en-us": "all"
+    },
+    {
+        "word": "ya",
+        "en-us": "now"
+    },
+    {
+        "word": "ha",
+        "en-us": "has"
+    },
+    {
+        "word": "cuando",
+        "en-us": "when"
+    },
+    {
+        "word": "yo",
+        "en-us": "i"
+    },
+    {
+        "word": "ser",
+        "en-us": "be"
+    },
+    {
+        "word": "son",
+        "en-us": "are"
+    },
+    {
+        "word": "sin",
+        "en-us": "without"
+    },
+    {
+        "word": "hay",
+        "en-us": "there is"
+    },
+    {
+        "word": "est\u00e1",
+        "en-us": "is"
+    },
+    {
+        "word": "fue",
+        "en-us": "was"
+    },
+    {
+        "word": "tu",
+        "en-us": "your"
+    },
+    {
+        "word": "muy",
+        "en-us": "very"
+    },
+    {
+        "word": "sobre",
+        "en-us": "about"
+    },
+    {
+        "word": "tambi\u00e9n",
+        "en-us": "also"
+    },
+    {
+        "word": "todos",
+        "en-us": "all"
+    },
+    {
+        "word": "eso",
+        "en-us": "that"
+    },
+    {
+        "word": "tiene",
+        "en-us": "has"
+    },
+    {
+        "word": "nos",
+        "en-us": "us"
+    },
+    {
+        "word": "porque",
+        "en-us": "because"
+    },
+    {
+        "word": "qu\u00e9",
+        "en-us": "what"
+    },
+    {
+        "word": "as\u00ed",
+        "en-us": "so"
+    },
+    {
+        "word": "a\u00f1os",
+        "en-us": "years"
+    },
+    {
+        "word": "dos",
+        "en-us": "two"
+    },
+    {
+        "word": "bien",
+        "en-us": "well"
+    },
+    {
+        "word": "entre",
+        "en-us": "on"
+    },
+    {
+        "word": "puede",
+        "en-us": "you can"
+    },
+    {
+        "word": "desde",
+        "en-us": "from"
+    },
+    {
+        "word": "hasta",
+        "en-us": "to"
+    },
+    {
+        "word": "hacer",
+        "en-us": "make"
+    },
+    {
+        "word": "ahora",
+        "en-us": "now"
+    },
+    {
+        "word": "era",
+        "en-us": "was"
+    },
+    {
+        "word": "esto",
+        "en-us": "this"
+    },
+    {
+        "word": "vez",
+        "en-us": "this time"
+    },
+    {
+        "word": "hace",
+        "en-us": "ago"
+    },
+    {
+        "word": "nada",
+        "en-us": "nothing"
+    },
+    {
+        "word": "ni",
+        "en-us": "ni"
+    },
+    {
+        "word": "donde",
+        "en-us": "where"
+    },
+    {
+        "word": "parte",
+        "en-us": "part"
+    },
+    {
+        "word": "solo",
+        "en-us": "only"
+    },
+    {
+        "word": "algo",
+        "en-us": "something"
+    },
+    {
+        "word": "tiempo",
+        "en-us": "time"
+    },
+    {
+        "word": "d\u00eda",
+        "en-us": "day"
+    },
+    {
+        "word": "uno",
+        "en-us": "one"
+    },
+    {
+        "word": "mejor",
+        "en-us": "best"
+    },
+    {
+        "word": "mucho",
+        "en-us": "much"
+    },
+    {
+        "word": "tan",
+        "en-us": "so"
+    },
+    {
+        "word": "ver",
+        "en-us": "see"
+    },
+    {
+        "word": "vida",
+        "en-us": "life"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "ese",
+        "en-us": "that"
+    },
+    {
+        "word": "han",
+        "en-us": "have"
+    },
+    {
+        "word": "mismo",
+        "en-us": "same"
+    },
+    {
+        "word": "siempre",
+        "en-us": "always"
+    },
+    {
+        "word": "tengo",
+        "en-us": "i have"
+    },
+    {
+        "word": "cada",
+        "en-us": "each"
+    },
+    {
+        "word": "despu\u00e9s",
+        "en-us": "then"
+    },
+    {
+        "word": "est\u00e1n",
+        "en-us": "are"
+    },
+    {
+        "word": "gente",
+        "en-us": "people"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "esa",
+        "en-us": "that"
+    },
+    {
+        "word": "estado",
+        "en-us": "state"
+    },
+    {
+        "word": "estoy",
+        "en-us": "i am"
+    },
+    {
+        "word": "mundo",
+        "en-us": "world"
+    },
+    {
+        "word": "va",
+        "en-us": "go to"
+    },
+    {
+        "word": "2",
+        "en-us": ""
+    },
+    {
+        "word": "a\u00f1o",
+        "en-us": "year"
+    },
+    {
+        "word": "les",
+        "en-us": "les"
+    },
+    {
+        "word": "mas",
+        "en-us": "more"
+    },
+    {
+        "word": "otro",
+        "en-us": "another"
+    },
+    {
+        "word": "otros",
+        "en-us": "others"
+    },
+    {
+        "word": "gracias",
+        "en-us": "thank you"
+    },
+    {
+        "word": "otra",
+        "en-us": "another"
+    },
+    {
+        "word": "cosas",
+        "en-us": "things"
+    },
+    {
+        "word": "gran",
+        "en-us": "great"
+    },
+    {
+        "word": "menos",
+        "en-us": "less"
+    },
+    {
+        "word": "nunca",
+        "en-us": "never"
+    },
+    {
+        "word": "personas",
+        "en-us": "people"
+    },
+    {
+        "word": "tanto",
+        "en-us": "both"
+    },
+    {
+        "word": "3",
+        "en-us": ""
+    },
+    {
+        "word": "antes",
+        "en-us": "formerly"
+    },
+    {
+        "word": "poco",
+        "en-us": "little"
+    },
+    {
+        "word": "sea",
+        "en-us": "be"
+    },
+    {
+        "word": "hab\u00eda",
+        "en-us": "there was"
+    },
+    {
+        "word": "tener",
+        "en-us": "have"
+    },
+    {
+        "word": "trabajo",
+        "en-us": "work"
+    },
+    {
+        "word": "durante",
+        "en-us": "during"
+    },
+    {
+        "word": "ellos",
+        "en-us": "they"
+    },
+    {
+        "word": "lugar",
+        "en-us": "site"
+    },
+    {
+        "word": "creo",
+        "en-us": "i believe"
+    },
+    {
+        "word": "c\u00f3mo",
+        "en-us": "how"
+    },
+    {
+        "word": "hecho",
+        "en-us": "fact"
+    },
+    {
+        "word": "quiero",
+        "en-us": "i want"
+    },
+    {
+        "word": "s\u00f3lo",
+        "en-us": "only"
+    },
+    {
+        "word": "aunque",
+        "en-us": "although"
+    },
+    {
+        "word": "contra",
+        "en-us": "against"
+    },
+    {
+        "word": "cuenta",
+        "en-us": "account"
+    },
+    {
+        "word": "decir",
+        "en-us": "say"
+    },
+    {
+        "word": "gobierno",
+        "en-us": "government"
+    },
+    {
+        "word": "pa\u00eds",
+        "en-us": "country"
+    },
+    {
+        "word": "soy",
+        "en-us": "i am"
+    },
+    {
+        "word": "todas",
+        "en-us": "all"
+    },
+    {
+        "word": "casa",
+        "en-us": "house"
+    },
+    {
+        "word": "estos",
+        "en-us": "these"
+    },
+    {
+        "word": "forma",
+        "en-us": "form"
+    },
+    {
+        "word": "he",
+        "en-us": "he"
+    },
+    {
+        "word": "nuevo",
+        "en-us": "new"
+    },
+    {
+        "word": "sido",
+        "en-us": "has been"
+    },
+    {
+        "word": "\u00e9l",
+        "en-us": "he"
+    },
+    {
+        "word": "aqu\u00ed",
+        "en-us": "here"
+    },
+    {
+        "word": "ella",
+        "en-us": "she"
+    },
+    {
+        "word": "estas",
+        "en-us": "these"
+    },
+    {
+        "word": "s\u00ed",
+        "en-us": "yes"
+    },
+    {
+        "word": "estaba",
+        "en-us": "was"
+    },
+    {
+        "word": "estar",
+        "en-us": "be"
+    },
+    {
+        "word": "hoy",
+        "en-us": "today"
+    },
+    {
+        "word": "tienen",
+        "en-us": "have"
+    },
+    {
+        "word": "alguien",
+        "en-us": "someone"
+    },
+    {
+        "word": "dice",
+        "en-us": "says"
+    },
+    {
+        "word": "quien",
+        "en-us": "who"
+    },
+    {
+        "word": "toda",
+        "en-us": "all"
+    },
+    {
+        "word": "tres",
+        "en-us": "three"
+    },
+    {
+        "word": "voy",
+        "en-us": "go to"
+    },
+    {
+        "word": "caso",
+        "en-us": "case"
+    },
+    {
+        "word": "d\u00edas",
+        "en-us": "days"
+    },
+    {
+        "word": "momento",
+        "en-us": "moment"
+    },
+    {
+        "word": "bueno",
+        "en-us": "well"
+    },
+    {
+        "word": "ciudad",
+        "en-us": "city"
+    },
+    {
+        "word": "mis",
+        "en-us": "my"
+    },
+    {
+        "word": "nuestro",
+        "en-us": "our"
+    },
+    {
+        "word": "luego",
+        "en-us": "then"
+    },
+    {
+        "word": "nacional",
+        "en-us": "national"
+    },
+    {
+        "word": "parece",
+        "en-us": "it looks like"
+    },
+    {
+        "word": "nuestra",
+        "en-us": "our"
+    },
+    {
+        "word": "poder",
+        "en-us": "power"
+    },
+    {
+        "word": "pueden",
+        "en-us": "can"
+    },
+    {
+        "word": "pues",
+        "en-us": "for"
+    },
+    {
+        "word": "verdad",
+        "en-us": "truth"
+    },
+    {
+        "word": "historia",
+        "en-us": "history"
+    },
+    {
+        "word": "mientras",
+        "en-us": "while"
+    },
+    {
+        "word": "nadie",
+        "en-us": "nobody"
+    },
+    {
+        "word": "nueva",
+        "en-us": "new"
+    },
+    {
+        "word": "otras",
+        "en-us": "other"
+    },
+    {
+        "word": "primera",
+        "en-us": "first"
+    },
+    {
+        "word": "veces",
+        "en-us": "times"
+    },
+    {
+        "word": "4",
+        "en-us": ""
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "muchos",
+        "en-us": "many"
+    },
+    {
+        "word": "cual",
+        "en-us": "which"
+    },
+    {
+        "word": "debe",
+        "en-us": "should"
+    },
+    {
+        "word": "dijo",
+        "en-us": "said"
+    },
+    {
+        "word": "entonces",
+        "en-us": "then"
+    },
+    {
+        "word": "ir",
+        "en-us": "go to"
+    },
+    {
+        "word": "tipo",
+        "en-us": "type"
+    },
+    {
+        "word": "algunos",
+        "en-us": "some"
+    },
+    {
+        "word": "general",
+        "en-us": "general"
+    },
+    {
+        "word": "mayor",
+        "en-us": "more"
+    },
+    {
+        "word": "tal",
+        "en-us": "such as"
+    },
+    {
+        "word": "adem\u00e1s",
+        "en-us": "in addition"
+    },
+    {
+        "word": "mal",
+        "en-us": "bad"
+    },
+    {
+        "word": "muchas",
+        "en-us": "many"
+    },
+    {
+        "word": "primer",
+        "en-us": "first"
+    },
+    {
+        "word": "seg\u00fan",
+        "en-us": "according to"
+    },
+    {
+        "word": "acuerdo",
+        "en-us": "agreement"
+    },
+    {
+        "word": "cualquier",
+        "en-us": "any"
+    },
+    {
+        "word": "dios",
+        "en-us": "god"
+    },
+    {
+        "word": "fueron",
+        "en-us": "were"
+    },
+    {
+        "word": "manera",
+        "en-us": "way"
+    },
+    {
+        "word": "nombre",
+        "en-us": "name"
+    },
+    {
+        "word": "unos",
+        "en-us": "about"
+    },
+    {
+        "word": "ley",
+        "en-us": "law"
+    },
+    {
+        "word": "medio",
+        "en-us": "medium"
+    },
+    {
+        "word": "partido",
+        "en-us": "party"
+    },
+    {
+        "word": "bajo",
+        "en-us": "under"
+    },
+    {
+        "word": "fuera",
+        "en-us": "outside"
+    },
+    {
+        "word": "hacia",
+        "en-us": "to"
+    },
+    {
+        "word": "sino",
+        "en-us": "but"
+    },
+    {
+        "word": "da",
+        "en-us": "da"
+    },
+    {
+        "word": "grupo",
+        "en-us": "group"
+    },
+    {
+        "word": "haber",
+        "en-us": "see"
+    },
+    {
+        "word": "hombre",
+        "en-us": "man"
+    },
+    {
+        "word": "puedo",
+        "en-us": "i can"
+    },
+    {
+        "word": "buena",
+        "en-us": "good"
+    },
+    {
+        "word": "mujer",
+        "en-us": "woman"
+    },
+    {
+        "word": "persona",
+        "en-us": "person"
+    },
+    {
+        "word": "ser\u00e1",
+        "en-us": "will be"
+    },
+    {
+        "word": "sistema",
+        "en-us": "system"
+    },
+    {
+        "word": "casi",
+        "en-us": "almost"
+    },
+    {
+        "word": "fin",
+        "en-us": "end"
+    },
+    {
+        "word": "hizo",
+        "en-us": "made"
+    },
+    {
+        "word": "noche",
+        "en-us": "night"
+    },
+    {
+        "word": "nosotros",
+        "en-us": "we"
+    },
+    {
+        "word": "pasado",
+        "en-us": "past"
+    },
+    {
+        "word": "presidente",
+        "en-us": "president"
+    },
+    {
+        "word": "quiere",
+        "en-us": "wants"
+    },
+    {
+        "word": "tenemos",
+        "en-us": "we have"
+    },
+    {
+        "word": "tus",
+        "en-us": "your"
+    },
+    {
+        "word": "eres",
+        "en-us": "you are"
+    },
+    {
+        "word": "m\u00e9xico",
+        "en-us": "mexico"
+    },
+    {
+        "word": "ah\u00ed",
+        "en-us": "there"
+    },
+    {
+        "word": "cosa",
+        "en-us": "thing"
+    },
+    {
+        "word": "dentro",
+        "en-us": "inside"
+    },
+    {
+        "word": "espa\u00f1a",
+        "en-us": "spain"
+    },
+    {
+        "word": "estamos",
+        "en-us": "we are"
+    },
+    {
+        "word": "familia",
+        "en-us": "family"
+    },
+    {
+        "word": "lado",
+        "en-us": "side"
+    },
+    {
+        "word": "a\u00fan",
+        "en-us": "still"
+    },
+    {
+        "word": "buen",
+        "en-us": "good"
+    },
+    {
+        "word": "podemos",
+        "en-us": "we can"
+    },
+    {
+        "word": "misma",
+        "en-us": "same"
+    },
+    {
+        "word": "pueblo",
+        "en-us": "village"
+    },
+    {
+        "word": "ten\u00eda",
+        "en-us": "had"
+    },
+    {
+        "word": "esos",
+        "en-us": "those"
+    },
+    {
+        "word": "final",
+        "en-us": "end"
+    },
+    {
+        "word": "mujeres",
+        "en-us": "women"
+    },
+    {
+        "word": "pol\u00edtica",
+        "en-us": "policy"
+    },
+    {
+        "word": "problema",
+        "en-us": "problem"
+    },
+    {
+        "word": "punto",
+        "en-us": "point"
+    },
+    {
+        "word": "6",
+        "en-us": ""
+    },
+    {
+        "word": "agua",
+        "en-us": "water"
+    },
+    {
+        "word": "alguna",
+        "en-us": "any"
+    },
+    {
+        "word": "equipo",
+        "en-us": "team"
+    },
+    {
+        "word": "guerra",
+        "en-us": "war"
+    },
+    {
+        "word": "saber",
+        "en-us": "know"
+    },
+    {
+        "word": "s\u00e9",
+        "en-us": "be"
+    },
+    {
+        "word": "vamos",
+        "en-us": "go to"
+    },
+    {
+        "word": "van",
+        "en-us": "van"
+    },
+    {
+        "word": "ante",
+        "en-us": "to"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "dar",
+        "en-us": "give"
+    },
+    {
+        "word": "embargo",
+        "en-us": "embargo"
+    },
+    {
+        "word": "favor",
+        "en-us": "please"
+    },
+    {
+        "word": "gusta",
+        "en-us": "visit"
+    },
+    {
+        "word": "importante",
+        "en-us": "important"
+    },
+    {
+        "word": "informaci\u00f3n",
+        "en-us": "information"
+    },
+    {
+        "word": "ma\u00f1ana",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "pasa",
+        "en-us": "go to"
+    },
+    {
+        "word": "semana",
+        "en-us": "week"
+    },
+    {
+        "word": "tienes",
+        "en-us": "you have"
+    },
+    {
+        "word": "claro",
+        "en-us": "of course"
+    },
+    {
+        "word": "dinero",
+        "en-us": "money"
+    },
+    {
+        "word": "san",
+        "en-us": "saint"
+    },
+    {
+        "word": "social",
+        "en-us": "social"
+    },
+    {
+        "word": "ejemplo",
+        "en-us": "example"
+    },
+    {
+        "word": "estados",
+        "en-us": "states"
+    },
+    {
+        "word": "horas",
+        "en-us": "hours"
+    },
+    {
+        "word": "igual",
+        "en-us": "same"
+    },
+    {
+        "word": "millones",
+        "en-us": "million"
+    },
+    {
+        "word": "n\u00famero",
+        "en-us": "number"
+    },
+    {
+        "word": "ti",
+        "en-us": "ti"
+    },
+    {
+        "word": "algunas",
+        "en-us": "some"
+    },
+    {
+        "word": "hablar",
+        "en-us": "speak"
+    },
+    {
+        "word": "hora",
+        "en-us": "time"
+    },
+    {
+        "word": "madre",
+        "en-us": "mother"
+    },
+    {
+        "word": "se\u00f1or",
+        "en-us": "mr."
+    },
+    {
+        "word": "siendo",
+        "en-us": "being"
+    },
+    {
+        "word": "8",
+        "en-us": ""
+    },
+    {
+        "word": "centro",
+        "en-us": "center"
+    },
+    {
+        "word": "derecho",
+        "en-us": "right"
+    },
+    {
+        "word": "falta",
+        "en-us": "missing"
+    },
+    {
+        "word": "grandes",
+        "en-us": "large"
+    },
+    {
+        "word": "haciendo",
+        "en-us": "by doing"
+    },
+    {
+        "word": "hombres",
+        "en-us": "men"
+    },
+    {
+        "word": "nuestros",
+        "en-us": "our"
+    },
+    {
+        "word": "puedes",
+        "en-us": "you can"
+    },
+    {
+        "word": "7",
+        "en-us": ""
+    },
+    {
+        "word": "amigos",
+        "en-us": "friends"
+    },
+    {
+        "word": "buenos",
+        "en-us": "good"
+    },
+    {
+        "word": "cambio",
+        "en-us": "change"
+    },
+    {
+        "word": "idea",
+        "en-us": "idea"
+    },
+    {
+        "word": "mierda",
+        "en-us": "shit"
+    },
+    {
+        "word": "muerte",
+        "en-us": "death"
+    },
+    {
+        "word": "problemas",
+        "en-us": "problems"
+    },
+    {
+        "word": "tarde",
+        "en-us": "afternoon"
+    },
+    {
+        "word": "tras",
+        "en-us": "after"
+    },
+    {
+        "word": "trav\u00e9s",
+        "en-us": "through"
+    },
+    {
+        "word": "t\u00fa",
+        "en-us": "you"
+    },
+    {
+        "word": "meses",
+        "en-us": "months"
+    },
+    {
+        "word": "podr\u00eda",
+        "en-us": "could"
+    },
+    {
+        "word": "realidad",
+        "en-us": "reality"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "alg\u00fan",
+        "en-us": "some"
+    },
+    {
+        "word": "amor",
+        "en-us": "love"
+    },
+    {
+        "word": "dicho",
+        "en-us": "said"
+    },
+    {
+        "word": "eran",
+        "en-us": "were"
+    },
+    {
+        "word": "frente",
+        "en-us": "front"
+    },
+    {
+        "word": "incluso",
+        "en-us": "including"
+    },
+    {
+        "word": "primero",
+        "en-us": "first"
+    },
+    {
+        "word": "real",
+        "en-us": "real"
+    },
+    {
+        "word": "vas",
+        "en-us": "go to"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "cuatro",
+        "en-us": "four"
+    },
+    {
+        "word": "desarrollo",
+        "en-us": "development"
+    },
+    {
+        "word": "hijo",
+        "en-us": "son"
+    },
+    {
+        "word": "sociedad",
+        "en-us": "company"
+    },
+    {
+        "word": "tema",
+        "en-us": "subject"
+    },
+    {
+        "word": "varios",
+        "en-us": "various"
+    },
+    {
+        "word": "esas",
+        "en-us": "those"
+    },
+    {
+        "word": "m\u00ed",
+        "en-us": "me"
+    },
+    {
+        "word": "nivel",
+        "en-us": "level"
+    },
+    {
+        "word": "ni\u00f1os",
+        "en-us": "children"
+    },
+    {
+        "word": "seguro",
+        "en-us": "insurance"
+    },
+    {
+        "word": "ser\u00eda",
+        "en-us": "would be"
+    },
+    {
+        "word": "argentina",
+        "en-us": "argentina"
+    },
+    {
+        "word": "hacen",
+        "en-us": "make"
+    },
+    {
+        "word": "hemos",
+        "en-us": "we have"
+    },
+    {
+        "word": "juego",
+        "en-us": "game"
+    },
+    {
+        "word": "llegar",
+        "en-us": "go to"
+    },
+    {
+        "word": "mano",
+        "en-us": "hand"
+    },
+    {
+        "word": "paso",
+        "en-us": "step"
+    },
+    {
+        "word": "posible",
+        "en-us": "possible"
+    },
+    {
+        "word": "proyecto",
+        "en-us": "project"
+    },
+    {
+        "word": "sigue",
+        "en-us": "go to"
+    },
+    {
+        "word": "somos",
+        "en-us": "we are"
+    },
+    {
+        "word": "unidos",
+        "en-us": "united"
+    },
+    {
+        "word": "uso",
+        "en-us": "use"
+    },
+    {
+        "word": "art\u00edculo",
+        "en-us": "article"
+    },
+    {
+        "word": "cerca",
+        "en-us": "near"
+    },
+    {
+        "word": "cierto",
+        "en-us": "true"
+    },
+    {
+        "word": "grande",
+        "en-us": "grande"
+    },
+    {
+        "word": "pa\u00edses",
+        "en-us": "countries"
+    },
+    {
+        "word": "qui\u00e9n",
+        "en-us": "who"
+    },
+    {
+        "word": "raz\u00f3n",
+        "en-us": "reason"
+    },
+    {
+        "word": "sabe",
+        "en-us": "sabe"
+    },
+    {
+        "word": "todav\u00eda",
+        "en-us": "still"
+    },
+    {
+        "word": "amigo",
+        "en-us": "friend"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "madrid",
+        "en-us": "madrid"
+    },
+    {
+        "word": "mayor\u00eda",
+        "en-us": "majority"
+    },
+    {
+        "word": "padre",
+        "en-us": "father"
+    },
+    {
+        "word": "salir",
+        "en-us": "go to"
+    },
+    {
+        "word": "seguridad",
+        "en-us": "security"
+    },
+    {
+        "word": "tierra",
+        "en-us": "land"
+    },
+    {
+        "word": "visto",
+        "en-us": "seen at"
+    },
+    {
+        "word": "\u00fanico",
+        "en-us": "only"
+    },
+    {
+        "word": "cuerpo",
+        "en-us": "body"
+    },
+    {
+        "word": "programa",
+        "en-us": "program"
+    },
+    {
+        "word": "segundo",
+        "en-us": "second"
+    },
+    {
+        "word": "unas",
+        "en-us": "some"
+    },
+    {
+        "word": "universidad",
+        "en-us": "university"
+    },
+    {
+        "word": "\u00faltimo",
+        "en-us": "last"
+    },
+    {
+        "word": "cabeza",
+        "en-us": "head"
+    },
+    {
+        "word": "foto",
+        "en-us": "photo"
+    },
+    {
+        "word": "haya",
+        "en-us": "beech"
+    },
+    {
+        "word": "internacional",
+        "en-us": "international"
+    },
+    {
+        "word": "mil",
+        "en-us": "one thousand"
+    },
+    {
+        "word": "palabras",
+        "en-us": "words"
+    },
+    {
+        "word": "pasar",
+        "en-us": "go to"
+    },
+    {
+        "word": "p\u00fablico",
+        "en-us": "public"
+    },
+    {
+        "word": "seguir",
+        "en-us": "follow"
+    },
+    {
+        "word": "servicio",
+        "en-us": "service"
+    },
+    {
+        "word": "situaci\u00f3n",
+        "en-us": "situation"
+    },
+    {
+        "word": "ayuda",
+        "en-us": "help"
+    },
+    {
+        "word": "juan",
+        "en-us": "juan"
+    },
+    {
+        "word": "libro",
+        "en-us": "book"
+    },
+    {
+        "word": "siguiente",
+        "en-us": "next"
+    },
+    {
+        "word": "veo",
+        "en-us": "see"
+    },
+    {
+        "word": "datos",
+        "en-us": "data"
+    },
+    {
+        "word": "dejar",
+        "en-us": "leave"
+    },
+    {
+        "word": "educaci\u00f3n",
+        "en-us": "education"
+    },
+    {
+        "word": "proceso",
+        "en-us": "process"
+    },
+    {
+        "word": "sentido",
+        "en-us": "address"
+    },
+    {
+        "word": "cinco",
+        "en-us": "five"
+    },
+    {
+        "word": "clase",
+        "en-us": "class"
+    },
+    {
+        "word": "cuanto",
+        "en-us": "how much"
+    },
+    {
+        "word": "derechos",
+        "en-us": "rights"
+    },
+    {
+        "word": "ello",
+        "en-us": "it"
+    },
+    {
+        "word": "est\u00e1s",
+        "en-us": "you are at"
+    },
+    {
+        "word": "hijos",
+        "en-us": "children"
+    },
+    {
+        "word": "mes",
+        "en-us": "month"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "usted",
+        "en-us": "you"
+    },
+    {
+        "word": "9",
+        "en-us": ""
+    },
+    {
+        "word": "largo",
+        "en-us": "length"
+    },
+    {
+        "word": "ning\u00fan",
+        "en-us": "no"
+    },
+    {
+        "word": "orden",
+        "en-us": "order"
+    },
+    {
+        "word": "puesto",
+        "en-us": "booth"
+    },
+    {
+        "word": "quieres",
+        "en-us": "you want"
+    },
+    {
+        "word": "realmente",
+        "en-us": "really"
+    },
+    {
+        "word": "alto",
+        "en-us": "high"
+    },
+    {
+        "word": "dem\u00e1s",
+        "en-us": "other"
+    },
+    {
+        "word": "dicen",
+        "en-us": "they say"
+    },
+    {
+        "word": "diferentes",
+        "en-us": "different"
+    },
+    {
+        "word": "espa\u00f1ol",
+        "en-us": "spanish"
+    },
+    {
+        "word": "junto",
+        "en-us": "together"
+    },
+    {
+        "word": "lista",
+        "en-us": "list"
+    },
+    {
+        "word": "medios",
+        "en-us": "media"
+    },
+    {
+        "word": "ninguna",
+        "en-us": "none"
+    },
+    {
+        "word": "personal",
+        "en-us": "staff"
+    },
+    {
+        "word": "total",
+        "en-us": "total"
+    },
+    {
+        "word": "trata",
+        "en-us": "trata"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "viene",
+        "en-us": "comes"
+    },
+    {
+        "word": "web",
+        "en-us": "web"
+    },
+    {
+        "word": "base",
+        "en-us": "base"
+    },
+    {
+        "word": "camino",
+        "en-us": "way"
+    },
+    {
+        "word": "digo",
+        "en-us": "i say"
+    },
+    {
+        "word": "empresa",
+        "en-us": "company"
+    },
+    {
+        "word": "especial",
+        "en-us": "special"
+    },
+    {
+        "word": "hola",
+        "en-us": "hello"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "paz",
+        "en-us": "peace"
+    },
+    {
+        "word": "polic\u00eda",
+        "en-us": "police"
+    },
+    {
+        "word": "queda",
+        "en-us": "is"
+    },
+    {
+        "word": "salud",
+        "en-us": "health"
+    },
+    {
+        "word": "sitio",
+        "en-us": "site"
+    },
+    {
+        "word": "tomar",
+        "en-us": "take"
+    },
+    {
+        "word": "tuvo",
+        "en-us": "had"
+    },
+    {
+        "word": "zona",
+        "en-us": "zone"
+    },
+    {
+        "word": "calle",
+        "en-us": "street"
+    },
+    {
+        "word": "cara",
+        "en-us": "face"
+    },
+    {
+        "word": "l\u00ednea",
+        "en-us": "line"
+    },
+    {
+        "word": "mundial",
+        "en-us": "world"
+    },
+    {
+        "word": "obra",
+        "en-us": "work"
+    },
+    {
+        "word": "ojos",
+        "en-us": "eyes"
+    },
+    {
+        "word": "os",
+        "en-us": "os"
+    },
+    {
+        "word": "pensar",
+        "en-us": "think"
+    },
+    {
+        "word": "servicios",
+        "en-us": "services"
+    },
+    {
+        "word": "sociales",
+        "en-us": "social"
+    },
+    {
+        "word": "all\u00ed",
+        "en-us": "there"
+    },
+    {
+        "word": "atenci\u00f3n",
+        "en-us": "attention"
+    },
+    {
+        "word": "deber\u00eda",
+        "en-us": "should"
+    },
+    {
+        "word": "escuela",
+        "en-us": "school"
+    },
+    {
+        "word": "julio",
+        "en-us": "july"
+    },
+    {
+        "word": "pueda",
+        "en-us": "can"
+    },
+    {
+        "word": "quieren",
+        "en-us": "want"
+    },
+    {
+        "word": "respecto",
+        "en-us": "in this regard"
+    },
+    {
+        "word": "segunda",
+        "en-us": "second"
+    },
+    {
+        "word": "siento",
+        "en-us": "sorry"
+    },
+    {
+        "word": "ve",
+        "en-us": "go to"
+    },
+    {
+        "word": "vivir",
+        "en-us": "live"
+    },
+    {
+        "word": "capital",
+        "en-us": "capital"
+    },
+    {
+        "word": "casos",
+        "en-us": "cases"
+    },
+    {
+        "word": "etc",
+        "en-us": "etc"
+    },
+    {
+        "word": "libre",
+        "en-us": "free"
+    },
+    {
+        "word": "luz",
+        "en-us": "light"
+    },
+    {
+        "word": "mejores",
+        "en-us": "best"
+    },
+    {
+        "word": "poblaci\u00f3n",
+        "en-us": "population"
+    },
+    {
+        "word": "quienes",
+        "en-us": "who"
+    },
+    {
+        "word": "relaci\u00f3n",
+        "en-us": "relationship"
+    },
+    {
+        "word": "sabes",
+        "en-us": "you know"
+    },
+    {
+        "word": "suerte",
+        "en-us": "good luck"
+    },
+    {
+        "word": "varias",
+        "en-us": "several"
+    },
+    {
+        "word": "bastante",
+        "en-us": "quite"
+    },
+    {
+        "word": "cultura",
+        "en-us": "culture"
+    },
+    {
+        "word": "debido",
+        "en-us": "due to"
+    },
+    {
+        "word": "dif\u00edcil",
+        "en-us": "difficult"
+    },
+    {
+        "word": "dio",
+        "en-us": "dio"
+    },
+    {
+        "word": "estaban",
+        "en-us": "were"
+    },
+    {
+        "word": "fotos",
+        "en-us": "photos"
+    },
+    {
+        "word": "fuerte",
+        "en-us": "strong"
+    },
+    {
+        "word": "f\u00e1cil",
+        "en-us": "easy"
+    },
+    {
+        "word": "habla",
+        "en-us": "speaks"
+    },
+    {
+        "word": "miedo",
+        "en-us": "fear"
+    },
+    {
+        "word": "minutos",
+        "en-us": "minutes"
+    },
+    {
+        "word": "m\u00fasica",
+        "en-us": "music"
+    },
+    {
+        "word": "poner",
+        "en-us": "put"
+    },
+    {
+        "word": "pregunta",
+        "en-us": "ask"
+    },
+    {
+        "word": "rey",
+        "en-us": "king"
+    },
+    {
+        "word": "vos",
+        "en-us": "you"
+    },
+    {
+        "word": "apoyo",
+        "en-us": "support"
+    },
+    {
+        "word": "dado",
+        "en-us": "given"
+    },
+    {
+        "word": "deja",
+        "en-us": "leave"
+    },
+    {
+        "word": "demasiado",
+        "en-us": "too"
+    },
+    {
+        "word": "espero",
+        "en-us": "i look forward to"
+    },
+    {
+        "word": "fuerza",
+        "en-us": "force"
+    },
+    {
+        "word": "iba",
+        "en-us": "iba"
+    },
+    {
+        "word": "jos\u00e9",
+        "en-us": "jose"
+    },
+    {
+        "word": "manos",
+        "en-us": "hands"
+    },
+    {
+        "word": "mayo",
+        "en-us": "may"
+    },
+    {
+        "word": "mucha",
+        "en-us": "much"
+    },
+    {
+        "word": "oficial",
+        "en-us": "officer"
+    },
+    {
+        "word": "propio",
+        "en-us": "own"
+    },
+    {
+        "word": "buenas",
+        "en-us": "good"
+    },
+    {
+        "word": "chile",
+        "en-us": "chile"
+    },
+    {
+        "word": "control",
+        "en-us": "control"
+    },
+    {
+        "word": "deben",
+        "en-us": "should"
+    },
+    {
+        "word": "empresas",
+        "en-us": "companies"
+    },
+    {
+        "word": "encontrar",
+        "en-us": "find"
+    },
+    {
+        "word": "ingl\u00e9s",
+        "en-us": "english"
+    },
+    {
+        "word": "marzo",
+        "en-us": "march"
+    },
+    {
+        "word": "peor",
+        "en-us": "worst"
+    },
+    {
+        "word": "serie",
+        "en-us": "series"
+    },
+    {
+        "word": "sur",
+        "en-us": "south"
+    },
+    {
+        "word": "trabajar",
+        "en-us": "work"
+    },
+    {
+        "word": "\u00faltima",
+        "en-us": "last"
+    },
+    {
+        "word": "asi",
+        "en-us": "so"
+    },
+    {
+        "word": "edad",
+        "en-us": "age"
+    },
+    {
+        "word": "futuro",
+        "en-us": "future"
+    },
+    {
+        "word": "justicia",
+        "en-us": "justice"
+    },
+    {
+        "word": "libertad",
+        "en-us": "freedom"
+    },
+    {
+        "word": "nuestras",
+        "en-us": "our"
+    },
+    {
+        "word": "pesar",
+        "en-us": "weigh"
+    },
+    {
+        "word": "tampoco",
+        "en-us": "also"
+    },
+    {
+        "word": "venezuela",
+        "en-us": "venezuela"
+    },
+    {
+        "word": "all\u00e1",
+        "en-us": "there"
+    },
+    {
+        "word": "cantidad",
+        "en-us": "quantity"
+    },
+    {
+        "word": "coraz\u00f3n",
+        "en-us": "heart"
+    },
+    {
+        "word": "diciembre",
+        "en-us": "december"
+    },
+    {
+        "word": "encuentra",
+        "en-us": "find"
+    },
+    {
+        "word": "existe",
+        "en-us": "there is"
+    },
+    {
+        "word": "imagen",
+        "en-us": "image"
+    },
+    {
+        "word": "importa",
+        "en-us": "it matters"
+    },
+    {
+        "word": "norte",
+        "en-us": "north"
+    },
+    {
+        "word": "octubre",
+        "en-us": "october"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "pol\u00edtico",
+        "en-us": "politician"
+    },
+    {
+        "word": "principal",
+        "en-us": "main"
+    },
+    {
+        "word": "propia",
+        "en-us": "own"
+    },
+    {
+        "word": "vi",
+        "en-us": "vi"
+    },
+    {
+        "word": "vista",
+        "en-us": "see"
+    },
+    {
+        "word": "volver",
+        "en-us": "back to"
+    },
+    {
+        "word": "voz",
+        "en-us": "voice"
+    },
+    {
+        "word": "actual",
+        "en-us": "current"
+    },
+    {
+        "word": "ambos",
+        "en-us": "both"
+    },
+    {
+        "word": "elecciones",
+        "en-us": "elections"
+    },
+    {
+        "word": "estudio",
+        "en-us": "study"
+    },
+    {
+        "word": "grupos",
+        "en-us": "groups"
+    },
+    {
+        "word": "media",
+        "en-us": "half"
+    },
+    {
+        "word": "mira",
+        "en-us": "see"
+    },
+    {
+        "word": "modo",
+        "en-us": "mode"
+    },
+    {
+        "word": "palabra",
+        "en-us": "word"
+    },
+    {
+        "word": "pas\u00f3",
+        "en-us": "passed"
+    },
+    {
+        "word": "sean",
+        "en-us": "be"
+    },
+    {
+        "word": "tenido",
+        "en-us": "had"
+    },
+    {
+        "word": "abril",
+        "en-us": "april"
+    },
+    {
+        "word": "campo",
+        "en-us": "field"
+    },
+    {
+        "word": "hubiera",
+        "en-us": "would have"
+    },
+    {
+        "word": "internet",
+        "en-us": "internet"
+    },
+    {
+        "word": "joven",
+        "en-us": "young"
+    },
+    {
+        "word": "nuevos",
+        "en-us": "new"
+    },
+    {
+        "word": "plan",
+        "en-us": "plan"
+    },
+    {
+        "word": "puntos",
+        "en-us": "points"
+    },
+    {
+        "word": "p\u00fablica",
+        "en-us": "public"
+    },
+    {
+        "word": "regi\u00f3n",
+        "en-us": "region"
+    },
+    {
+        "word": "significa",
+        "en-us": "means"
+    },
+    {
+        "word": "comunidad",
+        "en-us": "community"
+    },
+    {
+        "word": "direcci\u00f3n",
+        "en-us": "address"
+    },
+    {
+        "word": "hab\u00edan",
+        "en-us": "had"
+    },
+    {
+        "word": "has",
+        "en-us": "has"
+    },
+    {
+        "word": "investigaci\u00f3n",
+        "en-us": "research"
+    },
+    {
+        "word": "junio",
+        "en-us": "june"
+    },
+    {
+        "word": "lleva",
+        "en-us": "carries"
+    },
+    {
+        "word": "nuevas",
+        "en-us": "new"
+    },
+    {
+        "word": "partidos",
+        "en-us": "parties"
+    },
+    {
+        "word": "partir",
+        "en-us": "from"
+    },
+    {
+        "word": "pel\u00edcula",
+        "en-us": "film"
+    },
+    {
+        "word": "q",
+        "en-us": "q"
+    },
+    {
+        "word": "rep\u00fablica",
+        "en-us": "republic"
+    },
+    {
+        "word": "resto",
+        "en-us": "rest"
+    },
+    {
+        "word": "vuelta",
+        "en-us": "return"
+    },
+    {
+        "word": "consejo",
+        "en-us": "board"
+    },
+    {
+        "word": "dan",
+        "en-us": "dan"
+    },
+    {
+        "word": "d\u00f3nde",
+        "en-us": "where"
+    },
+    {
+        "word": "hacerlo",
+        "en-us": "make it"
+    },
+    {
+        "word": "llamado",
+        "en-us": "called"
+    },
+    {
+        "word": "mercado",
+        "en-us": "market"
+    },
+    {
+        "word": "movimiento",
+        "en-us": "movement"
+    },
+    {
+        "word": "noviembre",
+        "en-us": "november"
+    },
+    {
+        "word": "papel",
+        "en-us": "paper"
+    },
+    {
+        "word": "precio",
+        "en-us": "price"
+    },
+    {
+        "word": "respuesta",
+        "en-us": "reply"
+    },
+    {
+        "word": "seis",
+        "en-us": "six"
+    },
+    {
+        "word": "simplemente",
+        "en-us": "simply"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "\u00fanica",
+        "en-us": "only"
+    },
+    {
+        "word": "agosto",
+        "en-us": "august"
+    },
+    {
+        "word": "aun",
+        "en-us": "even"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "cargo",
+        "en-us": "charge"
+    },
+    {
+        "word": "comida",
+        "en-us": "food"
+    },
+    {
+        "word": "cuales",
+        "en-us": "which"
+    },
+    {
+        "word": "ellas",
+        "en-us": "they"
+    },
+    {
+        "word": "enero",
+        "en-us": "january"
+    },
+    {
+        "word": "experiencia",
+        "en-us": "experience"
+    },
+    {
+        "word": "jefe",
+        "en-us": "chief"
+    },
+    {
+        "word": "leer",
+        "en-us": "read"
+    },
+    {
+        "word": "llama",
+        "en-us": "flame"
+    },
+    {
+        "word": "llevar",
+        "en-us": "carry"
+    },
+    {
+        "word": "miembros",
+        "en-us": "members"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "padres",
+        "en-us": "parents"
+    },
+    {
+        "word": "pena",
+        "en-us": "penalty"
+    },
+    {
+        "word": "producci\u00f3n",
+        "en-us": "production"
+    },
+    {
+        "word": "siglo",
+        "en-us": "century"
+    },
+    {
+        "word": "ustedes",
+        "en-us": "you"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "cabo",
+        "en-us": "cape"
+    },
+    {
+        "word": "com\u00fan",
+        "en-us": "common"
+    },
+    {
+        "word": "econom\u00eda",
+        "en-us": "economy"
+    },
+    {
+        "word": "entiendo",
+        "en-us": "i understand"
+    },
+    {
+        "word": "espacio",
+        "en-us": "space"
+    },
+    {
+        "word": "febrero",
+        "en-us": "february"
+    },
+    {
+        "word": "hablando",
+        "en-us": "speaking"
+    },
+    {
+        "word": "haga",
+        "en-us": "go to"
+    },
+    {
+        "word": "necesita",
+        "en-us": "you need"
+    },
+    {
+        "word": "opini\u00f3n",
+        "en-us": "opinion"
+    },
+    {
+        "word": "oportunidad",
+        "en-us": "opportunity"
+    },
+    {
+        "word": "organizaci\u00f3n",
+        "en-us": "organization"
+    },
+    {
+        "word": "partes",
+        "en-us": "parts"
+    },
+    {
+        "word": "p\u00e1gina",
+        "en-us": "page"
+    },
+    {
+        "word": "resultados",
+        "en-us": "results"
+    },
+    {
+        "word": "santa",
+        "en-us": "saint"
+    },
+    {
+        "word": "tenga",
+        "en-us": "have"
+    },
+    {
+        "word": "vale",
+        "en-us": "vale"
+    },
+    {
+        "word": "acci\u00f3n",
+        "en-us": "action"
+    },
+    {
+        "word": "arte",
+        "en-us": "art"
+    },
+    {
+        "word": "condiciones",
+        "en-us": "conditions"
+    },
+    {
+        "word": "conocer",
+        "en-us": "visit"
+    },
+    {
+        "word": "estuvo",
+        "en-us": "was"
+    },
+    {
+        "word": "necesito",
+        "en-us": "i need"
+    },
+    {
+        "word": "noticias",
+        "en-us": "news"
+    },
+    {
+        "word": "plaza",
+        "en-us": "square"
+    },
+    {
+        "word": "septiembre",
+        "en-us": "september"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "usar",
+        "en-us": "use"
+    },
+    {
+        "word": "valor",
+        "en-us": "value"
+    },
+    {
+        "word": "vivo",
+        "en-us": "live"
+    },
+    {
+        "word": "calidad",
+        "en-us": "quality"
+    },
+    {
+        "word": "causa",
+        "en-us": "cause"
+    },
+    {
+        "word": "central",
+        "en-us": "central"
+    },
+    {
+        "word": "director",
+        "en-us": "director"
+    },
+    {
+        "word": "duda",
+        "en-us": "question"
+    },
+    {
+        "word": "europa",
+        "en-us": "europe"
+    },
+    {
+        "word": "fecha",
+        "en-us": "date"
+    },
+    {
+        "word": "feliz",
+        "en-us": "happy"
+    },
+    {
+        "word": "iglesia",
+        "en-us": "church"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "necesario",
+        "en-us": "required"
+    },
+    {
+        "word": "obras",
+        "en-us": "works"
+    },
+    {
+        "word": "pol\u00edticos",
+        "en-us": "politicians"
+    },
+    {
+        "word": "pronto",
+        "en-us": "soon"
+    },
+    {
+        "word": "resultado",
+        "en-us": "result"
+    },
+    {
+        "word": "alta",
+        "en-us": "high"
+    },
+    {
+        "word": "cambiar",
+        "en-us": "change"
+    },
+    {
+        "word": "civil",
+        "en-us": "civil"
+    },
+    {
+        "word": "colombia",
+        "en-us": "colombia"
+    },
+    {
+        "word": "hermano",
+        "en-us": "brother"
+    },
+    {
+        "word": "libros",
+        "en-us": "books"
+    },
+    {
+        "word": "local",
+        "en-us": "local"
+    },
+    {
+        "word": "mar",
+        "en-us": "sea"
+    },
+    {
+        "word": "mismos",
+        "en-us": "same"
+    },
+    {
+        "word": "viaje",
+        "en-us": "travel"
+    },
+    {
+        "word": "\u00faltimos",
+        "en-us": "last"
+    },
+    {
+        "word": "acerca",
+        "en-us": "about"
+    },
+    {
+        "word": "ac\u00e1",
+        "en-us": "here"
+    },
+    {
+        "word": "alrededor",
+        "en-us": "around"
+    },
+    {
+        "word": "campa\u00f1a",
+        "en-us": "campaign"
+    },
+    {
+        "word": "carrera",
+        "en-us": "race"
+    },
+    {
+        "word": "ej\u00e9rcito",
+        "en-us": "army"
+    },
+    {
+        "word": "encima",
+        "en-us": "over"
+    },
+    {
+        "word": "estudios",
+        "en-us": "studies"
+    },
+    {
+        "word": "inter\u00e9s",
+        "en-us": "interest"
+    },
+    {
+        "word": "lleg\u00f3",
+        "en-us": "arrived"
+    },
+    {
+        "word": "mensaje",
+        "en-us": "message"
+    },
+    {
+        "word": "negro",
+        "en-us": "black"
+    },
+    {
+        "word": "ni\u00f1o",
+        "en-us": "child"
+    },
+    {
+        "word": "objetivo",
+        "en-us": "target"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "popular",
+        "en-us": "popular"
+    },
+    {
+        "word": "principio",
+        "en-us": "principle"
+    },
+    {
+        "word": "provincia",
+        "en-us": "province"
+    },
+    {
+        "word": "recursos",
+        "en-us": "resources"
+    },
+    {
+        "word": "red",
+        "en-us": "network"
+    },
+    {
+        "word": "r\u00edo",
+        "en-us": "river"
+    },
+    {
+        "word": "ah",
+        "en-us": "ah"
+    },
+    {
+        "word": "aquellos",
+        "en-us": "those"
+    },
+    {
+        "word": "ayer",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "blanco",
+        "en-us": "white"
+    },
+    {
+        "word": "carlos",
+        "en-us": "carlos"
+    },
+    {
+        "word": "comer",
+        "en-us": "eat"
+    },
+    {
+        "word": "compa\u00f1\u00eda",
+        "en-us": "company"
+    },
+    {
+        "word": "diciendo",
+        "en-us": "by saying"
+    },
+    {
+        "word": "especialmente",
+        "en-us": "especially"
+    },
+    {
+        "word": "ganar",
+        "en-us": "win"
+    },
+    {
+        "word": "interior",
+        "en-us": "inside"
+    },
+    {
+        "word": "lucha",
+        "en-us": "fight"
+    },
+    {
+        "word": "mediante",
+        "en-us": "via"
+    },
+    {
+        "word": "nota",
+        "en-us": "note"
+    },
+    {
+        "word": "peque\u00f1o",
+        "en-us": "small"
+    },
+    {
+        "word": "prueba",
+        "en-us": "test"
+    },
+    {
+        "word": "saben",
+        "en-us": "know"
+    },
+    {
+        "word": "sol",
+        "en-us": "sun"
+    },
+    {
+        "word": "twitter",
+        "en-us": "twitter"
+    },
+    {
+        "word": "vaya",
+        "en-us": "go to"
+    },
+    {
+        "word": "anterior",
+        "en-us": "previous"
+    },
+    {
+        "word": "buscar",
+        "en-us": "search"
+    },
+    {
+        "word": "dia",
+        "en-us": "day"
+    },
+    {
+        "word": "fuerzas",
+        "en-us": "forces"
+    },
+    {
+        "word": "justo",
+        "en-us": "just"
+    },
+    {
+        "word": "lugares",
+        "en-us": "sites"
+    },
+    {
+        "word": "medida",
+        "en-us": "measure"
+    },
+    {
+        "word": "pod\u00eda",
+        "en-us": "could"
+    },
+    {
+        "word": "primeros",
+        "en-us": "first"
+    },
+    {
+        "word": "principales",
+        "en-us": "main"
+    },
+    {
+        "word": "temas",
+        "en-us": "topics"
+    },
+    {
+        "word": "ven",
+        "en-us": "come to"
+    },
+    {
+        "word": "\u00e9xito",
+        "en-us": "success"
+    },
+    {
+        "word": "actividades",
+        "en-us": "activities"
+    },
+    {
+        "word": "adelante",
+        "en-us": "go ahead"
+    },
+    {
+        "word": "aire",
+        "en-us": "air"
+    },
+    {
+        "word": "am\u00e9rica",
+        "en-us": "america"
+    },
+    {
+        "word": "arriba",
+        "en-us": "up"
+    },
+    {
+        "word": "autor",
+        "en-us": "author"
+    },
+    {
+        "word": "baja",
+        "en-us": "low"
+    },
+    {
+        "word": "diferencia",
+        "en-us": "difference"
+    },
+    {
+        "word": "dije",
+        "en-us": "i said"
+    },
+    {
+        "word": "entrar",
+        "en-us": "enter"
+    },
+    {
+        "word": "estilo",
+        "en-us": "style"
+    },
+    {
+        "word": "ex",
+        "en-us": "ex"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "juegos",
+        "en-us": "games"
+    },
+    {
+        "word": "lejos",
+        "en-us": "far"
+    },
+    {
+        "word": "luis",
+        "en-us": "luis"
+    },
+    {
+        "word": "mala",
+        "en-us": "bad"
+    },
+    {
+        "word": "mar\u00eda",
+        "en-us": "maria"
+    },
+    {
+        "word": "militar",
+        "en-us": "military"
+    },
+    {
+        "word": "muestra",
+        "en-us": "sample"
+    },
+    {
+        "word": "oro",
+        "en-us": "gold"
+    },
+    {
+        "word": "par",
+        "en-us": "par"
+    },
+    {
+        "word": "plata",
+        "en-us": "silver"
+    },
+    {
+        "word": "puerta",
+        "en-us": "door"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "relaciones",
+        "en-us": "relations"
+    },
+    {
+        "word": "sola",
+        "en-us": "only"
+    },
+    {
+        "word": "ayudar",
+        "en-us": "help"
+    },
+    {
+        "word": "canci\u00f3n",
+        "en-us": "song"
+    },
+    {
+        "word": "color",
+        "en-us": "color"
+    },
+    {
+        "word": "contigo",
+        "en-us": "with you"
+    },
+    {
+        "word": "defensa",
+        "en-us": "defense"
+    },
+    {
+        "word": "d\u00f3lares",
+        "en-us": "dollars"
+    },
+    {
+        "word": "fondo",
+        "en-us": "fund"
+    },
+    {
+        "word": "f\u00fatbol",
+        "en-us": "soccer"
+    },
+    {
+        "word": "hago",
+        "en-us": "i do"
+    },
+    {
+        "word": "hija",
+        "en-us": "daughter"
+    },
+    {
+        "word": "humanos",
+        "en-us": "humans"
+    },
+    {
+        "word": "ideas",
+        "en-us": "ideas"
+    },
+    {
+        "word": "importantes",
+        "en-us": "important"
+    },
+    {
+        "word": "llega",
+        "en-us": "arrives"
+    },
+    {
+        "word": "menor",
+        "en-us": "minor"
+    },
+    {
+        "word": "ministerio",
+        "en-us": "ministry"
+    },
+    {
+        "word": "pocos",
+        "en-us": "few"
+    },
+    {
+        "word": "puerto",
+        "en-us": "port"
+    },
+    {
+        "word": "quer\u00eda",
+        "en-us": "wanted"
+    },
+    {
+        "word": "recuerdo",
+        "en-us": "recollection"
+    },
+    {
+        "word": "semanas",
+        "en-us": "weeks"
+    },
+    {
+        "word": "acceso",
+        "en-us": "access"
+    },
+    {
+        "word": "armas",
+        "en-us": "weapons"
+    },
+    {
+        "word": "busca",
+        "en-us": "search"
+    },
+    {
+        "word": "comunicaci\u00f3n",
+        "en-us": "communication"
+    },
+    {
+        "word": "congreso",
+        "en-us": "congress"
+    },
+    {
+        "word": "espera",
+        "en-us": "wait for"
+    },
+    {
+        "word": "evitar",
+        "en-us": "avoid"
+    },
+    {
+        "word": "finalmente",
+        "en-us": "finally"
+    },
+    {
+        "word": "fuente",
+        "en-us": "source"
+    },
+    {
+        "word": "hubo",
+        "en-us": "there was"
+    },
+    {
+        "word": "jugar",
+        "en-us": "play"
+    },
+    {
+        "word": "juntos",
+        "en-us": "together"
+    },
+    {
+        "word": "ministro",
+        "en-us": "minister"
+    },
+    {
+        "word": "productos",
+        "en-us": "products"
+    },
+    {
+        "word": "puta",
+        "en-us": "whore"
+    },
+    {
+        "word": "siquiera",
+        "en-us": "even"
+    },
+    {
+        "word": "\u00e9poca",
+        "en-us": "time"
+    },
+    {
+        "word": "acciones",
+        "en-us": "shares"
+    },
+    {
+        "word": "actividad",
+        "en-us": "activity"
+    },
+    {
+        "word": "banco",
+        "en-us": "bank"
+    },
+    {
+        "word": "conocido",
+        "en-us": "known"
+    },
+    {
+        "word": "conseguir",
+        "en-us": "get"
+    },
+    {
+        "word": "construcci\u00f3n",
+        "en-us": "construction"
+    },
+    {
+        "word": "corte",
+        "en-us": "cut"
+    },
+    {
+        "word": "cualquiera",
+        "en-us": "anyone"
+    },
+    {
+        "word": "departamento",
+        "en-us": "department"
+    },
+    {
+        "word": "diez",
+        "en-us": "ten"
+    },
+    {
+        "word": "existen",
+        "en-us": "there are"
+    },
+    {
+        "word": "formas",
+        "en-us": "forms"
+    },
+    {
+        "word": "mitad",
+        "en-us": "half"
+    },
+    {
+        "word": "oficina",
+        "en-us": "office"
+    },
+    {
+        "word": "presente",
+        "en-us": "present"
+    },
+    {
+        "word": "queremos",
+        "en-us": "we want"
+    },
+    {
+        "word": "sector",
+        "en-us": "sector"
+    },
+    {
+        "word": "serio",
+        "en-us": "serious"
+    },
+    {
+        "word": "superior",
+        "en-us": "superior"
+    },
+    {
+        "word": "supuesto",
+        "en-us": "alleged"
+    },
+    {
+        "word": "boca",
+        "en-us": "mouth"
+    },
+    {
+        "word": "capacidad",
+        "en-us": "capacity"
+    },
+    {
+        "word": "comprar",
+        "en-us": "buy"
+    },
+    {
+        "word": "crear",
+        "en-us": "create"
+    },
+    {
+        "word": "diferente",
+        "en-us": "different"
+    },
+    {
+        "word": "energ\u00eda",
+        "en-us": "energy"
+    },
+    {
+        "word": "esperar",
+        "en-us": "wait for"
+    },
+    {
+        "word": "haces",
+        "en-us": "you do"
+    },
+    {
+        "word": "hicieron",
+        "en-us": "made"
+    },
+    {
+        "word": "malo",
+        "en-us": "bad"
+    },
+    {
+        "word": "mantener",
+        "en-us": "maintain"
+    },
+    {
+        "word": "modelo",
+        "en-us": "model"
+    },
+    {
+        "word": "natural",
+        "en-us": "natural"
+    },
+    {
+        "word": "necesidad",
+        "en-us": "need"
+    },
+    {
+        "word": "peque\u00f1a",
+        "en-us": "small"
+    },
+    {
+        "word": "preguntas",
+        "en-us": "questions"
+    },
+    {
+        "word": "radio",
+        "en-us": "radio"
+    },
+    {
+        "word": "sale",
+        "en-us": "go to"
+    },
+    {
+        "word": "trabajadores",
+        "en-us": "workers"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "viejo",
+        "en-us": "old"
+    },
+    {
+        "word": "administraci\u00f3n",
+        "en-us": "administration"
+    },
+    {
+        "word": "comisi\u00f3n",
+        "en-us": "commission"
+    },
+    {
+        "word": "conmigo",
+        "en-us": "with me"
+    },
+    {
+        "word": "costa",
+        "en-us": "coast"
+    },
+    {
+        "word": "cree",
+        "en-us": "believes"
+    },
+    {
+        "word": "crisis",
+        "en-us": "crisis"
+    },
+    {
+        "word": "culpa",
+        "en-us": "guilt"
+    },
+    {
+        "word": "c\u00e1mara",
+        "en-us": "camera"
+    },
+    {
+        "word": "diario",
+        "en-us": "diary"
+    },
+    {
+        "word": "domingo",
+        "en-us": "sunday"
+    },
+    {
+        "word": "empezar",
+        "en-us": "start"
+    },
+    {
+        "word": "entender",
+        "en-us": "understand"
+    },
+    {
+        "word": "est\u00e9",
+        "en-us": "is"
+    },
+    {
+        "word": "fuego",
+        "en-us": "fire"
+    },
+    {
+        "word": "fui",
+        "en-us": "i went to"
+    },
+    {
+        "word": "habr\u00e1",
+        "en-us": "there will be"
+    },
+    {
+        "word": "j\u00f3venes",
+        "en-us": "young people"
+    },
+    {
+        "word": "perder",
+        "en-us": "lose"
+    },
+    {
+        "word": "pol\u00edticas",
+        "en-us": "policies"
+    },
+    {
+        "word": "pone",
+        "en-us": "puts"
+    },
+    {
+        "word": "posici\u00f3n",
+        "en-us": "position"
+    },
+    {
+        "word": "suficiente",
+        "en-us": "enough"
+    },
+    {
+        "word": "t\u00edtulo",
+        "en-us": "title"
+    },
+    {
+        "word": "vive",
+        "en-us": "live"
+    },
+    {
+        "word": "\u00b0",
+        "en-us": "\u00b0"
+    },
+    {
+        "word": "actualmente",
+        "en-us": "currently"
+    },
+    {
+        "word": "creer",
+        "en-us": "believe"
+    },
+    {
+        "word": "llamada",
+        "en-us": "call"
+    },
+    {
+        "word": "mam\u00e1",
+        "en-us": "mom"
+    },
+    {
+        "word": "participaci\u00f3n",
+        "en-us": "participation"
+    },
+    {
+        "word": "sangre",
+        "en-us": "blood"
+    },
+    {
+        "word": "toma",
+        "en-us": "take"
+    },
+    {
+        "word": "violencia",
+        "en-us": "violence"
+    },
+    {
+        "word": "auto",
+        "en-us": "auto"
+    },
+    {
+        "word": "brasil",
+        "en-us": "brazil"
+    },
+    {
+        "word": "carta",
+        "en-us": "letter"
+    },
+    {
+        "word": "china",
+        "en-us": "china"
+    },
+    {
+        "word": "ciudadanos",
+        "en-us": "citizens"
+    },
+    {
+        "word": "cu\u00e1l",
+        "en-us": "which"
+    },
+    {
+        "word": "facebook",
+        "en-us": "facebook"
+    },
+    {
+        "word": "leyes",
+        "en-us": "laws"
+    },
+    {
+        "word": "principios",
+        "en-us": "principles"
+    },
+    {
+        "word": "probablemente",
+        "en-us": "probably"
+    },
+    {
+        "word": "r\u00e1pido",
+        "en-us": "fast"
+    },
+    {
+        "word": "solamente",
+        "en-us": "only"
+    },
+    {
+        "word": "\u00e1rea",
+        "en-us": "area"
+    },
+    {
+        "word": "aires",
+        "en-us": "aires"
+    },
+    {
+        "word": "banda",
+        "en-us": "band"
+    },
+    {
+        "word": "ciudades",
+        "en-us": "cities"
+    },
+    {
+        "word": "clases",
+        "en-us": "classes"
+    },
+    {
+        "word": "colegio",
+        "en-us": "school"
+    },
+    {
+        "word": "contenido",
+        "en-us": "content"
+    },
+    {
+        "word": "decisi\u00f3n",
+        "en-us": "decision"
+    },
+    {
+        "word": "encuentro",
+        "en-us": "meeting"
+    },
+    {
+        "word": "entrada",
+        "en-us": "entry"
+    },
+    {
+        "word": "fiesta",
+        "en-us": "party"
+    },
+    {
+        "word": "francia",
+        "en-us": "france"
+    },
+    {
+        "word": "francisco",
+        "en-us": "francisco"
+    },
+    {
+        "word": "imposible",
+        "en-us": "impossible"
+    },
+    {
+        "word": "medidas",
+        "en-us": "measures"
+    },
+    {
+        "word": "pagar",
+        "en-us": "pay"
+    },
+    {
+        "word": "pedro",
+        "en-us": "pedro"
+    },
+    {
+        "word": "permite",
+        "en-us": "allows"
+    },
+    {
+        "word": "pp",
+        "en-us": "pp"
+    },
+    {
+        "word": "pudo",
+        "en-us": "could"
+    },
+    {
+        "word": "televisi\u00f3n",
+        "en-us": "television"
+    },
+    {
+        "word": "uni\u00f3n",
+        "en-us": "union"
+    },
+    {
+        "word": "v\u00eda",
+        "en-us": "via"
+    },
+    {
+        "word": "abajo",
+        "en-us": "below"
+    },
+    {
+        "word": "atr\u00e1s",
+        "en-us": "back"
+    },
+    {
+        "word": "capaz",
+        "en-us": "capable"
+    },
+    {
+        "word": "club",
+        "en-us": "club"
+    },
+    {
+        "word": "comentarios",
+        "en-us": "comments"
+    },
+    {
+        "word": "darle",
+        "en-us": "give it to"
+    },
+    {
+        "word": "di",
+        "en-us": "di"
+    },
+    {
+        "word": "error",
+        "en-us": "error"
+    },
+    {
+        "word": "gusto",
+        "en-us": "taste"
+    },
+    {
+        "word": "hechos",
+        "en-us": "facts"
+    },
+    {
+        "word": "mayores",
+        "en-us": "majors"
+    },
+    {
+        "word": "normal",
+        "en-us": "normal"
+    },
+    {
+        "word": "precios",
+        "en-us": "prices"
+    },
+    {
+        "word": "proyectos",
+        "en-us": "projects"
+    },
+    {
+        "word": "redes",
+        "en-us": "networks"
+    },
+    {
+        "word": "sabemos",
+        "en-us": "we know"
+    },
+    {
+        "word": "sexo",
+        "en-us": "sex"
+    },
+    {
+        "word": "siete",
+        "en-us": "seven"
+    },
+    {
+        "word": "siguientes",
+        "en-us": "following"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "tambien",
+        "en-us": "also"
+    },
+    {
+        "word": "texto",
+        "en-us": "text"
+    },
+    {
+        "word": "tiempos",
+        "en-us": "times"
+    },
+    {
+        "word": "an\u00e1lisis",
+        "en-us": "analysis"
+    },
+    {
+        "word": "apenas",
+        "en-us": "only"
+    },
+    {
+        "word": "chica",
+        "en-us": "girl"
+    },
+    {
+        "word": "constituci\u00f3n",
+        "en-us": "constitution"
+    },
+    {
+        "word": "contrario",
+        "en-us": "contrary"
+    },
+    {
+        "word": "cuentas",
+        "en-us": "accounts"
+    },
+    {
+        "word": "c\u00f3digo",
+        "en-us": "code"
+    },
+    {
+        "word": "dolor",
+        "en-us": "pain"
+    },
+    {
+        "word": "efecto",
+        "en-us": "effect"
+    },
+    {
+        "word": "habr\u00eda",
+        "en-us": "there would be"
+    },
+    {
+        "word": "isla",
+        "en-us": "island"
+    },
+    {
+        "word": "izquierda",
+        "en-us": "left"
+    },
+    {
+        "word": "mente",
+        "en-us": "mind"
+    },
+    {
+        "word": "odio",
+        "en-us": "hate"
+    },
+    {
+        "word": "per\u00fa",
+        "en-us": "peru"
+    },
+    {
+        "word": "pienso",
+        "en-us": "feed"
+    },
+    {
+        "word": "post",
+        "en-us": "post"
+    },
+    {
+        "word": "presencia",
+        "en-us": "presence"
+    },
+    {
+        "word": "profesor",
+        "en-us": "professor"
+    },
+    {
+        "word": "quiz\u00e1s",
+        "en-us": "perhaps"
+    },
+    {
+        "word": "respeto",
+        "en-us": "respect"
+    },
+    {
+        "word": "ropa",
+        "en-us": "clothing"
+    },
+    {
+        "word": "ser\u00e1n",
+        "en-us": "will be"
+    },
+    {
+        "word": "siguen",
+        "en-us": "follow"
+    },
+    {
+        "word": "sr",
+        "en-us": "mr"
+    },
+    {
+        "word": "ten\u00edan",
+        "en-us": "had"
+    },
+    {
+        "word": "totalmente",
+        "en-us": "totally"
+    },
+    {
+        "word": "versi\u00f3n",
+        "en-us": "version"
+    },
+    {
+        "word": "aqui",
+        "en-us": "here"
+    },
+    {
+        "word": "barcelona",
+        "en-us": "barcelona"
+    },
+    {
+        "word": "chicos",
+        "en-us": "guys"
+    },
+    {
+        "word": "cielo",
+        "en-us": "sky"
+    },
+    {
+        "word": "cine",
+        "en-us": "cinema"
+    },
+    {
+        "word": "cuesti\u00f3n",
+        "en-us": "issue"
+    },
+    {
+        "word": "debemos",
+        "en-us": "we must"
+    },
+    {
+        "word": "escribir",
+        "en-us": "write"
+    },
+    {
+        "word": "espa\u00f1ola",
+        "en-us": "spanish"
+    },
+    {
+        "word": "formaci\u00f3n",
+        "en-us": "training"
+    },
+    {
+        "word": "hice",
+        "en-us": "i made"
+    },
+    {
+        "word": "ii",
+        "en-us": "ii"
+    },
+    {
+        "word": "importancia",
+        "en-us": "importance"
+    },
+    {
+        "word": "industria",
+        "en-us": "industry"
+    },
+    {
+        "word": "instituto",
+        "en-us": "institute"
+    },
+    {
+        "word": "loco",
+        "en-us": "crazy"
+    },
+    {
+        "word": "origen",
+        "en-us": "origin"
+    },
+    {
+        "word": "premio",
+        "en-us": "award"
+    },
+    {
+        "word": "re",
+        "en-us": "re"
+    },
+    {
+        "word": "rico",
+        "en-us": "rico"
+    },
+    {
+        "word": "simple",
+        "en-us": "simple"
+    },
+    {
+        "word": "unidad",
+        "en-us": "unit"
+    },
+    {
+        "word": "vino",
+        "en-us": "wine"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "cambios",
+        "en-us": "changes"
+    },
+    {
+        "word": "canal",
+        "en-us": "channel"
+    },
+    {
+        "word": "cultural",
+        "en-us": "cultural"
+    },
+    {
+        "word": "dando",
+        "en-us": "giving"
+    },
+    {
+        "word": "dej\u00f3",
+        "en-us": "left"
+    },
+    {
+        "word": "derecha",
+        "en-us": "right"
+    },
+    {
+        "word": "econ\u00f3mica",
+        "en-us": "economic"
+    },
+    {
+        "word": "escrito",
+        "en-us": "written"
+    },
+    {
+        "word": "esperando",
+        "en-us": "waiting for"
+    },
+    {
+        "word": "gustar\u00eda",
+        "en-us": "would like to"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "interesante",
+        "en-us": "interesting"
+    },
+    {
+        "word": "jam\u00e1s",
+        "en-us": "ever"
+    },
+    {
+        "word": "juicio",
+        "en-us": "trial"
+    },
+    {
+        "word": "miles",
+        "en-us": "thousands"
+    },
+    {
+        "word": "noticia",
+        "en-us": "news"
+    },
+    {
+        "word": "original",
+        "en-us": "original"
+    },
+    {
+        "word": "peso",
+        "en-us": "weight"
+    },
+    {
+        "word": "pobre",
+        "en-us": "poor"
+    },
+    {
+        "word": "prensa",
+        "en-us": "press"
+    }
+]

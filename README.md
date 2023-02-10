@@ -30,9 +30,11 @@ python3 app.py languageId
 Where languageId is one of the following:
 
 - cs (Czech)
+- fr (French)
 - el (Greek)
 - zh (Mandarin)
 - ro (Romanian)
+- es (Spanish)
 - sv (Swedish)
 
 ## Converter

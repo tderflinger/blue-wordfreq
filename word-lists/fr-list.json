@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "de",
+        "en-us": "from"
+    },
+    {
+        "word": "la",
+        "en-us": "the"
+    },
+    {
+        "word": "le",
+        "en-us": "the"
+    },
+    {
+        "word": "et",
+        "en-us": "and"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "\u00e0",
+        "en-us": "\u00e0"
+    },
+    {
+        "word": "les",
+        "en-us": "the"
+    },
+    {
+        "word": "est",
+        "en-us": "is"
+    },
+    {
+        "word": "en",
+        "en-us": "in"
+    },
+    {
+        "word": "des",
+        "en-us": "of"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "un",
+        "en-us": "a"
+    },
+    {
+        "word": "que",
+        "en-us": "that"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "pas",
+        "en-us": "not"
+    },
+    {
+        "word": "une",
+        "en-us": "a"
+    },
+    {
+        "word": "du",
+        "en-us": "from"
+    },
+    {
+        "word": "il",
+        "en-us": "it"
+    },
+    {
+        "word": "pour",
+        "en-us": "for"
+    },
+    {
+        "word": "dans",
+        "en-us": "in"
+    },
+    {
+        "word": "je",
+        "en-us": "i"
+    },
+    {
+        "word": "qui",
+        "en-us": "which"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "au",
+        "en-us": "at"
+    },
+    {
+        "word": "ce",
+        "en-us": "this"
+    },
+    {
+        "word": "sur",
+        "en-us": "on"
+    },
+    {
+        "word": "qu",
+        "en-us": "that"
+    },
+    {
+        "word": "par",
+        "en-us": "by"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "ne",
+        "en-us": "do"
+    },
+    {
+        "word": "plus",
+        "en-us": "more"
+    },
+    {
+        "word": "avec",
+        "en-us": "with"
+    },
+    {
+        "word": "j",
+        "en-us": "j"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "mais",
+        "en-us": "but"
+    },
+    {
+        "word": "se",
+        "en-us": "go to"
+    },
+    {
+        "word": "vous",
+        "en-us": "you"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "\u00e7a",
+        "en-us": "it"
+    },
+    {
+        "word": "tu",
+        "en-us": "you"
+    },
+    {
+        "word": "elle",
+        "en-us": "it"
+    },
+    {
+        "word": "son",
+        "en-us": "its"
+    },
+    {
+        "word": "y",
+        "en-us": "y"
+    },
+    {
+        "word": "ai",
+        "en-us": "ai"
+    },
+    {
+        "word": "ou",
+        "en-us": "or"
+    },
+    {
+        "word": "si",
+        "en-us": "if"
+    },
+    {
+        "word": "sont",
+        "en-us": "are"
+    },
+    {
+        "word": "tout",
+        "en-us": "all"
+    },
+    {
+        "word": "fait",
+        "en-us": "makes"
+    },
+    {
+        "word": "nous",
+        "en-us": "we"
+    },
+    {
+        "word": "comme",
+        "en-us": "as"
+    },
+    {
+        "word": "\u00eatre",
+        "en-us": "be"
+    },
+    {
+        "word": "bien",
+        "en-us": "well"
+    },
+    {
+        "word": "ils",
+        "en-us": "they"
+    },
+    {
+        "word": "cette",
+        "en-us": "this"
+    },
+    {
+        "word": "faire",
+        "en-us": "go to"
+    },
+    {
+        "word": "sa",
+        "en-us": "its"
+    },
+    {
+        "word": "aux",
+        "en-us": "at"
+    },
+    {
+        "word": "m\u00eame",
+        "en-us": "even"
+    },
+    {
+        "word": "me",
+        "en-us": "me"
+    },
+    {
+        "word": "ont",
+        "en-us": "have"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "\u00e9tait",
+        "en-us": "was"
+    },
+    {
+        "word": "\u00e9t\u00e9",
+        "en-us": "summer"
+    },
+    {
+        "word": "mon",
+        "en-us": "my"
+    },
+    {
+        "word": "ses",
+        "en-us": "its"
+    },
+    {
+        "word": "lui",
+        "en-us": "him"
+    },
+    {
+        "word": "aussi",
+        "en-us": "also"
+    },
+    {
+        "word": "peut",
+        "en-us": "can"
+    },
+    {
+        "word": "deux",
+        "en-us": "two"
+    },
+    {
+        "word": "leur",
+        "en-us": "their"
+    },
+    {
+        "word": "moi",
+        "en-us": "me"
+    },
+    {
+        "word": "ces",
+        "en-us": "these"
+    },
+    {
+        "word": "quand",
+        "en-us": "when"
+    },
+    {
+        "word": "apr\u00e8s",
+        "en-us": "after"
+    },
+    {
+        "word": "suis",
+        "en-us": "are"
+    },
+    {
+        "word": "tr\u00e8s",
+        "en-us": "very"
+    },
+    {
+        "word": "tous",
+        "en-us": "all"
+    },
+    {
+        "word": "sans",
+        "en-us": "without"
+    },
+    {
+        "word": "avoir",
+        "en-us": "have"
+    },
+    {
+        "word": "non",
+        "en-us": "no"
+    },
+    {
+        "word": "o\u00f9",
+        "en-us": "where"
+    },
+    {
+        "word": "va",
+        "en-us": "goes"
+    },
+    {
+        "word": "encore",
+        "en-us": "still"
+    },
+    {
+        "word": "alors",
+        "en-us": "then"
+    },
+    {
+        "word": "avait",
+        "en-us": "had"
+    },
+    {
+        "word": "entre",
+        "en-us": "between"
+    },
+    {
+        "word": "temps",
+        "en-us": "time"
+    },
+    {
+        "word": "ans",
+        "en-us": "years"
+    },
+    {
+        "word": "autres",
+        "en-us": "other"
+    },
+    {
+        "word": "dit",
+        "en-us": "says"
+    },
+    {
+        "word": "ma",
+        "en-us": "my"
+    },
+    {
+        "word": "l\u00e0",
+        "en-us": "here"
+    },
+    {
+        "word": "peu",
+        "en-us": "little"
+    },
+    {
+        "word": "autre",
+        "en-us": "other"
+    },
+    {
+        "word": "france",
+        "en-us": "france"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "rien",
+        "en-us": "nothing"
+    },
+    {
+        "word": "dire",
+        "en-us": "say"
+    },
+    {
+        "word": "monde",
+        "en-us": "world"
+    },
+    {
+        "word": "te",
+        "en-us": "you"
+    },
+    {
+        "word": "fois",
+        "en-us": "once"
+    },
+    {
+        "word": "faut",
+        "en-us": "must"
+    },
+    {
+        "word": "toujours",
+        "en-us": "always"
+    },
+    {
+        "word": "voir",
+        "en-us": "see"
+    },
+    {
+        "word": "bon",
+        "en-us": "good"
+    },
+    {
+        "word": "contre",
+        "en-us": "against"
+    },
+    {
+        "word": "votre",
+        "en-us": "your"
+    },
+    {
+        "word": "avant",
+        "en-us": "before"
+    },
+    {
+        "word": "depuis",
+        "en-us": "since"
+    },
+    {
+        "word": "donc",
+        "en-us": "so"
+    },
+    {
+        "word": "notre",
+        "en-us": "our"
+    },
+    {
+        "word": "sous",
+        "en-us": "under"
+    },
+    {
+        "word": "jamais",
+        "en-us": "never"
+    },
+    {
+        "word": "vie",
+        "en-us": "life"
+    },
+    {
+        "word": "moins",
+        "en-us": "less"
+    },
+    {
+        "word": "dont",
+        "en-us": "of which"
+    },
+    {
+        "word": "toi",
+        "en-us": "you"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "d\u00e9j\u00e0",
+        "en-us": "already"
+    },
+    {
+        "word": "quoi",
+        "en-us": "what"
+    },
+    {
+        "word": "soit",
+        "en-us": "or"
+    },
+    {
+        "word": "trop",
+        "en-us": "too"
+    },
+    {
+        "word": "leurs",
+        "en-us": "their"
+    },
+    {
+        "word": "ton",
+        "en-us": "your"
+    },
+    {
+        "word": "toute",
+        "en-us": "all"
+    },
+    {
+        "word": "chez",
+        "en-us": "at"
+    },
+    {
+        "word": "gens",
+        "en-us": "people"
+    },
+    {
+        "word": "juste",
+        "en-us": "just"
+    },
+    {
+        "word": "oui",
+        "en-us": "yes"
+    },
+    {
+        "word": "vraiment",
+        "en-us": "really"
+    },
+    {
+        "word": "ainsi",
+        "en-us": "thus"
+    },
+    {
+        "word": "as",
+        "en-us": "as"
+    },
+    {
+        "word": "grand",
+        "en-us": "large"
+    },
+    {
+        "word": "pays",
+        "en-us": "country"
+    },
+    {
+        "word": "fran\u00e7ais",
+        "en-us": "french"
+    },
+    {
+        "word": "mes",
+        "en-us": "my"
+    },
+    {
+        "word": "beaucoup",
+        "en-us": "many"
+    },
+    {
+        "word": "jour",
+        "en-us": "day"
+    },
+    {
+        "word": "quelques",
+        "en-us": "some"
+    },
+    {
+        "word": "comment",
+        "en-us": "how"
+    },
+    {
+        "word": "es",
+        "en-us": "es"
+    },
+    {
+        "word": "premier",
+        "en-us": "first"
+    },
+    {
+        "word": "sera",
+        "en-us": "will be"
+    },
+    {
+        "word": "nos",
+        "en-us": "our"
+    },
+    {
+        "word": "parce",
+        "en-us": "because"
+    },
+    {
+        "word": "personne",
+        "en-us": "person"
+    },
+    {
+        "word": "cela",
+        "en-us": "this"
+    },
+    {
+        "word": "trois",
+        "en-us": "three"
+    },
+    {
+        "word": "homme",
+        "en-us": "man"
+    },
+    {
+        "word": "ici",
+        "en-us": "here"
+    },
+    {
+        "word": "paris",
+        "en-us": "paris"
+    },
+    {
+        "word": "toutes",
+        "en-us": "all"
+    },
+    {
+        "word": "vu",
+        "en-us": "seen"
+    },
+    {
+        "word": "cas",
+        "en-us": "case"
+    },
+    {
+        "word": "chose",
+        "en-us": "thing"
+    },
+    {
+        "word": "doit",
+        "en-us": "must"
+    },
+    {
+        "word": "partie",
+        "en-us": "part"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "car",
+        "en-us": "because"
+    },
+    {
+        "word": "eu",
+        "en-us": "eu"
+    },
+    {
+        "word": "mal",
+        "en-us": "badly"
+    },
+    {
+        "word": "premi\u00e8re",
+        "en-us": "first"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "bonne",
+        "en-us": "good"
+    },
+    {
+        "word": "fin",
+        "en-us": "end"
+    },
+    {
+        "word": "mieux",
+        "en-us": "better"
+    },
+    {
+        "word": "pendant",
+        "en-us": "during"
+    },
+    {
+        "word": "petit",
+        "en-us": "small"
+    },
+    {
+        "word": "puis",
+        "en-us": "then"
+    },
+    {
+        "word": "ann\u00e9e",
+        "en-us": "year"
+    },
+    {
+        "word": "cet",
+        "en-us": "this"
+    },
+    {
+        "word": "ceux",
+        "en-us": "those"
+    },
+    {
+        "word": "elles",
+        "en-us": "they"
+    },
+    {
+        "word": "moment",
+        "en-us": "moment"
+    },
+    {
+        "word": "place",
+        "en-us": "place"
+    },
+    {
+        "word": "plusieurs",
+        "en-us": "several"
+    },
+    {
+        "word": "pourquoi",
+        "en-us": "why"
+    },
+    {
+        "word": "ta",
+        "en-us": "your"
+    },
+    {
+        "word": "ville",
+        "en-us": "city"
+    },
+    {
+        "word": "jours",
+        "en-us": "days"
+    },
+    {
+        "word": "mois",
+        "en-us": "month"
+    },
+    {
+        "word": "vers",
+        "en-us": "to"
+    },
+    {
+        "word": "histoire",
+        "en-us": "history"
+    },
+    {
+        "word": "mort",
+        "en-us": "death"
+    },
+    {
+        "word": "sais",
+        "en-us": "know"
+    },
+    {
+        "word": "ann\u00e9es",
+        "en-us": "years"
+    },
+    {
+        "word": "fais",
+        "en-us": "do"
+    },
+    {
+        "word": "nouveau",
+        "en-us": "new"
+    },
+    {
+        "word": "nouvelle",
+        "en-us": "new"
+    },
+    {
+        "word": "part",
+        "en-us": "share"
+    },
+    {
+        "word": "travail",
+        "en-us": "work"
+    },
+    {
+        "word": "aujourd'hui",
+        "en-us": "today"
+    },
+    {
+        "word": "compte",
+        "en-us": "account"
+    },
+    {
+        "word": "merci",
+        "en-us": "thank you"
+    },
+    {
+        "word": "prendre",
+        "en-us": "take"
+    },
+    {
+        "word": "veut",
+        "en-us": "wants"
+    },
+    {
+        "word": "\u00e9tat",
+        "en-us": "status"
+    },
+    {
+        "word": "aller",
+        "en-us": "go to"
+    },
+    {
+        "word": "cours",
+        "en-us": "course"
+    },
+    {
+        "word": "peux",
+        "en-us": "can"
+    },
+    {
+        "word": "politique",
+        "en-us": "policy"
+    },
+    {
+        "word": "reste",
+        "en-us": "remains"
+    },
+    {
+        "word": "veux",
+        "en-us": "want"
+    },
+    {
+        "word": "vos",
+        "en-us": "your"
+    },
+    {
+        "word": "ca",
+        "en-us": "ca"
+    },
+    {
+        "word": "celui",
+        "en-us": "the one"
+    },
+    {
+        "word": "chaque",
+        "en-us": "each"
+    },
+    {
+        "word": "grande",
+        "en-us": "large"
+    },
+    {
+        "word": "personnes",
+        "en-us": "people"
+    },
+    {
+        "word": "femme",
+        "en-us": "woman"
+    },
+    {
+        "word": "nom",
+        "en-us": "name"
+    },
+    {
+        "word": "prix",
+        "en-us": "price"
+    },
+    {
+        "word": "\u00e9galement",
+        "en-us": "also"
+    },
+    {
+        "word": "point",
+        "en-us": "point"
+    },
+    {
+        "word": "seul",
+        "en-us": "only"
+    },
+    {
+        "word": "vais",
+        "en-us": "go to"
+    },
+    {
+        "word": "eux",
+        "en-us": "them"
+    },
+    {
+        "word": "lieu",
+        "en-us": "place"
+    },
+    {
+        "word": "lors",
+        "en-us": "at"
+    },
+    {
+        "word": "vrai",
+        "en-us": "real"
+    },
+    {
+        "word": "droit",
+        "en-us": "right"
+    },
+    {
+        "word": "selon",
+        "en-us": "according to"
+    },
+    {
+        "word": "coup",
+        "en-us": "hit"
+    },
+    {
+        "word": "mettre",
+        "en-us": "put"
+    },
+    {
+        "word": "serait",
+        "en-us": "would be"
+    },
+    {
+        "word": "pense",
+        "en-us": "think"
+    },
+    {
+        "word": "quelque",
+        "en-us": "some"
+    },
+    {
+        "word": "tant",
+        "en-us": "so much"
+    },
+    {
+        "word": "avais",
+        "en-us": "had"
+    },
+    {
+        "word": "groupe",
+        "en-us": "group"
+    },
+    {
+        "word": "maintenant",
+        "en-us": "now"
+    },
+    {
+        "word": "maison",
+        "en-us": "home"
+    },
+    {
+        "word": "saint",
+        "en-us": "saint"
+    },
+    {
+        "word": "t\u00eate",
+        "en-us": "head"
+    },
+    {
+        "word": "\u00e9taient",
+        "en-us": "were"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "aime",
+        "en-us": "likes"
+    },
+    {
+        "word": "aurait",
+        "en-us": "would have"
+    },
+    {
+        "word": "avons",
+        "en-us": "have"
+    },
+    {
+        "word": "enfants",
+        "en-us": "children"
+    },
+    {
+        "word": "famille",
+        "en-us": "family"
+    },
+    {
+        "word": "parler",
+        "en-us": "speak"
+    },
+    {
+        "word": "suite",
+        "en-us": "suite"
+    },
+    {
+        "word": "assez",
+        "en-us": "quite"
+    },
+    {
+        "word": "besoin",
+        "en-us": "need"
+    },
+    {
+        "word": "demande",
+        "en-us": "request"
+    },
+    {
+        "word": "genre",
+        "en-us": "genre"
+    },
+    {
+        "word": "savoir",
+        "en-us": "know"
+    },
+    {
+        "word": "soci\u00e9t\u00e9",
+        "en-us": "company"
+    },
+    {
+        "word": "trouve",
+        "en-us": "finds"
+    },
+    {
+        "word": "celle",
+        "en-us": "the one"
+    },
+    {
+        "word": "c\u00f4t\u00e9",
+        "en-us": "on the  side"
+    },
+    {
+        "word": "passe",
+        "en-us": "pass"
+    },
+    {
+        "word": "pouvoir",
+        "en-us": "power"
+    },
+    {
+        "word": "question",
+        "en-us": "question"
+    },
+    {
+        "word": "raison",
+        "en-us": "reason"
+    },
+    {
+        "word": "sens",
+        "en-us": "direction"
+    },
+    {
+        "word": "ailleurs",
+        "en-us": "elsewhere"
+    },
+    {
+        "word": "avez",
+        "en-us": "have"
+    },
+    {
+        "word": "certains",
+        "en-us": "some"
+    },
+    {
+        "word": "ci",
+        "en-us": "ci"
+    },
+    {
+        "word": "devant",
+        "en-us": "in front of"
+    },
+    {
+        "word": "dis",
+        "en-us": "say"
+    },
+    {
+        "word": "jeu",
+        "en-us": "game"
+    },
+    {
+        "word": "soir",
+        "en-us": "evening"
+    },
+    {
+        "word": "souvent",
+        "en-us": "often"
+    },
+    {
+        "word": "effet",
+        "en-us": "effect"
+    },
+    {
+        "word": "g\u00e9n\u00e9ral",
+        "en-us": "general"
+    },
+    {
+        "word": "jean",
+        "en-us": "jean"
+    },
+    {
+        "word": "jusqu'\u00e0",
+        "en-us": "to"
+    },
+    {
+        "word": "ni",
+        "en-us": "or"
+    },
+    {
+        "word": "partir",
+        "en-us": "go to"
+    },
+    {
+        "word": "surtout",
+        "en-us": "especially"
+    },
+    {
+        "word": "\u00e9quipe",
+        "en-us": "team"
+    },
+    {
+        "word": "choses",
+        "en-us": "things"
+    },
+    {
+        "word": "dernier",
+        "en-us": "last"
+    },
+    {
+        "word": "enfin",
+        "en-us": "finally"
+    },
+    {
+        "word": "font",
+        "en-us": "font"
+    },
+    {
+        "word": "nombre",
+        "en-us": "number"
+    },
+    {
+        "word": "parle",
+        "en-us": "speaks"
+    },
+    {
+        "word": "porte",
+        "en-us": "door"
+    },
+    {
+        "word": "seulement",
+        "en-us": "only"
+    },
+    {
+        "word": "site",
+        "en-us": "site"
+    },
+    {
+        "word": "eau",
+        "en-us": "water"
+    },
+    {
+        "word": "ensemble",
+        "en-us": "set"
+    },
+    {
+        "word": "hommes",
+        "en-us": "men"
+    },
+    {
+        "word": "petite",
+        "en-us": "small"
+    },
+    {
+        "word": "femmes",
+        "en-us": "women"
+    },
+    {
+        "word": "m\u00e8re",
+        "en-us": "mother"
+    },
+    {
+        "word": "passer",
+        "en-us": "go to"
+    },
+    {
+        "word": "pr\u00e8s",
+        "en-us": "near"
+    },
+    {
+        "word": "quel",
+        "en-us": "what"
+    },
+    {
+        "word": "quelqu'un",
+        "en-us": "someone"
+    },
+    {
+        "word": "tes",
+        "en-us": "your"
+    },
+    {
+        "word": "vois",
+        "en-us": "see"
+    },
+    {
+        "word": "aucun",
+        "en-us": "no"
+    },
+    {
+        "word": "loi",
+        "en-us": "law"
+    },
+    {
+        "word": "parti",
+        "en-us": "party"
+    },
+    {
+        "word": "pris",
+        "en-us": "taken"
+    },
+    {
+        "word": "p\u00e8re",
+        "en-us": "father"
+    },
+    {
+        "word": "rapport",
+        "en-us": "report"
+    },
+    {
+        "word": "d\u00e8s",
+        "en-us": "from"
+    },
+    {
+        "word": "peuvent",
+        "en-us": "can"
+    },
+    {
+        "word": "pu",
+        "en-us": "pu"
+    },
+    {
+        "word": "trouver",
+        "en-us": "find"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "autant",
+        "en-us": "as much"
+    },
+    {
+        "word": "face",
+        "en-us": "face"
+    },
+    {
+        "word": "fille",
+        "en-us": "daughter"
+    },
+    {
+        "word": "fut",
+        "en-us": "was"
+    },
+    {
+        "word": "gouvernement",
+        "en-us": "government"
+    },
+    {
+        "word": "gros",
+        "en-us": "big"
+    },
+    {
+        "word": "guerre",
+        "en-us": "war"
+    },
+    {
+        "word": "niveau",
+        "en-us": "level"
+    },
+    {
+        "word": "pass\u00e9",
+        "en-us": "past"
+    },
+    {
+        "word": "pourrait",
+        "en-us": "could"
+    },
+    {
+        "word": "quatre",
+        "en-us": "four"
+    },
+    {
+        "word": "semaine",
+        "en-us": "week"
+    },
+    {
+        "word": "service",
+        "en-us": "service"
+    },
+    {
+        "word": "seule",
+        "en-us": "only"
+    },
+    {
+        "word": "accord",
+        "en-us": "agreement"
+    },
+    {
+        "word": "article",
+        "en-us": "article"
+    },
+    {
+        "word": "donne",
+        "en-us": "gives"
+    },
+    {
+        "word": "donner",
+        "en-us": "give"
+    },
+    {
+        "word": "ligne",
+        "en-us": "line"
+    },
+    {
+        "word": "probl\u00e8me",
+        "en-us": "problem"
+    },
+    {
+        "word": "pr\u00e9sident",
+        "en-us": "president"
+    },
+    {
+        "word": "vient",
+        "en-us": "comes"
+    },
+    {
+        "word": "cause",
+        "en-us": "cause"
+    },
+    {
+        "word": "crois",
+        "en-us": "believe"
+    },
+    {
+        "word": "dieu",
+        "en-us": "god"
+    },
+    {
+        "word": "d\u00e9but",
+        "en-us": "start"
+    },
+    {
+        "word": "exemple",
+        "en-us": "example"
+    },
+    {
+        "word": "fils",
+        "en-us": "son"
+    },
+    {
+        "word": "jeune",
+        "en-us": "young"
+    },
+    {
+        "word": "mis",
+        "en-us": "put"
+    },
+    {
+        "word": "syst\u00e8me",
+        "en-us": "system"
+    },
+    {
+        "word": "air",
+        "en-us": "air"
+    },
+    {
+        "word": "aucune",
+        "en-us": "no"
+    },
+    {
+        "word": "bas",
+        "en-us": "bottom"
+    },
+    {
+        "word": "centre",
+        "en-us": "center"
+    },
+    {
+        "word": "fa\u00e7on",
+        "en-us": "way"
+    },
+    {
+        "word": "heure",
+        "en-us": "hour"
+    },
+    {
+        "word": "heures",
+        "en-us": "hours"
+    },
+    {
+        "word": "loin",
+        "en-us": "far"
+    },
+    {
+        "word": "possible",
+        "en-us": "possible"
+    },
+    {
+        "word": "projet",
+        "en-us": "project"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "conseil",
+        "en-us": "advice"
+    },
+    {
+        "word": "derni\u00e8re",
+        "en-us": "last"
+    },
+    {
+        "word": "id\u00e9e",
+        "en-us": "idea"
+    },
+    {
+        "word": "notamment",
+        "en-us": "including"
+    },
+    {
+        "word": "nuit",
+        "en-us": "night"
+    },
+    {
+        "word": "vont",
+        "en-us": "go to"
+    },
+    {
+        "word": "\u00e9tais",
+        "en-us": "props"
+    },
+    {
+        "word": "argent",
+        "en-us": "silver"
+    },
+    {
+        "word": "tour",
+        "en-us": "tower"
+    },
+    {
+        "word": "vue",
+        "en-us": "view"
+    },
+    {
+        "word": "\u00eates",
+        "en-us": "are"
+    },
+    {
+        "word": "an",
+        "en-us": "an"
+    },
+    {
+        "word": "aura",
+        "en-us": "will have"
+    },
+    {
+        "word": "dessus",
+        "en-us": "top"
+    },
+    {
+        "word": "film",
+        "en-us": "film"
+    },
+    {
+        "word": "meilleur",
+        "en-us": "best"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "corps",
+        "en-us": "body"
+    },
+    {
+        "word": "ensuite",
+        "en-us": "then"
+    },
+    {
+        "word": "forme",
+        "en-us": "form"
+    },
+    {
+        "word": "haut",
+        "en-us": "top"
+    },
+    {
+        "word": "or",
+        "en-us": "or"
+    },
+    {
+        "word": "plut\u00f4t",
+        "en-us": "rather"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "arrive",
+        "en-us": "arrives"
+    },
+    {
+        "word": "avaient",
+        "en-us": "had"
+    },
+    {
+        "word": "chef",
+        "en-us": "head"
+    },
+    {
+        "word": "europe",
+        "en-us": "europe"
+    },
+    {
+        "word": "fort",
+        "en-us": "strong"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "public",
+        "en-us": "public"
+    },
+    {
+        "word": "tard",
+        "en-us": "late"
+    },
+    {
+        "word": "ayant",
+        "en-us": "having"
+    },
+    {
+        "word": "main",
+        "en-us": "hand"
+    },
+    {
+        "word": "terre",
+        "en-us": "earth"
+    },
+    {
+        "word": "titre",
+        "en-us": "title"
+    },
+    {
+        "word": "\u00b0",
+        "en-us": "\u00b0"
+    },
+    {
+        "word": "matin",
+        "en-us": "morning"
+    },
+    {
+        "word": "mise",
+        "en-us": "setting"
+    },
+    {
+        "word": "plan",
+        "en-us": "plan"
+    },
+    {
+        "word": "saison",
+        "en-us": "season"
+    },
+    {
+        "word": "sait",
+        "en-us": "knows"
+    },
+    {
+        "word": "type",
+        "en-us": "type"
+    },
+    {
+        "word": "afin",
+        "en-us": "in order to"
+    },
+    {
+        "word": "ah",
+        "en-us": "ah"
+    },
+    {
+        "word": "aide",
+        "en-us": "help"
+    },
+    {
+        "word": "belle",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "choix",
+        "en-us": "choice"
+    },
+    {
+        "word": "fran\u00e7aise",
+        "en-us": "french"
+    },
+    {
+        "word": "long",
+        "en-us": "long"
+    },
+    {
+        "word": "minutes",
+        "en-us": "minutes"
+    },
+    {
+        "word": "retour",
+        "en-us": "return"
+    },
+    {
+        "word": "situation",
+        "en-us": "situation"
+    },
+    {
+        "word": "sommes",
+        "en-us": "amounts"
+    },
+    {
+        "word": "vite",
+        "en-us": "quickly"
+    },
+    {
+        "word": "yeux",
+        "en-us": "eyes"
+    },
+    {
+        "word": "amour",
+        "en-us": "love"
+    },
+    {
+        "word": "base",
+        "en-us": "base"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "journ\u00e9e",
+        "en-us": "day"
+    },
+    {
+        "word": "nord",
+        "en-us": "north"
+    },
+    {
+        "word": "devrait",
+        "en-us": "should"
+    },
+    {
+        "word": "donn\u00e9",
+        "en-us": "given"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "etc",
+        "en-us": "etc"
+    },
+    {
+        "word": "gr\u00e2ce",
+        "en-us": "thanks"
+    },
+    {
+        "word": "moyen",
+        "en-us": "medium"
+    },
+    {
+        "word": "ordre",
+        "en-us": "order"
+    },
+    {
+        "word": "prend",
+        "en-us": "takes"
+    },
+    {
+        "word": "\u00e9cole",
+        "en-us": "school"
+    },
+    {
+        "word": "\u00e9tant",
+        "en-us": "being"
+    },
+    {
+        "word": "but",
+        "en-us": "goal"
+    },
+    {
+        "word": "cinq",
+        "en-us": "five"
+    },
+    {
+        "word": "mani\u00e8re",
+        "en-us": "way"
+    },
+    {
+        "word": "mars",
+        "en-us": "march"
+    },
+    {
+        "word": "pierre",
+        "en-us": "stone"
+    },
+    {
+        "word": "qu\u00e9bec",
+        "en-us": "quebec"
+    },
+    {
+        "word": "semble",
+        "en-us": "seems"
+    },
+    {
+        "word": "sujet",
+        "en-us": "subject"
+    },
+    {
+        "word": "truc",
+        "en-us": "tip"
+    },
+    {
+        "word": "agit",
+        "en-us": "acts"
+    },
+    {
+        "word": "enfant",
+        "en-us": "child"
+    },
+    {
+        "word": "ministre",
+        "en-us": "minister"
+    },
+    {
+        "word": "nouvelles",
+        "en-us": "news"
+    },
+    {
+        "word": "parfois",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "quelle",
+        "en-us": "what"
+    },
+    {
+        "word": "rue",
+        "en-us": "street"
+    },
+    {
+        "word": "sud",
+        "en-us": "south"
+    },
+    {
+        "word": "super",
+        "en-us": "super"
+    },
+    {
+        "word": "s\u00fbr",
+        "en-us": "sure"
+    },
+    {
+        "word": "unis",
+        "en-us": "united"
+    },
+    {
+        "word": "vid\u00e9o",
+        "en-us": "video"
+    },
+    {
+        "word": "amis",
+        "en-us": "friends"
+    },
+    {
+        "word": "art",
+        "en-us": "art"
+    },
+    {
+        "word": "beau",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "compris",
+        "en-us": "including"
+    },
+    {
+        "word": "gauche",
+        "en-us": "left"
+    },
+    {
+        "word": "livre",
+        "en-us": "book"
+    },
+    {
+        "word": "musique",
+        "en-us": "music"
+    },
+    {
+        "word": "r\u00e9gion",
+        "en-us": "region"
+    },
+    {
+        "word": "entreprise",
+        "en-us": "company"
+    },
+    {
+        "word": "jeunes",
+        "en-us": "young people"
+    },
+    {
+        "word": "longtemps",
+        "en-us": "long"
+    },
+    {
+        "word": "match",
+        "en-us": "match"
+    },
+    {
+        "word": "permet",
+        "en-us": "allows"
+    },
+    {
+        "word": "simple",
+        "en-us": "simple"
+    },
+    {
+        "word": "voil\u00e0",
+        "en-us": "here is"
+    },
+    {
+        "word": "voit",
+        "en-us": "see"
+    },
+    {
+        "word": "chambre",
+        "en-us": "room"
+    },
+    {
+        "word": "deuxi\u00e8me",
+        "en-us": "second"
+    },
+    {
+        "word": "importe",
+        "en-us": "import"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "juin",
+        "en-us": "june"
+    },
+    {
+        "word": "lorsque",
+        "en-us": "when"
+    },
+    {
+        "word": "mai",
+        "en-us": "may"
+    },
+    {
+        "word": "peur",
+        "en-us": "fear"
+    },
+    {
+        "word": "plein",
+        "en-us": "full"
+    },
+    {
+        "word": "police",
+        "en-us": "police"
+    },
+    {
+        "word": "septembre",
+        "en-us": "september"
+    },
+    {
+        "word": "s\u00e9curit\u00e9",
+        "en-us": "security"
+    },
+    {
+        "word": "s\u00e9rie",
+        "en-us": "series"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "ancien",
+        "en-us": "former"
+    },
+    {
+        "word": "anglais",
+        "en-us": "english"
+    },
+    {
+        "word": "certaines",
+        "en-us": "some"
+    },
+    {
+        "word": "grands",
+        "en-us": "large"
+    },
+    {
+        "word": "important",
+        "en-us": "important"
+    },
+    {
+        "word": "jouer",
+        "en-us": "play"
+    },
+    {
+        "word": "membres",
+        "en-us": "members"
+    },
+    {
+        "word": "merde",
+        "en-us": "shit"
+    },
+    {
+        "word": "parmi",
+        "en-us": "among"
+    },
+    {
+        "word": "peine",
+        "en-us": "sentence"
+    },
+    {
+        "word": "presque",
+        "en-us": "almost"
+    },
+    {
+        "word": "services",
+        "en-us": "services"
+    },
+    {
+        "word": "tellement",
+        "en-us": "so"
+    },
+    {
+        "word": "\u00e9poque",
+        "en-us": "period"
+    },
+    {
+        "word": "allez",
+        "en-us": "go to"
+    },
+    {
+        "word": "doute",
+        "en-us": "doubt"
+    },
+    {
+        "word": "force",
+        "en-us": "force"
+    },
+    {
+        "word": "lire",
+        "en-us": "read"
+    },
+    {
+        "word": "march\u00e9",
+        "en-us": "market"
+    },
+    {
+        "word": "mot",
+        "en-us": "word"
+    },
+    {
+        "word": "points",
+        "en-us": "points"
+    },
+    {
+        "word": "recherche",
+        "en-us": "research"
+    },
+    {
+        "word": "sant\u00e9",
+        "en-us": "health"
+    },
+    {
+        "word": "seront",
+        "en-us": "will be"
+    },
+    {
+        "word": "train",
+        "en-us": "train"
+    },
+    {
+        "word": "voix",
+        "en-us": "voice"
+    },
+    {
+        "word": "\u00e9crit",
+        "en-us": "written"
+    },
+    {
+        "word": "affaires",
+        "en-us": "business"
+    },
+    {
+        "word": "autour",
+        "en-us": "around"
+    },
+    {
+        "word": "avis",
+        "en-us": "notice"
+    },
+    {
+        "word": "cependant",
+        "en-us": "however"
+    },
+    {
+        "word": "d\u00e9veloppement",
+        "en-us": "development"
+    },
+    {
+        "word": "faites",
+        "en-us": "go to"
+    },
+    {
+        "word": "hier",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "juillet",
+        "en-us": "july"
+    },
+    {
+        "word": "millions",
+        "en-us": "millions"
+    },
+    {
+        "word": "nationale",
+        "en-us": "national"
+    },
+    {
+        "word": "nombreux",
+        "en-us": "many"
+    },
+    {
+        "word": "parents",
+        "en-us": "parents"
+    },
+    {
+        "word": "propre",
+        "en-us": "own"
+    },
+    {
+        "word": "rendre",
+        "en-us": "make"
+    },
+    {
+        "word": "vivre",
+        "en-us": "live"
+    },
+    {
+        "word": "droite",
+        "en-us": "right"
+    },
+    {
+        "word": "environ",
+        "en-us": "about"
+    },
+    {
+        "word": "fond",
+        "en-us": "background"
+    },
+    {
+        "word": "mec",
+        "en-us": "guy"
+    },
+    {
+        "word": "mesure",
+        "en-us": "measure"
+    },
+    {
+        "word": "ouais",
+        "en-us": "yeah"
+    },
+    {
+        "word": "pourtant",
+        "en-us": "yet"
+    },
+    {
+        "word": "trouv\u00e9",
+        "en-us": "found"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "abord",
+        "en-us": "first"
+    },
+    {
+        "word": "affaire",
+        "en-us": "case"
+    },
+    {
+        "word": "envie",
+        "en-us": "desire"
+    },
+    {
+        "word": "gars",
+        "en-us": "guy"
+    },
+    {
+        "word": "laquelle",
+        "en-us": "which"
+    },
+    {
+        "word": "nouveaux",
+        "en-us": "new"
+    },
+    {
+        "word": "octobre",
+        "en-us": "october"
+    },
+    {
+        "word": "pouvez",
+        "en-us": "can"
+    },
+    {
+        "word": "si\u00e8cle",
+        "en-us": "century"
+    },
+    {
+        "word": "sortir",
+        "en-us": "go out"
+    },
+    {
+        "word": "terme",
+        "en-us": "term"
+    },
+    {
+        "word": "viens",
+        "en-us": "come"
+    },
+    {
+        "word": "voiture",
+        "en-us": "car"
+    },
+    {
+        "word": "ait",
+        "en-us": "has"
+    },
+    {
+        "word": "avril",
+        "en-us": "april"
+    },
+    {
+        "word": "droits",
+        "en-us": "rights"
+    },
+    {
+        "word": "fran\u00e7ois",
+        "en-us": "fran\u00e7ois"
+    },
+    {
+        "word": "fr\u00e8re",
+        "en-us": "brother"
+    },
+    {
+        "word": "janvier",
+        "en-us": "january"
+    },
+    {
+        "word": "jeux",
+        "en-us": "games"
+    },
+    {
+        "word": "population",
+        "en-us": "population"
+    },
+    {
+        "word": "questions",
+        "en-us": "questions"
+    },
+    {
+        "word": "roi",
+        "en-us": "king"
+    },
+    {
+        "word": "venir",
+        "en-us": "come"
+    },
+    {
+        "word": "action",
+        "en-us": "action"
+    },
+    {
+        "word": "club",
+        "en-us": "club"
+    },
+    {
+        "word": "culture",
+        "en-us": "culture"
+    },
+    {
+        "word": "c\u0153ur",
+        "en-us": "heart"
+    },
+    {
+        "word": "difficile",
+        "en-us": "difficult"
+    },
+    {
+        "word": "existe",
+        "en-us": "exists"
+    },
+    {
+        "word": "laisse",
+        "en-us": "leaves"
+    },
+    {
+        "word": "malgr\u00e9",
+        "en-us": "despite"
+    },
+    {
+        "word": "milieu",
+        "en-us": "environment"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "produit",
+        "en-us": "product"
+    },
+    {
+        "word": "programme",
+        "en-us": "program"
+    },
+    {
+        "word": "propos",
+        "en-us": "about"
+    },
+    {
+        "word": "route",
+        "en-us": "route"
+    },
+    {
+        "word": "\u00e9tats",
+        "en-us": "states"
+    },
+    {
+        "word": "derri\u00e8re",
+        "en-us": "behind"
+    },
+    {
+        "word": "direction",
+        "en-us": "direction"
+    },
+    {
+        "word": "doivent",
+        "en-us": "must"
+    },
+    {
+        "word": "emploi",
+        "en-us": "job"
+    },
+    {
+        "word": "feu",
+        "en-us": "fire"
+    },
+    {
+        "word": "marche",
+        "en-us": "walk"
+    },
+    {
+        "word": "mots",
+        "en-us": "words"
+    },
+    {
+        "word": "m\u00eames",
+        "en-us": "same"
+    },
+    {
+        "word": "p\u00e9riode",
+        "en-us": "period"
+    },
+    {
+        "word": "tel",
+        "en-us": "such as"
+    },
+    {
+        "word": "\u00e2ge",
+        "en-us": "age"
+    },
+    {
+        "word": "arm\u00e9e",
+        "en-us": "army"
+    },
+    {
+        "word": "bois",
+        "en-us": "wood"
+    },
+    {
+        "word": "chance",
+        "en-us": "chance"
+    },
+    {
+        "word": "confiance",
+        "en-us": "trust"
+    },
+    {
+        "word": "croire",
+        "en-us": "believe"
+    },
+    {
+        "word": "date",
+        "en-us": "date"
+    },
+    {
+        "word": "dix",
+        "en-us": "ten"
+    },
+    {
+        "word": "d\u00e9cembre",
+        "en-us": "december"
+    },
+    {
+        "word": "laisser",
+        "en-us": "leave"
+    },
+    {
+        "word": "manque",
+        "en-us": "lack"
+    },
+    {
+        "word": "mode",
+        "en-us": "mode"
+    },
+    {
+        "word": "novembre",
+        "en-us": "november"
+    },
+    {
+        "word": "petits",
+        "en-us": "small"
+    },
+    {
+        "word": "plaisir",
+        "en-us": "pleasure"
+    },
+    {
+        "word": "produits",
+        "en-us": "products"
+    },
+    {
+        "word": "rencontre",
+        "en-us": "meeting"
+    },
+    {
+        "word": "r\u00e9sultats",
+        "en-us": "results"
+    },
+    {
+        "word": "six",
+        "en-us": "six"
+    },
+    {
+        "word": "vas",
+        "en-us": "go"
+    },
+    {
+        "word": "ao\u00fbt",
+        "en-us": "august"
+    },
+    {
+        "word": "aurais",
+        "en-us": "would have"
+    },
+    {
+        "word": "blanc",
+        "en-us": "white"
+    },
+    {
+        "word": "canada",
+        "en-us": "canada"
+    },
+    {
+        "word": "classe",
+        "en-us": "class"
+    },
+    {
+        "word": "commence",
+        "en-us": "start"
+    },
+    {
+        "word": "comprendre",
+        "en-us": "understand"
+    },
+    {
+        "word": "demain",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "demander",
+        "en-us": "request"
+    },
+    {
+        "word": "formation",
+        "en-us": "training"
+    },
+    {
+        "word": "liste",
+        "en-us": "list"
+    },
+    {
+        "word": "photo",
+        "en-us": "photo"
+    },
+    {
+        "word": "r\u00f4le",
+        "en-us": "role"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "attention",
+        "en-us": "attention"
+    },
+    {
+        "word": "bout",
+        "en-us": "tip"
+    },
+    {
+        "word": "conditions",
+        "en-us": "conditions"
+    },
+    {
+        "word": "esprit",
+        "en-us": "spirit"
+    },
+    {
+        "word": "esp\u00e8re",
+        "en-us": "hopes"
+    },
+    {
+        "word": "garde",
+        "en-us": "guard"
+    },
+    {
+        "word": "internet",
+        "en-us": "internet"
+    },
+    {
+        "word": "int\u00e9rieur",
+        "en-us": "interior"
+    },
+    {
+        "word": "int\u00e9r\u00eat",
+        "en-us": "interest"
+    },
+    {
+        "word": "mouvement",
+        "en-us": "movement"
+    },
+    {
+        "word": "noir",
+        "en-us": "black"
+    },
+    {
+        "word": "origine",
+        "en-us": "origin"
+    },
+    {
+        "word": "pr\u00e9sente",
+        "en-us": "present"
+    },
+    {
+        "word": "regarde",
+        "en-us": "look at"
+    },
+    {
+        "word": "rouge",
+        "en-us": "red"
+    },
+    {
+        "word": "sortie",
+        "en-us": "output"
+    },
+    {
+        "word": "auteur",
+        "en-us": "author"
+    },
+    {
+        "word": "bonjour",
+        "en-us": "hello"
+    },
+    {
+        "word": "f\u00e9vrier",
+        "en-us": "february"
+    },
+    {
+        "word": "ii",
+        "en-us": "ii"
+    },
+    {
+        "word": "justice",
+        "en-us": "justice"
+    },
+    {
+        "word": "langue",
+        "en-us": "language"
+    },
+    {
+        "word": "meilleure",
+        "en-us": "best"
+    },
+    {
+        "word": "met",
+        "en-us": "met"
+    },
+    {
+        "word": "occasion",
+        "en-us": "opportunity"
+    },
+    {
+        "word": "offre",
+        "en-us": "offer"
+    },
+    {
+        "word": "perdu",
+        "en-us": "lost"
+    },
+    {
+        "word": "politiques",
+        "en-us": "policies"
+    },
+    {
+        "word": "qualit\u00e9",
+        "en-us": "quality"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "risque",
+        "en-us": "risk"
+    },
+    {
+        "word": "sc\u00e8ne",
+        "en-us": "scene"
+    },
+    {
+        "word": "sinon",
+        "en-us": "or"
+    },
+    {
+        "word": "travaux",
+        "en-us": "works"
+    },
+    {
+        "word": "voici",
+        "en-us": "here is"
+    },
+    {
+        "word": "appelle",
+        "en-us": "call"
+    },
+    {
+        "word": "cadre",
+        "en-us": "framework"
+    },
+    {
+        "word": "changer",
+        "en-us": "change"
+    },
+    {
+        "word": "entreprises",
+        "en-us": "companies"
+    },
+    {
+        "word": "grandes",
+        "en-us": "large"
+    },
+    {
+        "word": "libre",
+        "en-us": "free"
+    },
+    {
+        "word": "premiers",
+        "en-us": "first"
+    },
+    {
+        "word": "production",
+        "en-us": "production"
+    },
+    {
+        "word": "semaines",
+        "en-us": "weeks"
+    },
+    {
+        "word": "vieux",
+        "en-us": "old"
+    },
+    {
+        "word": "connais",
+        "en-us": "know"
+    },
+    {
+        "word": "facile",
+        "en-us": "easy"
+    },
+    {
+        "word": "image",
+        "en-us": "image"
+    },
+    {
+        "word": "lien",
+        "en-us": "link"
+    },
+    {
+        "word": "mer",
+        "en-us": "sea"
+    },
+    {
+        "word": "photos",
+        "en-us": "photos"
+    },
+    {
+        "word": "pire",
+        "en-us": "worst"
+    },
+    {
+        "word": "rester",
+        "en-us": "stay"
+    },
+    {
+        "word": "sauf",
+        "en-us": "except"
+    },
+    {
+        "word": "source",
+        "en-us": "source"
+    },
+    {
+        "word": "troisi\u00e8me",
+        "en-us": "third"
+    },
+    {
+        "word": "aider",
+        "en-us": "help"
+    },
+    {
+        "word": "ami",
+        "en-us": "friend"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "campagne",
+        "en-us": "campaign"
+    },
+    {
+        "word": "coupe",
+        "en-us": "cut"
+    },
+    {
+        "word": "cour",
+        "en-us": "court"
+    },
+    {
+        "word": "durant",
+        "en-us": "during"
+    },
+    {
+        "word": "faisait",
+        "en-us": "did"
+    },
+    {
+        "word": "objet",
+        "en-us": "object"
+    },
+    {
+        "word": "oh",
+        "en-us": "oh"
+    },
+    {
+        "word": "partout",
+        "en-us": "everywhere"
+    },
+    {
+        "word": "plupart",
+        "en-us": "most"
+    },
+    {
+        "word": "probl\u00e8mes",
+        "en-us": "problems"
+    },
+    {
+        "word": "seconde",
+        "en-us": "second"
+    },
+    {
+        "word": "valeur",
+        "en-us": "value"
+    },
+    {
+        "word": "\u00e9tude",
+        "en-us": "study"
+    },
+    {
+        "word": "\u00e9tudes",
+        "en-us": "studies"
+    },
+    {
+        "word": "chacun",
+        "en-us": "each"
+    },
+    {
+        "word": "cher",
+        "en-us": "dear"
+    },
+    {
+        "word": "devient",
+        "en-us": "becomes"
+    },
+    {
+        "word": "donn\u00e9es",
+        "en-us": "data"
+    },
+    {
+        "word": "d\u00fb",
+        "en-us": "due"
+    },
+    {
+        "word": "etat",
+        "en-us": "status"
+    },
+    {
+        "word": "hein",
+        "en-us": "huh"
+    },
+    {
+        "word": "hors",
+        "en-us": "outside"
+    },
+    {
+        "word": "joue",
+        "en-us": "plays"
+    },
+    {
+        "word": "lequel",
+        "en-us": "which"
+    },
+    {
+        "word": "montre",
+        "en-us": "watch"
+    },
+    {
+        "word": "national",
+        "en-us": "national"
+    },
+    {
+        "word": "particulier",
+        "en-us": "individual"
+    },
+    {
+        "word": "penser",
+        "en-us": "think"
+    },
+    {
+        "word": "poste",
+        "en-us": "post"
+    },
+    {
+        "word": "pr\u00e9sent",
+        "en-us": "present"
+    },
+    {
+        "word": "publique",
+        "en-us": "public"
+    },
+    {
+        "word": "r\u00e9ponse",
+        "en-us": "answer"
+    },
+    {
+        "word": "r\u00e9seau",
+        "en-us": "network"
+    },
+    {
+        "word": "salle",
+        "en-us": "room"
+    },
+    {
+        "word": "texte",
+        "en-us": "text"
+    },
+    {
+        "word": "veulent",
+        "en-us": "want"
+    },
+    {
+        "word": "appel",
+        "en-us": "call"
+    },
+    {
+        "word": "celles",
+        "en-us": "those"
+    },
+    {
+        "word": "certain",
+        "en-us": "some"
+    },
+    {
+        "word": "contr\u00f4le",
+        "en-us": "control"
+    },
+    {
+        "word": "dois",
+        "en-us": "must"
+    },
+    {
+        "word": "message",
+        "en-us": "message"
+    },
+    {
+        "word": "position",
+        "en-us": "position"
+    },
+    {
+        "word": "r\u00e9publique",
+        "en-us": "republic"
+    },
+    {
+        "word": "succ\u00e8s",
+        "en-us": "success"
+    },
+    {
+        "word": "\u00e9conomique",
+        "en-us": "economic"
+    },
+    {
+        "word": "activit\u00e9",
+        "en-us": "activity"
+    },
+    {
+        "word": "am\u00e9ricain",
+        "en-us": "american"
+    },
+    {
+        "word": "association",
+        "en-us": "association"
+    },
+    {
+        "word": "carte",
+        "en-us": "card"
+    },
+    {
+        "word": "chercher",
+        "en-us": "search"
+    },
+    {
+        "word": "connu",
+        "en-us": "known"
+    },
+    {
+        "word": "cr\u00e9ation",
+        "en-us": "creation"
+    },
+    {
+        "word": "devenir",
+        "en-us": "become"
+    },
+    {
+        "word": "euros",
+        "en-us": "euros"
+    },
+    {
+        "word": "exp\u00e9rience",
+        "en-us": "experience"
+    },
+    {
+        "word": "filles",
+        "en-us": "girls"
+    },
+    {
+        "word": "fonction",
+        "en-us": "function"
+    },
+    {
+        "word": "impression",
+        "en-us": "printing"
+    },
+    {
+        "word": "louis",
+        "en-us": "louis"
+    },
+    {
+        "word": "nature",
+        "en-us": "nature"
+    },
+    {
+        "word": "putain",
+        "en-us": "whore"
+    },
+    {
+        "word": "simplement",
+        "en-us": "simply"
+    },
+    {
+        "word": "travers",
+        "en-us": "through"
+    },
+    {
+        "word": "allemagne",
+        "en-us": "germany"
+    },
+    {
+        "word": "annonce",
+        "en-us": "advertisement"
+    },
+    {
+        "word": "arr\u00eater",
+        "en-us": "stop"
+    },
+    {
+        "word": "bient\u00f4t",
+        "en-us": "soon"
+    },
+    {
+        "word": "chemin",
+        "en-us": "path"
+    },
+    {
+        "word": "demi",
+        "en-us": "half"
+    },
+    {
+        "word": "diff\u00e9rents",
+        "en-us": "different"
+    },
+    {
+        "word": "directeur",
+        "en-us": "director"
+    },
+    {
+        "word": "espace",
+        "en-us": "space"
+    },
+    {
+        "word": "libert\u00e9",
+        "en-us": "freedom"
+    },
+    {
+        "word": "mariage",
+        "en-us": "marriage"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "organisation",
+        "en-us": "organization"
+    },
+    {
+        "word": "passage",
+        "en-us": "passage"
+    },
+    {
+        "word": "pr\u00e9sence",
+        "en-us": "presence"
+    },
+    {
+        "word": "sein",
+        "en-us": "breast"
+    },
+    {
+        "word": "sort",
+        "en-us": "spell"
+    },
+    {
+        "word": "zone",
+        "en-us": "zone"
+    },
+    {
+        "word": "\u00e9conomie",
+        "en-us": "economy"
+    },
+    {
+        "word": "bureau",
+        "en-us": "office"
+    },
+    {
+        "word": "compagnie",
+        "en-us": "company"
+    },
+    {
+        "word": "entr\u00e9e",
+        "en-us": "entrance"
+    },
+    {
+        "word": "mains",
+        "en-us": "hands"
+    },
+    {
+        "word": "moyenne",
+        "en-us": "average"
+    },
+    {
+        "word": "ok",
+        "en-us": "ok"
+    },
+    {
+        "word": "pied",
+        "en-us": "foot"
+    },
+    {
+        "word": "presse",
+        "en-us": "press"
+    },
+    {
+        "word": "prise",
+        "en-us": "plug"
+    },
+    {
+        "word": "r\u00e9alit\u00e9",
+        "en-us": "reality"
+    },
+    {
+        "word": "social",
+        "en-us": "social"
+    },
+    {
+        "word": "sorte",
+        "en-us": "type"
+    },
+    {
+        "word": "universit\u00e9",
+        "en-us": "university"
+    },
+    {
+        "word": "utiliser",
+        "en-us": "use"
+    },
+    {
+        "word": "\u0153uvre",
+        "en-us": "work"
+    },
+    {
+        "word": "acc\u00e8s",
+        "en-us": "access"
+    },
+    {
+        "word": "commission",
+        "en-us": "commission"
+    },
+    {
+        "word": "diff\u00e9rentes",
+        "en-us": "different"
+    },
+    {
+        "word": "dimanche",
+        "en-us": "sunday"
+    },
+    {
+        "word": "d\u00e9part",
+        "en-us": "departure"
+    },
+    {
+        "word": "g\u00e9n\u00e9rale",
+        "en-us": "general"
+    },
+    {
+        "word": "lit",
+        "en-us": "bed"
+    },
+    {
+        "word": "marie",
+        "en-us": "marie"
+    },
+    {
+        "word": "mauvais",
+        "en-us": "bad"
+    },
+    {
+        "word": "num\u00e9ro",
+        "en-us": "number"
+    },
+    {
+        "word": "puisque",
+        "en-us": "since"
+    },
+    {
+        "word": "regarder",
+        "en-us": "watch"
+    },
+    {
+        "word": "soient",
+        "en-us": "are"
+    },
+    {
+        "word": "soleil",
+        "en-us": "sun"
+    },
+    {
+        "word": "taux",
+        "en-us": "rate"
+    },
+    {
+        "word": "travailler",
+        "en-us": "work"
+    },
+    {
+        "word": "voie",
+        "en-us": "path"
+    },
+    {
+        "word": "acheter",
+        "en-us": "buy"
+    },
+    {
+        "word": "afrique",
+        "en-us": "africa"
+    },
+    {
+        "word": "attendre",
+        "en-us": "wait"
+    },
+    {
+        "word": "bras",
+        "en-us": "arm"
+    },
+    {
+        "word": "charge",
+        "en-us": "load"
+    },
+    {
+        "word": "ex",
+        "en-us": "ex"
+    },
+    {
+        "word": "finalement",
+        "en-us": "finally"
+    },
+    {
+        "word": "fini",
+        "en-us": "finish"
+    },
+    {
+        "word": "haute",
+        "en-us": "high"
+    },
+    {
+        "word": "manger",
+        "en-us": "eat"
+    },
+    {
+        "word": "marque",
+        "en-us": "brand"
+    },
+    {
+        "word": "moyens",
+        "en-us": "means"
+    },
+    {
+        "word": "perdre",
+        "en-us": "lose"
+    },
+    {
+        "word": "pi\u00e8ces",
+        "en-us": "parts"
+    },
+    {
+        "word": "pratique",
+        "en-us": "practice"
+    },
+    {
+        "word": "sociale",
+        "en-us": "social"
+    },
+    {
+        "word": "victoire",
+        "en-us": "victory"
+    },
+    {
+        "word": "v\u00e9rit\u00e9",
+        "en-us": "truth"
+    },
+    {
+        "word": "ben",
+        "en-us": "ben"
+    },
+    {
+        "word": "cherche",
+        "en-us": "seeks"
+    },
+    {
+        "word": "communaut\u00e9",
+        "en-us": "community"
+    },
+    {
+        "word": "domaine",
+        "en-us": "domain"
+    },
+    {
+        "word": "id\u00e9es",
+        "en-us": "ideas"
+    },
+    {
+        "word": "monsieur",
+        "en-us": "mr."
+    },
+    {
+        "word": "nombreuses",
+        "en-us": "numerous"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "payer",
+        "en-us": "pay"
+    },
+    {
+        "word": "peuple",
+        "en-us": "people"
+    },
+    {
+        "word": "proche",
+        "en-us": "close"
+    },
+    {
+        "word": "publi\u00e9",
+        "en-us": "published"
+    },
+    {
+        "word": "quant",
+        "en-us": "as to"
+    },
+    {
+        "word": "re\u00e7u",
+        "en-us": "received"
+    },
+    {
+        "word": "r\u00e9pondre",
+        "en-us": "answer"
+    },
+    {
+        "word": "suivre",
+        "en-us": "follow"
+    },
+    {
+        "word": "administration",
+        "en-us": "administration"
+    },
+    {
+        "word": "aupr\u00e8s",
+        "en-us": "at"
+    },
+    {
+        "word": "code",
+        "en-us": "code"
+    },
+    {
+        "word": "demand\u00e9",
+        "en-us": "requested"
+    },
+    {
+        "word": "entendu",
+        "en-us": "heard"
+    },
+    {
+        "word": "faisant",
+        "en-us": "doing"
+    },
+    {
+        "word": "gagner",
+        "en-us": "win"
+    },
+    {
+        "word": "honneur",
+        "en-us": "honor"
+    },
+    {
+        "word": "journal",
+        "en-us": "newspaper"
+    },
+    {
+        "word": "mati\u00e8re",
+        "en-us": "material"
+    },
+    {
+        "word": "ouest",
+        "en-us": "west"
+    },
+    {
+        "word": "permis",
+        "en-us": "permit"
+    },
+    {
+        "word": "rapidement",
+        "en-us": "quickly"
+    },
+    {
+        "word": "retrouver",
+        "en-us": "find"
+    },
+    {
+        "word": "r\u00e9sultat",
+        "en-us": "result"
+    },
+    {
+        "word": "sept",
+        "en-us": "seven"
+    },
+    {
+        "word": "soir\u00e9e",
+        "en-us": "evening"
+    },
+    {
+        "word": "sol",
+        "en-us": "ground"
+    },
+    {
+        "word": "sport",
+        "en-us": "sport"
+    },
+    {
+        "word": "t\u00e9l\u00e9phone",
+        "en-us": "phone"
+    },
+    {
+        "word": "version",
+        "en-us": "version"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "armes",
+        "en-us": "weapons"
+    },
+    {
+        "word": "arriver",
+        "en-us": "arrive"
+    },
+    {
+        "word": "arriv\u00e9e",
+        "en-us": "arrival"
+    },
+    {
+        "word": "coeur",
+        "en-us": "heart"
+    },
+    {
+        "word": "construction",
+        "en-us": "construction"
+    },
+    {
+        "word": "devoir",
+        "en-us": "homework"
+    },
+    {
+        "word": "double",
+        "en-us": "double"
+    },
+    {
+        "word": "information",
+        "en-us": "information"
+    },
+    {
+        "word": "jusqu'au",
+        "en-us": "until"
+    },
+    {
+        "word": "midi",
+        "en-us": "noon"
+    },
+    {
+        "word": "mission",
+        "en-us": "mission"
+    },
+    {
+        "word": "moiti\u00e9",
+        "en-us": "half"
+    },
+    {
+        "word": "page",
+        "en-us": "page"
+    },
+    {
+        "word": "particuli\u00e8rement",
+        "en-us": "particularly"
+    },
+    {
+        "word": "pi\u00e8ce",
+        "en-us": "part"
+    },
+    {
+        "word": "pourra",
+        "en-us": "can"
+    },
+    {
+        "word": "prochaine",
+        "en-us": "next"
+    },
+    {
+        "word": "pr\u00eat",
+        "en-us": "loan"
+    },
+    {
+        "word": "rend",
+        "en-us": "makes"
+    },
+    {
+        "word": "technique",
+        "en-us": "technique"
+    },
+    {
+        "word": "union",
+        "en-us": "union"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "voyage",
+        "en-us": "travel"
+    },
+    {
+        "word": "\u00e9nergie",
+        "en-us": "energy"
+    },
+    {
+        "word": "\u00e9viter",
+        "en-us": "avoid"
+    },
+    {
+        "word": "arr\u00eate",
+        "en-us": "stop"
+    },
+    {
+        "word": "articles",
+        "en-us": "articles"
+    },
+    {
+        "word": "bord",
+        "en-us": "edge"
+    },
+    {
+        "word": "combien",
+        "en-us": "how much"
+    },
+    {
+        "word": "continue",
+        "en-us": "continues"
+    },
+    {
+        "word": "contraire",
+        "en-us": "contrary"
+    },
+    {
+        "word": "courant",
+        "en-us": "current"
+    },
+    {
+        "word": "derniers",
+        "en-us": "last"
+    },
+    {
+        "word": "devait",
+        "en-us": "should"
+    },
+    {
+        "word": "entendre",
+        "en-us": "hear"
+    },
+    {
+        "word": "faits",
+        "en-us": "facts"
+    },
+    {
+        "word": "faute",
+        "en-us": "fault"
+    },
+    {
+        "word": "fera",
+        "en-us": "will do"
+    },
+    {
+        "word": "finale",
+        "en-us": "final"
+    },
+    {
+        "word": "heureux",
+        "en-us": "happy"
+    },
+    {
+        "word": "impossible",
+        "en-us": "impossible"
+    },
+    {
+        "word": "joueur",
+        "en-us": "player"
+    },
+    {
+        "word": "longue",
+        "en-us": "long"
+    },
+    {
+        "word": "n\u00e9cessaire",
+        "en-us": "required"
+    },
+    {
+        "word": "paul",
+        "en-us": "paul"
+    },
+    {
+        "word": "porter",
+        "en-us": "wear"
+    },
+    {
+        "word": "pouvait",
+        "en-us": "could"
+    },
+    {
+        "word": "samedi",
+        "en-us": "saturday"
+    },
+    {
+        "word": "sang",
+        "en-us": "blood"
+    },
+    {
+        "word": "second",
+        "en-us": "second"
+    },
+    {
+        "word": "style",
+        "en-us": "style"
+    },
+    {
+        "word": "s\u00e9rieux",
+        "en-us": "serious"
+    },
+    {
+        "word": "terrain",
+        "en-us": "land"
+    },
+    {
+        "word": "villes",
+        "en-us": "cities"
+    },
+    {
+        "word": "\u00e9glise",
+        "en-us": "church"
+    },
+    {
+        "word": "1er",
+        "en-us": "1st"
+    },
+    {
+        "word": "comprends",
+        "en-us": "understand"
+    },
+    {
+        "word": "cr\u00e9er",
+        "en-us": "create"
+    },
+    {
+        "word": "d\u00e9cision",
+        "en-us": "decision"
+    },
+    {
+        "word": "d\u00e9fense",
+        "en-us": "defense"
+    },
+    {
+        "word": "d\u00e9sormais",
+        "en-us": "now"
+    },
+    {
+        "word": "frais",
+        "en-us": "fees"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "h\u00f4tel",
+        "en-us": "hotel"
+    },
+    {
+        "word": "instant",
+        "en-us": "instant"
+    },
+    {
+        "word": "livres",
+        "en-us": "books"
+    },
+    {
+        "word": "majorit\u00e9",
+        "en-us": "majority"
+    },
+    {
+        "word": "mod\u00e8le",
+        "en-us": "model"
+    },
+    {
+        "word": "obtenir",
+        "en-us": "get"
+    },
+    {
+        "word": "outre",
+        "en-us": "besides"
+    },
+    {
+        "word": "paix",
+        "en-us": "peace"
+    },
+    {
+        "word": "puisse",
+        "en-us": "can"
+    },
+    {
+        "word": "rappelle",
+        "en-us": "reminds"
+    },
+    {
+        "word": "solution",
+        "en-us": "solution"
+    },
+    {
+        "word": "tandis",
+        "en-us": "while"
+    },
+    {
+        "word": "actuellement",
+        "en-us": "currently"
+    },
+    {
+        "word": "assembl\u00e9e",
+        "en-us": "assembly"
+    },
+    {
+        "word": "bande",
+        "en-us": "band"
+    },
+    {
+        "word": "commenc\u00e9",
+        "en-us": "started"
+    },
+    {
+        "word": "commune",
+        "en-us": "commune"
+    },
+    {
+        "word": "comprend",
+        "en-us": "includes"
+    },
+    {
+        "word": "contrat",
+        "en-us": "contract"
+    },
+    {
+        "word": "faux",
+        "en-us": "false"
+    },
+    {
+        "word": "forces",
+        "en-us": "forces"
+    },
+    {
+        "word": "groupes",
+        "en-us": "groups"
+    },
+    {
+        "word": "international",
+        "en-us": "international"
+    },
+    {
+        "word": "morts",
+        "en-us": "deaths"
+    },
+    {
+        "word": "note",
+        "en-us": "note"
+    },
+    {
+        "word": "suffit",
+        "en-us": "sufficient"
+    },
+    {
+        "word": "total",
+        "en-us": "total"
+    },
+    {
+        "word": "t\u00f4t",
+        "en-us": "early"
+    },
+    {
+        "word": "vol",
+        "en-us": "flight"
+    },
+    {
+        "word": "voulu",
+        "en-us": "wanted"
+    },
+    {
+        "word": "\u00e9l\u00e9ments",
+        "en-us": "elements"
+    },
+    {
+        "word": "avenir",
+        "en-us": "future"
+    },
+    {
+        "word": "bons",
+        "en-us": "good"
+    },
+    {
+        "word": "critique",
+        "en-us": "review"
+    },
+    {
+        "word": "dehors",
+        "en-us": "outside"
+    },
+    {
+        "word": "derni\u00e8res",
+        "en-us": "latest"
+    },
+    {
+        "word": "devenu",
+        "en-us": "now"
+    },
+    {
+        "word": "directement",
+        "en-us": "directly"
+    },
+    {
+        "word": "discours",
+        "en-us": "speech"
+    },
+    {
+        "word": "dur",
+        "en-us": "hard"
+    },
+    {
+        "word": "explique",
+        "en-us": "explains"
+    },
+    {
+        "word": "forte",
+        "en-us": "strong"
+    },
+    {
+        "word": "f\u00eate",
+        "en-us": "party"
+    },
+    {
+        "word": "informations",
+        "en-us": "information"
+    },
+    {
+        "word": "joueurs",
+        "en-us": "players"
+    },
+    {
+        "word": "ma\u00eetre",
+        "en-us": "master"
+    },
+    {
+        "word": "personnel",
+        "en-us": "staff"
+    },
+    {
+        "word": "petites",
+        "en-us": "small"
+    },
+    {
+        "word": "premi\u00e8res",
+        "en-us": "first"
+    },
+    {
+        "word": "preuve",
+        "en-us": "proof"
+    },
+    {
+        "word": "prison",
+        "en-us": "prison"
+    },
+    {
+        "word": "propose",
+        "en-us": "offers"
+    },
+    {
+        "word": "vendredi",
+        "en-us": "friday"
+    },
+    {
+        "word": "\u00e9ducation",
+        "en-us": "education"
+    },
+    {
+        "word": "adresse",
+        "en-us": "address"
+    },
+    {
+        "word": "apprendre",
+        "en-us": "learn"
+    },
+    {
+        "word": "attaque",
+        "en-us": "attack"
+    },
+    {
+        "word": "avance",
+        "en-us": "advance"
+    },
+    {
+        "word": "ceci",
+        "en-us": "this"
+    },
+    {
+        "word": "court",
+        "en-us": "short"
+    },
+    {
+        "word": "dos",
+        "en-us": "back"
+    },
+    {
+        "word": "endroit",
+        "en-us": "location"
+    },
+    {
+        "word": "essayer",
+        "en-us": "try"
+    },
+    {
+        "word": "exactement",
+        "en-us": "exactly"
+    },
+    {
+        "word": "grave",
+        "en-us": "serious"
+    },
+    {
+        "word": "huit",
+        "en-us": "eight"
+    },
+    {
+        "word": "lumi\u00e8re",
+        "en-us": "light"
+    },
+    {
+        "word": "meilleurs",
+        "en-us": "best"
+    },
+    {
+        "word": "m\u00e9dias",
+        "en-us": "media"
+    },
+    {
+        "word": "retrouve",
+        "en-us": "can be found at"
+    },
+    {
+        "word": "r\u00e9gime",
+        "en-us": "diet"
+    },
+    {
+        "word": "toutefois",
+        "en-us": "however"
+    },
+    {
+        "word": "activit\u00e9s",
+        "en-us": "activities"
+    },
+    {
+        "word": "arri\u00e8re",
+        "en-us": "back"
+    },
+    {
+        "word": "bonnes",
+        "en-us": "good"
+    },
+    {
+        "word": "commencer",
+        "en-us": "start"
+    },
+    {
+        "word": "commerce",
+        "en-us": "trade"
+    },
+    {
+        "word": "compl\u00e8tement",
+        "en-us": "completely"
+    },
+    {
+        "word": "faite",
+        "en-us": "made"
+    },
+    {
+        "word": "films",
+        "en-us": "films"
+    },
+    {
+        "word": "grosse",
+        "en-us": "big"
+    },
+    {
+        "word": "habitants",
+        "en-us": "inhabitants"
+    },
+    {
+        "word": "michel",
+        "en-us": "michel"
+    },
+    {
+        "word": "montrer",
+        "en-us": "show"
+    },
+    {
+        "word": "physique",
+        "en-us": "physics"
+    },
+    {
+        "word": "quartier",
+        "en-us": "district"
+    },
+    {
+        "word": "rendez",
+        "en-us": "return"
+    },
+    {
+        "word": "telle",
+        "en-us": "such"
+    },
+    {
+        "word": "territoire",
+        "en-us": "territory"
+    },
+    {
+        "word": "unique",
+        "en-us": "unique"
+    },
+    {
+        "word": "vente",
+        "en-us": "sale"
+    },
+    {
+        "word": "via",
+        "en-us": "via"
+    },
+    {
+        "word": "vis",
+        "en-us": "screw"
+    },
+    {
+        "word": "appel\u00e9",
+        "en-us": "called"
+    },
+    {
+        "word": "arriv\u00e9",
+        "en-us": "arrived"
+    },
+    {
+        "word": "changement",
+        "en-us": "change"
+    },
+    {
+        "word": "concernant",
+        "en-us": "on"
+    },
+    {
+        "word": "conna\u00eetre",
+        "en-us": "know"
+    },
+    {
+        "word": "cul",
+        "en-us": "ass"
+    },
+    {
+        "word": "europ\u00e9enne",
+        "en-us": "european"
+    }
+]
