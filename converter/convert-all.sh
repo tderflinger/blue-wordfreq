@@ -7,4 +7,4 @@ go run converter.go es Spanish
 go run converter.go fr French
 go run converter.go pl Polish
 go run converter.go tr Turkish
-
+go run converter.go uk Ukrainian

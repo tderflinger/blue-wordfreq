@@ -1,6 +1,6 @@
 # blue-wordfreq
 
-Word frequency list for Czech, Greek, French, Spanish, Mandarin, Romanian, Polish, Turkish and Swedish with English translations.
+Word frequency list for Czech, Greek, French, Spanish, Mandarin, Romanian, Polish, Turkish, Ukrainian and Swedish with English translations.
 Ideal for second language acquisition and language learning. The lists contain the 1000 most common words in each language.
 
 Based on [wordfreq](https://github.com/rspeer/wordfreq), translated using [DeepL](https://www.deepl.com/translator).
@@ -45,6 +45,7 @@ Where languageId is one of the following:
 - es (Spanish)
 - sv (Swedish)
 - tr (Turkish)
+- uk (Ukrainian)
 
 ## Converter
 
@@ -57,6 +58,8 @@ Run:
 cd converter
 go run converter.go languageId languageName
 ```
+
+The generated HTML files are then located in the `dist` directory.
 
 ## Deployment
 
