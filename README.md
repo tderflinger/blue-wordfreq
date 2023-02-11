@@ -1,6 +1,6 @@
 # blue-wordfreq
 
-Word frequency list for Czech, Greek, French, Spanish, Mandarin, Romanian and Swedish with English translations.
+Word frequency list for Czech, Greek, French, Spanish, Mandarin, Romanian, Polish, Turkish and Swedish with English translations.
 Ideal for second language acquisition and language learning. The lists contain the 1000 most common words in each language.
 
 Based on [wordfreq](https://github.com/rspeer/wordfreq), translated using [DeepL](https://www.deepl.com/translator).
@@ -19,6 +19,14 @@ pip3 install -r requirements.txt
 
 ## Run
 
+Create deepl.env file with the following content:
+
+```bash
+export DEEPL_KEY=your-auth-key
+```
+
+Then run to generate and translate the word frequency list for the respective language (`languageId`):
+
 ```bash
 . venv/bin/activate
 
@@ -36,6 +44,7 @@ Where languageId is one of the following:
 - ro (Romanian)
 - es (Spanish)
 - sv (Swedish)
+- tr (Turkish)
 
 ## Converter
 

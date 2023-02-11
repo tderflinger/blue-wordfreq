@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "w",
+        "en-us": "w"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "nie",
+        "en-us": "not"
+    },
+    {
+        "word": "na",
+        "en-us": "at"
+    },
+    {
+        "word": "si\u0119",
+        "en-us": "get"
+    },
+    {
+        "word": "to",
+        "en-us": "it's"
+    },
+    {
+        "word": "z",
+        "en-us": "z"
+    },
+    {
+        "word": "do",
+        "en-us": "to"
+    },
+    {
+        "word": "jest",
+        "en-us": "is"
+    },
+    {
+        "word": "\u017ce",
+        "en-us": "that"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "jak",
+        "en-us": "like"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "ale",
+        "en-us": "but"
+    },
+    {
+        "word": "co",
+        "en-us": "co"
+    },
+    {
+        "word": "tak",
+        "en-us": "yes"
+    },
+    {
+        "word": "za",
+        "en-us": "per"
+    },
+    {
+        "word": "od",
+        "en-us": "from"
+    },
+    {
+        "word": "po",
+        "en-us": "at"
+    },
+    {
+        "word": "dla",
+        "en-us": "for"
+    },
+    {
+        "word": "tym",
+        "en-us": "including"
+    },
+    {
+        "word": "czy",
+        "en-us": "or"
+    },
+    {
+        "word": "przez",
+        "en-us": "via"
+    },
+    {
+        "word": "tego",
+        "en-us": "of this"
+    },
+    {
+        "word": "s\u0105",
+        "en-us": "are"
+    },
+    {
+        "word": "ma",
+        "en-us": "has"
+    },
+    {
+        "word": "tylko",
+        "en-us": "only"
+    },
+    {
+        "word": "ju\u017c",
+        "en-us": "already"
+    },
+    {
+        "word": "mi",
+        "en-us": "mi"
+    },
+    {
+        "word": "mnie",
+        "en-us": "me"
+    },
+    {
+        "word": "ze",
+        "en-us": "from"
+    },
+    {
+        "word": "mo\u017ce",
+        "en-us": "maybe"
+    },
+    {
+        "word": "bo",
+        "en-us": "because"
+    },
+    {
+        "word": "ja",
+        "en-us": "me"
+    },
+    {
+        "word": "ten",
+        "en-us": "this"
+    },
+    {
+        "word": "oraz",
+        "en-us": "and"
+    },
+    {
+        "word": "bardzo",
+        "en-us": "very"
+    },
+    {
+        "word": "b\u0119dzie",
+        "en-us": "will be"
+    },
+    {
+        "word": "by\u0107",
+        "en-us": "be"
+    },
+    {
+        "word": "jego",
+        "en-us": "its"
+    },
+    {
+        "word": "by",
+        "en-us": "by"
+    },
+    {
+        "word": "sobie",
+        "en-us": "oneself"
+    },
+    {
+        "word": "ich",
+        "en-us": "their"
+    },
+    {
+        "word": "mam",
+        "en-us": "i have"
+    },
+    {
+        "word": "je\u015bli",
+        "en-us": "if"
+    },
+    {
+        "word": "roku",
+        "en-us": "year"
+    },
+    {
+        "word": "te\u017c",
+        "en-us": "also"
+    },
+    {
+        "word": "jeszcze",
+        "en-us": "still"
+    },
+    {
+        "word": "by\u0142",
+        "en-us": "was"
+    },
+    {
+        "word": "kt\u00f3re",
+        "en-us": "which"
+    },
+    {
+        "word": "jako",
+        "en-us": "as"
+    },
+    {
+        "word": "jestem",
+        "en-us": "i'm"
+    },
+    {
+        "word": "by\u0142o",
+        "en-us": "was"
+    },
+    {
+        "word": "jej",
+        "en-us": "its"
+    },
+    {
+        "word": "kiedy",
+        "en-us": "when"
+    },
+    {
+        "word": "kt\u00f3ry",
+        "en-us": "which"
+    },
+    {
+        "word": "nawet",
+        "en-us": "even"
+    },
+    {
+        "word": "teraz",
+        "en-us": "now"
+    },
+    {
+        "word": "go",
+        "en-us": "go"
+    },
+    {
+        "word": "no",
+        "en-us": "no"
+    },
+    {
+        "word": "pod",
+        "en-us": "under"
+    },
+    {
+        "word": "co\u015b",
+        "en-us": "sth."
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "ci",
+        "en-us": "those"
+    },
+    {
+        "word": "lat",
+        "en-us": "years"
+    },
+    {
+        "word": "tam",
+        "en-us": "there"
+    },
+    {
+        "word": "te",
+        "en-us": "these"
+    },
+    {
+        "word": "wi\u0119c",
+        "en-us": "so"
+    },
+    {
+        "word": "gdy",
+        "en-us": "when"
+    },
+    {
+        "word": "gdzie",
+        "en-us": "where"
+    },
+    {
+        "word": "tej",
+        "en-us": "this"
+    },
+    {
+        "word": "bez",
+        "en-us": "without"
+    },
+    {
+        "word": "\u017ceby",
+        "en-us": "so that"
+    },
+    {
+        "word": "jednak",
+        "en-us": "however"
+    },
+    {
+        "word": "lub",
+        "en-us": "or"
+    },
+    {
+        "word": "wiem",
+        "en-us": "know"
+    },
+    {
+        "word": "nic",
+        "en-us": "nothing"
+    },
+    {
+        "word": "wszystko",
+        "en-us": "everything"
+    },
+    {
+        "word": "mo\u017cna",
+        "en-us": "can"
+    },
+    {
+        "word": "przy",
+        "en-us": "at"
+    },
+    {
+        "word": "ludzie",
+        "en-us": "people"
+    },
+    {
+        "word": "przed",
+        "en-us": "before"
+    },
+    {
+        "word": "wi\u0119cej",
+        "en-us": "more"
+    },
+    {
+        "word": "chyba",
+        "en-us": "probably"
+    },
+    {
+        "word": "ludzi",
+        "en-us": "people"
+    },
+    {
+        "word": "nas",
+        "en-us": "us"
+    },
+    {
+        "word": "tak\u017ce",
+        "en-us": "also"
+    },
+    {
+        "word": "tu",
+        "en-us": "here"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "by\u0142a",
+        "en-us": "was"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "tych",
+        "en-us": "these"
+    },
+    {
+        "word": "r\u00f3wnie\u017c",
+        "en-us": "also"
+    },
+    {
+        "word": "ta",
+        "en-us": "this"
+    },
+    {
+        "word": "takie",
+        "en-us": "such"
+    },
+    {
+        "word": "kto\u015b",
+        "en-us": "someone"
+    },
+    {
+        "word": "ni\u017c",
+        "en-us": "than"
+    },
+    {
+        "word": "dobrze",
+        "en-us": "well"
+    },
+    {
+        "word": "kto",
+        "en-us": "who"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "zawsze",
+        "en-us": "always"
+    },
+    {
+        "word": "kt\u00f3ra",
+        "en-us": "which"
+    },
+    {
+        "word": "w\u0142a\u015bnie",
+        "en-us": "just"
+    },
+    {
+        "word": "masz",
+        "en-us": "you have"
+    },
+    {
+        "word": "sie",
+        "en-us": "oneself"
+    },
+    {
+        "word": "aby",
+        "en-us": "to"
+    },
+    {
+        "word": "albo",
+        "en-us": "or"
+    },
+    {
+        "word": "ty",
+        "en-us": "you"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "os\u00f3b",
+        "en-us": "people"
+    },
+    {
+        "word": "czas",
+        "en-us": "time"
+    },
+    {
+        "word": "maj\u0105",
+        "en-us": "have"
+    },
+    {
+        "word": "dzi\u0119ki",
+        "en-us": "thanks to"
+    },
+    {
+        "word": "kt\u00f3rzy",
+        "en-us": "who"
+    },
+    {
+        "word": "podczas",
+        "en-us": "during"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "bardziej",
+        "en-us": "more"
+    },
+    {
+        "word": "dlaczego",
+        "en-us": "why"
+    },
+    {
+        "word": "dzieci",
+        "en-us": "children"
+    },
+    {
+        "word": "nich",
+        "en-us": "them"
+    },
+    {
+        "word": "raz",
+        "en-us": "once"
+    },
+    {
+        "word": "mu",
+        "en-us": "mu"
+    },
+    {
+        "word": "nad",
+        "en-us": "above"
+    },
+    {
+        "word": "nigdy",
+        "en-us": "never"
+    },
+    {
+        "word": "pracy",
+        "en-us": "work"
+    },
+    {
+        "word": "im",
+        "en-us": "im"
+    },
+    {
+        "word": "mamy",
+        "en-us": "we have"
+    },
+    {
+        "word": "\u017cycie",
+        "en-us": "life"
+    },
+    {
+        "word": "chce",
+        "en-us": "wants"
+    },
+    {
+        "word": "dnia",
+        "en-us": "on"
+    },
+    {
+        "word": "innych",
+        "en-us": "other"
+    },
+    {
+        "word": "je",
+        "en-us": "them"
+    },
+    {
+        "word": "jeste\u015b",
+        "en-us": "you are"
+    },
+    {
+        "word": "temu",
+        "en-us": "this"
+    },
+    {
+        "word": "tutaj",
+        "en-us": "here"
+    },
+    {
+        "word": "wiele",
+        "en-us": "much"
+    },
+    {
+        "word": "zosta\u0142",
+        "en-us": "has been"
+    },
+    {
+        "word": "b\u0119d\u0105",
+        "en-us": "will be"
+    },
+    {
+        "word": "jeden",
+        "en-us": "one"
+    },
+    {
+        "word": "miejsce",
+        "en-us": "location"
+    },
+    {
+        "word": "polski",
+        "en-us": "polish"
+    },
+    {
+        "word": "wszyscy",
+        "en-us": "all"
+    },
+    {
+        "word": "wszystkich",
+        "en-us": "all"
+    },
+    {
+        "word": "wszystkie",
+        "en-us": "all"
+    },
+    {
+        "word": "by\u0142y",
+        "en-us": "former"
+    },
+    {
+        "word": "kilka",
+        "en-us": "several"
+    },
+    {
+        "word": "nam",
+        "en-us": "us"
+    },
+    {
+        "word": "spos\u00f3b",
+        "en-us": "way"
+    },
+    {
+        "word": "we",
+        "en-us": "at"
+    },
+    {
+        "word": "domu",
+        "en-us": "home"
+    },
+    {
+        "word": "dzie\u0144",
+        "en-us": "day"
+    },
+    {
+        "word": "kt\u00f3rych",
+        "en-us": "of which"
+    },
+    {
+        "word": "prostu",
+        "en-us": "simply"
+    },
+    {
+        "word": "razem",
+        "en-us": "together"
+    },
+    {
+        "word": "siebie",
+        "en-us": "oneself"
+    },
+    {
+        "word": "taki",
+        "en-us": "such"
+    },
+    {
+        "word": "chodzi",
+        "en-us": "goes"
+    },
+    {
+        "word": "swoje",
+        "en-us": "its"
+    },
+    {
+        "word": "troch\u0119",
+        "en-us": "little"
+    },
+    {
+        "word": "czasu",
+        "en-us": "time"
+    },
+    {
+        "word": "dlatego",
+        "en-us": "therefore"
+    },
+    {
+        "word": "ka\u017cdy",
+        "en-us": "any"
+    },
+    {
+        "word": "kt\u00f3rym",
+        "en-us": "which"
+    },
+    {
+        "word": "dwa",
+        "en-us": "two"
+    },
+    {
+        "word": "mia\u0142",
+        "en-us": "had"
+    },
+    {
+        "word": "moje",
+        "en-us": "my"
+    },
+    {
+        "word": "m\u00f3j",
+        "en-us": "my"
+    },
+    {
+        "word": "naprawd\u0119",
+        "en-us": "really"
+    },
+    {
+        "word": "ok",
+        "en-us": "about"
+    },
+    {
+        "word": "polsce",
+        "en-us": "poland"
+    },
+    {
+        "word": "sam",
+        "en-us": "alone"
+    },
+    {
+        "word": "trzeba",
+        "en-us": "must"
+    },
+    {
+        "word": "j\u0105",
+        "en-us": "it"
+    },
+    {
+        "word": "mie\u0107",
+        "en-us": "have"
+    },
+    {
+        "word": "m\u00f3wi",
+        "en-us": "says"
+    },
+    {
+        "word": "nim",
+        "en-us": "before"
+    },
+    {
+        "word": "ciebie",
+        "en-us": "you"
+    },
+    {
+        "word": "mog\u0105",
+        "en-us": "may"
+    },
+    {
+        "word": "mog\u0119",
+        "en-us": "i can"
+    },
+    {
+        "word": "oni",
+        "en-us": "them"
+    },
+    {
+        "word": "ci\u0119",
+        "en-us": "you"
+    },
+    {
+        "word": "dalej",
+        "en-us": "further"
+    },
+    {
+        "word": "du\u017co",
+        "en-us": "much"
+    },
+    {
+        "word": "nikt",
+        "en-us": "no one"
+    },
+    {
+        "word": "stanie",
+        "en-us": "state"
+    },
+    {
+        "word": "dzi\u015b",
+        "en-us": "today"
+    },
+    {
+        "word": "kt\u00f3rej",
+        "en-us": "of which"
+    },
+    {
+        "word": "moja",
+        "en-us": "my"
+    },
+    {
+        "word": "ona",
+        "en-us": "she"
+    },
+    {
+        "word": "rzeczy",
+        "en-us": "stuff"
+    },
+    {
+        "word": "strony",
+        "en-us": "websites"
+    },
+    {
+        "word": "\u017cycia",
+        "en-us": "lives"
+    },
+    {
+        "word": "kraju",
+        "en-us": "country"
+    },
+    {
+        "word": "pierwszy",
+        "en-us": "first"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "jakie",
+        "en-us": "what"
+    },
+    {
+        "word": "lepiej",
+        "en-us": "better"
+    },
+    {
+        "word": "potem",
+        "en-us": "then"
+    },
+    {
+        "word": "wtedy",
+        "en-us": "then"
+    },
+    {
+        "word": "a\u017c",
+        "en-us": "until"
+    },
+    {
+        "word": "b\u0119d\u0119",
+        "en-us": "i'll be"
+    },
+    {
+        "word": "dni",
+        "en-us": "days"
+    },
+    {
+        "word": "jaki",
+        "en-us": "what"
+    },
+    {
+        "word": "osoby",
+        "en-us": "persons"
+    },
+    {
+        "word": "tyle",
+        "en-us": "so much"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "ca\u0142y",
+        "en-us": "whole"
+    },
+    {
+        "word": "ile",
+        "en-us": "how much"
+    },
+    {
+        "word": "moim",
+        "en-us": "my"
+    },
+    {
+        "word": "my",
+        "en-us": "us"
+    },
+    {
+        "word": "najbardziej",
+        "en-us": "most"
+    },
+    {
+        "word": "niego",
+        "en-us": "him"
+    },
+    {
+        "word": "wielu",
+        "en-us": "many"
+    },
+    {
+        "word": "czasie",
+        "en-us": "time"
+    },
+    {
+        "word": "inne",
+        "en-us": "other"
+    },
+    {
+        "word": "wed\u0142ug",
+        "en-us": "according to"
+    },
+    {
+        "word": "czemu",
+        "en-us": "why"
+    },
+    {
+        "word": "czym",
+        "en-us": "with what"
+    },
+    {
+        "word": "musi",
+        "en-us": "must"
+    },
+    {
+        "word": "oczywi\u015bcie",
+        "en-us": "of course"
+    },
+    {
+        "word": "swoj\u0105",
+        "en-us": "its"
+    },
+    {
+        "word": "zosta\u0142a",
+        "en-us": "has been"
+    },
+    {
+        "word": "zrobi\u0107",
+        "en-us": "make"
+    },
+    {
+        "word": "\u015bwiata",
+        "en-us": "world"
+    },
+    {
+        "word": "czyli",
+        "en-us": "i.e."
+    },
+    {
+        "word": "kt\u00f3rego",
+        "en-us": "of which"
+    },
+    {
+        "word": "mi\u0119dzy",
+        "en-us": "between"
+    },
+    {
+        "word": "niech",
+        "en-us": "let"
+    },
+    {
+        "word": "prosz\u0119",
+        "en-us": "please"
+    },
+    {
+        "word": "taka",
+        "en-us": "such"
+    },
+    {
+        "word": "temat",
+        "en-us": "topic"
+    },
+    {
+        "word": "ani",
+        "en-us": "neither"
+    },
+    {
+        "word": "prawa",
+        "en-us": "rights"
+    },
+    {
+        "word": "p\u00f3\u017aniej",
+        "en-us": "later"
+    },
+    {
+        "word": "takich",
+        "en-us": "such"
+    },
+    {
+        "word": "wszystkim",
+        "en-us": "all"
+    },
+    {
+        "word": "dobry",
+        "en-us": "good"
+    },
+    {
+        "word": "mo\u017cesz",
+        "en-us": "you can"
+    },
+    {
+        "word": "pan",
+        "en-us": "mr."
+    },
+    {
+        "word": "pewnie",
+        "en-us": "probably"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "czego",
+        "en-us": "of which"
+    },
+    {
+        "word": "cz\u0119sto",
+        "en-us": "often"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "je\u017celi",
+        "en-us": "if"
+    },
+    {
+        "word": "nadal",
+        "en-us": "still"
+    },
+    {
+        "word": "was",
+        "en-us": "was"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "jaki\u015b",
+        "en-us": "some"
+    },
+    {
+        "word": "polska",
+        "en-us": "poland"
+    },
+    {
+        "word": "poza",
+        "en-us": "beyond"
+    },
+    {
+        "word": "dzi\u0119kuj\u0119",
+        "en-us": "thank you"
+    },
+    {
+        "word": "jakie\u015b",
+        "en-us": "some"
+    },
+    {
+        "word": "lata",
+        "en-us": "years"
+    },
+    {
+        "word": "np",
+        "en-us": "e.g."
+    },
+    {
+        "word": "prawo",
+        "en-us": "law"
+    },
+    {
+        "word": "rok",
+        "en-us": "year"
+    },
+    {
+        "word": "dw\u00f3ch",
+        "en-us": "two"
+    },
+    {
+        "word": "jeste\u015bmy",
+        "en-us": "we are"
+    },
+    {
+        "word": "dzisiaj",
+        "en-us": "today"
+    },
+    {
+        "word": "kiedy\u015b",
+        "en-us": "sometime"
+    },
+    {
+        "word": "ponad",
+        "en-us": "over"
+    },
+    {
+        "word": "zdj\u0119cie",
+        "en-us": "photo"
+    },
+    {
+        "word": "cz\u0119\u015b\u0107",
+        "en-us": "part of"
+    },
+    {
+        "word": "miasta",
+        "en-us": "cities"
+    },
+    {
+        "word": "prawie",
+        "en-us": "almost"
+    },
+    {
+        "word": "stronie",
+        "en-us": "website"
+    },
+    {
+        "word": "swoich",
+        "en-us": "its"
+    },
+    {
+        "word": "chc\u0119",
+        "en-us": "i want"
+    },
+    {
+        "word": "jednym",
+        "en-us": "one"
+    },
+    {
+        "word": "kurwa",
+        "en-us": "fuck"
+    },
+    {
+        "word": "nowe",
+        "en-us": "new"
+    },
+    {
+        "word": "pani",
+        "en-us": "ms."
+    },
+    {
+        "word": "powiedzia\u0142",
+        "en-us": "said"
+    },
+    {
+        "word": "problem",
+        "en-us": "problem"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "samo",
+        "en-us": "same"
+    },
+    {
+        "word": "takiego",
+        "en-us": "such"
+    },
+    {
+        "word": "trzy",
+        "en-us": "three"
+    },
+    {
+        "word": "wygl\u0105da",
+        "en-us": "looks"
+    },
+    {
+        "word": "chcesz",
+        "en-us": "want"
+    },
+    {
+        "word": "film",
+        "en-us": "video"
+    },
+    {
+        "word": "mia\u0142a",
+        "en-us": "had"
+    },
+    {
+        "word": "niej",
+        "en-us": "it"
+    },
+    {
+        "word": "t\u0105",
+        "en-us": "this"
+    },
+    {
+        "word": "wcze\u015bniej",
+        "en-us": "previously"
+    },
+    {
+        "word": "\u015bwiecie",
+        "en-us": "world"
+    },
+    {
+        "word": "one",
+        "en-us": "them"
+    },
+    {
+        "word": "swoim",
+        "en-us": "with your"
+    },
+    {
+        "word": "cz\u0119\u015bci",
+        "en-us": "parts"
+    },
+    {
+        "word": "gdyby",
+        "en-us": "if"
+    },
+    {
+        "word": "ko\u0144cu",
+        "en-us": "finally"
+    },
+    {
+        "word": "miejscu",
+        "en-us": "site"
+    },
+    {
+        "word": "nowy",
+        "en-us": "new"
+    },
+    {
+        "word": "poniewa\u017c",
+        "en-us": "since"
+    },
+    {
+        "word": "robi",
+        "en-us": "does"
+    },
+    {
+        "word": "szybko",
+        "en-us": "fast"
+    },
+    {
+        "word": "dobra",
+        "en-us": "goods"
+    },
+    {
+        "word": "koniec",
+        "en-us": "end"
+    },
+    {
+        "word": "obecnie",
+        "en-us": "currently"
+    },
+    {
+        "word": "pewno",
+        "en-us": "certainly"
+    },
+    {
+        "word": "szko\u0142y",
+        "en-us": "schools"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "kt\u00f3r\u0105",
+        "en-us": "which"
+    },
+    {
+        "word": "mimo",
+        "en-us": "despite"
+    },
+    {
+        "word": "mo\u017cemy",
+        "en-us": "we can"
+    },
+    {
+        "word": "prawda",
+        "en-us": "truth"
+    },
+    {
+        "word": "nadziej\u0119",
+        "en-us": "hope"
+    },
+    {
+        "word": "nale\u017cy",
+        "en-us": "please"
+    },
+    {
+        "word": "nasze",
+        "en-us": "our"
+    },
+    {
+        "word": "oko\u0142o",
+        "en-us": "about"
+    },
+    {
+        "word": "powodu",
+        "en-us": "due to"
+    },
+    {
+        "word": "przecie\u017c",
+        "en-us": "after all,"
+    },
+    {
+        "word": "razy",
+        "en-us": "times"
+    },
+    {
+        "word": "swojego",
+        "en-us": "its"
+    },
+    {
+        "word": "wydaje",
+        "en-us": "issues"
+    },
+    {
+        "word": "byli",
+        "en-us": "were"
+    },
+    {
+        "word": "dopiero",
+        "en-us": "only"
+    },
+    {
+        "word": "jakby",
+        "en-us": "like"
+    },
+    {
+        "word": "rozumiem",
+        "en-us": "i understand"
+    },
+    {
+        "word": "sama",
+        "en-us": "alone"
+    },
+    {
+        "word": "swojej",
+        "en-us": "its"
+    },
+    {
+        "word": "wieku",
+        "en-us": "age"
+    },
+    {
+        "word": "wiesz",
+        "en-us": "you know"
+    },
+    {
+        "word": "bym",
+        "en-us": "i would"
+    },
+    {
+        "word": "celu",
+        "en-us": "purpose"
+    },
+    {
+        "word": "historii",
+        "en-us": "stories"
+    },
+    {
+        "word": "jedna",
+        "en-us": "one"
+    },
+    {
+        "word": "latach",
+        "en-us": "years"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "miejsca",
+        "en-us": "sites"
+    },
+    {
+        "word": "mojej",
+        "en-us": "my"
+    },
+    {
+        "word": "t\u0119",
+        "en-us": "this"
+    },
+    {
+        "word": "wci\u0105\u017c",
+        "en-us": "still"
+    },
+    {
+        "word": "w\u015br\u00f3d",
+        "en-us": "among"
+    },
+    {
+        "word": "zbyt",
+        "en-us": "too"
+    },
+    {
+        "word": "dwie",
+        "en-us": "two"
+    },
+    {
+        "word": "musz\u0119",
+        "en-us": "i have to"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "pa\u0144stwa",
+        "en-us": "states"
+    },
+    {
+        "word": "pierwsze",
+        "en-us": "first"
+    },
+    {
+        "word": "samym",
+        "en-us": "alone"
+    },
+    {
+        "word": "sprawie",
+        "en-us": "on"
+    },
+    {
+        "word": "widz\u0119",
+        "en-us": "i see"
+    },
+    {
+        "word": "wi\u0119kszo\u015b\u0107",
+        "en-us": "most"
+    },
+    {
+        "word": "do\u015b\u0107",
+        "en-us": "quite"
+    },
+    {
+        "word": "kogo\u015b",
+        "en-us": "someone"
+    },
+    {
+        "word": "powiedzie\u0107",
+        "en-us": "say"
+    },
+    {
+        "word": "robi\u0107",
+        "en-us": "do"
+    },
+    {
+        "word": "s\u0142owa",
+        "en-us": "words"
+    },
+    {
+        "word": "typu",
+        "en-us": "type"
+    },
+    {
+        "word": "wam",
+        "en-us": "you"
+    },
+    {
+        "word": "wie",
+        "en-us": "knows"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "cz\u0142owieka",
+        "en-us": "man"
+    },
+    {
+        "word": "da",
+        "en-us": "da"
+    },
+    {
+        "word": "dok\u0142adnie",
+        "en-us": "thoroughly"
+    },
+    {
+        "word": "my\u015bl\u0119",
+        "en-us": "think"
+    },
+    {
+        "word": "sw\u00f3j",
+        "en-us": "its"
+    },
+    {
+        "word": "udzia\u0142",
+        "en-us": "share"
+    },
+    {
+        "word": "zdj\u0119cia",
+        "en-us": "photos"
+    },
+    {
+        "word": "\u015bwiat",
+        "en-us": "world"
+    },
+    {
+        "word": "brak",
+        "en-us": "no"
+    },
+    {
+        "word": "chocia\u017c",
+        "en-us": "although"
+    },
+    {
+        "word": "dobre",
+        "en-us": "good"
+    },
+    {
+        "word": "grupy",
+        "en-us": "groups"
+    },
+    {
+        "word": "pocz\u0105tku",
+        "en-us": "beginning"
+    },
+    {
+        "word": "pytanie",
+        "en-us": "question"
+    },
+    {
+        "word": "razie",
+        "en-us": "so far"
+    },
+    {
+        "word": "rodziny",
+        "en-us": "families"
+    },
+    {
+        "word": "takim",
+        "en-us": "such"
+    },
+    {
+        "word": "centrum",
+        "en-us": "center"
+    },
+    {
+        "word": "danych",
+        "en-us": "data"
+    },
+    {
+        "word": "drugiej",
+        "en-us": "second"
+    },
+    {
+        "word": "jednego",
+        "en-us": "one"
+    },
+    {
+        "word": "jedn\u0105",
+        "en-us": "one"
+    },
+    {
+        "word": "ka\u017cdym",
+        "en-us": "each"
+    },
+    {
+        "word": "kilku",
+        "en-us": "several"
+    },
+    {
+        "word": "maja",
+        "en-us": "may"
+    },
+    {
+        "word": "mojego",
+        "en-us": "my"
+    },
+    {
+        "word": "niestety",
+        "en-us": "unfortunately"
+    },
+    {
+        "word": "znaczy",
+        "en-us": "means"
+    },
+    {
+        "word": "\u017cyciu",
+        "en-us": "life"
+    },
+    {
+        "word": "cho\u0107",
+        "en-us": "although"
+    },
+    {
+        "word": "jedynie",
+        "en-us": "only"
+    },
+    {
+        "word": "ka\u017cdego",
+        "en-us": "each"
+    },
+    {
+        "word": "natomiast",
+        "en-us": "but"
+    },
+    {
+        "word": "pieni\u0105dze",
+        "en-us": "money"
+    },
+    {
+        "word": "pomocy",
+        "en-us": "help"
+    },
+    {
+        "word": "powinien",
+        "en-us": "should"
+    },
+    {
+        "word": "usa",
+        "en-us": "usa"
+    },
+    {
+        "word": "wraz",
+        "en-us": "along with"
+    },
+    {
+        "word": "zaraz",
+        "en-us": "coming soon"
+    },
+    {
+        "word": "zosta\u0142y",
+        "en-us": "have been"
+    },
+    {
+        "word": "zwi\u0105zku",
+        "en-us": "association"
+    },
+    {
+        "word": "cz\u0142owiek",
+        "en-us": "man"
+    },
+    {
+        "word": "dziecko",
+        "en-us": "child"
+    },
+    {
+        "word": "mniej",
+        "en-us": "less"
+    },
+    {
+        "word": "nasz",
+        "en-us": "our"
+    },
+    {
+        "word": "naszych",
+        "en-us": "our"
+    },
+    {
+        "word": "ostatnio",
+        "en-us": "most recently"
+    },
+    {
+        "word": "partii",
+        "en-us": "parties"
+    },
+    {
+        "word": "prac\u0119",
+        "en-us": "work"
+    },
+    {
+        "word": "przypadku",
+        "en-us": "case"
+    },
+    {
+        "word": "raczej",
+        "en-us": "rather"
+    },
+    {
+        "word": "rzecz",
+        "en-us": "thing"
+    },
+    {
+        "word": "znale\u017a\u0107",
+        "en-us": "find"
+    },
+    {
+        "word": "\u015bmierci",
+        "en-us": "death"
+    },
+    {
+        "word": "coraz",
+        "en-us": "increasingly"
+    },
+    {
+        "word": "czasem",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "daj",
+        "en-us": "give"
+    },
+    {
+        "word": "jedno",
+        "en-us": "one"
+    },
+    {
+        "word": "kobiety",
+        "en-us": "women"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "skoro",
+        "en-us": "since"
+    },
+    {
+        "word": "de",
+        "en-us": "de"
+    },
+    {
+        "word": "innego",
+        "en-us": "another"
+    },
+    {
+        "word": "nr",
+        "en-us": "no."
+    },
+    {
+        "word": "przyk\u0142ad",
+        "en-us": "example"
+    },
+    {
+        "word": "sob\u0105",
+        "en-us": "with each other"
+    },
+    {
+        "word": "uwag\u0119",
+        "en-us": "attention"
+    },
+    {
+        "word": "wa\u017cne",
+        "en-us": "important"
+    },
+    {
+        "word": "chc\u0105",
+        "en-us": "want"
+    },
+    {
+        "word": "dzieje",
+        "en-us": "history"
+    },
+    {
+        "word": "ni\u0105",
+        "en-us": "it"
+    },
+    {
+        "word": "twoje",
+        "en-us": "your"
+    },
+    {
+        "word": "zamiast",
+        "en-us": "instead of"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "informacji",
+        "en-us": "information"
+    },
+    {
+        "word": "jednej",
+        "en-us": "one"
+    },
+    {
+        "word": "ko\u0144ca",
+        "en-us": "end of"
+    },
+    {
+        "word": "r\u00f3\u017cnych",
+        "en-us": "various"
+    },
+    {
+        "word": "znowu",
+        "en-us": "again"
+    },
+    {
+        "word": "zosta\u0142o",
+        "en-us": "has been"
+    },
+    {
+        "word": "b\u0119dziemy",
+        "en-us": "we will"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "kobiet",
+        "en-us": "women"
+    },
+    {
+        "word": "my\u015bli",
+        "en-us": "thoughts"
+    },
+    {
+        "word": "nimi",
+        "en-us": "with them"
+    },
+    {
+        "word": "og\u00f3le",
+        "en-us": "at all"
+    },
+    {
+        "word": "sprawy",
+        "en-us": "matters"
+    },
+    {
+        "word": "strona",
+        "en-us": "website"
+    },
+    {
+        "word": "system",
+        "en-us": "system"
+    },
+    {
+        "word": "sytuacji",
+        "en-us": "situations"
+    },
+    {
+        "word": "innymi",
+        "en-us": "other"
+    },
+    {
+        "word": "moj\u0105",
+        "en-us": "my"
+    },
+    {
+        "word": "nowego",
+        "en-us": "new"
+    },
+    {
+        "word": "oznacza",
+        "en-us": "means"
+    },
+    {
+        "word": "przeciwko",
+        "en-us": "against"
+    },
+    {
+        "word": "przynajmniej",
+        "en-us": "at least"
+    },
+    {
+        "word": "rady",
+        "en-us": "tips"
+    },
+    {
+        "word": "ziemi",
+        "en-us": "land"
+    },
+    {
+        "word": "inny",
+        "en-us": "other"
+    },
+    {
+        "word": "naszego",
+        "en-us": "our"
+    },
+    {
+        "word": "zar\u00f3wno",
+        "en-us": "both"
+    },
+    {
+        "word": "zmiany",
+        "en-us": "changes"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "gra",
+        "en-us": "game"
+    },
+    {
+        "word": "g\u0142\u00f3wnie",
+        "en-us": "mainly"
+    },
+    {
+        "word": "innym",
+        "en-us": "other"
+    },
+    {
+        "word": "istnieje",
+        "en-us": "there is"
+    },
+    {
+        "word": "lecz",
+        "en-us": "but"
+    },
+    {
+        "word": "mieszka\u0144c\u00f3w",
+        "en-us": "residents"
+    },
+    {
+        "word": "naszej",
+        "en-us": "our"
+    },
+    {
+        "word": "poprzez",
+        "en-us": "via"
+    },
+    {
+        "word": "wobec",
+        "en-us": "towards"
+    },
+    {
+        "word": "wzgl\u0119du",
+        "en-us": "due to"
+    },
+    {
+        "word": "zosta\u0107",
+        "en-us": "become"
+    },
+    {
+        "word": "\u017ale",
+        "en-us": "wrong"
+    },
+    {
+        "word": "drugi",
+        "en-us": "second"
+    },
+    {
+        "word": "lubi\u0119",
+        "en-us": "i like"
+    },
+    {
+        "word": "moich",
+        "en-us": "my"
+    },
+    {
+        "word": "podoba",
+        "en-us": "like"
+    },
+    {
+        "word": "ramach",
+        "en-us": "under"
+    },
+    {
+        "word": "rz\u0105d",
+        "en-us": "government"
+    },
+    {
+        "word": "szczeg\u00f3lnie",
+        "en-us": "especially"
+    },
+    {
+        "word": "tw\u00f3j",
+        "en-us": "your"
+    },
+    {
+        "word": "warto",
+        "en-us": "worth"
+    },
+    {
+        "word": "wody",
+        "en-us": "waters"
+    },
+    {
+        "word": "wystarczy",
+        "en-us": "just"
+    },
+    {
+        "word": "zostanie",
+        "en-us": "will be"
+    },
+    {
+        "word": "ca\u0142e",
+        "en-us": "whole"
+    },
+    {
+        "word": "dzia\u0142a",
+        "en-us": "works"
+    },
+    {
+        "word": "fakt",
+        "en-us": "fact"
+    },
+    {
+        "word": "ii",
+        "en-us": "ii"
+    },
+    {
+        "word": "informacje",
+        "en-us": "information"
+    },
+    {
+        "word": "polskiego",
+        "en-us": "polish"
+    },
+    {
+        "word": "pomi\u0119dzy",
+        "en-us": "between"
+    },
+    {
+        "word": "pomys\u0142",
+        "en-us": "idea"
+    },
+    {
+        "word": "sa",
+        "en-us": "sa"
+    },
+    {
+        "word": "sta\u0142o",
+        "en-us": "stood"
+    },
+    {
+        "word": "tak\u0105",
+        "en-us": "such"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "z\u0142",
+        "en-us": "pLN"
+    },
+    {
+        "word": "\u017cadnych",
+        "en-us": "no"
+    },
+    {
+        "word": "b\u0119dziesz",
+        "en-us": "you'll be"
+    },
+    {
+        "word": "daje",
+        "en-us": "gives"
+    },
+    {
+        "word": "dzia\u0142ania",
+        "en-us": "actions"
+    },
+    {
+        "word": "gdzie\u015b",
+        "en-us": "somewhere"
+    },
+    {
+        "word": "inaczej",
+        "en-us": "otherwise"
+    },
+    {
+        "word": "ma\u0142o",
+        "en-us": "little"
+    },
+    {
+        "word": "minut",
+        "en-us": "minutes"
+    },
+    {
+        "word": "osoba",
+        "en-us": "person"
+    },
+    {
+        "word": "pomoc",
+        "en-us": "help"
+    },
+    {
+        "word": "sprawa",
+        "en-us": "case"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "znajduje",
+        "en-us": "finds"
+    },
+    {
+        "word": "bo\u017ce",
+        "en-us": "idol"
+    },
+    {
+        "word": "b\u0105d\u017a",
+        "en-us": "be"
+    },
+    {
+        "word": "d\u0142ugo",
+        "en-us": "long"
+    },
+    {
+        "word": "grupa",
+        "en-us": "group"
+    },
+    {
+        "word": "gry",
+        "en-us": "games"
+    },
+    {
+        "word": "kolejny",
+        "en-us": "another"
+    },
+    {
+        "word": "miasto",
+        "en-us": "city"
+    },
+    {
+        "word": "mia\u0142em",
+        "en-us": "i had"
+    },
+    {
+        "word": "mie\u015bcie",
+        "en-us": "city"
+    },
+    {
+        "word": "naszym",
+        "en-us": "our"
+    },
+    {
+        "word": "stron\u0119",
+        "en-us": "website"
+    },
+    {
+        "word": "wojny",
+        "en-us": "wars"
+    },
+    {
+        "word": "zobaczy\u0107",
+        "en-us": "view"
+    },
+    {
+        "word": "chwili",
+        "en-us": "moment"
+    },
+    {
+        "word": "ci\u0105gu",
+        "en-us": "string"
+    },
+    {
+        "word": "http",
+        "en-us": "http"
+    },
+    {
+        "word": "marca",
+        "en-us": "march"
+    },
+    {
+        "word": "musisz",
+        "en-us": "you must"
+    },
+    {
+        "word": "m\u00f3g\u0142",
+        "en-us": "could"
+    },
+    {
+        "word": "pieni\u0119dzy",
+        "en-us": "money"
+    },
+    {
+        "word": "powinno",
+        "en-us": "should"
+    },
+    {
+        "word": "super",
+        "en-us": "super"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "ciekawe",
+        "en-us": "interesting"
+    },
+    {
+        "word": "idzie",
+        "en-us": "goes"
+    },
+    {
+        "word": "jednocze\u015bnie",
+        "en-us": "at the same time"
+    },
+    {
+        "word": "jutro",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "kultury",
+        "en-us": "cultures"
+    },
+    {
+        "word": "mieli",
+        "en-us": "they had"
+    },
+    {
+        "word": "nocy",
+        "en-us": "nights"
+    },
+    {
+        "word": "pis",
+        "en-us": "write"
+    },
+    {
+        "word": "pisze",
+        "en-us": "writes"
+    },
+    {
+        "word": "polskich",
+        "en-us": "polish"
+    },
+    {
+        "word": "problemy",
+        "en-us": "problems"
+    },
+    {
+        "word": "uda\u0142o",
+        "en-us": "succeeded"
+    },
+    {
+        "word": "wida\u0107",
+        "en-us": "can be seen"
+    },
+    {
+        "word": "wy",
+        "en-us": "you"
+    },
+    {
+        "word": "chcia\u0142",
+        "en-us": "wanted"
+    },
+    {
+        "word": "dom",
+        "en-us": "home"
+    },
+    {
+        "word": "i\u015b\u0107",
+        "en-us": "go"
+    },
+    {
+        "word": "i\u017c",
+        "en-us": "that"
+    },
+    {
+        "word": "jako\u015b",
+        "en-us": "somehow"
+    },
+    {
+        "word": "jak\u0105",
+        "en-us": "which"
+    },
+    {
+        "word": "musz\u0105",
+        "en-us": "must"
+    },
+    {
+        "word": "m\u00f3wi\u0105",
+        "en-us": "say"
+    },
+    {
+        "word": "pierwszym",
+        "en-us": "first"
+    },
+    {
+        "word": "projekt",
+        "en-us": "project"
+    },
+    {
+        "word": "samego",
+        "en-us": "itself"
+    },
+    {
+        "word": "spraw\u0119",
+        "en-us": "matter"
+    },
+    {
+        "word": "sumie",
+        "en-us": "total"
+    },
+    {
+        "word": "trzech",
+        "en-us": "three"
+    },
+    {
+        "word": "wiadomo\u015bci",
+        "en-us": "news"
+    },
+    {
+        "word": "xd",
+        "en-us": "xd"
+    },
+    {
+        "word": "zanim",
+        "en-us": "before"
+    },
+    {
+        "word": "znam",
+        "en-us": "i know"
+    },
+    {
+        "word": "by\u0142em",
+        "en-us": "i was"
+    },
+    {
+        "word": "ca\u0142\u0105",
+        "en-us": "whole"
+    },
+    {
+        "word": "czego\u015b",
+        "en-us": "sth."
+    },
+    {
+        "word": "firmy",
+        "en-us": "companies"
+    },
+    {
+        "word": "kobieta",
+        "en-us": "woman"
+    },
+    {
+        "word": "kocham",
+        "en-us": "love"
+    },
+    {
+        "word": "m.in",
+        "en-us": "among others"
+    },
+    {
+        "word": "musimy",
+        "en-us": "we must"
+    },
+    {
+        "word": "nast\u0119pnie",
+        "en-us": "then"
+    },
+    {
+        "word": "nowych",
+        "en-us": "new"
+    },
+    {
+        "word": "pa\u0144stwo",
+        "en-us": "country"
+    },
+    {
+        "word": "podstawie",
+        "en-us": "based on"
+    },
+    {
+        "word": "polskiej",
+        "en-us": "polish"
+    },
+    {
+        "word": "program",
+        "en-us": "program"
+    },
+    {
+        "word": "same",
+        "en-us": "alone"
+    },
+    {
+        "word": "wczoraj",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr."
+    },
+    {
+        "word": "godzin",
+        "en-us": "hours"
+    },
+    {
+        "word": "godziny",
+        "en-us": "hours"
+    },
+    {
+        "word": "historia",
+        "en-us": "history"
+    },
+    {
+        "word": "kim",
+        "en-us": "kim"
+    },
+    {
+        "word": "mo\u017cliwe",
+        "en-us": "possible"
+    },
+    {
+        "word": "najlepiej",
+        "en-us": "best"
+    },
+    {
+        "word": "oczy",
+        "en-us": "eyes"
+    },
+    {
+        "word": "okazji",
+        "en-us": "occasions"
+    },
+    {
+        "word": "polskie",
+        "en-us": "polish"
+    },
+    {
+        "word": "razu",
+        "en-us": "immediately"
+    },
+    {
+        "word": "trudno",
+        "en-us": "difficult"
+    },
+    {
+        "word": "wrze\u015bnia",
+        "en-us": "september"
+    },
+    {
+        "word": "zgodnie",
+        "en-us": "according to"
+    },
+    {
+        "word": "klasy",
+        "en-us": "classes"
+    },
+    {
+        "word": "ksi\u0105\u017cki",
+        "en-us": "books"
+    },
+    {
+        "word": "mocno",
+        "en-us": "hard"
+    },
+    {
+        "word": "najpierw",
+        "en-us": "first"
+    },
+    {
+        "word": "nasza",
+        "en-us": "our"
+    },
+    {
+        "word": "pana",
+        "en-us": "mr."
+    },
+    {
+        "word": "pokoju",
+        "en-us": "room"
+    },
+    {
+        "word": "rano",
+        "en-us": "morning"
+    },
+    {
+        "word": "rozwoju",
+        "en-us": "development"
+    },
+    {
+        "word": "r\u00f3\u017cne",
+        "en-us": "various"
+    },
+    {
+        "word": "sk\u0105d",
+        "en-us": "from where"
+    },
+    {
+        "word": "w\u0142adzy",
+        "en-us": "authority"
+    },
+    {
+        "word": "by\u0142oby",
+        "en-us": "would be"
+    },
+    {
+        "word": "ca\u0142a",
+        "en-us": "whole"
+    },
+    {
+        "word": "ci\u0105gle",
+        "en-us": "still"
+    },
+    {
+        "word": "czasami",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "kogo",
+        "en-us": "whom"
+    },
+    {
+        "word": "mia\u0142o",
+        "en-us": "had"
+    },
+    {
+        "word": "mn\u0105",
+        "en-us": "me"
+    },
+    {
+        "word": "m\u00f3wi\u0107",
+        "en-us": "speak"
+    },
+    {
+        "word": "nowa",
+        "en-us": "new"
+    },
+    {
+        "word": "nowym",
+        "en-us": "new"
+    },
+    {
+        "word": "panie",
+        "en-us": "mr."
+    },
+    {
+        "word": "pa\u017adziernika",
+        "en-us": "october"
+    },
+    {
+        "word": "pierwszej",
+        "en-us": "first"
+    },
+    {
+        "word": "pom\u00f3c",
+        "en-us": "help"
+    },
+    {
+        "word": "przede",
+        "en-us": "primarily"
+    },
+    {
+        "word": "szkole",
+        "en-us": "school"
+    },
+    {
+        "word": "wcale",
+        "en-us": "at all"
+    },
+    {
+        "word": "zale\u017cy",
+        "en-us": "depends"
+    },
+    {
+        "word": "ca\u0142ej",
+        "en-us": "whole"
+    },
+    {
+        "word": "ca\u0142ym",
+        "en-us": "throughout"
+    },
+    {
+        "word": "cztery",
+        "en-us": "four"
+    },
+    {
+        "word": "dane",
+        "en-us": "data"
+    },
+    {
+        "word": "da\u0107",
+        "en-us": "yield"
+    },
+    {
+        "word": "drogi",
+        "en-us": "roads"
+    },
+    {
+        "word": "inni",
+        "en-us": "others"
+    },
+    {
+        "word": "jaka",
+        "en-us": "what"
+    },
+    {
+        "word": "kolejne",
+        "en-us": "further"
+    },
+    {
+        "word": "la",
+        "en-us": "la"
+    },
+    {
+        "word": "mo\u017cliwo\u015bci",
+        "en-us": "capabilities"
+    },
+    {
+        "word": "organizacji",
+        "en-us": "organizations"
+    },
+    {
+        "word": "pami\u0119tam",
+        "en-us": "i remember"
+    },
+    {
+        "word": "prawdopodobnie",
+        "en-us": "probably"
+    },
+    {
+        "word": "prezydenta",
+        "en-us": "president"
+    },
+    {
+        "word": "przepraszam",
+        "en-us": "sorry"
+    },
+    {
+        "word": "szcz\u0119\u015bcie",
+        "en-us": "happiness"
+    },
+    {
+        "word": "terenie",
+        "en-us": "site"
+    },
+    {
+        "word": "tys",
+        "en-us": "thousand"
+    },
+    {
+        "word": "zdrowia",
+        "en-us": "health"
+    },
+    {
+        "word": "zrobi\u0142",
+        "en-us": "made"
+    },
+    {
+        "word": "zw\u0142aszcza",
+        "en-us": "especially"
+    },
+    {
+        "word": "drodze",
+        "en-us": "way"
+    },
+    {
+        "word": "imi\u0119",
+        "en-us": "name"
+    },
+    {
+        "word": "kraj",
+        "en-us": "country"
+    },
+    {
+        "word": "miesi\u0119cy",
+        "en-us": "months"
+    },
+    {
+        "word": "ostatni",
+        "en-us": "last"
+    },
+    {
+        "word": "praca",
+        "en-us": "work"
+    },
+    {
+        "word": "stan",
+        "en-us": "state"
+    },
+    {
+        "word": "stanu",
+        "en-us": "status"
+    },
+    {
+        "word": "szkoda",
+        "en-us": "pity"
+    },
+    {
+        "word": "takiej",
+        "en-us": "such"
+    },
+    {
+        "word": "twoja",
+        "en-us": "your"
+    },
+    {
+        "word": "zupe\u0142nie",
+        "en-us": "entirely"
+    },
+    {
+        "word": "czerwca",
+        "en-us": "june"
+    },
+    {
+        "word": "jakim",
+        "en-us": "which"
+    },
+    {
+        "word": "lutego",
+        "en-us": "february"
+    },
+    {
+        "word": "mogli",
+        "en-us": "they could"
+    },
+    {
+        "word": "m\u00f3wi\u0105c",
+        "en-us": "saying"
+    },
+    {
+        "word": "obok",
+        "en-us": "next to"
+    },
+    {
+        "word": "ochrony",
+        "en-us": "protection"
+    },
+    {
+        "word": "oto",
+        "en-us": "here's"
+    },
+    {
+        "word": "pierwsza",
+        "en-us": "first"
+    },
+    {
+        "word": "podobnie",
+        "en-us": "likewise"
+    },
+    {
+        "word": "powinna",
+        "en-us": "should"
+    },
+    {
+        "word": "rodzaju",
+        "en-us": "kind of"
+    },
+    {
+        "word": "serio",
+        "en-us": "seriously"
+    },
+    {
+        "word": "stycznia",
+        "en-us": "january"
+    },
+    {
+        "word": "ustawy",
+        "en-us": "laws"
+    },
+    {
+        "word": "\u015bmier\u0107",
+        "en-us": "death"
+    },
+    {
+        "word": "akcji",
+        "en-us": "shares"
+    },
+    {
+        "word": "chwil\u0119",
+        "en-us": "moment"
+    },
+    {
+        "word": "czuj\u0119",
+        "en-us": "i feel"
+    },
+    {
+        "word": "grudnia",
+        "en-us": "december"
+    },
+    {
+        "word": "g\u00f3ry",
+        "en-us": "mountains"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "momencie",
+        "en-us": "moment"
+    },
+    {
+        "word": "nowej",
+        "en-us": "new"
+    },
+    {
+        "word": "projektu",
+        "en-us": "project"
+    },
+    {
+        "word": "p\u00f3\u0142",
+        "en-us": "half"
+    },
+    {
+        "word": "warszawa",
+        "en-us": "warsaw"
+    },
+    {
+        "word": "warszawie",
+        "en-us": "warsaw"
+    },
+    {
+        "word": "by\u0142am",
+        "en-us": "i was"
+    },
+    {
+        "word": "k",
+        "en-us": "k"
+    },
+    {
+        "word": "ko\u015bcio\u0142a",
+        "en-us": "church"
+    },
+    {
+        "word": "liczba",
+        "en-us": "number"
+    },
+    {
+        "word": "postaci",
+        "en-us": "forms"
+    },
+    {
+        "word": "rodzina",
+        "en-us": "family"
+    },
+    {
+        "word": "sami",
+        "en-us": "themselves"
+    },
+    {
+        "word": "sieci",
+        "en-us": "networks"
+    },
+    {
+        "word": "spraw",
+        "en-us": "matters"
+    },
+    {
+        "word": "tez",
+        "en-us": "also"
+    },
+    {
+        "word": "tymi",
+        "en-us": "with these"
+    },
+    {
+        "word": "ulicy",
+        "en-us": "street"
+    },
+    {
+        "word": "zaczyna",
+        "en-us": "starts"
+    },
+    {
+        "word": "zdj\u0119\u0107",
+        "en-us": "photos"
+    },
+    {
+        "word": "badania",
+        "en-us": "research"
+    },
+    {
+        "word": "europy",
+        "en-us": "eUROPE"
+    },
+    {
+        "word": "kwietnia",
+        "en-us": "april"
+    },
+    {
+        "word": "mama",
+        "en-us": "mom"
+    },
+    {
+        "word": "m\u00f3wi\u0119",
+        "en-us": "i say"
+    },
+    {
+        "word": "nami",
+        "en-us": "us"
+    },
+    {
+        "word": "niekt\u00f3rych",
+        "en-us": "some"
+    },
+    {
+        "word": "prezydent",
+        "en-us": "president"
+    },
+    {
+        "word": "ruchu",
+        "en-us": "traffic"
+    },
+    {
+        "word": "sta\u0107",
+        "en-us": "stand"
+    },
+    {
+        "word": "telefon",
+        "en-us": "phone"
+    },
+    {
+        "word": "tysi\u0119cy",
+        "en-us": "thousands"
+    },
+    {
+        "word": "tzw",
+        "en-us": "so-called"
+    },
+    {
+        "word": "walki",
+        "en-us": "fights"
+    },
+    {
+        "word": "wszystkiego",
+        "en-us": "everything"
+    },
+    {
+        "word": "wyniki",
+        "en-us": "results"
+    },
+    {
+        "word": "zjednoczonych",
+        "en-us": "united"
+    },
+    {
+        "word": "zmieni\u0107",
+        "en-us": "switch"
+    },
+    {
+        "word": "\u017cy\u0107",
+        "en-us": "live"
+    },
+    {
+        "word": "bezpiecze\u0144stwa",
+        "en-us": "security"
+    },
+    {
+        "word": "ca\u0142kiem",
+        "en-us": "quite"
+    },
+    {
+        "word": "cia\u0142a",
+        "en-us": "bodies"
+    },
+    {
+        "word": "ka\u017cda",
+        "en-us": "each"
+    },
+    {
+        "word": "ka\u017cdej",
+        "en-us": "each"
+    },
+    {
+        "word": "listopada",
+        "en-us": "november"
+    },
+    {
+        "word": "macie",
+        "en-us": "you have"
+    },
+    {
+        "word": "ma\u0142e",
+        "en-us": "small"
+    },
+    {
+        "word": "media",
+        "en-us": "media"
+    },
+    {
+        "word": "m\u0119\u017cczyzn",
+        "en-us": "men"
+    },
+    {
+        "word": "systemu",
+        "en-us": "system"
+    },
+    {
+        "word": "trakcie",
+        "en-us": "during"
+    },
+    {
+        "word": "uwagi",
+        "en-us": "comments"
+    },
+    {
+        "word": "warto\u015bci",
+        "en-us": "values"
+    },
+    {
+        "word": "zwykle",
+        "en-us": "usually"
+    },
+    {
+        "word": "ca\u0142ego",
+        "en-us": "whole"
+    },
+    {
+        "word": "ci\u0119\u017cko",
+        "en-us": "hard"
+    },
+    {
+        "word": "gdy\u017c",
+        "en-us": "since"
+    },
+    {
+        "word": "g\u0142os",
+        "en-us": "voice"
+    },
+    {
+        "word": "kierunku",
+        "en-us": "direction"
+    },
+    {
+        "word": "mia\u0142y",
+        "en-us": "had"
+    },
+    {
+        "word": "nagle",
+        "en-us": "suddenly"
+    },
+    {
+        "word": "najlepszy",
+        "en-us": "best"
+    },
+    {
+        "word": "niekt\u00f3rzy",
+        "en-us": "some"
+    },
+    {
+        "word": "nikogo",
+        "en-us": "no one"
+    },
+    {
+        "word": "ojciec",
+        "en-us": "father"
+    },
+    {
+        "word": "ostatnie",
+        "en-us": "last"
+    },
+    {
+        "word": "pomoc\u0105",
+        "en-us": "help"
+    },
+    {
+        "word": "poziom",
+        "en-us": "level"
+    },
+    {
+        "word": "programu",
+        "en-us": "program"
+    },
+    {
+        "word": "pytania",
+        "en-us": "questions"
+    },
+    {
+        "word": "rosji",
+        "en-us": "russia"
+    },
+    {
+        "word": "tydzie\u0144",
+        "en-us": "week"
+    },
+    {
+        "word": "zesp\u00f3\u0142",
+        "en-us": "team"
+    },
+    {
+        "word": "znacznie",
+        "en-us": "significantly"
+    },
+    {
+        "word": "brzmi",
+        "en-us": "sounds"
+    },
+    {
+        "word": "chcemy",
+        "en-us": "we want"
+    },
+    {
+        "word": "du\u017ce",
+        "en-us": "large"
+    },
+    {
+        "word": "g\u0142owy",
+        "en-us": "heads"
+    },
+    {
+        "word": "juz",
+        "en-us": "juz"
+    },
+    {
+        "word": "j\u0119zyk",
+        "en-us": "language"
+    },
+    {
+        "word": "mia\u0142am",
+        "en-us": "i had"
+    },
+    {
+        "word": "niekt\u00f3re",
+        "en-us": "some"
+    },
+    {
+        "word": "odpowiedzi",
+        "en-us": "answers"
+    },
+    {
+        "word": "policja",
+        "en-us": "police"
+    },
+    {
+        "word": "ponownie",
+        "en-us": "again"
+    },
+    {
+        "word": "rodzice",
+        "en-us": "parents"
+    },
+    {
+        "word": "sierpnia",
+        "en-us": "august"
+    },
+    {
+        "word": "stylu",
+        "en-us": "style"
+    },
+    {
+        "word": "uwa\u017cam",
+        "en-us": "believe"
+    },
+    {
+        "word": "wielki",
+        "en-us": "great"
+    },
+    {
+        "word": "za\u015b",
+        "en-us": "while"
+    },
+    {
+        "word": "\u017cadnego",
+        "en-us": "none"
+    },
+    {
+        "word": "ca\u0142kowicie",
+        "en-us": "entirely"
+    },
+    {
+        "word": "celem",
+        "en-us": "purpose"
+    },
+    {
+        "word": "dniu",
+        "en-us": "day"
+    },
+    {
+        "word": "jasne",
+        "en-us": "bright"
+    },
+    {
+        "word": "kupi\u0107",
+        "en-us": "purchase"
+    },
+    {
+        "word": "lipca",
+        "en-us": "july"
+    },
+    {
+        "word": "mo\u017cliwo\u015b\u0107",
+        "en-us": "possibility"
+    },
+    {
+        "word": "nauki",
+        "en-us": "sciences"
+    },
+    {
+        "word": "opr\u00f3cz",
+        "en-us": "apart from"
+    },
+    {
+        "word": "par\u0119",
+        "en-us": "few"
+    },
+    {
+        "word": "powiem",
+        "en-us": "say"
+    },
+    {
+        "word": "powinni",
+        "en-us": "they should"
+    },
+    {
+        "word": "rynku",
+        "en-us": "market"
+    },
+    {
+        "word": "tobie",
+        "en-us": "you"
+    },
+    {
+        "word": "wiadomo",
+        "en-us": "known"
+    },
+    {
+        "word": "wiec",
+        "en-us": "rally"
+    },
+    {
+        "word": "wi\u0119kszo\u015bci",
+        "en-us": "most"
+    },
+    {
+        "word": "xx",
+        "en-us": "xx"
+    },
+    {
+        "word": "you",
+        "en-us": "you"
+    },
+    {
+        "word": "dawno",
+        "en-us": "long time"
+    },
+    {
+        "word": "dziecka",
+        "en-us": "child"
+    },
+    {
+        "word": "filmu",
+        "en-us": "video"
+    },
+    {
+        "word": "francji",
+        "en-us": "france"
+    },
+    {
+        "word": "gminy",
+        "en-us": "municipalities"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "j",
+        "en-us": "j"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "najlepsze",
+        "en-us": "best"
+    },
+    {
+        "word": "pierwszego",
+        "en-us": "first"
+    },
+    {
+        "word": "powinny",
+        "en-us": "should"
+    },
+    {
+        "word": "prowadzi",
+        "en-us": "runs"
+    },
+    {
+        "word": "robi\u0105",
+        "en-us": "do"
+    },
+    {
+        "word": "si\u0142y",
+        "en-us": "forces"
+    },
+    {
+        "word": "sytuacja",
+        "en-us": "situation"
+    },
+    {
+        "word": "widzisz",
+        "en-us": "you see"
+    },
+    {
+        "word": "wiedzie\u0107",
+        "en-us": "know"
+    },
+    {
+        "word": "zdecydowanie",
+        "en-us": "definitely"
+    },
+    {
+        "word": "zobacz",
+        "en-us": "see"
+    },
+    {
+        "word": "autor",
+        "en-us": "author"
+    },
+    {
+        "word": "dost\u0119p",
+        "en-us": "access"
+    },
+    {
+        "word": "hej",
+        "en-us": "hey"
+    },
+    {
+        "word": "jaka\u015b",
+        "en-us": "some"
+    },
+    {
+        "word": "j\u0119zyka",
+        "en-us": "language"
+    },
+    {
+        "word": "ko\u015bci\u00f3\u0142",
+        "en-us": "church"
+    },
+    {
+        "word": "mi\u0142o\u015b\u0107",
+        "en-us": "love"
+    },
+    {
+        "word": "najmniej",
+        "en-us": "least"
+    },
+    {
+        "word": "niby",
+        "en-us": "seemingly"
+    },
+    {
+        "word": "plan",
+        "en-us": "plan"
+    },
+    {
+        "word": "potrzebuje",
+        "en-us": "needs"
+    },
+    {
+        "word": "samej",
+        "en-us": "itself"
+    },
+    {
+        "word": "spokojnie",
+        "en-us": "quietly"
+    },
+    {
+        "word": "twoim",
+        "en-us": "your"
+    },
+    {
+        "word": "wyborach",
+        "en-us": "election"
+    },
+    {
+        "word": "wy\u0142\u0105cznie",
+        "en-us": "exclusively"
+    },
+    {
+        "word": "zdaniem",
+        "en-us": "according to"
+    },
+    {
+        "word": "zn\u00f3w",
+        "en-us": "again"
+    },
+    {
+        "word": "chcia\u0142bym",
+        "en-us": "i would like"
+    },
+    {
+        "word": "drugie",
+        "en-us": "second"
+    },
+    {
+        "word": "kolei",
+        "en-us": "railroads"
+    },
+    {
+        "word": "ludziom",
+        "en-us": "people"
+    },
+    {
+        "word": "nasz\u0105",
+        "en-us": "our"
+    },
+    {
+        "word": "polecam",
+        "en-us": "recommend"
+    },
+    {
+        "word": "rz\u0105du",
+        "en-us": "government"
+    },
+    {
+        "word": "r\u0119ce",
+        "en-us": "hands"
+    },
+    {
+        "word": "serca",
+        "en-us": "hearts"
+    },
+    {
+        "word": "stanowi",
+        "en-us": "constitutes"
+    },
+    {
+        "word": "stron",
+        "en-us": "pages"
+    },
+    {
+        "word": "szko\u0142a",
+        "en-us": "school"
+    },
+    {
+        "word": "s\u0142owo",
+        "en-us": "word"
+    },
+    {
+        "word": "ul",
+        "en-us": "ul"
+    },
+    {
+        "word": "widzia\u0142em",
+        "en-us": "seen"
+    },
+    {
+        "word": "wiedz\u0105",
+        "en-us": "knowledge"
+    },
+    {
+        "word": "wybory",
+        "en-us": "elections"
+    },
+    {
+        "word": "\u017cyje",
+        "en-us": "lives"
+    },
+    {
+        "word": "artyku\u0142",
+        "en-us": "article"
+    },
+    {
+        "word": "broni",
+        "en-us": "arms"
+    },
+    {
+        "word": "czym\u015b",
+        "en-us": "something"
+    },
+    {
+        "word": "europie",
+        "en-us": "europe"
+    },
+    {
+        "word": "liczby",
+        "en-us": "numbers"
+    },
+    {
+        "word": "matki",
+        "en-us": "mothers"
+    },
+    {
+        "word": "napisa\u0142",
+        "en-us": "he wrote"
+    },
+    {
+        "word": "okres",
+        "en-us": "period"
+    },
+    {
+        "word": "pracownik\u00f3w",
+        "en-us": "employees"
+    },
+    {
+        "word": "rodzic\u00f3w",
+        "en-us": "parents"
+    },
+    {
+        "word": "twarz",
+        "en-us": "face"
+    },
+    {
+        "word": "wra\u017cenie",
+        "en-us": "impression"
+    },
+    {
+        "word": "wyniku",
+        "en-us": "outcome"
+    },
+    {
+        "word": "wzgl\u0119dem",
+        "en-us": "against"
+    },
+    {
+        "word": "w\u0142a\u015bciwie",
+        "en-us": "properly"
+    },
+    {
+        "word": "zwi\u0105zane",
+        "en-us": "related"
+    },
+    {
+        "word": "\u0142atwo",
+        "en-us": "easily"
+    },
+    {
+        "word": "bada\u0144",
+        "en-us": "research"
+    },
+    {
+        "word": "droga",
+        "en-us": "road"
+    },
+    {
+        "word": "druga",
+        "en-us": "second"
+    },
+    {
+        "word": "drzwi",
+        "en-us": "door"
+    },
+    {
+        "word": "m\u00f3wi\u0142",
+        "en-us": "said"
+    },
+    {
+        "word": "nazwa",
+        "en-us": "name"
+    },
+    {
+        "word": "niczego",
+        "en-us": "anything"
+    },
+    {
+        "word": "nieco",
+        "en-us": "somewhat"
+    },
+    {
+        "word": "numer",
+        "en-us": "number"
+    },
+    {
+        "word": "ostatnich",
+        "en-us": "last"
+    },
+    {
+        "word": "policji",
+        "en-us": "police"
+    },
+    {
+        "word": "polskim",
+        "en-us": "polish"
+    },
+    {
+        "word": "poni\u017cej",
+        "en-us": "below"
+    },
+    {
+        "word": "powa\u017cnie",
+        "en-us": "seriously"
+    },
+    {
+        "word": "praw",
+        "en-us": "rights"
+    },
+    {
+        "word": "tekst",
+        "en-us": "text"
+    },
+    {
+        "word": "tob\u0105",
+        "en-us": "you"
+    },
+    {
+        "word": "tygodniu",
+        "en-us": "week"
+    },
+    {
+        "word": "wielkie",
+        "en-us": "great"
+    },
+    {
+        "word": "wok\u00f3\u0142",
+        "en-us": "around"
+    },
+    {
+        "word": "blisko",
+        "en-us": "close to"
+    },
+    {
+        "word": "b\u00f3g",
+        "en-us": "god"
+    },
+    {
+        "word": "c\u00f3\u017c",
+        "en-us": "well"
+    },
+    {
+        "word": "itp",
+        "en-us": "etc"
+    },
+    {
+        "word": "matka",
+        "en-us": "mother"
+    },
+    {
+        "word": "mi\u0142o\u015bci",
+        "en-us": "love"
+    },
+    {
+        "word": "mog\u0142a",
+        "en-us": "could"
+    },
+    {
+        "word": "odpowied\u017a",
+        "en-us": "answer"
+    },
+    {
+        "word": "polityki",
+        "en-us": "policies"
+    },
+    {
+        "word": "ponadto",
+        "en-us": "moreover"
+    },
+    {
+        "word": "posiada",
+        "en-us": "has"
+    },
+    {
+        "word": "prace",
+        "en-us": "works"
+    },
+    {
+        "word": "produkcji",
+        "en-us": "production"
+    },
+    {
+        "word": "spotkanie",
+        "en-us": "meeting"
+    },
+    {
+        "word": "wiemy",
+        "en-us": "we know"
+    },
+    {
+        "word": "wp\u0142yw",
+        "en-us": "impact"
+    },
+    {
+        "word": "zasady",
+        "en-us": "rules"
+    },
+    {
+        "word": "zatem",
+        "en-us": "so"
+    },
+    {
+        "word": "\u017ar\u00f3d\u0142o",
+        "en-us": "source"
+    },
+    {
+        "word": "boga",
+        "en-us": "god"
+    },
+    {
+        "word": "brakuje",
+        "en-us": "missing"
+    },
+    {
+        "word": "cz\u0142onk\u00f3w",
+        "en-us": "members"
+    },
+    {
+        "word": "dziewczyna",
+        "en-us": "girl"
+    },
+    {
+        "word": "dziewczyny",
+        "en-us": "girls"
+    },
+    {
+        "word": "filmy",
+        "en-us": "videos"
+    },
+    {
+        "word": "jakiego\u015b",
+        "en-us": "of some"
+    },
+    {
+        "word": "komisji",
+        "en-us": "commission"
+    },
+    {
+        "word": "lepsze",
+        "en-us": "better"
+    },
+    {
+        "word": "lubi",
+        "en-us": "likes"
+    },
+    {
+        "word": "now\u0105",
+        "en-us": "new"
+    },
+    {
+        "word": "pewien",
+        "en-us": "certain"
+    },
+    {
+        "word": "pi\u0119\u0107",
+        "en-us": "five"
+    },
+    {
+        "word": "poziomie",
+        "en-us": "level"
+    },
+    {
+        "word": "problemu",
+        "en-us": "problem"
+    },
+    {
+        "word": "problem\u00f3w",
+        "en-us": "problems"
+    },
+    {
+        "word": "serii",
+        "en-us": "series"
+    },
+    {
+        "word": "s\u0142\u00f3w",
+        "en-us": "words"
+    },
+    {
+        "word": "uwa\u017ca",
+        "en-us": "believes"
+    },
+    {
+        "word": "wkr\u00f3tce",
+        "en-us": "coming soon"
+    },
+    {
+        "word": "wolno\u015bci",
+        "en-us": "freedoms"
+    },
+    {
+        "word": "wsz\u0119dzie",
+        "en-us": "everywhere"
+    },
+    {
+        "word": "\u015brodowiska",
+        "en-us": "environments"
+    },
+    {
+        "word": "drugim",
+        "en-us": "second"
+    },
+    {
+        "word": "dzia\u0142alno\u015b\u0107",
+        "en-us": "activity"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "internet",
+        "en-us": "internet"
+    },
+    {
+        "word": "lud\u017ami",
+        "en-us": "people"
+    },
+    {
+        "word": "ma\u0142y",
+        "en-us": "little"
+    },
+    {
+        "word": "mo\u017cecie",
+        "en-us": "you can"
+    },
+    {
+        "word": "online",
+        "en-us": "online"
+    },
+    {
+        "word": "poj\u0119cia",
+        "en-us": "terms"
+    },
+    {
+        "word": "sporo",
+        "en-us": "a lot"
+    },
+    {
+        "word": "sta\u0142",
+        "en-us": "stood"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "uda",
+        "en-us": "thighs"
+    },
+    {
+        "word": "wersji",
+        "en-us": "version"
+    },
+    {
+        "word": "wiadomo\u015b\u0107",
+        "en-us": "message"
+    },
+    {
+        "word": "wypadku",
+        "en-us": "accident"
+    },
+    {
+        "word": "zespo\u0142u",
+        "en-us": "team"
+    },
+    {
+        "word": "zmian",
+        "en-us": "changes"
+    },
+    {
+        "word": "al",
+        "en-us": "al"
+    },
+    {
+        "word": "fajnie",
+        "en-us": "cool"
+    },
+    {
+        "word": "for",
+        "en-us": "for"
+    },
+    {
+        "word": "internecie",
+        "en-us": "internet"
+    },
+    {
+        "word": "kategorii",
+        "en-us": "category"
+    },
+    {
+        "word": "krwi",
+        "en-us": "blood"
+    },
+    {
+        "word": "minister",
+        "en-us": "minister"
+    },
+    {
+        "word": "mln",
+        "en-us": "million"
+    },
+    {
+        "word": "moze",
+        "en-us": "maybe"
+    },
+    {
+        "word": "muzyki",
+        "en-us": "music"
+    },
+    {
+        "word": "niczym",
+        "en-us": "like"
+    },
+    {
+        "word": "niemcy",
+        "en-us": "germany"
+    },
+    {
+        "word": "okresie",
+        "en-us": "period"
+    },
+    {
+        "word": "powiedzia\u0142a",
+        "en-us": "she said"
+    },
+    {
+        "word": "powinni\u015bmy",
+        "en-us": "we should"
+    },
+    {
+        "word": "przeciw",
+        "en-us": "against"
+    },
+    {
+        "word": "ruch",
+        "en-us": "movement"
+    },
+    {
+        "word": "serce",
+        "en-us": "heart"
+    },
+    {
+        "word": "spo\u0142ecze\u0144stwa",
+        "en-us": "societies"
+    },
+    {
+        "word": "studia",
+        "en-us": "study"
+    },
+    {
+        "word": "tre\u015bci",
+        "en-us": "content"
+    },
+    {
+        "word": "wsp\u00f3\u0142pracy",
+        "en-us": "cooperation"
+    },
+    {
+        "word": "wysoko\u015bci",
+        "en-us": "heights"
+    },
+    {
+        "word": "w\u0142asne",
+        "en-us": "own"
+    },
+    {
+        "word": "zacz\u0105\u0142",
+        "en-us": "started"
+    },
+    {
+        "word": "zazwyczaj",
+        "en-us": "usually"
+    },
+    {
+        "word": "\u017cadnej",
+        "en-us": "any"
+    },
+    {
+        "word": "cze\u015b\u0107",
+        "en-us": "honor"
+    },
+    {
+        "word": "firma",
+        "en-us": "company"
+    },
+    {
+        "word": "g\u0142owie",
+        "en-us": "head"
+    },
+    {
+        "word": "jak\u0105\u015b",
+        "en-us": "some"
+    },
+    {
+        "word": "miejsc",
+        "en-us": "places"
+    },
+    {
+        "word": "miesi\u0105c",
+        "en-us": "month"
+    },
+    {
+        "word": "mocy",
+        "en-us": "powers"
+    },
+    {
+        "word": "nazywa",
+        "en-us": "calls"
+    },
+    {
+        "word": "obraz",
+        "en-us": "image"
+    },
+    {
+        "word": "pochodzi",
+        "en-us": "comes from"
+    },
+    {
+        "word": "porz\u0105dku",
+        "en-us": "order"
+    },
+    {
+        "word": "proces",
+        "en-us": "process"
+    },
+    {
+        "word": "racj\u0119",
+        "en-us": "right"
+    },
+    {
+        "word": "rol\u0119",
+        "en-us": "role of"
+    },
+    {
+        "word": "rozw\u00f3j",
+        "en-us": "development"
+    },
+    {
+        "word": "st\u0105d",
+        "en-us": "hence"
+    },
+    {
+        "word": "sztuki",
+        "en-us": "arts"
+    },
+    {
+        "word": "twojej",
+        "en-us": "your"
+    },
+    {
+        "word": "tytu\u0142",
+        "en-us": "title"
+    },
+    {
+        "word": "wielka",
+        "en-us": "great"
+    },
+    {
+        "word": "wierz\u0119",
+        "en-us": "i believe"
+    },
+    {
+        "word": "wina",
+        "en-us": "wines"
+    },
+    {
+        "word": "wreszcie",
+        "en-us": "finally"
+    },
+    {
+        "word": "wsp\u00f3lnego",
+        "en-us": "common"
+    },
+    {
+        "word": "wzi\u0105\u0107",
+        "en-us": "take"
+    },
+    {
+        "word": "zna",
+        "en-us": "knows"
+    },
+    {
+        "word": "znaczenie",
+        "en-us": "meaning"
+    },
+    {
+        "word": "znajduj\u0105",
+        "en-us": "find"
+    }
+]

@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "ve",
+        "en-us": "and"
+    },
+    {
+        "word": "bir",
+        "en-us": "one"
+    },
+    {
+        "word": "bu",
+        "en-us": "this"
+    },
+    {
+        "word": "i\u00e7in",
+        "en-us": "for"
+    },
+    {
+        "word": "de",
+        "en-us": "de"
+    },
+    {
+        "word": "da",
+        "en-us": "da"
+    },
+    {
+        "word": "\u00e7ok",
+        "en-us": "very"
+    },
+    {
+        "word": "ile",
+        "en-us": "with"
+    },
+    {
+        "word": "ne",
+        "en-us": "what"
+    },
+    {
+        "word": "daha",
+        "en-us": "more"
+    },
+    {
+        "word": "en",
+        "en-us": "en"
+    },
+    {
+        "word": "gibi",
+        "en-us": "like"
+    },
+    {
+        "word": "olarak",
+        "en-us": "as"
+    },
+    {
+        "word": "her",
+        "en-us": "each"
+    },
+    {
+        "word": "kadar",
+        "en-us": "until"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "olan",
+        "en-us": "which is"
+    },
+    {
+        "word": "ben",
+        "en-us": "i am"
+    },
+    {
+        "word": "var",
+        "en-us": "there is"
+    },
+    {
+        "word": "ama",
+        "en-us": "but"
+    },
+    {
+        "word": "sonra",
+        "en-us": "then"
+    },
+    {
+        "word": "ki",
+        "en-us": "which"
+    },
+    {
+        "word": "iyi",
+        "en-us": "good"
+    },
+    {
+        "word": "yok",
+        "en-us": "none"
+    },
+    {
+        "word": "ya",
+        "en-us": "either"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "de\u011fil",
+        "en-us": "not"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "sen",
+        "en-us": "you"
+    },
+    {
+        "word": "b\u00fcy\u00fck",
+        "en-us": "big"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "yeni",
+        "en-us": "new"
+    },
+    {
+        "word": "g\u00fczel",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "sadece",
+        "en-us": "only"
+    },
+    {
+        "word": "zaman",
+        "en-us": "time"
+    },
+    {
+        "word": "ilk",
+        "en-us": "first"
+    },
+    {
+        "word": "iki",
+        "en-us": "two"
+    },
+    {
+        "word": "mi",
+        "en-us": "mi"
+    },
+    {
+        "word": "hi\u00e7",
+        "en-us": "ever"
+    },
+    {
+        "word": "ise",
+        "en-us": "if it is"
+    },
+    {
+        "word": "oldu",
+        "en-us": "happened"
+    },
+    {
+        "word": "bile",
+        "en-us": "even"
+    },
+    {
+        "word": "nas\u0131l",
+        "en-us": "how"
+    },
+    {
+        "word": "\u015fey",
+        "en-us": "thing"
+    },
+    {
+        "word": "benim",
+        "en-us": "my"
+    },
+    {
+        "word": "b\u00f6yle",
+        "en-us": "like this"
+    },
+    {
+        "word": "son",
+        "en-us": "last"
+    },
+    {
+        "word": "tek",
+        "en-us": "single"
+    },
+    {
+        "word": "g\u00fcn",
+        "en-us": "day"
+    },
+    {
+        "word": "t\u00fcm",
+        "en-us": "all"
+    },
+    {
+        "word": "yer",
+        "en-us": "location"
+    },
+    {
+        "word": "\u00f6nce",
+        "en-us": "before"
+    },
+    {
+        "word": "art\u0131k",
+        "en-us": "no more"
+    },
+    {
+        "word": "g\u00f6re",
+        "en-us": "according to"
+    },
+    {
+        "word": "m\u0131",
+        "en-us": "is it"
+    },
+    {
+        "word": "seni",
+        "en-us": "you"
+    },
+    {
+        "word": "beni",
+        "en-us": "me"
+    },
+    {
+        "word": "t\u00fcrkiye",
+        "en-us": "turkey"
+    },
+    {
+        "word": "ayn\u0131",
+        "en-us": "same"
+    },
+    {
+        "word": "bana",
+        "en-us": "me"
+    },
+    {
+        "word": "taraf\u0131ndan",
+        "en-us": "by"
+    },
+    {
+        "word": "t\u00fcrk",
+        "en-us": "turkish"
+    },
+    {
+        "word": "do\u011fru",
+        "en-us": "right"
+    },
+    {
+        "word": "veya",
+        "en-us": "or"
+    },
+    {
+        "word": "biz",
+        "en-us": "we are"
+    },
+    {
+        "word": "oldu\u011funu",
+        "en-us": "that you are"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "diye",
+        "en-us": "he said"
+    },
+    {
+        "word": "kendi",
+        "en-us": "own"
+    },
+    {
+        "word": "oldu\u011fu",
+        "en-us": "is"
+    },
+    {
+        "word": "olur",
+        "en-us": "happens"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "\u015fu",
+        "en-us": "this one"
+    },
+    {
+        "word": "birlikte",
+        "en-us": "together"
+    },
+    {
+        "word": "devam",
+        "en-us": "continue"
+    },
+    {
+        "word": "di\u011fer",
+        "en-us": "other"
+    },
+    {
+        "word": "sana",
+        "en-us": "to you"
+    },
+    {
+        "word": "fazla",
+        "en-us": "more"
+    },
+    {
+        "word": "neden",
+        "en-us": "why?"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "\u00f6nemli",
+        "en-us": "important"
+    },
+    {
+        "word": "y\u0131l",
+        "en-us": "year"
+    },
+    {
+        "word": "i\u00e7inde",
+        "en-us": "in"
+    },
+    {
+        "word": "olmak",
+        "en-us": "to be"
+    },
+    {
+        "word": "\u015fimdi",
+        "en-us": "now"
+    },
+    {
+        "word": "\u00e7\u00fcnk\u00fc",
+        "en-us": "because"
+    },
+    {
+        "word": "ancak",
+        "en-us": "but"
+    },
+    {
+        "word": "ba\u015fka",
+        "en-us": "another"
+    },
+    {
+        "word": "biri",
+        "en-us": "one"
+    },
+    {
+        "word": "bunu",
+        "en-us": "this"
+    },
+    {
+        "word": "i\u015fte",
+        "en-us": "here you go"
+    },
+    {
+        "word": "olsun",
+        "en-us": "get"
+    },
+    {
+        "word": "kar\u015f\u0131",
+        "en-us": "against"
+    },
+    {
+        "word": "aras\u0131nda",
+        "en-us": "between"
+    },
+    {
+        "word": "insanlar",
+        "en-us": "people"
+    },
+    {
+        "word": "\u00f6yle",
+        "en-us": "it is"
+    },
+    {
+        "word": "\u015fekilde",
+        "en-us": "as"
+    },
+    {
+        "word": "b\u00fct\u00fcn",
+        "en-us": "all"
+    },
+    {
+        "word": "istanbul",
+        "en-us": "istanbul"
+    },
+    {
+        "word": "i\u015f",
+        "en-us": "work"
+    },
+    {
+        "word": "senin",
+        "en-us": "your"
+    },
+    {
+        "word": "d\u00fcnya",
+        "en-us": "world"
+    },
+    {
+        "word": "genel",
+        "en-us": "general"
+    },
+    {
+        "word": "hemen",
+        "en-us": "immediately"
+    },
+    {
+        "word": "yine",
+        "en-us": "again"
+    },
+    {
+        "word": "adam",
+        "en-us": "man"
+    },
+    {
+        "word": "siz",
+        "en-us": "you"
+    },
+    {
+        "word": "tam",
+        "en-us": "full"
+    },
+    {
+        "word": "uzun",
+        "en-us": "long"
+    },
+    {
+        "word": "bizim",
+        "en-us": "our"
+    },
+    {
+        "word": "bug\u00fcn",
+        "en-us": "today"
+    },
+    {
+        "word": "saat",
+        "en-us": "clock"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "az",
+        "en-us": "less"
+    },
+    {
+        "word": "bunun",
+        "en-us": "that this"
+    },
+    {
+        "word": "eden",
+        "en-us": "who"
+    },
+    {
+        "word": "hakk\u0131nda",
+        "en-us": "about"
+    },
+    {
+        "word": "k\u00fc\u00e7\u00fck",
+        "en-us": "small"
+    },
+    {
+        "word": "size",
+        "en-us": "size"
+    },
+    {
+        "word": "te\u015fekk\u00fcrler",
+        "en-us": "thank you"
+    },
+    {
+        "word": "alan",
+        "en-us": "field"
+    },
+    {
+        "word": "baz\u0131",
+        "en-us": "some"
+    },
+    {
+        "word": "geri",
+        "en-us": "back"
+    },
+    {
+        "word": "olacak",
+        "en-us": "will be"
+    },
+    {
+        "word": "gelen",
+        "en-us": "incoming"
+    },
+    {
+        "word": "insan",
+        "en-us": "human"
+    },
+    {
+        "word": "kad\u0131n",
+        "en-us": "woman"
+    },
+    {
+        "word": "onu",
+        "en-us": "him"
+    },
+    {
+        "word": "\u00fc\u00e7",
+        "en-us": "three"
+    },
+    {
+        "word": "biraz",
+        "en-us": "a little bit"
+    },
+    {
+        "word": "gece",
+        "en-us": "night"
+    },
+    {
+        "word": "hem",
+        "en-us": "both"
+    },
+    {
+        "word": "ki\u015fi",
+        "en-us": "person"
+    },
+    {
+        "word": "yani",
+        "en-us": "namely"
+    },
+    {
+        "word": "ayr\u0131ca",
+        "en-us": "also"
+    },
+    {
+        "word": "eski",
+        "en-us": "old"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "kabul",
+        "en-us": "acceptance"
+    },
+    {
+        "word": "etti",
+        "en-us": "he said"
+    },
+    {
+        "word": "hi\u00e7bir",
+        "en-us": "no"
+    },
+    {
+        "word": "ilgili",
+        "en-us": "related"
+    },
+    {
+        "word": "yap\u0131lan",
+        "en-us": "made"
+    },
+    {
+        "word": "\u00f6zel",
+        "en-us": "special"
+    },
+    {
+        "word": "bize",
+        "en-us": "us"
+    },
+    {
+        "word": "evet",
+        "en-us": "yes"
+    },
+    {
+        "word": "ger\u00e7ek",
+        "en-us": "real"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "vard\u0131r",
+        "en-us": "are"
+    },
+    {
+        "word": "fakat",
+        "en-us": "but"
+    },
+    {
+        "word": "kez",
+        "en-us": "once"
+    },
+    {
+        "word": "sahip",
+        "en-us": "has"
+    },
+    {
+        "word": "y\u00fcksek",
+        "en-us": "high"
+    },
+    {
+        "word": "zaten",
+        "en-us": "already"
+    },
+    {
+        "word": "\u00fczerine",
+        "en-us": "on"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "geldi",
+        "en-us": "arrived"
+    },
+    {
+        "word": "kim",
+        "en-us": "who"
+    },
+    {
+        "word": "mu",
+        "en-us": "mu"
+    },
+    {
+        "word": "sizin",
+        "en-us": "your"
+    },
+    {
+        "word": "bulunan",
+        "en-us": "found in"
+    },
+    {
+        "word": "devlet",
+        "en-us": "state"
+    },
+    {
+        "word": "farkl\u0131",
+        "en-us": "different"
+    },
+    {
+        "word": "hep",
+        "en-us": "always"
+    },
+    {
+        "word": "k\u0131z",
+        "en-us": "girl"
+    },
+    {
+        "word": "\u00fczerinde",
+        "en-us": "on"
+    },
+    {
+        "word": "e\u011fer",
+        "en-us": "if"
+    },
+    {
+        "word": "geliyor",
+        "en-us": "coming"
+    },
+    {
+        "word": "herkes",
+        "en-us": "everyone"
+    },
+    {
+        "word": "ediyor",
+        "en-us": "is"
+    },
+    {
+        "word": "hala",
+        "en-us": "still"
+    },
+    {
+        "word": "l\u00fctfen",
+        "en-us": "please"
+    },
+    {
+        "word": "\u00e7ocuk",
+        "en-us": "child"
+    },
+    {
+        "word": "burada",
+        "en-us": "here"
+    },
+    {
+        "word": "onun",
+        "en-us": "his"
+    },
+    {
+        "word": "para",
+        "en-us": "money"
+    },
+    {
+        "word": "su",
+        "en-us": "water"
+    },
+    {
+        "word": "\u00fczere",
+        "en-us": "about"
+    },
+    {
+        "word": "an",
+        "en-us": "an"
+    },
+    {
+        "word": "bin",
+        "en-us": "bin"
+    },
+    {
+        "word": "s\u00f6z",
+        "en-us": "promise"
+    },
+    {
+        "word": "bizi",
+        "en-us": "us"
+    },
+    {
+        "word": "kimse",
+        "en-us": "nobody"
+    },
+    {
+        "word": "yerine",
+        "en-us": "instead of"
+    },
+    {
+        "word": "y\u0131l\u0131nda",
+        "en-us": "in"
+    },
+    {
+        "word": "el",
+        "en-us": "el"
+    },
+    {
+        "word": "etmek",
+        "en-us": "to"
+    },
+    {
+        "word": "g\u00fcn\u00fc",
+        "en-us": "day"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "istiyorum",
+        "en-us": "i want"
+    },
+    {
+        "word": "hay\u0131r",
+        "en-us": "no"
+    },
+    {
+        "word": "k\u00f6t\u00fc",
+        "en-us": "bad"
+    },
+    {
+        "word": "demek",
+        "en-us": "means"
+    },
+    {
+        "word": "erkek",
+        "en-us": "male"
+    },
+    {
+        "word": "bak",
+        "en-us": "look."
+    },
+    {
+        "word": "gerek",
+        "en-us": "need"
+    },
+    {
+        "word": "ortaya",
+        "en-us": "revealed"
+    },
+    {
+        "word": "sizi",
+        "en-us": "i invite you"
+    },
+    {
+        "word": "yapan",
+        "en-us": "who made"
+    },
+    {
+        "word": "zor",
+        "en-us": "difficult"
+    },
+    {
+        "word": "ay",
+        "en-us": "month"
+    },
+    {
+        "word": "belki",
+        "en-us": "maybe"
+    },
+    {
+        "word": "e\u011fitim",
+        "en-us": "education"
+    },
+    {
+        "word": "hafta",
+        "en-us": "week"
+    },
+    {
+        "word": "ikinci",
+        "en-us": "second"
+    },
+    {
+        "word": "k\u0131sa",
+        "en-us": "short"
+    },
+    {
+        "word": "olmaz",
+        "en-us": "it won't happen"
+    },
+    {
+        "word": "oluyor",
+        "en-us": "happening"
+    },
+    {
+        "word": "ona",
+        "en-us": "ona"
+    },
+    {
+        "word": "bir\u00e7ok",
+        "en-us": "many"
+    },
+    {
+        "word": "kendini",
+        "en-us": "yourself"
+    },
+    {
+        "word": "olabilir",
+        "en-us": "may be"
+    },
+    {
+        "word": "tekrar",
+        "en-us": "again"
+    },
+    {
+        "word": "ard\u0131ndan",
+        "en-us": "followed by"
+    },
+    {
+        "word": "ge\u00e7en",
+        "en-us": "last"
+    },
+    {
+        "word": "olup",
+        "en-us": "and"
+    },
+    {
+        "word": "s\u00fcre",
+        "en-us": "duration"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "alt\u0131nda",
+        "en-us": "under"
+    },
+    {
+        "word": "ba\u015fkan\u0131",
+        "en-us": "president"
+    },
+    {
+        "word": "bence",
+        "en-us": "i think"
+    },
+    {
+        "word": "dedi",
+        "en-us": "he said"
+    },
+    {
+        "word": "yerde",
+        "en-us": "on the ground"
+    },
+    {
+        "word": "ad\u0131",
+        "en-us": "name"
+    },
+    {
+        "word": "asl\u0131nda",
+        "en-us": "in fact"
+    },
+    {
+        "word": "haber",
+        "en-us": "news"
+    },
+    {
+        "word": "hangi",
+        "en-us": "which"
+    },
+    {
+        "word": "olmas\u0131",
+        "en-us": "to be"
+    },
+    {
+        "word": "pek",
+        "en-us": "not much"
+    },
+    {
+        "word": "yeniden",
+        "en-us": "again"
+    },
+    {
+        "word": "yoksa",
+        "en-us": "or"
+    },
+    {
+        "word": "\u0131",
+        "en-us": "\u0131"
+    },
+    {
+        "word": "boyunca",
+        "en-us": "throughout"
+    },
+    {
+        "word": "mutlu",
+        "en-us": "happy"
+    },
+    {
+        "word": "takip",
+        "en-us": "follow-up"
+    },
+    {
+        "word": "yol",
+        "en-us": "road"
+    },
+    {
+        "word": "zamanda",
+        "en-us": "at the time"
+    },
+    {
+        "word": "al",
+        "en-us": "al"
+    },
+    {
+        "word": "a\u00e7\u0131k",
+        "en-us": "open"
+    },
+    {
+        "word": "ev",
+        "en-us": "home"
+    },
+    {
+        "word": "yapt\u0131\u011f\u0131",
+        "en-us": "that he made"
+    },
+    {
+        "word": "ba\u015flad\u0131",
+        "en-us": "started"
+    },
+    {
+        "word": "buna",
+        "en-us": "this includes"
+    },
+    {
+        "word": "dikkat",
+        "en-us": "attention"
+    },
+    {
+        "word": "ediyorum",
+        "en-us": "i am"
+    },
+    {
+        "word": "ger\u00e7ekten",
+        "en-us": "really"
+    },
+    {
+        "word": "laz\u0131m",
+        "en-us": "we need"
+    },
+    {
+        "word": "olsa",
+        "en-us": "though"
+    },
+    {
+        "word": "sonunda",
+        "en-us": "at the end"
+    },
+    {
+        "word": "yapmak",
+        "en-us": "to make"
+    },
+    {
+        "word": "ankara",
+        "en-us": "ankara"
+    },
+    {
+        "word": "bunlar",
+        "en-us": "these are"
+    },
+    {
+        "word": "gelir",
+        "en-us": "income"
+    },
+    {
+        "word": "gereken",
+        "en-us": "required"
+    },
+    {
+        "word": "olmayan",
+        "en-us": "non-existent"
+    },
+    {
+        "word": "\u00fcniversitesi",
+        "en-us": "university"
+    },
+    {
+        "word": "ali",
+        "en-us": "ali"
+    },
+    {
+        "word": "asla",
+        "en-us": "never"
+    },
+    {
+        "word": "birka\u00e7",
+        "en-us": "a few"
+    },
+    {
+        "word": "eder",
+        "en-us": "eder"
+    },
+    {
+        "word": "ederim",
+        "en-us": "i can"
+    },
+    {
+        "word": "gen\u00e7",
+        "en-us": "young"
+    },
+    {
+        "word": "hava",
+        "en-us": "air"
+    },
+    {
+        "word": "karar",
+        "en-us": "decision"
+    },
+    {
+        "word": "ka\u00e7",
+        "en-us": "how many"
+    },
+    {
+        "word": "ait",
+        "en-us": "belonging to"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "ba\u011fl\u0131",
+        "en-us": "connected"
+    },
+    {
+        "word": "dakika",
+        "en-us": "minutes"
+    },
+    {
+        "word": "h\u0131zl\u0131",
+        "en-us": "fast"
+    },
+    {
+        "word": "il",
+        "en-us": "il"
+    },
+    {
+        "word": "istiyor",
+        "en-us": "wants"
+    },
+    {
+        "word": "milyon",
+        "en-us": "million"
+    },
+    {
+        "word": "onlar",
+        "en-us": "they are"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "sosyal",
+        "en-us": "social"
+    },
+    {
+        "word": "te\u015fekk\u00fcr",
+        "en-us": "thank you"
+    },
+    {
+        "word": "yak\u0131n",
+        "en-us": "close"
+    },
+    {
+        "word": "\u00f6zellikle",
+        "en-us": "especially"
+    },
+    {
+        "word": "hadi",
+        "en-us": "come on."
+    },
+    {
+        "word": "kolay",
+        "en-us": "easy"
+    },
+    {
+        "word": "tarihi",
+        "en-us": "history"
+    },
+    {
+        "word": "yan\u0131nda",
+        "en-us": "beside"
+    },
+    {
+        "word": "\u015feyler",
+        "en-us": "things"
+    },
+    {
+        "word": "ana",
+        "en-us": "main"
+    },
+    {
+        "word": "destek",
+        "en-us": "support"
+    },
+    {
+        "word": "d\u00f6rt",
+        "en-us": "four"
+    },
+    {
+        "word": "oyun",
+        "en-us": "game"
+    },
+    {
+        "word": "yar\u0131n",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "yere",
+        "en-us": "on the ground"
+    },
+    {
+        "word": "anda",
+        "en-us": "at the moment"
+    },
+    {
+        "word": "bilgi",
+        "en-us": "information"
+    },
+    {
+        "word": "merak",
+        "en-us": "curiosity"
+    },
+    {
+        "word": "ra\u011fmen",
+        "en-us": "although"
+    },
+    {
+        "word": "sabah",
+        "en-us": "morning"
+    },
+    {
+        "word": "vard\u0131",
+        "en-us": "there were"
+    },
+    {
+        "word": "yapt\u0131",
+        "en-us": "did"
+    },
+    {
+        "word": "\u00e7\u0131kt\u0131",
+        "en-us": "output"
+    },
+    {
+        "word": "abd",
+        "en-us": "uSA"
+    },
+    {
+        "word": "beraber",
+        "en-us": "together"
+    },
+    {
+        "word": "edilen",
+        "en-us": "which is"
+    },
+    {
+        "word": "et",
+        "en-us": "et"
+    },
+    {
+        "word": "kontrol",
+        "en-us": "control"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "niye",
+        "en-us": "why?"
+    },
+    {
+        "word": "olduk\u00e7a",
+        "en-us": "quite"
+    },
+    {
+        "word": "seviyorum",
+        "en-us": "i love"
+    },
+    {
+        "word": "s\u00f6yledi",
+        "en-us": "he said"
+    },
+    {
+        "word": "yaln\u0131z",
+        "en-us": "alone"
+    },
+    {
+        "word": "yanl\u0131\u015f",
+        "en-us": "wrong"
+    },
+    {
+        "word": "\u015feyi",
+        "en-us": "thing"
+    },
+    {
+        "word": "ak\u015fam",
+        "en-us": "evening"
+    },
+    {
+        "word": "avrupa",
+        "en-us": "europe"
+    },
+    {
+        "word": "falan",
+        "en-us": "and so on."
+    },
+    {
+        "word": "g\u00fc\u00e7l\u00fc",
+        "en-us": "strong"
+    },
+    {
+        "word": "i\u00e7",
+        "en-us": "inside"
+    },
+    {
+        "word": "nedir",
+        "en-us": "what is it?"
+    },
+    {
+        "word": "olmu\u015f",
+        "en-us": "has been"
+    },
+    {
+        "word": "parti",
+        "en-us": "party"
+    },
+    {
+        "word": "verdi",
+        "en-us": "gave"
+    },
+    {
+        "word": "beri",
+        "en-us": "since"
+    },
+    {
+        "word": "cevap",
+        "en-us": "answer"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr"
+    },
+    {
+        "word": "d\u00fcnyan\u0131n",
+        "en-us": "of the world"
+    },
+    {
+        "word": "film",
+        "en-us": "movie"
+    },
+    {
+        "word": "gelecek",
+        "en-us": "future"
+    },
+    {
+        "word": "g\u00f6z",
+        "en-us": "eye"
+    },
+    {
+        "word": "merkezi",
+        "en-us": "center"
+    },
+    {
+        "word": "spor",
+        "en-us": "sport"
+    },
+    {
+        "word": "teknik",
+        "en-us": "technical"
+    },
+    {
+        "word": "t\u00fcrkiye'de",
+        "en-us": "in turkey"
+    },
+    {
+        "word": "yaz",
+        "en-us": "summer"
+    },
+    {
+        "word": "\u00fclke",
+        "en-us": "country"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "b\u00f6l\u00fcm",
+        "en-us": "chapter"
+    },
+    {
+        "word": "de\u011fildir",
+        "en-us": "is not"
+    },
+    {
+        "word": "gel",
+        "en-us": "come"
+    },
+    {
+        "word": "insanlar\u0131n",
+        "en-us": "people"
+    },
+    {
+        "word": "ol",
+        "en-us": "ol"
+    },
+    {
+        "word": "yard\u0131mc\u0131",
+        "en-us": "helper"
+    },
+    {
+        "word": "\u00e7\u0131kan",
+        "en-us": "emerging"
+    },
+    {
+        "word": "ald\u0131",
+        "en-us": "received"
+    },
+    {
+        "word": "almak",
+        "en-us": "take"
+    },
+    {
+        "word": "bazen",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "d\u0131\u015f\u0131nda",
+        "en-us": "except"
+    },
+    {
+        "word": "elde",
+        "en-us": "in hand"
+    },
+    {
+        "word": "herhangi",
+        "en-us": "any"
+    },
+    {
+        "word": "kald\u0131",
+        "en-us": "stayed"
+    },
+    {
+        "word": "yakla\u015f\u0131k",
+        "en-us": "about"
+    },
+    {
+        "word": "allah",
+        "en-us": "allah"
+    },
+    {
+        "word": "belli",
+        "en-us": "certain"
+    },
+    {
+        "word": "halk",
+        "en-us": "people"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "polis",
+        "en-us": "police"
+    },
+    {
+        "word": "temmuz",
+        "en-us": "july"
+    },
+    {
+        "word": "tl",
+        "en-us": "tl"
+    },
+    {
+        "word": "uluslararas\u0131",
+        "en-us": "international"
+    },
+    {
+        "word": "varsa",
+        "en-us": "if any"
+    },
+    {
+        "word": "yard\u0131m",
+        "en-us": "help"
+    },
+    {
+        "word": "yemek",
+        "en-us": "food"
+    },
+    {
+        "word": "y\u00fczden",
+        "en-us": "that's why"
+    },
+    {
+        "word": "anne",
+        "en-us": "mother"
+    },
+    {
+        "word": "hareket",
+        "en-us": "movement"
+    },
+    {
+        "word": "konusunda",
+        "en-us": "about"
+    },
+    {
+        "word": "mehmet",
+        "en-us": "mehmet"
+    },
+    {
+        "word": "nedeniyle",
+        "en-us": "due to"
+    },
+    {
+        "word": "sanki",
+        "en-us": "as if"
+    },
+    {
+        "word": "tabi",
+        "en-us": "of course"
+    },
+    {
+        "word": "veren",
+        "en-us": "giver"
+    },
+    {
+        "word": "beyaz",
+        "en-us": "white"
+    },
+    {
+        "word": "bundan",
+        "en-us": "from this"
+    },
+    {
+        "word": "durum",
+        "en-us": "situation"
+    },
+    {
+        "word": "eyl\u00fcl",
+        "en-us": "september"
+    },
+    {
+        "word": "kan",
+        "en-us": "blood"
+    },
+    {
+        "word": "sava\u015f",
+        "en-us": "war"
+    },
+    {
+        "word": "tamamen",
+        "en-us": "completely"
+    },
+    {
+        "word": "ba\u015f\u0131na",
+        "en-us": "per"
+    },
+    {
+        "word": "bende",
+        "en-us": "i have"
+    },
+    {
+        "word": "be\u015f",
+        "en-us": "five"
+    },
+    {
+        "word": "b\u00f6ylece",
+        "en-us": "so that"
+    },
+    {
+        "word": "dedim",
+        "en-us": "i said"
+    },
+    {
+        "word": "den",
+        "en-us": "from"
+    },
+    {
+        "word": "d\u00fcn",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "hayat",
+        "en-us": "life"
+    },
+    {
+        "word": "kalan",
+        "en-us": "remaining"
+    },
+    {
+        "word": "kitap",
+        "en-us": "book"
+    },
+    {
+        "word": "kendine",
+        "en-us": "to yourself"
+    },
+    {
+        "word": "mustafa",
+        "en-us": "mustafa"
+    },
+    {
+        "word": "musunuz",
+        "en-us": "do you"
+    },
+    {
+        "word": "s\u0131ra",
+        "en-us": "queue"
+    },
+    {
+        "word": "ya\u015f",
+        "en-us": "age"
+    },
+    {
+        "word": "ye",
+        "en-us": "eat"
+    },
+    {
+        "word": "ahmet",
+        "en-us": "ahmet"
+    },
+    {
+        "word": "arada",
+        "en-us": "in between"
+    },
+    {
+        "word": "belediye",
+        "en-us": "municipality"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "canl\u0131",
+        "en-us": "live"
+    },
+    {
+        "word": "deniz",
+        "en-us": "sea"
+    },
+    {
+        "word": "dolay\u0131",
+        "en-us": "because"
+    },
+    {
+        "word": "edin",
+        "en-us": "edin"
+    },
+    {
+        "word": "ele",
+        "en-us": "hand in hand"
+    },
+    {
+        "word": "ister",
+        "en-us": "wants"
+    },
+    {
+        "word": "olursa",
+        "en-us": "if it happens"
+    },
+    {
+        "word": "s\u00fcrekli",
+        "en-us": "continuous"
+    },
+    {
+        "word": "yolu",
+        "en-us": "the way"
+    },
+    {
+        "word": "\u00fcst",
+        "en-us": "top"
+    },
+    {
+        "word": "ara",
+        "en-us": "search"
+    },
+    {
+        "word": "at",
+        "en-us": "at"
+    },
+    {
+        "word": "ba\u015fkan",
+        "en-us": "president"
+    },
+    {
+        "word": "izmir",
+        "en-us": "izmir"
+    },
+    {
+        "word": "milli",
+        "en-us": "national"
+    },
+    {
+        "word": "olun",
+        "en-us": "be"
+    },
+    {
+        "word": "ses",
+        "en-us": "sound"
+    },
+    {
+        "word": "sorun",
+        "en-us": "the problem"
+    },
+    {
+        "word": "tane",
+        "en-us": "one"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "verilen",
+        "en-us": "given"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "alt\u0131",
+        "en-us": "six"
+    },
+    {
+        "word": "evde",
+        "en-us": "at home"
+    },
+    {
+        "word": "fark",
+        "en-us": "difference"
+    },
+    {
+        "word": "g\u00f6rev",
+        "en-us": "mission"
+    },
+    {
+        "word": "hak",
+        "en-us": "right"
+    },
+    {
+        "word": "izin",
+        "en-us": "permission"
+    },
+    {
+        "word": "m\u00fczik",
+        "en-us": "music"
+    },
+    {
+        "word": "resmi",
+        "en-us": "official"
+    },
+    {
+        "word": "sat\u0131n",
+        "en-us": "buy"
+    },
+    {
+        "word": "tarih",
+        "en-us": "history"
+    },
+    {
+        "word": "t\u00fcr",
+        "en-us": "type."
+    },
+    {
+        "word": "uygun",
+        "en-us": "appropriate"
+    },
+    {
+        "word": "ayr\u0131",
+        "en-us": "separate"
+    },
+    {
+        "word": "bo\u015f",
+        "en-us": "empty"
+    },
+    {
+        "word": "g\u00fcnl\u00fck",
+        "en-us": "daily"
+    },
+    {
+        "word": "hatta",
+        "en-us": "even"
+    },
+    {
+        "word": "il\u00e7e",
+        "en-us": "district"
+    },
+    {
+        "word": "i\u00e7ine",
+        "en-us": "into"
+    },
+    {
+        "word": "k",
+        "en-us": "k"
+    },
+    {
+        "word": "k\u00fclt\u00fcr",
+        "en-us": "culture"
+    },
+    {
+        "word": "rahat",
+        "en-us": "comfortable"
+    },
+    {
+        "word": "sahibi",
+        "en-us": "owner"
+    },
+    {
+        "word": "sa\u011fl\u0131k",
+        "en-us": "health"
+    },
+    {
+        "word": "sistemi",
+        "en-us": "system"
+    },
+    {
+        "word": "t\u00fcrkiye'nin",
+        "en-us": "turkey's"
+    },
+    {
+        "word": "ya\u015f\u0131nda",
+        "en-us": "years old"
+    },
+    {
+        "word": "yeter",
+        "en-us": "enough"
+    },
+    {
+        "word": "benden",
+        "en-us": "from me"
+    },
+    {
+        "word": "dolu",
+        "en-us": "full"
+    },
+    {
+        "word": "hepsi",
+        "en-us": "all of them"
+    },
+    {
+        "word": "i\u015fi",
+        "en-us": "work"
+    },
+    {
+        "word": "ma\u00e7",
+        "en-us": "match"
+    },
+    {
+        "word": "sonucu",
+        "en-us": "result"
+    },
+    {
+        "word": "soru",
+        "en-us": "question"
+    },
+    {
+        "word": "te",
+        "en-us": "te"
+    },
+    {
+        "word": "yoktur",
+        "en-us": "does not exist"
+    },
+    {
+        "word": "\u00e7e\u015fitli",
+        "en-us": "various"
+    },
+    {
+        "word": "be",
+        "en-us": "be"
+    },
+    {
+        "word": "ciddi",
+        "en-us": "serious"
+    },
+    {
+        "word": "eve",
+        "en-us": "home"
+    },
+    {
+        "word": "haz\u0131r",
+        "en-us": "ready"
+    },
+    {
+        "word": "hizmet",
+        "en-us": "service"
+    },
+    {
+        "word": "kendimi",
+        "en-us": "myself"
+    },
+    {
+        "word": "mart",
+        "en-us": "march"
+    },
+    {
+        "word": "say\u0131n",
+        "en-us": "mr."
+    },
+    {
+        "word": "tak\u0131m",
+        "en-us": "team"
+    },
+    {
+        "word": "yalan",
+        "en-us": "lie"
+    },
+    {
+        "word": "yeri",
+        "en-us": "location"
+    },
+    {
+        "word": "y\u0131ll\u0131k",
+        "en-us": "annual"
+    },
+    {
+        "word": "\u015fehir",
+        "en-us": "city"
+    },
+    {
+        "word": "\u015f\u00f6yle",
+        "en-us": "as follows"
+    },
+    {
+        "word": "ge\u00e7",
+        "en-us": "late"
+    },
+    {
+        "word": "ge\u00e7ti",
+        "en-us": "passed"
+    },
+    {
+        "word": "grup",
+        "en-us": "group"
+    },
+    {
+        "word": "g\u00f6rmek",
+        "en-us": "see"
+    },
+    {
+        "word": "g\u00fcvenlik",
+        "en-us": "security"
+    },
+    {
+        "word": "harika",
+        "en-us": "it's great."
+    },
+    {
+        "word": "kad\u0131nlar",
+        "en-us": "women"
+    },
+    {
+        "word": "m\u00fccadele",
+        "en-us": "struggle"
+    },
+    {
+        "word": "nisan",
+        "en-us": "april"
+    },
+    {
+        "word": "telefon",
+        "en-us": "telephone"
+    },
+    {
+        "word": "y\u0131l\u0131",
+        "en-us": "year"
+    },
+    {
+        "word": "alt",
+        "en-us": "alt"
+    },
+    {
+        "word": "a\u011f\u0131r",
+        "en-us": "heavy"
+    },
+    {
+        "word": "dahil",
+        "en-us": "including"
+    },
+    {
+        "word": "ifade",
+        "en-us": "expression"
+    },
+    {
+        "word": "okul",
+        "en-us": "school"
+    },
+    {
+        "word": "orta",
+        "en-us": "middle"
+    },
+    {
+        "word": "se\u00e7im",
+        "en-us": "election"
+    },
+    {
+        "word": "s\u00fcper",
+        "en-us": "super"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "web",
+        "en-us": "web"
+    },
+    {
+        "word": "yap\u0131yor",
+        "en-us": "does"
+    },
+    {
+        "word": "\u00fcnl\u00fc",
+        "en-us": "famous"
+    },
+    {
+        "word": "birini",
+        "en-us": "one of them"
+    },
+    {
+        "word": "d\u0131\u015f",
+        "en-us": "outside"
+    },
+    {
+        "word": "g\u00fcne\u015f",
+        "en-us": "sun"
+    },
+    {
+        "word": "halde",
+        "en-us": "in a state"
+    },
+    {
+        "word": "hayal",
+        "en-us": "imagination"
+    },
+    {
+        "word": "isteyen",
+        "en-us": "who want"
+    },
+    {
+        "word": "kesin",
+        "en-us": "definitive"
+    },
+    {
+        "word": "m\u00fckemmel",
+        "en-us": "perfect"
+    },
+    {
+        "word": "onlar\u0131n",
+        "en-us": "their"
+    },
+    {
+        "word": "resim",
+        "en-us": "image."
+    },
+    {
+        "word": "sanat",
+        "en-us": "art"
+    },
+    {
+        "word": "s\u0131ras\u0131nda",
+        "en-us": "during"
+    },
+    {
+        "word": "tarihinde",
+        "en-us": "in the history of"
+    },
+    {
+        "word": "uzak",
+        "en-us": "far away"
+    },
+    {
+        "word": "y\u00f6netim",
+        "en-us": "management"
+    },
+    {
+        "word": "ad\u0131m",
+        "en-us": "step"
+    },
+    {
+        "word": "arkada\u015f",
+        "en-us": "friend"
+    },
+    {
+        "word": "ba\u015far\u0131l\u0131",
+        "en-us": "successful"
+    },
+    {
+        "word": "birinci",
+        "en-us": "first"
+    },
+    {
+        "word": "bulundu",
+        "en-us": "found"
+    },
+    {
+        "word": "defa",
+        "en-us": "once"
+    },
+    {
+        "word": "ders",
+        "en-us": "lesson"
+    },
+    {
+        "word": "de\u011filim",
+        "en-us": "i am not"
+    },
+    {
+        "word": "edildi",
+        "en-us": "were"
+    },
+    {
+        "word": "ilan",
+        "en-us": "advertisement"
+    },
+    {
+        "word": "neler",
+        "en-us": "what's going on?"
+    },
+    {
+        "word": "nin",
+        "en-us": "of"
+    },
+    {
+        "word": "olay",
+        "en-us": "event"
+    },
+    {
+        "word": "onlar\u0131",
+        "en-us": "them"
+    },
+    {
+        "word": "peki",
+        "en-us": "okay."
+    },
+    {
+        "word": "senden",
+        "en-us": "from you"
+    },
+    {
+        "word": "tamam",
+        "en-us": "oK."
+    },
+    {
+        "word": "toplam",
+        "en-us": "total"
+    },
+    {
+        "word": "\u00e7ocuklar",
+        "en-us": "children"
+    },
+    {
+        "word": "\u015fark\u0131",
+        "en-us": "song"
+    },
+    {
+        "word": "durumda",
+        "en-us": "case"
+    },
+    {
+        "word": "etme",
+        "en-us": "don't"
+    },
+    {
+        "word": "gitti",
+        "en-us": "gone"
+    },
+    {
+        "word": "g\u00fc\u00e7",
+        "en-us": "power"
+    },
+    {
+        "word": "itibaren",
+        "en-us": "from"
+    },
+    {
+        "word": "kesinlikle",
+        "en-us": "absolutely."
+    },
+    {
+        "word": "konuda",
+        "en-us": "about"
+    },
+    {
+        "word": "k\u0131z\u0131",
+        "en-us": "daughter"
+    },
+    {
+        "word": "nefret",
+        "en-us": "hate"
+    },
+    {
+        "word": "ortak",
+        "en-us": "partner"
+    },
+    {
+        "word": "sonras\u0131",
+        "en-us": "after"
+    },
+    {
+        "word": "temel",
+        "en-us": "basic"
+    },
+    {
+        "word": "\u00fclkenin",
+        "en-us": "country"
+    },
+    {
+        "word": "acaba",
+        "en-us": "i wonder"
+    },
+    {
+        "word": "aile",
+        "en-us": "family"
+    },
+    {
+        "word": "ak",
+        "en-us": "ak"
+    },
+    {
+        "word": "anadolu",
+        "en-us": "anatolia"
+    },
+    {
+        "word": "a\u011fustos",
+        "en-us": "august"
+    },
+    {
+        "word": "a\u015fk",
+        "en-us": "love"
+    },
+    {
+        "word": "dolar",
+        "en-us": "dollar"
+    },
+    {
+        "word": "durumu",
+        "en-us": "status"
+    },
+    {
+        "word": "edecek",
+        "en-us": "will"
+    },
+    {
+        "word": "etti\u011fi",
+        "en-us": "that"
+    },
+    {
+        "word": "konusu",
+        "en-us": "subject"
+    },
+    {
+        "word": "normal",
+        "en-us": "normal"
+    },
+    {
+        "word": "san\u0131r\u0131m",
+        "en-us": "i think"
+    },
+    {
+        "word": "siyasi",
+        "en-us": "political"
+    },
+    {
+        "word": "sonraki",
+        "en-us": "next"
+    },
+    {
+        "word": "t\u00fcrk\u00e7e",
+        "en-us": "turkish"
+    },
+    {
+        "word": "\u00f6ld\u00fc",
+        "en-us": "died"
+    },
+    {
+        "word": "bayan",
+        "en-us": "ms."
+    },
+    {
+        "word": "ba\u015f",
+        "en-us": "head"
+    },
+    {
+        "word": "bi",
+        "en-us": "bi"
+    },
+    {
+        "word": "cumhurba\u015fkan\u0131",
+        "en-us": "president"
+    },
+    {
+        "word": "diyor",
+        "en-us": "says"
+    },
+    {
+        "word": "do\u011fum",
+        "en-us": "birth"
+    },
+    {
+        "word": "d\u00fcnyada",
+        "en-us": "in the world"
+    },
+    {
+        "word": "elektrik",
+        "en-us": "electricity"
+    },
+    {
+        "word": "erken",
+        "en-us": "early"
+    },
+    {
+        "word": "kendisi",
+        "en-us": "himself"
+    },
+    {
+        "word": "konu",
+        "en-us": "subject"
+    },
+    {
+        "word": "vermek",
+        "en-us": "give"
+    },
+    {
+        "word": "yaln\u0131zca",
+        "en-us": "only"
+    },
+    {
+        "word": "zorunda",
+        "en-us": "has to"
+    },
+    {
+        "word": "\u00f6l\u00fcm",
+        "en-us": "death"
+    },
+    {
+        "word": "\u00f6nceki",
+        "en-us": "previous"
+    },
+    {
+        "word": "adam\u0131",
+        "en-us": "man"
+    },
+    {
+        "word": "ald\u0131\u011f\u0131",
+        "en-us": "received"
+    },
+    {
+        "word": "al\u0131p",
+        "en-us": "and take"
+    },
+    {
+        "word": "aras\u0131ndaki",
+        "en-us": "between"
+    },
+    {
+        "word": "bakan\u0131",
+        "en-us": "minister"
+    },
+    {
+        "word": "ba\u015f\u0131nda",
+        "en-us": "at the beginning"
+    },
+    {
+        "word": "bunlar\u0131",
+        "en-us": "these"
+    },
+    {
+        "word": "dair",
+        "en-us": "about"
+    },
+    {
+        "word": "de\u011fer",
+        "en-us": "value"
+    },
+    {
+        "word": "git",
+        "en-us": "go away"
+    },
+    {
+        "word": "gol",
+        "en-us": "goal"
+    },
+    {
+        "word": "herkesin",
+        "en-us": "everyone"
+    },
+    {
+        "word": "islam",
+        "en-us": "islam"
+    },
+    {
+        "word": "izle",
+        "en-us": "watch"
+    },
+    {
+        "word": "merkez",
+        "en-us": "center"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "neyse",
+        "en-us": "anyway."
+    },
+    {
+        "word": "onlara",
+        "en-us": "to them"
+    },
+    {
+        "word": "sene",
+        "en-us": "year"
+    },
+    {
+        "word": "sitesi",
+        "en-us": "site"
+    },
+    {
+        "word": "bey",
+        "en-us": "bey"
+    },
+    {
+        "word": "bunlar\u0131n",
+        "en-us": "of these"
+    },
+    {
+        "word": "d\u00f6nem",
+        "en-us": "period"
+    },
+    {
+        "word": "gerekiyor",
+        "en-us": "needed"
+    },
+    {
+        "word": "hayatta",
+        "en-us": "in life"
+    },
+    {
+        "word": "insanlar\u0131",
+        "en-us": "people"
+    },
+    {
+        "word": "i\u015fe",
+        "en-us": "to work"
+    },
+    {
+        "word": "kemal",
+        "en-us": "kemal"
+    },
+    {
+        "word": "kullan\u0131lan",
+        "en-us": "used"
+    },
+    {
+        "word": "merhaba",
+        "en-us": "hello."
+    },
+    {
+        "word": "yan\u0131",
+        "en-us": "side"
+    },
+    {
+        "word": "yap",
+        "en-us": "do it"
+    },
+    {
+        "word": "\u00e7al\u0131\u015fan",
+        "en-us": "employee"
+    },
+    {
+        "word": "\u00e7o\u011fu",
+        "en-us": "most of them"
+    },
+    {
+        "word": "\u00f6n",
+        "en-us": "front"
+    },
+    {
+        "word": "ad\u0131na",
+        "en-us": "on behalf of"
+    },
+    {
+        "word": "bakal\u0131m",
+        "en-us": "let's see"
+    },
+    {
+        "word": "bak\u0131n",
+        "en-us": "see"
+    },
+    {
+        "word": "dil",
+        "en-us": "language"
+    },
+    {
+        "word": "haline",
+        "en-us": "become"
+    },
+    {
+        "word": "john",
+        "en-us": "john"
+    },
+    {
+        "word": "kas\u0131m",
+        "en-us": "november"
+    },
+    {
+        "word": "k\u0131rm\u0131z\u0131",
+        "en-us": "red"
+    },
+    {
+        "word": "la",
+        "en-us": "la"
+    },
+    {
+        "word": "seninle",
+        "en-us": "with you"
+    },
+    {
+        "word": "verdi\u011fi",
+        "en-us": "given by"
+    },
+    {
+        "word": "yabanc\u0131",
+        "en-us": "foreign"
+    },
+    {
+        "word": "yay\u0131n",
+        "en-us": "publication"
+    },
+    {
+        "word": "y\u0131ld\u0131r",
+        "en-us": "year"
+    },
+    {
+        "word": "zarar",
+        "en-us": "harm"
+    },
+    {
+        "word": "\u00f6n\u00fcnde",
+        "en-us": "in front of"
+    },
+    {
+        "word": "ac\u0131",
+        "en-us": "pain"
+    },
+    {
+        "word": "ad\u0131n\u0131",
+        "en-us": "name"
+    },
+    {
+        "word": "alt\u0131n",
+        "en-us": "gold"
+    },
+    {
+        "word": "baba",
+        "en-us": "father"
+    },
+    {
+        "word": "bilim",
+        "en-us": "science"
+    },
+    {
+        "word": "geni\u015f",
+        "en-us": "wide"
+    },
+    {
+        "word": "hayat\u0131n\u0131",
+        "en-us": "life"
+    },
+    {
+        "word": "haziran",
+        "en-us": "june"
+    },
+    {
+        "word": "hen\u00fcz",
+        "en-us": "yet"
+    },
+    {
+        "word": "may\u0131s",
+        "en-us": "may"
+    },
+    {
+        "word": "m\u00fcmk\u00fcn",
+        "en-us": "possible"
+    },
+    {
+        "word": "olma",
+        "en-us": "becoming"
+    },
+    {
+        "word": "olmal\u0131",
+        "en-us": "must be"
+    },
+    {
+        "word": "say\u0131s\u0131",
+        "en-us": "number of"
+    },
+    {
+        "word": "yana",
+        "en-us": "since"
+    },
+    {
+        "word": "\u00fccretsiz",
+        "en-us": "free of charge"
+    },
+    {
+        "word": "\u00fczerinden",
+        "en-us": "via"
+    },
+    {
+        "word": "\u00fc\u00e7\u00fcnc\u00fc",
+        "en-us": "third"
+    },
+    {
+        "word": "\u015fubat",
+        "en-us": "february"
+    },
+    {
+        "word": "adl\u0131",
+        "en-us": "named"
+    },
+    {
+        "word": "ara\u015ft\u0131rma",
+        "en-us": "research"
+    },
+    {
+        "word": "bulundu\u011fu",
+        "en-us": "found in"
+    },
+    {
+        "word": "cumhuriyet",
+        "en-us": "republic"
+    },
+    {
+        "word": "dan",
+        "en-us": "from"
+    },
+    {
+        "word": "do\u011fal",
+        "en-us": "natural"
+    },
+    {
+        "word": "erdo\u011fan",
+        "en-us": "erdogan"
+    },
+    {
+        "word": "futbol",
+        "en-us": "soccer"
+    },
+    {
+        "word": "i\u00e7erisinde",
+        "en-us": "in"
+    },
+    {
+        "word": "kere",
+        "en-us": "times"
+    },
+    {
+        "word": "mesaj",
+        "en-us": "message"
+    },
+    {
+        "word": "oldum",
+        "en-us": "i've been"
+    },
+    {
+        "word": "olu\u015fan",
+        "en-us": "consisting of"
+    },
+    {
+        "word": "orada",
+        "en-us": "there"
+    },
+    {
+        "word": "serbest",
+        "en-us": "free"
+    },
+    {
+        "word": "s\u0131rada",
+        "en-us": "in order"
+    },
+    {
+        "word": "y\u00fcz",
+        "en-us": "face"
+    },
+    {
+        "word": "acil",
+        "en-us": "urgent"
+    },
+    {
+        "word": "can",
+        "en-us": "can"
+    },
+    {
+        "word": "ekim",
+        "en-us": "october"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "internet",
+        "en-us": "internet"
+    },
+    {
+        "word": "kara",
+        "en-us": "black"
+    },
+    {
+        "word": "kurulu",
+        "en-us": "board"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "olmad\u0131\u011f\u0131n\u0131",
+        "en-us": "that you are not"
+    },
+    {
+        "word": "seks",
+        "en-us": "sex"
+    },
+    {
+        "word": "s\u0131k",
+        "en-us": "often"
+    },
+    {
+        "word": "tatl\u0131",
+        "en-us": "sweet"
+    },
+    {
+        "word": "t\u00fcrl\u00fc",
+        "en-us": "kind of"
+    },
+    {
+        "word": "ya\u015fam",
+        "en-us": "life"
+    },
+    {
+        "word": "ya\u015fayan",
+        "en-us": "living"
+    },
+    {
+        "word": "ziyaret",
+        "en-us": "visit"
+    },
+    {
+        "word": "as\u0131l",
+        "en-us": "original"
+    },
+    {
+        "word": "bar\u0131\u015f",
+        "en-us": "peace"
+    },
+    {
+        "word": "ba\u015flayan",
+        "en-us": "starting"
+    },
+    {
+        "word": "birisi",
+        "en-us": "someone"
+    },
+    {
+        "word": "birli\u011fi",
+        "en-us": "unity"
+    },
+    {
+        "word": "can\u0131m",
+        "en-us": "dear"
+    },
+    {
+        "word": "hale",
+        "en-us": "hale"
+    },
+    {
+        "word": "insan\u0131n",
+        "en-us": "human"
+    },
+    {
+        "word": "karde\u015fim",
+        "en-us": "my brother"
+    },
+    {
+        "word": "milletvekili",
+        "en-us": "mP"
+    },
+    {
+        "word": "ondan",
+        "en-us": "from him"
+    },
+    {
+        "word": "oyunu",
+        "en-us": "the Game"
+    },
+    {
+        "word": "sa\u011f",
+        "en-us": "right"
+    },
+    {
+        "word": "sezon",
+        "en-us": "season"
+    },
+    {
+        "word": "sona",
+        "en-us": "to the end"
+    },
+    {
+        "word": "s\u0131cak",
+        "en-us": "hot"
+    },
+    {
+        "word": "yapar",
+        "en-us": "does"
+    },
+    {
+        "word": "y\u00fcz\u00fcnden",
+        "en-us": "because of"
+    },
+    {
+        "word": "\u00e7ocu\u011fu",
+        "en-us": "child"
+    },
+    {
+        "word": "\u00e7\u0131kar",
+        "en-us": "take off"
+    },
+    {
+        "word": "askeri",
+        "en-us": "military"
+    },
+    {
+        "word": "der",
+        "en-us": "der"
+    },
+    {
+        "word": "din",
+        "en-us": "religion"
+    },
+    {
+        "word": "dizi",
+        "en-us": "series"
+    },
+    {
+        "word": "hayat\u0131",
+        "en-us": "life"
+    },
+    {
+        "word": "ileri",
+        "en-us": "forward"
+    },
+    {
+        "word": "ki\u015finin",
+        "en-us": "person"
+    },
+    {
+        "word": "ma\u00e7\u0131",
+        "en-us": "match"
+    },
+    {
+        "word": "millet",
+        "en-us": "millet"
+    },
+    {
+        "word": "oy",
+        "en-us": "vote"
+    },
+    {
+        "word": "selam",
+        "en-us": "hi."
+    },
+    {
+        "word": "site",
+        "en-us": "site"
+    },
+    {
+        "word": "sonu",
+        "en-us": "end"
+    },
+    {
+        "word": "ver",
+        "en-us": "give"
+    },
+    {
+        "word": "yapm\u0131\u015f",
+        "en-us": "made"
+    },
+    {
+        "word": "aday",
+        "en-us": "candidate"
+    },
+    {
+        "word": "alt\u0131na",
+        "en-us": "underneath"
+    },
+    {
+        "word": "atat\u00fcrk",
+        "en-us": "ataturk"
+    },
+    {
+        "word": "bebek",
+        "en-us": "baby"
+    },
+    {
+        "word": "b\u00f6lge",
+        "en-us": "region"
+    },
+    {
+        "word": "d\u00fcnyaya",
+        "en-us": "to the world"
+    },
+    {
+        "word": "d\u00fczenlenen",
+        "en-us": "organized"
+    },
+    {
+        "word": "ederek",
+        "en-us": "by"
+    },
+    {
+        "word": "emin",
+        "en-us": "sure"
+    },
+    {
+        "word": "gerekti\u011fini",
+        "en-us": "that you should"
+    },
+    {
+        "word": "gizli",
+        "en-us": "hidden"
+    },
+    {
+        "word": "hakk\u0131",
+        "en-us": "right"
+    },
+    {
+        "word": "olmaya",
+        "en-us": "to be"
+    },
+    {
+        "word": "osmanl\u0131",
+        "en-us": "ottoman"
+    },
+    {
+        "word": "sende",
+        "en-us": "you have"
+    },
+    {
+        "word": "tespit",
+        "en-us": "detection"
+    },
+    {
+        "word": "verir",
+        "en-us": "gives"
+    },
+    {
+        "word": "yapma",
+        "en-us": "don't"
+    },
+    {
+        "word": "zaman\u0131",
+        "en-us": "time"
+    },
+    {
+        "word": "\u00f6ncesi",
+        "en-us": "before"
+    },
+    {
+        "word": "aktif",
+        "en-us": "active"
+    },
+    {
+        "word": "al\u0131r",
+        "en-us": "takes"
+    },
+    {
+        "word": "ay\u0131nda",
+        "en-us": "in the month of"
+    },
+    {
+        "word": "bilmiyorum",
+        "en-us": "i don't know"
+    },
+    {
+        "word": "bununla",
+        "en-us": "with this"
+    },
+    {
+        "word": "d\u00f6nemde",
+        "en-us": "during the period"
+    },
+    {
+        "word": "ediyoruz",
+        "en-us": "we are"
+    },
+    {
+        "word": "ettim",
+        "en-us": "i did"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "ho\u015f",
+        "en-us": "nice"
+    },
+    {
+        "word": "kapal\u0131",
+        "en-us": "closed"
+    },
+    {
+        "word": "muhte\u015fem",
+        "en-us": "spectacular"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "siyah",
+        "en-us": "black"
+    },
+    {
+        "word": "ulusal",
+        "en-us": "national"
+    },
+    {
+        "word": "yada",
+        "en-us": "or"
+    },
+    {
+        "word": "yerinde",
+        "en-us": "in place"
+    },
+    {
+        "word": "\u00e7al\u0131\u015fma",
+        "en-us": "study"
+    },
+    {
+        "word": "\u00fcst\u00fcne",
+        "en-us": "on top of"
+    },
+    {
+        "word": "\u00fcyesi",
+        "en-us": "member"
+    },
+    {
+        "word": "aras\u0131",
+        "en-us": "between"
+    },
+    {
+        "word": "edilir",
+        "en-us": "is"
+    },
+    {
+        "word": "edip",
+        "en-us": "and"
+    },
+    {
+        "word": "ek",
+        "en-us": "additional"
+    },
+    {
+        "word": "ekonomik",
+        "en-us": "economic"
+    },
+    {
+        "word": "enerji",
+        "en-us": "energy"
+    },
+    {
+        "word": "etmeye",
+        "en-us": "to"
+    },
+    {
+        "word": "fenerbah\u00e7e",
+        "en-us": "fenerbahce"
+    },
+    {
+        "word": "hasta",
+        "en-us": "patient"
+    },
+    {
+        "word": "http",
+        "en-us": "http"
+    },
+    {
+        "word": "ingilizce",
+        "en-us": "english"
+    },
+    {
+        "word": "kar\u015f\u0131s\u0131nda",
+        "en-us": "against"
+    },
+    {
+        "word": "ocak",
+        "en-us": "hearth"
+    },
+    {
+        "word": "olmadan",
+        "en-us": "without"
+    },
+    {
+        "word": "online",
+        "en-us": "online"
+    },
+    {
+        "word": "sonras\u0131nda",
+        "en-us": "afterwards"
+    },
+    {
+        "word": "tercih",
+        "en-us": "preference"
+    },
+    {
+        "word": "yerel",
+        "en-us": "local"
+    },
+    {
+        "word": "yerini",
+        "en-us": "its place"
+    },
+    {
+        "word": "yeterli",
+        "en-us": "adequate"
+    },
+    {
+        "word": "\u0131n",
+        "en-us": "in"
+    },
+    {
+        "word": "alan\u0131",
+        "en-us": "field"
+    },
+    {
+        "word": "buraya",
+        "en-us": "here"
+    },
+    {
+        "word": "b\u00f6l\u00fcm\u00fc",
+        "en-us": "section"
+    },
+    {
+        "word": "escort",
+        "en-us": "escort"
+    },
+    {
+        "word": "gelmi\u015f",
+        "en-us": "has arrived"
+    },
+    {
+        "word": "hukuk",
+        "en-us": "law"
+    },
+    {
+        "word": "isim",
+        "en-us": "name"
+    },
+    {
+        "word": "kendisine",
+        "en-us": "to itself"
+    },
+    {
+        "word": "medya",
+        "en-us": "media"
+    },
+    {
+        "word": "misin",
+        "en-us": "are you"
+    },
+    {
+        "word": "oyuncu",
+        "en-us": "actor"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "verin",
+        "en-us": "give"
+    },
+    {
+        "word": "yola",
+        "en-us": "on the road"
+    },
+    {
+        "word": "y\u0131ld\u0131z",
+        "en-us": "star"
+    },
+    {
+        "word": "\u00f6l\u00fc",
+        "en-us": "dead"
+    },
+    {
+        "word": "\u0131\u015f\u0131k",
+        "en-us": "light"
+    },
+    {
+        "word": "adet",
+        "en-us": "quantity"
+    },
+    {
+        "word": "aral\u0131k",
+        "en-us": "range"
+    },
+    {
+        "word": "basit",
+        "en-us": "simple"
+    },
+    {
+        "word": "ba\u015fbakan",
+        "en-us": "prime Minister"
+    },
+    {
+        "word": "bulunmaktad\u0131r",
+        "en-us": "are available"
+    },
+    {
+        "word": "do\u011fu",
+        "en-us": "east"
+    },
+    {
+        "word": "foto\u011fraf",
+        "en-us": "photo."
+    },
+    {
+        "word": "galatasaray",
+        "en-us": "galatasaray"
+    },
+    {
+        "word": "galiba",
+        "en-us": "i think"
+    },
+    {
+        "word": "gidiyor",
+        "en-us": "leaving"
+    },
+    {
+        "word": "ileti\u015fim",
+        "en-us": "communication"
+    },
+    {
+        "word": "i\u015fin",
+        "en-us": "your work"
+    },
+    {
+        "word": "kalp",
+        "en-us": "heart"
+    },
+    {
+        "word": "kimsenin",
+        "en-us": "no one"
+    },
+    {
+        "word": "puan",
+        "en-us": "score"
+    },
+    {
+        "word": "sebep",
+        "en-us": "reason"
+    },
+    {
+        "word": "sevgili",
+        "en-us": "beloved"
+    },
+    {
+        "word": "so\u011fuk",
+        "en-us": "cold"
+    },
+    {
+        "word": "tabii",
+        "en-us": "of course"
+    },
+    {
+        "word": "teslim",
+        "en-us": "delivery"
+    },
+    {
+        "word": "veriyor",
+        "en-us": "gives"
+    },
+    {
+        "word": "yava\u015f",
+        "en-us": "slow"
+    },
+    {
+        "word": "\u00fclkede",
+        "en-us": "in the country"
+    },
+    {
+        "word": "\u015feyin",
+        "en-us": "that"
+    },
+    {
+        "word": "annem",
+        "en-us": "my mother"
+    },
+    {
+        "word": "arka",
+        "en-us": "back"
+    },
+    {
+        "word": "bakanl\u0131\u011f\u0131",
+        "en-us": "ministry"
+    },
+    {
+        "word": "bekliyor",
+        "en-us": "waiting"
+    },
+    {
+        "word": "bitti",
+        "en-us": "it's over"
+    },
+    {
+        "word": "de\u011ferli",
+        "en-us": "valuable"
+    },
+    {
+        "word": "d\u00fc\u015f\u00fck",
+        "en-us": "low"
+    },
+    {
+        "word": "etmi\u015f",
+        "en-us": "had"
+    },
+    {
+        "word": "gelip",
+        "en-us": "come and"
+    },
+    {
+        "word": "genellikle",
+        "en-us": "usually"
+    },
+    {
+        "word": "gidip",
+        "en-us": "and go to"
+    },
+    {
+        "word": "g\u00fcnayd\u0131n",
+        "en-us": "good morning"
+    },
+    {
+        "word": "meydana",
+        "en-us": "occurrence"
+    },
+    {
+        "word": "nefes",
+        "en-us": "breath"
+    },
+    {
+        "word": "neredeyse",
+        "en-us": "almost"
+    },
+    {
+        "word": "olmad\u0131",
+        "en-us": "did not happen"
+    },
+    {
+        "word": "suriye",
+        "en-us": "syria"
+    },
+    {
+        "word": "ta\u015f",
+        "en-us": "stone"
+    },
+    {
+        "word": "toprak",
+        "en-us": "soil"
+    },
+    {
+        "word": "y",
+        "en-us": "y"
+    },
+    {
+        "word": "yapmaya",
+        "en-us": "to do"
+    },
+    {
+        "word": "yedi",
+        "en-us": "seven"
+    },
+    {
+        "word": "adalet",
+        "en-us": "justice"
+    },
+    {
+        "word": "anlam\u0131na",
+        "en-us": "means"
+    },
+    {
+        "word": "ate\u015f",
+        "en-us": "fire"
+    },
+    {
+        "word": "aynen",
+        "en-us": "exactly."
+    },
+    {
+        "word": "bilgisayar",
+        "en-us": "computer"
+    },
+    {
+        "word": "biliyor",
+        "en-us": "knows"
+    },
+    {
+        "word": "biliyorum",
+        "en-us": "i know"
+    },
+    {
+        "word": "birinin",
+        "en-us": "one of the"
+    },
+    {
+        "word": "demektir",
+        "en-us": "means"
+    },
+    {
+        "word": "diyorum",
+        "en-us": "i say"
+    },
+    {
+        "word": "giden",
+        "en-us": "outgoing"
+    },
+    {
+        "word": "gitmek",
+        "en-us": "to go"
+    },
+    {
+        "word": "g\u00f6rd\u00fcm",
+        "en-us": "i saw"
+    },
+    {
+        "word": "herkese",
+        "en-us": "to everyone"
+    },
+    {
+        "word": "ki\u015fisel",
+        "en-us": "personal"
+    },
+    {
+        "word": "kuzey",
+        "en-us": "north"
+    },
+    {
+        "word": "m\u00fcsl\u00fcman",
+        "en-us": "muslim"
+    },
+    {
+        "word": "nerede",
+        "en-us": "where"
+    },
+    {
+        "word": "olanlar",
+        "en-us": "those who are"
+    },
+    {
+        "word": "oldu\u011funa",
+        "en-us": "that"
+    },
+    {
+        "word": "pazar",
+        "en-us": "market"
+    },
+    {
+        "word": "sol",
+        "en-us": "left"
+    },
+    {
+        "word": "ter\u00f6r",
+        "en-us": "terror"
+    },
+    {
+        "word": "yazar",
+        "en-us": "author"
+    },
+    {
+        "word": "\u00e7ift",
+        "en-us": "couple"
+    },
+    {
+        "word": "ald\u0131m",
+        "en-us": "i got it"
+    },
+    {
+        "word": "ayd\u0131n",
+        "en-us": "enlightenment"
+    },
+    {
+        "word": "babas\u0131",
+        "en-us": "father"
+    },
+    {
+        "word": "benimle",
+        "en-us": "with me"
+    },
+    {
+        "word": "benzer",
+        "en-us": "similar"
+    },
+    {
+        "word": "birine",
+        "en-us": "to one"
+    },
+    {
+        "word": "bir\u015fey",
+        "en-us": "something"
+    },
+    {
+        "word": "d\u0131\u015f\u0131",
+        "en-us": "outside"
+    },
+    {
+        "word": "evi",
+        "en-us": "home"
+    },
+    {
+        "word": "geceler",
+        "en-us": "nights"
+    },
+    {
+        "word": "gerekir",
+        "en-us": "must"
+    },
+    {
+        "word": "grubu",
+        "en-us": "group"
+    },
+    {
+        "word": "hediye",
+        "en-us": "gift"
+    },
+    {
+        "word": "ihtiyac\u0131",
+        "en-us": "the need for"
+    },
+    {
+        "word": "istiyoruz",
+        "en-us": "we want"
+    },
+    {
+        "word": "ki\u015filer",
+        "en-us": "individuals"
+    },
+    {
+        "word": "mal",
+        "en-us": "goods"
+    },
+    {
+        "word": "sayesinde",
+        "en-us": "thanks to"
+    },
+    {
+        "word": "say\u0131da",
+        "en-us": "number of"
+    },
+    {
+        "word": "yap\u0131ld\u0131",
+        "en-us": "made"
+    },
+    {
+        "word": "\u00e7al\u0131\u015fmalar\u0131",
+        "en-us": "studies"
+    },
+    {
+        "word": "\u015feklinde",
+        "en-us": "in the form of"
+    },
+    {
+        "word": "\u015feye",
+        "en-us": "to"
+    },
+    {
+        "word": "be\u015fikta\u015f",
+        "en-us": "besiktas"
+    },
+    {
+        "word": "birden",
+        "en-us": "suddenly"
+    },
+    {
+        "word": "deli",
+        "en-us": "crazy"
+    },
+    {
+        "word": "do\u011fan",
+        "en-us": "born"
+    },
+    {
+        "word": "dur",
+        "en-us": "stop"
+    },
+    {
+        "word": "d\u00fc\u015f\u00fcn\u00fcyorum",
+        "en-us": "i think"
+    },
+    {
+        "word": "filmi",
+        "en-us": "movie"
+    },
+    {
+        "word": "g\u00fcc\u00fc",
+        "en-us": "power"
+    },
+    {
+        "word": "g\u00fcnde",
+        "en-us": "per day"
+    },
+    {
+        "word": "g\u00fcney",
+        "en-us": "south"
+    },
+    {
+        "word": "iddia",
+        "en-us": "claim"
+    },
+    {
+        "word": "istanbul'da",
+        "en-us": "in istanbul"
+    },
+    {
+        "word": "nedenle",
+        "en-us": "therefore"
+    },
+    {
+        "word": "oda",
+        "en-us": "room"
+    },
+    {
+        "word": "olmas\u0131na",
+        "en-us": "to be"
+    },
+    {
+        "word": "ortalama",
+        "en-us": "average"
+    },
+    {
+        "word": "par\u00e7as\u0131",
+        "en-us": "part of"
+    },
+    {
+        "word": "profesyonel",
+        "en-us": "professional"
+    },
+    {
+        "word": "sert",
+        "en-us": "hard"
+    },
+    {
+        "word": "umar\u0131m",
+        "en-us": "i hope"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "yapacak",
+        "en-us": "will do"
+    },
+    {
+        "word": "y\u0131llar",
+        "en-us": "years"
+    },
+    {
+        "word": "\u00f6rne\u011fin",
+        "en-us": "for example"
+    },
+    {
+        "word": "amerikan",
+        "en-us": "american"
+    },
+    {
+        "word": "bilir",
+        "en-us": "knows"
+    },
+    {
+        "word": "derece",
+        "en-us": "degree"
+    },
+    {
+        "word": "d\u00f6neminde",
+        "en-us": "during the period"
+    },
+    {
+        "word": "gelin",
+        "en-us": "bride"
+    },
+    {
+        "word": "gen\u00e7lik",
+        "en-us": "youth"
+    },
+    {
+        "word": "gider",
+        "en-us": "goes"
+    },
+    {
+        "word": "ha",
+        "en-us": "ha"
+    },
+    {
+        "word": "insanlara",
+        "en-us": "people"
+    },
+    {
+        "word": "ismi",
+        "en-us": "name"
+    },
+    {
+        "word": "istemiyorum",
+        "en-us": "i don't want to"
+    },
+    {
+        "word": "i\u015fler",
+        "en-us": "jobs"
+    },
+    {
+        "word": "kahve",
+        "en-us": "coffee"
+    },
+    {
+        "word": "ke\u015fke",
+        "en-us": "i wish"
+    },
+    {
+        "word": "mavi",
+        "en-us": "blue"
+    },
+    {
+        "word": "mesela",
+        "en-us": "for example"
+    },
+    {
+        "word": "olmas\u0131n\u0131",
+        "en-us": "to be"
+    },
+    {
+        "word": "silah",
+        "en-us": "weapon"
+    },
+    {
+        "word": "tak\u0131m\u0131",
+        "en-us": "team"
+    },
+    {
+        "word": "temiz",
+        "en-us": "clean"
+    },
+    {
+        "word": "ticaret",
+        "en-us": "trade"
+    },
+    {
+        "word": "yapt\u0131m",
+        "en-us": "i did it"
+    },
+    {
+        "word": "yar\u0131m",
+        "en-us": "half"
+    },
+    {
+        "word": "y\u0131l\u0131n",
+        "en-us": "of the year"
+    },
+    {
+        "word": "\u00f6rnek",
+        "en-us": "example"
+    },
+    {
+        "word": "ah",
+        "en-us": "ah"
+    },
+    {
+        "word": "amac\u0131yla",
+        "en-us": "for the purpose of"
+    },
+    {
+        "word": "a\u015f\u0131r\u0131",
+        "en-us": "extreme"
+    },
+    {
+        "word": "ceza",
+        "en-us": "punishment"
+    },
+    {
+        "word": "erkekler",
+        "en-us": "men"
+    },
+    {
+        "word": "fatih",
+        "en-us": "fatih"
+    },
+    {
+        "word": "ge\u00e7mi\u015f",
+        "en-us": "history"
+    },
+    {
+        "word": "giri\u015f",
+        "en-us": "introduction"
+    },
+    {
+        "word": "g\u00f6steren",
+        "en-us": "showing"
+    },
+    {
+        "word": "g\u00fcnler",
+        "en-us": "days"
+    },
+    {
+        "word": "g\u00fcn\u00fcn",
+        "en-us": "of the day"
+    },
+    {
+        "word": "g\u00fcven",
+        "en-us": "trust"
+    },
+    {
+        "word": "hasan",
+        "en-us": "hasan"
+    },
+    {
+        "word": "kad\u0131n\u0131n",
+        "en-us": "woman"
+    },
+    {
+        "word": "kimi",
+        "en-us": "some"
+    },
+    {
+        "word": "kitab\u0131",
+        "en-us": "book"
+    },
+    {
+        "word": "olmu\u015ftur",
+        "en-us": "has been"
+    },
+    {
+        "word": "park",
+        "en-us": "park"
+    },
+    {
+        "word": "par\u00e7a",
+        "en-us": "part"
+    },
+    {
+        "word": "sebebi",
+        "en-us": "reason"
+    },
+    {
+        "word": "su\u00e7",
+        "en-us": "crime"
+    },
+    {
+        "word": "tahmin",
+        "en-us": "forecast"
+    },
+    {
+        "word": "yo\u011fun",
+        "en-us": "intensive"
+    },
+    {
+        "word": "zengin",
+        "en-us": "rich"
+    },
+    {
+        "word": "\u00e7ocuklar\u0131",
+        "en-us": "children"
+    },
+    {
+        "word": "\u00f6\u011fretim",
+        "en-us": "teaching"
+    },
+    {
+        "word": "adam\u0131n",
+        "en-us": "man's"
+    },
+    {
+        "word": "bol",
+        "en-us": "plenty"
+    },
+    {
+        "word": "bursa",
+        "en-us": "bursa"
+    },
+    {
+        "word": "chp",
+        "en-us": "chp"
+    },
+    {
+        "word": "edilmi\u015f",
+        "en-us": "has been"
+    },
+    {
+        "word": "gerekli",
+        "en-us": "necessary"
+    },
+    {
+        "word": "i\u00e7i",
+        "en-us": "inside"
+    },
+    {
+        "word": "karar\u0131",
+        "en-us": "decision"
+    },
+    {
+        "word": "kilo",
+        "en-us": "weight"
+    },
+    {
+        "word": "k\u0131zlar",
+        "en-us": "girls"
+    },
+    {
+        "word": "net",
+        "en-us": "net"
+    },
+    {
+        "word": "no",
+        "en-us": "no"
+    },
+    {
+        "word": "oldu\u011fundan",
+        "en-us": "since"
+    },
+    {
+        "word": "olmad\u0131\u011f\u0131",
+        "en-us": "is not"
+    },
+    {
+        "word": "terk",
+        "en-us": "abandonment"
+    },
+    {
+        "word": "ye\u015fil",
+        "en-us": "green"
+    },
+    {
+        "word": "y\u00f6nelik",
+        "en-us": "for"
+    },
+    {
+        "word": "y\u0131lda",
+        "en-us": "year"
+    },
+    {
+        "word": "\u00fcniversite",
+        "en-us": "university"
+    },
+    {
+        "word": "alm\u0131\u015f",
+        "en-us": "bought"
+    },
+    {
+        "word": "al\u0131n",
+        "en-us": "take it"
+    },
+    {
+        "word": "al\u0131nd\u0131",
+        "en-us": "received"
+    },
+    {
+        "word": "asker",
+        "en-us": "soldier"
+    },
+    {
+        "word": "a\u00e7",
+        "en-us": "open"
+    },
+    {
+        "word": "bal\u0131k",
+        "en-us": "fish"
+    },
+    {
+        "word": "beyler",
+        "en-us": "gentlemen"
+    },
+    {
+        "word": "dalga",
+        "en-us": "wave"
+    },
+    {
+        "word": "davet",
+        "en-us": "invitation"
+    },
+    {
+        "word": "derin",
+        "en-us": "deep"
+    },
+    {
+        "word": "fak\u00fcltesi",
+        "en-us": "faculty"
+    },
+    {
+        "word": "g\u00f6ren",
+        "en-us": "seeing"
+    },
+    {
+        "word": "i\u015fleri",
+        "en-us": "jobs"
+    },
+    {
+        "word": "ki\u015filik",
+        "en-us": "personality"
+    },
+    {
+        "word": "metre",
+        "en-us": "meter"
+    },
+    {
+        "word": "modern",
+        "en-us": "modern"
+    },
+    {
+        "word": "mutlaka",
+        "en-us": "absolutely."
+    },
+    {
+        "word": "m\u00fc",
+        "en-us": "mu"
+    },
+    {
+        "word": "nereye",
+        "en-us": "where"
+    }
+]
