@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "yang",
+        "en-us": "which is"
+    },
+    {
+        "word": "dan",
+        "en-us": "and"
+    },
+    {
+        "word": "di",
+        "en-us": "at"
+    },
+    {
+        "word": "ini",
+        "en-us": "this is"
+    },
+    {
+        "word": "dari",
+        "en-us": "from"
+    },
+    {
+        "word": "untuk",
+        "en-us": "to"
+    },
+    {
+        "word": "dengan",
+        "en-us": "with"
+    },
+    {
+        "word": "itu",
+        "en-us": "it's"
+    },
+    {
+        "word": "bisa",
+        "en-us": "you can"
+    },
+    {
+        "word": "aku",
+        "en-us": "i"
+    },
+    {
+        "word": "ada",
+        "en-us": "there is"
+    },
+    {
+        "word": "tidak",
+        "en-us": "no"
+    },
+    {
+        "word": "akan",
+        "en-us": "will"
+    },
+    {
+        "word": "adalah",
+        "en-us": "is"
+    },
+    {
+        "word": "dalam",
+        "en-us": "in"
+    },
+    {
+        "word": "pada",
+        "en-us": "at"
+    },
+    {
+        "word": "kita",
+        "en-us": "us"
+    },
+    {
+        "word": "orang",
+        "en-us": "people"
+    },
+    {
+        "word": "ke",
+        "en-us": "to"
+    },
+    {
+        "word": "juga",
+        "en-us": "also"
+    },
+    {
+        "word": "anda",
+        "en-us": "you"
+    },
+    {
+        "word": "dia",
+        "en-us": "here"
+    },
+    {
+        "word": "saya",
+        "en-us": "i"
+    },
+    {
+        "word": "ya",
+        "en-us": "yes"
+    },
+    {
+        "word": "kamu",
+        "en-us": "you"
+    },
+    {
+        "word": "lebih",
+        "en-us": "more"
+    },
+    {
+        "word": "apa",
+        "en-us": "what"
+    },
+    {
+        "word": "sudah",
+        "en-us": "already"
+    },
+    {
+        "word": "mereka",
+        "en-us": "them"
+    },
+    {
+        "word": "tapi",
+        "en-us": "but"
+    },
+    {
+        "word": "karena",
+        "en-us": "because"
+    },
+    {
+        "word": "atau",
+        "en-us": "or"
+    },
+    {
+        "word": "menjadi",
+        "en-us": "to"
+    },
+    {
+        "word": "tak",
+        "en-us": "no"
+    },
+    {
+        "word": "baik",
+        "en-us": "both"
+    },
+    {
+        "word": "jadi",
+        "en-us": "so"
+    },
+    {
+        "word": "harus",
+        "en-us": "must be"
+    },
+    {
+        "word": "satu",
+        "en-us": "one"
+    },
+    {
+        "word": "lagi",
+        "en-us": "more"
+    },
+    {
+        "word": "seperti",
+        "en-us": "such as"
+    },
+    {
+        "word": "oleh",
+        "en-us": "by"
+    },
+    {
+        "word": "banyak",
+        "en-us": "many"
+    },
+    {
+        "word": "jika",
+        "en-us": "if"
+    },
+    {
+        "word": "hanya",
+        "en-us": "only"
+    },
+    {
+        "word": "kami",
+        "en-us": "us"
+    },
+    {
+        "word": "saat",
+        "en-us": "when"
+    },
+    {
+        "word": "tahun",
+        "en-us": "year"
+    },
+    {
+        "word": "jangan",
+        "en-us": "don't"
+    },
+    {
+        "word": "sebagai",
+        "en-us": "as"
+    },
+    {
+        "word": "hari",
+        "en-us": "day"
+    },
+    {
+        "word": "telah",
+        "en-us": "has"
+    },
+    {
+        "word": "semua",
+        "en-us": "all"
+    },
+    {
+        "word": "dapat",
+        "en-us": "you can"
+    },
+    {
+        "word": "hal",
+        "en-us": "p"
+    },
+    {
+        "word": "anak",
+        "en-us": "child"
+    },
+    {
+        "word": "bahwa",
+        "en-us": "that"
+    },
+    {
+        "word": "bukan",
+        "en-us": "not"
+    },
+    {
+        "word": "indonesia",
+        "en-us": "indonesia"
+    },
+    {
+        "word": "saja",
+        "en-us": "course"
+    },
+    {
+        "word": "sangat",
+        "en-us": "very"
+    },
+    {
+        "word": "masih",
+        "en-us": "still"
+    },
+    {
+        "word": "memiliki",
+        "en-us": "has"
+    },
+    {
+        "word": "pernah",
+        "en-us": "ever"
+    },
+    {
+        "word": "mau",
+        "en-us": "want"
+    },
+    {
+        "word": "lain",
+        "en-us": "other"
+    },
+    {
+        "word": "sekarang",
+        "en-us": "now"
+    },
+    {
+        "word": "baru",
+        "en-us": "new"
+    },
+    {
+        "word": "sama",
+        "en-us": "same"
+    },
+    {
+        "word": "seorang",
+        "en-us": "a"
+    },
+    {
+        "word": "tersebut",
+        "en-us": "the"
+    },
+    {
+        "word": "kalau",
+        "en-us": "if"
+    },
+    {
+        "word": "beberapa",
+        "en-us": "some"
+    },
+    {
+        "word": "besar",
+        "en-us": "great"
+    },
+    {
+        "word": "salah",
+        "en-us": "wrong"
+    },
+    {
+        "word": "sendiri",
+        "en-us": "yourself"
+    },
+    {
+        "word": "ingin",
+        "en-us": "want"
+    },
+    {
+        "word": "sebuah",
+        "en-us": "a"
+    },
+    {
+        "word": "ia",
+        "en-us": "it"
+    },
+    {
+        "word": "setelah",
+        "en-us": "after"
+    },
+    {
+        "word": "waktu",
+        "en-us": "time"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "sampai",
+        "en-us": "to"
+    },
+    {
+        "word": "tempat",
+        "en-us": "place"
+    },
+    {
+        "word": "membuat",
+        "en-us": "create"
+    },
+    {
+        "word": "punya",
+        "en-us": "have"
+    },
+    {
+        "word": "mungkin",
+        "en-us": "may be"
+    },
+    {
+        "word": "hidup",
+        "en-us": "live"
+    },
+    {
+        "word": "melakukan",
+        "en-us": "do"
+    },
+    {
+        "word": "siapa",
+        "en-us": "who"
+    },
+    {
+        "word": "belum",
+        "en-us": "yet"
+    },
+    {
+        "word": "kali",
+        "en-us": "times"
+    },
+    {
+        "word": "kau",
+        "en-us": "you"
+    },
+    {
+        "word": "tentang",
+        "en-us": "about"
+    },
+    {
+        "word": "atas",
+        "en-us": "top"
+    },
+    {
+        "word": "dua",
+        "en-us": "two"
+    },
+    {
+        "word": "dunia",
+        "en-us": "world"
+    },
+    {
+        "word": "secara",
+        "en-us": "by"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "ketika",
+        "en-us": "when"
+    },
+    {
+        "word": "bahasa",
+        "en-us": "language"
+    },
+    {
+        "word": "cara",
+        "en-us": "how to"
+    },
+    {
+        "word": "para",
+        "en-us": "para"
+    },
+    {
+        "word": "rumah",
+        "en-us": "home"
+    },
+    {
+        "word": "selalu",
+        "en-us": "always"
+    },
+    {
+        "word": "lalu",
+        "en-us": "then"
+    },
+    {
+        "word": "benar",
+        "en-us": "correct"
+    },
+    {
+        "word": "kota",
+        "en-us": "city"
+    },
+    {
+        "word": "diri",
+        "en-us": "self"
+    },
+    {
+        "word": "bagian",
+        "en-us": "section"
+    },
+    {
+        "word": "kembali",
+        "en-us": "back"
+    },
+    {
+        "word": "pasti",
+        "en-us": "definitely"
+    },
+    {
+        "word": "selama",
+        "en-us": "during"
+    },
+    {
+        "word": "pertama",
+        "en-us": "first"
+    },
+    {
+        "word": "bersama",
+        "en-us": "with"
+    },
+    {
+        "word": "nama",
+        "en-us": "name"
+    },
+    {
+        "word": "setiap",
+        "en-us": "every"
+    },
+    {
+        "word": "tanpa",
+        "en-us": "without"
+    },
+    {
+        "word": "terjadi",
+        "en-us": "happens"
+    },
+    {
+        "word": "kepada",
+        "en-us": "to"
+    },
+    {
+        "word": "mulai",
+        "en-us": "from"
+    },
+    {
+        "word": "paling",
+        "en-us": "most"
+    },
+    {
+        "word": "tetap",
+        "en-us": "stay"
+    },
+    {
+        "word": "masa",
+        "en-us": "time"
+    },
+    {
+        "word": "tahu",
+        "en-us": "know"
+    },
+    {
+        "word": "lama",
+        "en-us": "long"
+    },
+    {
+        "word": "perlu",
+        "en-us": "need"
+    },
+    {
+        "word": "berada",
+        "en-us": "located"
+    },
+    {
+        "word": "cukup",
+        "en-us": "simply"
+    },
+    {
+        "word": "kan",
+        "en-us": "right"
+    },
+    {
+        "word": "kasih",
+        "en-us": "love"
+    },
+    {
+        "word": "kata",
+        "en-us": "says"
+    },
+    {
+        "word": "kemudian",
+        "en-us": "then"
+    },
+    {
+        "word": "luar",
+        "en-us": "outside"
+    },
+    {
+        "word": "mana",
+        "en-us": "where"
+    },
+    {
+        "word": "masalah",
+        "en-us": "problem"
+    },
+    {
+        "word": "bulan",
+        "en-us": "month"
+    },
+    {
+        "word": "malam",
+        "en-us": "night"
+    },
+    {
+        "word": "masuk",
+        "en-us": "go to"
+    },
+    {
+        "word": "melihat",
+        "en-us": "see"
+    },
+    {
+        "word": "namun",
+        "en-us": "however"
+    },
+    {
+        "word": "wanita",
+        "en-us": "woman"
+    },
+    {
+        "word": "memang",
+        "en-us": "indeed"
+    },
+    {
+        "word": "sedang",
+        "en-us": "medium"
+    },
+    {
+        "word": "sekali",
+        "en-us": "once"
+    },
+    {
+        "word": "tetapi",
+        "en-us": "but"
+    },
+    {
+        "word": "hati",
+        "en-us": "heart"
+    },
+    {
+        "word": "hingga",
+        "en-us": "to"
+    },
+    {
+        "word": "makan",
+        "en-us": "eat"
+    },
+    {
+        "word": "merupakan",
+        "en-us": "is"
+    },
+    {
+        "word": "nya",
+        "en-us": "her"
+    },
+    {
+        "word": "pun",
+        "en-us": "pun"
+    },
+    {
+        "word": "air",
+        "en-us": "water"
+    },
+    {
+        "word": "kalian",
+        "en-us": "you"
+    },
+    {
+        "word": "seseorang",
+        "en-us": "someone"
+    },
+    {
+        "word": "suka",
+        "en-us": "like"
+    },
+    {
+        "word": "teman",
+        "en-us": "friend"
+    },
+    {
+        "word": "jalan",
+        "en-us": "street"
+    },
+    {
+        "word": "kecil",
+        "en-us": "small"
+    },
+    {
+        "word": "kenapa",
+        "en-us": "why"
+    },
+    {
+        "word": "terus",
+        "en-us": "continue"
+    },
+    {
+        "word": "tuhan",
+        "en-us": "god"
+    },
+    {
+        "word": "yg",
+        "en-us": "who"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "jam",
+        "en-us": "hours"
+    },
+    {
+        "word": "sebelum",
+        "en-us": "before"
+    },
+    {
+        "word": "terlalu",
+        "en-us": "too"
+    },
+    {
+        "word": "cepat",
+        "en-us": "fast"
+    },
+    {
+        "word": "jakarta",
+        "en-us": "jakarta"
+    },
+    {
+        "word": "negara",
+        "en-us": "country"
+    },
+    {
+        "word": "pemain",
+        "en-us": "player"
+    },
+    {
+        "word": "bagi",
+        "en-us": "for"
+    },
+    {
+        "word": "inggris",
+        "en-us": "english"
+    },
+    {
+        "word": "selamat",
+        "en-us": "congratulations"
+    },
+    {
+        "word": "sering",
+        "en-us": "often"
+    },
+    {
+        "word": "yaitu",
+        "en-us": "i.e."
+    },
+    {
+        "word": "agar",
+        "en-us": "to"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "lainnya",
+        "en-us": "more"
+    },
+    {
+        "word": "manusia",
+        "en-us": "human"
+    },
+    {
+        "word": "menggunakan",
+        "en-us": "using"
+    },
+    {
+        "word": "tanggal",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "tinggi",
+        "en-us": "high"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "bahkan",
+        "en-us": "even"
+    },
+    {
+        "word": "begitu",
+        "en-us": "so"
+    },
+    {
+        "word": "dulu",
+        "en-us": "first"
+    },
+    {
+        "word": "terbaik",
+        "en-us": "best"
+    },
+    {
+        "word": "biasa",
+        "en-us": "regular"
+    },
+    {
+        "word": "mendapatkan",
+        "en-us": "get"
+    },
+    {
+        "word": "bagaimana",
+        "en-us": "how"
+    },
+    {
+        "word": "datang",
+        "en-us": "come"
+    },
+    {
+        "word": "ibu",
+        "en-us": "mom"
+    },
+    {
+        "word": "merasa",
+        "en-us": "feel"
+    },
+    {
+        "word": "rasa",
+        "en-us": "taste"
+    },
+    {
+        "word": "uang",
+        "en-us": "money"
+    },
+    {
+        "word": "depan",
+        "en-us": "front"
+    },
+    {
+        "word": "ku",
+        "en-us": "ku"
+    },
+    {
+        "word": "maka",
+        "en-us": "then"
+    },
+    {
+        "word": "suatu",
+        "en-us": "a"
+    },
+    {
+        "word": "biasanya",
+        "en-us": "usually"
+    },
+    {
+        "word": "pria",
+        "en-us": "man"
+    },
+    {
+        "word": "sekitar",
+        "en-us": "about"
+    },
+    {
+        "word": "sekolah",
+        "en-us": "school"
+    },
+    {
+        "word": "terima",
+        "en-us": "accept"
+    },
+    {
+        "word": "akhirnya",
+        "en-us": "finally"
+    },
+    {
+        "word": "antara",
+        "en-us": "between"
+    },
+    {
+        "word": "kedua",
+        "en-us": "second"
+    },
+    {
+        "word": "sakit",
+        "en-us": "sick"
+    },
+    {
+        "word": "serta",
+        "en-us": "and"
+    },
+    {
+        "word": "bawah",
+        "en-us": "under"
+    },
+    {
+        "word": "jauh",
+        "en-us": "far"
+    },
+    {
+        "word": "mata",
+        "en-us": "eyes"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "tiga",
+        "en-us": "three"
+    },
+    {
+        "word": "tim",
+        "en-us": "team"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "apakah",
+        "en-us": "whether"
+    },
+    {
+        "word": "buat",
+        "en-us": "create"
+    },
+    {
+        "word": "kerja",
+        "en-us": "work"
+    },
+    {
+        "word": "lihat",
+        "en-us": "see"
+    },
+    {
+        "word": "sayang",
+        "en-us": "dear"
+    },
+    {
+        "word": "seluruh",
+        "en-us": "entire"
+    },
+    {
+        "word": "sesuatu",
+        "en-us": "something"
+    },
+    {
+        "word": "tidur",
+        "en-us": "sleep"
+    },
+    {
+        "word": "allah",
+        "en-us": "allah"
+    },
+    {
+        "word": "dimana",
+        "en-us": "where"
+    },
+    {
+        "word": "disini",
+        "en-us": "here"
+    },
+    {
+        "word": "keluarga",
+        "en-us": "family"
+    },
+    {
+        "word": "mencari",
+        "en-us": "search"
+    },
+    {
+        "word": "mudah",
+        "en-us": "easy"
+    },
+    {
+        "word": "sejak",
+        "en-us": "since"
+    },
+    {
+        "word": "siap",
+        "en-us": "ready"
+    },
+    {
+        "word": "bagus",
+        "en-us": "nice"
+    },
+    {
+        "word": "lakukan",
+        "en-us": "do"
+    },
+    {
+        "word": "melalui",
+        "en-us": "via"
+    },
+    {
+        "word": "penting",
+        "en-us": "important"
+    },
+    {
+        "word": "pergi",
+        "en-us": "go"
+    },
+    {
+        "word": "perusahaan",
+        "en-us": "company"
+    },
+    {
+        "word": "percaya",
+        "en-us": "believe"
+    },
+    {
+        "word": "bekerja",
+        "en-us": "work"
+    },
+    {
+        "word": "bola",
+        "en-us": "ball"
+    },
+    {
+        "word": "langsung",
+        "en-us": "directly"
+    },
+    {
+        "word": "mobil",
+        "en-us": "car"
+    },
+    {
+        "word": "tentu",
+        "en-us": "of course"
+    },
+    {
+        "word": "tinggal",
+        "en-us": "live"
+    },
+    {
+        "word": "kepala",
+        "en-us": "head"
+    },
+    {
+        "word": "mengatakan",
+        "en-us": "says"
+    },
+    {
+        "word": "sebelumnya",
+        "en-us": "previous"
+    },
+    {
+        "word": "sehingga",
+        "en-us": "so"
+    },
+    {
+        "word": "digunakan",
+        "en-us": "used"
+    },
+    {
+        "word": "terhadap",
+        "en-us": "to"
+    },
+    {
+        "word": "berhasil",
+        "en-us": "works"
+    },
+    {
+        "word": "laki",
+        "en-us": "laki"
+    },
+    {
+        "word": "masyarakat",
+        "en-us": "society"
+    },
+    {
+        "word": "memberikan",
+        "en-us": "provide"
+    },
+    {
+        "word": "menurut",
+        "en-us": "according to"
+    },
+    {
+        "word": "pemerintah",
+        "en-us": "government"
+    },
+    {
+        "word": "selain",
+        "en-us": "other than"
+    },
+    {
+        "word": "si",
+        "en-us": "si"
+    },
+    {
+        "word": "sistem",
+        "en-us": "system"
+    },
+    {
+        "word": "buku",
+        "en-us": "book"
+    },
+    {
+        "word": "cinta",
+        "en-us": "love"
+    },
+    {
+        "word": "apapun",
+        "en-us": "anything"
+    },
+    {
+        "word": "berbagai",
+        "en-us": "various"
+    },
+    {
+        "word": "bermain",
+        "en-us": "play"
+    },
+    {
+        "word": "dekat",
+        "en-us": "near"
+    },
+    {
+        "word": "dilakukan",
+        "en-us": "done"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "maaf",
+        "en-us": "sorry"
+    },
+    {
+        "word": "sedikit",
+        "en-us": "a little"
+    },
+    {
+        "word": "bilang",
+        "en-us": "says"
+    },
+    {
+        "word": "hasil",
+        "en-us": "results"
+    },
+    {
+        "word": "pagi",
+        "en-us": "morning"
+    },
+    {
+        "word": "situs",
+        "en-us": "website"
+    },
+    {
+        "word": "takut",
+        "en-us": "afraid"
+    },
+    {
+        "word": "tangan",
+        "en-us": "hand"
+    },
+    {
+        "word": "tengah",
+        "en-us": "center"
+    },
+    {
+        "word": "belajar",
+        "en-us": "learn"
+    },
+    {
+        "word": "berarti",
+        "en-us": "means"
+    },
+    {
+        "word": "daerah",
+        "en-us": "area"
+    },
+    {
+        "word": "ikut",
+        "en-us": "follow"
+    },
+    {
+        "word": "membantu",
+        "en-us": "help"
+    },
+    {
+        "word": "nanti",
+        "en-us": "later"
+    },
+    {
+        "word": "sebenarnya",
+        "en-us": "actually"
+    },
+    {
+        "word": "segera",
+        "en-us": "soon"
+    },
+    {
+        "word": "sini",
+        "en-us": "here"
+    },
+    {
+        "word": "tepat",
+        "en-us": "right"
+    },
+    {
+        "word": "terlihat",
+        "en-us": "visible"
+    },
+    {
+        "word": "akhir",
+        "en-us": "end"
+    },
+    {
+        "word": "awal",
+        "en-us": "beginning"
+    },
+    {
+        "word": "butuh",
+        "en-us": "need"
+    },
+    {
+        "word": "kuat",
+        "en-us": "powerful"
+    },
+    {
+        "word": "lagu",
+        "en-us": "song"
+    },
+    {
+        "word": "pesawat",
+        "en-us": "airplane"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "cuma",
+        "en-us": "just"
+    },
+    {
+        "word": "kelas",
+        "en-us": "class"
+    },
+    {
+        "word": "menemukan",
+        "en-us": "find"
+    },
+    {
+        "word": "sementara",
+        "en-us": "while"
+    },
+    {
+        "word": "terakhir",
+        "en-us": "last"
+    },
+    {
+        "word": "termasuk",
+        "en-us": "including"
+    },
+    {
+        "word": "acara",
+        "en-us": "event"
+    },
+    {
+        "word": "coba",
+        "en-us": "try"
+    },
+    {
+        "word": "perempuan",
+        "en-us": "women"
+    },
+    {
+        "word": "tiba",
+        "en-us": "arrived"
+    },
+    {
+        "word": "anggota",
+        "en-us": "member"
+    },
+    {
+        "word": "berbeda",
+        "en-us": "different"
+    },
+    {
+        "word": "film",
+        "en-us": "movie"
+    },
+    {
+        "word": "kehidupan",
+        "en-us": "life"
+    },
+    {
+        "word": "mu",
+        "en-us": "you"
+    },
+    {
+        "word": "semakin",
+        "en-us": "increasingly"
+    },
+    {
+        "word": "semuanya",
+        "en-us": "everything"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "daftar",
+        "en-us": "list"
+    },
+    {
+        "word": "keluar",
+        "en-us": "out"
+    },
+    {
+        "word": "minta",
+        "en-us": "ask"
+    },
+    {
+        "word": "nah",
+        "en-us": "nah"
+    },
+    {
+        "word": "yah",
+        "en-us": "well"
+    },
+    {
+        "word": "harga",
+        "en-us": "price"
+    },
+    {
+        "word": "nomor",
+        "en-us": "number"
+    },
+    {
+        "word": "ruang",
+        "en-us": "space"
+    },
+    {
+        "word": "sebagian",
+        "en-us": "in part"
+    },
+    {
+        "word": "semoga",
+        "en-us": "hopefully"
+    },
+    {
+        "word": "sulit",
+        "en-us": "difficult"
+    },
+    {
+        "word": "tadi",
+        "en-us": "earlier"
+    },
+    {
+        "word": "tua",
+        "en-us": "old"
+    },
+    {
+        "word": "berubah",
+        "en-us": "change"
+    },
+    {
+        "word": "dasar",
+        "en-us": "basic"
+    },
+    {
+        "word": "hubungan",
+        "en-us": "relationship"
+    },
+    {
+        "word": "islam",
+        "en-us": "islam"
+    },
+    {
+        "word": "masing",
+        "en-us": "each"
+    },
+    {
+        "word": "menit",
+        "en-us": "minutes"
+    },
+    {
+        "word": "muda",
+        "en-us": "young"
+    },
+    {
+        "word": "program",
+        "en-us": "program"
+    },
+    {
+        "word": "proses",
+        "en-us": "process"
+    },
+    {
+        "word": "soal",
+        "en-us": "about"
+    },
+    {
+        "word": "ternyata",
+        "en-us": "apparently"
+    },
+    {
+        "word": "utama",
+        "en-us": "main"
+    },
+    {
+        "word": "al",
+        "en-us": "al"
+    },
+    {
+        "word": "alasan",
+        "en-us": "reason"
+    },
+    {
+        "word": "aman",
+        "en-us": "safe"
+    },
+    {
+        "word": "cari",
+        "en-us": "search"
+    },
+    {
+        "word": "jenis",
+        "en-us": "type"
+    },
+    {
+        "word": "jumlah",
+        "en-us": "amount"
+    },
+    {
+        "word": "kesempatan",
+        "en-us": "opportunity"
+    },
+    {
+        "word": "kurang",
+        "en-us": "less"
+    },
+    {
+        "word": "makanan",
+        "en-us": "food"
+    },
+    {
+        "word": "mati",
+        "en-us": "die"
+    },
+    {
+        "word": "mencoba",
+        "en-us": "try"
+    },
+    {
+        "word": "mengambil",
+        "en-us": "retrieve"
+    },
+    {
+        "word": "tanah",
+        "en-us": "land"
+    },
+    {
+        "word": "bentuk",
+        "en-us": "form"
+    },
+    {
+        "word": "bila",
+        "en-us": "when"
+    },
+    {
+        "word": "dapatkan",
+        "en-us": "get"
+    },
+    {
+        "word": "jawa",
+        "en-us": "java"
+    },
+    {
+        "word": "meningkatkan",
+        "en-us": "improve"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "panjang",
+        "en-us": "long"
+    },
+    {
+        "word": "resmi",
+        "en-us": "official"
+    },
+    {
+        "word": "suara",
+        "en-us": "sound"
+    },
+    {
+        "word": "umum",
+        "en-us": "general"
+    },
+    {
+        "word": "desa",
+        "en-us": "village"
+    },
+    {
+        "word": "foto",
+        "en-us": "photo"
+    },
+    {
+        "word": "kabupaten",
+        "en-us": "district"
+    },
+    {
+        "word": "mendapat",
+        "en-us": "got"
+    },
+    {
+        "word": "minggu",
+        "en-us": "week"
+    },
+    {
+        "word": "no",
+        "en-us": "no"
+    },
+    {
+        "word": "pendidikan",
+        "en-us": "education"
+    },
+    {
+        "word": "penuh",
+        "en-us": "full"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "cerita",
+        "en-us": "story"
+    },
+    {
+        "word": "indah",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "jelas",
+        "en-us": "clear"
+    },
+    {
+        "word": "memilih",
+        "en-us": "choose"
+    },
+    {
+        "word": "posisi",
+        "en-us": "position"
+    },
+    {
+        "word": "pula",
+        "en-us": "also"
+    },
+    {
+        "word": "warga",
+        "en-us": "citizen"
+    },
+    {
+        "word": "badan",
+        "en-us": "body"
+    },
+    {
+        "word": "belakang",
+        "en-us": "back"
+    },
+    {
+        "word": "disebut",
+        "en-us": "called"
+    },
+    {
+        "word": "itulah",
+        "en-us": "that's"
+    },
+    {
+        "word": "mampu",
+        "en-us": "able to"
+    },
+    {
+        "word": "membawa",
+        "en-us": "bring"
+    },
+    {
+        "word": "pak",
+        "en-us": "sir"
+    },
+    {
+        "word": "rp",
+        "en-us": "rp"
+    },
+    {
+        "word": "satunya",
+        "en-us": "the other"
+    },
+    {
+        "word": "berjalan",
+        "en-us": "walk"
+    },
+    {
+        "word": "cantik",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "hai",
+        "en-us": "hi"
+    },
+    {
+        "word": "hampir",
+        "en-us": "almost"
+    },
+    {
+        "word": "hukum",
+        "en-us": "law"
+    },
+    {
+        "word": "juta",
+        "en-us": "million"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "menarik",
+        "en-us": "interesting"
+    },
+    {
+        "word": "menerima",
+        "en-us": "receive"
+    },
+    {
+        "word": "menuju",
+        "en-us": "go to"
+    },
+    {
+        "word": "menunjukkan",
+        "en-us": "show"
+    },
+    {
+        "word": "meskipun",
+        "en-us": "though"
+    },
+    {
+        "word": "naik",
+        "en-us": "up"
+    },
+    {
+        "word": "amerika",
+        "en-us": "america"
+    },
+    {
+        "word": "berapa",
+        "en-us": "how much"
+    },
+    {
+        "word": "kaki",
+        "en-us": "foot"
+    },
+    {
+        "word": "kapan",
+        "en-us": "when"
+    },
+    {
+        "word": "kesehatan",
+        "en-us": "health"
+    },
+    {
+        "word": "muncul",
+        "en-us": "appeared"
+    },
+    {
+        "word": "negeri",
+        "en-us": "country"
+    },
+    {
+        "word": "pekerjaan",
+        "en-us": "work"
+    },
+    {
+        "word": "presiden",
+        "en-us": "president"
+    },
+    {
+        "word": "pulang",
+        "en-us": "go home"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "berusaha",
+        "en-us": "try"
+    },
+    {
+        "word": "demi",
+        "en-us": "by"
+    },
+    {
+        "word": "jatuh",
+        "en-us": "fall"
+    },
+    {
+        "word": "lewat",
+        "en-us": "via"
+    },
+    {
+        "word": "mempunyai",
+        "en-us": "have"
+    },
+    {
+        "word": "menang",
+        "en-us": "win"
+    },
+    {
+        "word": "mengenai",
+        "en-us": "about"
+    },
+    {
+        "word": "menunggu",
+        "en-us": "waiting"
+    },
+    {
+        "word": "raja",
+        "en-us": "king"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "berharap",
+        "en-us": "hope"
+    },
+    {
+        "word": "guru",
+        "en-us": "teacher"
+    },
+    {
+        "word": "memberi",
+        "en-us": "give"
+    },
+    {
+        "word": "mesin",
+        "en-us": "machine"
+    },
+    {
+        "word": "permainan",
+        "en-us": "game"
+    },
+    {
+        "word": "dirimu",
+        "en-us": "yourself"
+    },
+    {
+        "word": "kehilangan",
+        "en-us": "lost"
+    },
+    {
+        "word": "lupa",
+        "en-us": "forget"
+    },
+    {
+        "word": "putih",
+        "en-us": "white"
+    },
+    {
+        "word": "surat",
+        "en-us": "mail"
+    },
+    {
+        "word": "terdapat",
+        "en-us": "available"
+    },
+    {
+        "word": "ah",
+        "en-us": "ah"
+    },
+    {
+        "word": "api",
+        "en-us": "fire"
+    },
+    {
+        "word": "asal",
+        "en-us": "origin"
+    },
+    {
+        "word": "barang",
+        "en-us": "item"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr"
+    },
+    {
+        "word": "ingat",
+        "en-us": "remember"
+    },
+    {
+        "word": "lima",
+        "en-us": "five"
+    },
+    {
+        "word": "murah",
+        "en-us": "cheap"
+    },
+    {
+        "word": "musim",
+        "en-us": "season"
+    },
+    {
+        "word": "perjalanan",
+        "en-us": "travel"
+    },
+    {
+        "word": "sang",
+        "en-us": "the"
+    },
+    {
+        "word": "segala",
+        "en-us": "everything"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "barat",
+        "en-us": "west"
+    },
+    {
+        "word": "batu",
+        "en-us": "stone"
+    },
+    {
+        "word": "berikut",
+        "en-us": "here"
+    },
+    {
+        "word": "boleh",
+        "en-us": "can"
+    },
+    {
+        "word": "dirinya",
+        "en-us": "himself"
+    },
+    {
+        "word": "empat",
+        "en-us": "four"
+    },
+    {
+        "word": "ilmu",
+        "en-us": "science"
+    },
+    {
+        "word": "jepang",
+        "en-us": "japan"
+    },
+    {
+        "word": "kapal",
+        "en-us": "ship"
+    },
+    {
+        "word": "keras",
+        "en-us": "hard"
+    },
+    {
+        "word": "khusus",
+        "en-us": "special"
+    },
+    {
+        "word": "namanya",
+        "en-us": "her name is"
+    },
+    {
+        "word": "nasional",
+        "en-us": "national"
+    },
+    {
+        "word": "selesai",
+        "en-us": "finish"
+    },
+    {
+        "word": "silahkan",
+        "en-us": "please"
+    },
+    {
+        "word": "tingkat",
+        "en-us": "level"
+    },
+    {
+        "word": "tubuh",
+        "en-us": "body"
+    },
+    {
+        "word": "warna",
+        "en-us": "color"
+    },
+    {
+        "word": "adanya",
+        "en-us": "there is"
+    },
+    {
+        "word": "april",
+        "en-us": "april"
+    },
+    {
+        "word": "bahan",
+        "en-us": "material"
+    },
+    {
+        "word": "data",
+        "en-us": "data"
+    },
+    {
+        "word": "kasus",
+        "en-us": "case"
+    },
+    {
+        "word": "oh",
+        "en-us": "oh"
+    },
+    {
+        "word": "peduli",
+        "en-us": "care"
+    },
+    {
+        "word": "pilihan",
+        "en-us": "option"
+    },
+    {
+        "word": "sana",
+        "en-us": "there"
+    },
+    {
+        "word": "bandung",
+        "en-us": "bandung"
+    },
+    {
+        "word": "besok",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "diam",
+        "en-us": "silent"
+    },
+    {
+        "word": "kekuatan",
+        "en-us": "power"
+    },
+    {
+        "word": "perang",
+        "en-us": "war"
+    },
+    {
+        "word": "polisi",
+        "en-us": "police"
+    },
+    {
+        "word": "sedangkan",
+        "en-us": "while"
+    },
+    {
+        "word": "sumber",
+        "en-us": "source"
+    },
+    {
+        "word": "tau",
+        "en-us": "know"
+    },
+    {
+        "word": "yakin",
+        "en-us": "sure"
+    },
+    {
+        "word": "agama",
+        "en-us": "religion"
+    },
+    {
+        "word": "bangun",
+        "en-us": "wake up"
+    },
+    {
+        "word": "berasal",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "darah",
+        "en-us": "blood"
+    },
+    {
+        "word": "dibuat",
+        "en-us": "created"
+    },
+    {
+        "word": "gak",
+        "en-us": "no"
+    },
+    {
+        "word": "jasa",
+        "en-us": "services"
+    },
+    {
+        "word": "jawab",
+        "en-us": "answer"
+    },
+    {
+        "word": "kabar",
+        "en-us": "news"
+    },
+    {
+        "word": "kamar",
+        "en-us": "room"
+    },
+    {
+        "word": "media",
+        "en-us": "media"
+    },
+    {
+        "word": "mencapai",
+        "en-us": "reach"
+    },
+    {
+        "word": "musik",
+        "en-us": "music"
+    },
+    {
+        "word": "pulau",
+        "en-us": "island"
+    },
+    {
+        "word": "sehat",
+        "en-us": "healthy"
+    },
+    {
+        "word": "sesuai",
+        "en-us": "as per"
+    },
+    {
+        "word": "to",
+        "en-us": "to"
+    },
+    {
+        "word": "tugas",
+        "en-us": "tasks"
+    },
+    {
+        "word": "tujuan",
+        "en-us": "destination"
+    },
+    {
+        "word": "asli",
+        "en-us": "original"
+    },
+    {
+        "word": "bumi",
+        "en-us": "earth"
+    },
+    {
+        "word": "buruk",
+        "en-us": "bad"
+    },
+    {
+        "word": "informasi",
+        "en-us": "information"
+    },
+    {
+        "word": "kadang",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "ketua",
+        "en-us": "chairman"
+    },
+    {
+        "word": "mengalami",
+        "en-us": "experience"
+    },
+    {
+        "word": "nilai",
+        "en-us": "value"
+    },
+    {
+        "word": "produk",
+        "en-us": "products"
+    },
+    {
+        "word": "pt",
+        "en-us": "pt"
+    },
+    {
+        "word": "tanda",
+        "en-us": "sign"
+    },
+    {
+        "word": "wilayah",
+        "en-us": "region"
+    },
+    {
+        "word": "berhenti",
+        "en-us": "stop"
+    },
+    {
+        "word": "berita",
+        "en-us": "news"
+    },
+    {
+        "word": "ekonomi",
+        "en-us": "economy"
+    },
+    {
+        "word": "iya",
+        "en-us": "yes"
+    },
+    {
+        "word": "kantor",
+        "en-us": "office"
+    },
+    {
+        "word": "kelompok",
+        "en-us": "group"
+    },
+    {
+        "word": "laut",
+        "en-us": "sea"
+    },
+    {
+        "word": "maupun",
+        "en-us": "or"
+    },
+    {
+        "word": "meninggal",
+        "en-us": "died"
+    },
+    {
+        "word": "nyaman",
+        "en-us": "convenient"
+    },
+    {
+        "word": "panas",
+        "en-us": "hot"
+    },
+    {
+        "word": "pasangan",
+        "en-us": "couple"
+    },
+    {
+        "word": "pesan",
+        "en-us": "order"
+    },
+    {
+        "word": "pribadi",
+        "en-us": "private"
+    },
+    {
+        "word": "alam",
+        "en-us": "nature"
+    },
+    {
+        "word": "aplikasi",
+        "en-us": "application"
+    },
+    {
+        "word": "ayo",
+        "en-us": "let's go"
+    },
+    {
+        "word": "berat",
+        "en-us": "weight"
+    },
+    {
+        "word": "biar",
+        "en-us": "let"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "main",
+        "en-us": "main"
+    },
+    {
+        "word": "melawan",
+        "en-us": "against"
+    },
+    {
+        "word": "menulis",
+        "en-us": "write"
+    },
+    {
+        "word": "merah",
+        "en-us": "red"
+    },
+    {
+        "word": "pertandingan",
+        "en-us": "match"
+    },
+    {
+        "word": "pusat",
+        "en-us": "center"
+    },
+    {
+        "word": "rata",
+        "en-us": "flat"
+    },
+    {
+        "word": "senang",
+        "en-us": "happy"
+    },
+    {
+        "word": "sepanjang",
+        "en-us": "along"
+    },
+    {
+        "word": "sosial",
+        "en-us": "social"
+    },
+    {
+        "word": "terbaru",
+        "en-us": "latest"
+    },
+    {
+        "word": "timur",
+        "en-us": "east"
+    },
+    {
+        "word": "usaha",
+        "en-us": "business"
+    },
+    {
+        "word": "berikan",
+        "en-us": "provide"
+    },
+    {
+        "word": "bidang",
+        "en-us": "field"
+    },
+    {
+        "word": "dokter",
+        "en-us": "doctor"
+    },
+    {
+        "word": "inilah",
+        "en-us": "this is"
+    },
+    {
+        "word": "lokasi",
+        "en-us": "location"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "mengapa",
+        "en-us": "why"
+    },
+    {
+        "word": "nggak",
+        "en-us": "no"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "pertanyaan",
+        "en-us": "inquiry"
+    },
+    {
+        "word": "rasanya",
+        "en-us": "tastes"
+    },
+    {
+        "word": "sebanyak",
+        "en-us": "as much as"
+    },
+    {
+        "word": "sma",
+        "en-us": "sMA"
+    },
+    {
+        "word": "ulang",
+        "en-us": "re"
+    },
+    {
+        "word": "you",
+        "en-us": "you"
+    },
+    {
+        "word": "artinya",
+        "en-us": "meaning"
+    },
+    {
+        "word": "bank",
+        "en-us": "bank"
+    },
+    {
+        "word": "berdasarkan",
+        "en-us": "based on"
+    },
+    {
+        "word": "buka",
+        "en-us": "go to"
+    },
+    {
+        "word": "hilang",
+        "en-us": "missing"
+    },
+    {
+        "word": "kini",
+        "en-us": "now"
+    },
+    {
+        "word": "macam",
+        "en-us": "sort of"
+    },
+    {
+        "word": "mengikuti",
+        "en-us": "follow"
+    },
+    {
+        "word": "menyebabkan",
+        "en-us": "cause"
+    },
+    {
+        "word": "obat",
+        "en-us": "medicine"
+    },
+    {
+        "word": "tunggu",
+        "en-us": "wait"
+    },
+    {
+        "word": "walaupun",
+        "en-us": "although"
+    },
+    {
+        "word": "bisnis",
+        "en-us": "business"
+    },
+    {
+        "word": "dikenal",
+        "en-us": "known"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "hitam",
+        "en-us": "black"
+    },
+    {
+        "word": "meminta",
+        "en-us": "request"
+    },
+    {
+        "word": "meski",
+        "en-us": "though"
+    },
+    {
+        "word": "minum",
+        "en-us": "drink"
+    },
+    {
+        "word": "pasar",
+        "en-us": "market"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "alat",
+        "en-us": "tool"
+    },
+    {
+        "word": "ayah",
+        "en-us": "father"
+    },
+    {
+        "word": "bertahan",
+        "en-us": "survive"
+    },
+    {
+        "word": "bertemu",
+        "en-us": "meet"
+    },
+    {
+        "word": "kegiatan",
+        "en-us": "activities"
+    },
+    {
+        "word": "kesalahan",
+        "en-us": "error"
+    },
+    {
+        "word": "menjaga",
+        "en-us": "keep"
+    },
+    {
+        "word": "oke",
+        "en-us": "okay"
+    },
+    {
+        "word": "pantai",
+        "en-us": "beach"
+    },
+    {
+        "word": "saling",
+        "en-us": "saling"
+    },
+    {
+        "word": "sempurna",
+        "en-us": "perfect"
+    },
+    {
+        "word": "sisi",
+        "en-us": "side"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "arah",
+        "en-us": "directions"
+    },
+    {
+        "word": "gambar",
+        "en-us": "image"
+    },
+    {
+        "word": "gratis",
+        "en-us": "free"
+    },
+    {
+        "word": "kebanyakan",
+        "en-us": "mostly"
+    },
+    {
+        "word": "kematian",
+        "en-us": "death"
+    },
+    {
+        "word": "la",
+        "en-us": "la"
+    },
+    {
+        "word": "mantan",
+        "en-us": "former"
+    },
+    {
+        "word": "marah",
+        "en-us": "angry"
+    },
+    {
+        "word": "pakai",
+        "en-us": "use"
+    },
+    {
+        "word": "sebesar",
+        "en-us": "by"
+    },
+    {
+        "word": "turun",
+        "en-us": "down"
+    },
+    {
+        "word": "udara",
+        "en-us": "air"
+    },
+    {
+        "word": "akun",
+        "en-us": "account"
+    },
+    {
+        "word": "an",
+        "en-us": "an"
+    },
+    {
+        "word": "bangsa",
+        "en-us": "nation"
+    },
+    {
+        "word": "bantuan",
+        "en-us": "help"
+    },
+    {
+        "word": "daripada",
+        "en-us": "from"
+    },
+    {
+        "word": "duduk",
+        "en-us": "sit"
+    },
+    {
+        "word": "jaringan",
+        "en-us": "network"
+    },
+    {
+        "word": "mengerti",
+        "en-us": "understand"
+    },
+    {
+        "word": "menyenangkan",
+        "en-us": "fun"
+    },
+    {
+        "word": "milik",
+        "en-us": "courtesy of"
+    },
+    {
+        "word": "perubahan",
+        "en-us": "change"
+    },
+    {
+        "word": "pihak",
+        "en-us": "party"
+    },
+    {
+        "word": "selatan",
+        "en-us": "south"
+    },
+    {
+        "word": "serius",
+        "en-us": "seriously"
+    },
+    {
+        "word": "wajah",
+        "en-us": "face"
+    },
+    {
+        "word": "web",
+        "en-us": "web"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "at",
+        "en-us": "at"
+    },
+    {
+        "word": "bali",
+        "en-us": "bali"
+    },
+    {
+        "word": "bergabung",
+        "en-us": "join"
+    },
+    {
+        "word": "berkata",
+        "en-us": "said"
+    },
+    {
+        "word": "by",
+        "en-us": "by"
+    },
+    {
+        "word": "istri",
+        "en-us": "wife"
+    },
+    {
+        "word": "katanya",
+        "en-us": "he said"
+    },
+    {
+        "word": "keamanan",
+        "en-us": "security"
+    },
+    {
+        "word": "kereta",
+        "en-us": "train"
+    },
+    {
+        "word": "kondisi",
+        "en-us": "condition"
+    },
+    {
+        "word": "operasi",
+        "en-us": "operation"
+    },
+    {
+        "word": "terkenal",
+        "en-us": "famous"
+    },
+    {
+        "word": "utara",
+        "en-us": "north"
+    },
+    {
+        "word": "aktif",
+        "en-us": "on"
+    },
+    {
+        "word": "apalagi",
+        "en-us": "much less"
+    },
+    {
+        "word": "beli",
+        "en-us": "buy"
+    },
+    {
+        "word": "berikutnya",
+        "en-us": "next"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "dimulai",
+        "en-us": "started"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "kalah",
+        "en-us": "lose"
+    },
+    {
+        "word": "keadaan",
+        "en-us": "state"
+    },
+    {
+        "word": "liga",
+        "en-us": "league"
+    },
+    {
+        "word": "memakai",
+        "en-us": "wear"
+    },
+    {
+        "word": "membutuhkan",
+        "en-us": "requires"
+    },
+    {
+        "word": "model",
+        "en-us": "model"
+    },
+    {
+        "word": "putri",
+        "en-us": "princess"
+    },
+    {
+        "word": "rakyat",
+        "en-us": "folk"
+    },
+    {
+        "word": "teknologi",
+        "en-us": "technology"
+    },
+    {
+        "word": "terutama",
+        "en-us": "especially"
+    },
+    {
+        "word": "umumnya",
+        "en-us": "generally"
+    },
+    {
+        "word": "benda",
+        "en-us": "objects"
+    },
+    {
+        "word": "berdiri",
+        "en-us": "stand"
+    },
+    {
+        "word": "berpikir",
+        "en-us": "think"
+    },
+    {
+        "word": "burung",
+        "en-us": "birds"
+    },
+    {
+        "word": "enak",
+        "en-us": "delicious"
+    },
+    {
+        "word": "hak",
+        "en-us": "rights"
+    },
+    {
+        "word": "luas",
+        "en-us": "extensive"
+    },
+    {
+        "word": "menikah",
+        "en-us": "get married"
+    },
+    {
+        "word": "meninggalkan",
+        "en-us": "leave"
+    },
+    {
+        "word": "olahraga",
+        "en-us": "sports"
+    },
+    {
+        "word": "pembangunan",
+        "en-us": "development"
+    },
+    {
+        "word": "saudara",
+        "en-us": "brother"
+    },
+    {
+        "word": "sebab",
+        "en-us": "because"
+    },
+    {
+        "word": "sejarah",
+        "en-us": "history"
+    },
+    {
+        "word": "selanjutnya",
+        "en-us": "next"
+    },
+    {
+        "word": "sih",
+        "en-us": "heck"
+    },
+    {
+        "word": "sukses",
+        "en-us": "success"
+    },
+    {
+        "word": "terkait",
+        "en-us": "related"
+    },
+    {
+        "word": "bawa",
+        "en-us": "take it"
+    },
+    {
+        "word": "bebas",
+        "en-us": "free"
+    },
+    {
+        "word": "bernama",
+        "en-us": "named"
+    },
+    {
+        "word": "cocok",
+        "en-us": "suitable"
+    },
+    {
+        "word": "dewasa",
+        "en-us": "adult"
+    },
+    {
+        "word": "diberikan",
+        "en-us": "provided"
+    },
+    {
+        "word": "ditemukan",
+        "en-us": "found"
+    },
+    {
+        "word": "ikan",
+        "en-us": "fish"
+    },
+    {
+        "word": "jual",
+        "en-us": "sell"
+    },
+    {
+        "word": "ketiga",
+        "en-us": "third"
+    },
+    {
+        "word": "memutuskan",
+        "en-us": "decided"
+    },
+    {
+        "word": "online",
+        "en-us": "online"
+    },
+    {
+        "word": "pikiran",
+        "en-us": "mind"
+    },
+    {
+        "word": "sebelah",
+        "en-us": "next door"
+    },
+    {
+        "word": "tolong",
+        "en-us": "please"
+    },
+    {
+        "word": "usia",
+        "en-us": "age"
+    },
+    {
+        "word": "ahli",
+        "en-us": "expert"
+    },
+    {
+        "word": "berani",
+        "en-us": "dare"
+    },
+    {
+        "word": "buah",
+        "en-us": "fruit"
+    },
+    {
+        "word": "bukti",
+        "en-us": "proof"
+    },
+    {
+        "word": "bunga",
+        "en-us": "flowers"
+    },
+    {
+        "word": "gaya",
+        "en-us": "style"
+    },
+    {
+        "word": "gol",
+        "en-us": "goal"
+    },
+    {
+        "word": "gunakan",
+        "en-us": "use"
+    },
+    {
+        "word": "inginkan",
+        "en-us": "want"
+    },
+    {
+        "word": "kenal",
+        "en-us": "know"
+    },
+    {
+        "word": "keren",
+        "en-us": "cool"
+    },
+    {
+        "word": "korban",
+        "en-us": "victim"
+    },
+    {
+        "word": "memulai",
+        "en-us": "start"
+    },
+    {
+        "word": "partai",
+        "en-us": "party"
+    },
+    {
+        "word": "perhatian",
+        "en-us": "attention"
+    },
+    {
+        "word": "sejumlah",
+        "en-us": "some"
+    },
+    {
+        "word": "siang",
+        "en-us": "noon"
+    },
+    {
+        "word": "tenang",
+        "en-us": "quiet"
+    },
+    {
+        "word": "akibat",
+        "en-us": "due to"
+    },
+    {
+        "word": "ambil",
+        "en-us": "take"
+    },
+    {
+        "word": "bahagia",
+        "en-us": "happy"
+    },
+    {
+        "word": "bintang",
+        "en-us": "star"
+    },
+    {
+        "word": "daya",
+        "en-us": "power"
+    },
+    {
+        "word": "dianggap",
+        "en-us": "considered"
+    },
+    {
+        "word": "jiwa",
+        "en-us": "soul"
+    },
+    {
+        "word": "lingkungan",
+        "en-us": "environment"
+    },
+    {
+        "word": "lucu",
+        "en-us": "funny"
+    },
+    {
+        "word": "mimpi",
+        "en-us": "dream"
+    },
+    {
+        "word": "per",
+        "en-us": "per"
+    },
+    {
+        "word": "politik",
+        "en-us": "politics"
+    },
+    {
+        "word": "sm",
+        "en-us": "sm"
+    },
+    {
+        "word": "tiap",
+        "en-us": "each"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "agen",
+        "en-us": "agent"
+    },
+    {
+        "word": "as",
+        "en-us": "as"
+    },
+    {
+        "word": "bayi",
+        "en-us": "baby"
+    },
+    {
+        "word": "game",
+        "en-us": "game"
+    },
+    {
+        "word": "hadiah",
+        "en-us": "gift"
+    },
+    {
+        "word": "kartu",
+        "en-us": "card"
+    },
+    {
+        "word": "kira",
+        "en-us": "retrieved"
+    },
+    {
+        "word": "kulit",
+        "en-us": "skin"
+    },
+    {
+        "word": "mahasiswa",
+        "en-us": "student"
+    },
+    {
+        "word": "merasakan",
+        "en-us": "feel"
+    },
+    {
+        "word": "pilih",
+        "en-us": "select"
+    },
+    {
+        "word": "pintu",
+        "en-us": "door"
+    },
+    {
+        "word": "pukul",
+        "en-us": "at"
+    },
+    {
+        "word": "rambut",
+        "en-us": "hair"
+    },
+    {
+        "word": "berakhir",
+        "en-us": "over"
+    },
+    {
+        "word": "emas",
+        "en-us": "gold"
+    },
+    {
+        "word": "gubernur",
+        "en-us": "governor"
+    },
+    {
+        "word": "gunung",
+        "en-us": "mountain"
+    },
+    {
+        "word": "juara",
+        "en-us": "champion"
+    },
+    {
+        "word": "karya",
+        "en-us": "works"
+    },
+    {
+        "word": "kisah",
+        "en-us": "story"
+    },
+    {
+        "word": "lahir",
+        "en-us": "born"
+    },
+    {
+        "word": "matahari",
+        "en-us": "sun"
+    },
+    {
+        "word": "menghasilkan",
+        "en-us": "resulting in"
+    },
+    {
+        "word": "motor",
+        "en-us": "motor"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "pasukan",
+        "en-us": "troops"
+    },
+    {
+        "word": "penyakit",
+        "en-us": "disease"
+    },
+    {
+        "word": "produksi",
+        "en-us": "production"
+    },
+    {
+        "word": "rencana",
+        "en-us": "plan"
+    },
+    {
+        "word": "tampil",
+        "en-us": "featured"
+    },
+    {
+        "word": "terbuka",
+        "en-us": "opens"
+    },
+    {
+        "word": "versi",
+        "en-us": "version"
+    },
+    {
+        "word": "agak",
+        "en-us": "somewhat"
+    },
+    {
+        "word": "agustus",
+        "en-us": "august"
+    },
+    {
+        "word": "aneh",
+        "en-us": "weird"
+    },
+    {
+        "word": "baca",
+        "en-us": "read"
+    },
+    {
+        "word": "bergerak",
+        "en-us": "move"
+    },
+    {
+        "word": "gagal",
+        "en-us": "failed"
+    },
+    {
+        "word": "john",
+        "en-us": "john"
+    },
+    {
+        "word": "layanan",
+        "en-us": "service"
+    },
+    {
+        "word": "mengetahui",
+        "en-us": "find out"
+    },
+    {
+        "word": "pemimpin",
+        "en-us": "leader"
+    },
+    {
+        "word": "pohon",
+        "en-us": "tree"
+    },
+    {
+        "word": "seharusnya",
+        "en-us": "should be"
+    },
+    {
+        "word": "sempat",
+        "en-us": "had time"
+    },
+    {
+        "word": "silakan",
+        "en-us": "please"
+    },
+    {
+        "word": "sungguh",
+        "en-us": "really"
+    },
+    {
+        "word": "surabaya",
+        "en-us": "surabaya"
+    },
+    {
+        "word": "tanya",
+        "en-us": "ask"
+    },
+    {
+        "word": "bantu",
+        "en-us": "help"
+    },
+    {
+        "word": "contoh",
+        "en-us": "for example"
+    },
+    {
+        "word": "de",
+        "en-us": "de"
+    },
+    {
+        "word": "kemarin",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "keputusan",
+        "en-us": "decision"
+    },
+    {
+        "word": "komputer",
+        "en-us": "computer"
+    },
+    {
+        "word": "malah",
+        "en-us": "instead"
+    },
+    {
+        "word": "mandi",
+        "en-us": "bathing"
+    },
+    {
+        "word": "manis",
+        "en-us": "sweet"
+    },
+    {
+        "word": "me",
+        "en-us": "me"
+    },
+    {
+        "word": "membangun",
+        "en-us": "build"
+    },
+    {
+        "word": "muslim",
+        "en-us": "muslim"
+    },
+    {
+        "word": "paket",
+        "en-us": "package"
+    },
+    {
+        "word": "rendah",
+        "en-us": "low"
+    },
+    {
+        "word": "ri",
+        "en-us": "ri"
+    },
+    {
+        "word": "serangan",
+        "en-us": "attack"
+    },
+    {
+        "word": "terbesar",
+        "en-us": "largest"
+    },
+    {
+        "word": "tipe",
+        "en-us": "type"
+    },
+    {
+        "word": "baju",
+        "en-us": "clothes"
+    },
+    {
+        "word": "bangunan",
+        "en-us": "building"
+    },
+    {
+        "word": "budaya",
+        "en-us": "culture"
+    },
+    {
+        "word": "calon",
+        "en-us": "candidate"
+    },
+    {
+        "word": "gila",
+        "en-us": "crazy"
+    },
+    {
+        "word": "harapan",
+        "en-us": "hope"
+    },
+    {
+        "word": "hebat",
+        "en-us": "great"
+    },
+    {
+        "word": "internet",
+        "en-us": "internet"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "maret",
+        "en-us": "march"
+    },
+    {
+        "word": "membuka",
+        "en-us": "opens"
+    },
+    {
+        "word": "mendukung",
+        "en-us": "support"
+    },
+    {
+        "word": "padahal",
+        "en-us": "when"
+    },
+    {
+        "word": "penelitian",
+        "en-us": "research"
+    },
+    {
+        "word": "sadar",
+        "en-us": "conscious"
+    },
+    {
+        "word": "sifat",
+        "en-us": "nature"
+    },
+    {
+        "word": "teknik",
+        "en-us": "engineering"
+    },
+    {
+        "word": "terasa",
+        "en-us": "feel"
+    },
+    {
+        "word": "universitas",
+        "en-us": "university"
+    },
+    {
+        "word": "awalnya",
+        "en-us": "originally"
+    },
+    {
+        "word": "bertanya",
+        "en-us": "ask"
+    },
+    {
+        "word": "catatan",
+        "en-us": "note"
+    },
+    {
+        "word": "demikian",
+        "en-us": "thus"
+    },
+    {
+        "word": "hutan",
+        "en-us": "forest"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "sambil",
+        "en-us": "while"
+    },
+    {
+        "word": "sebaiknya",
+        "en-us": "preferably"
+    },
+    {
+        "word": "senjata",
+        "en-us": "weapons"
+    },
+    {
+        "word": "terdiri",
+        "en-us": "consists of"
+    },
+    {
+        "word": "tertentu",
+        "en-us": "specific"
+    },
+    {
+        "word": "wisata",
+        "en-us": "travel"
+    },
+    {
+        "word": "yakni",
+        "en-us": "i.e."
+    },
+    {
+        "word": "berbicara",
+        "en-us": "speak"
+    },
+    {
+        "word": "caranya",
+        "en-us": "how"
+    },
+    {
+        "word": "diketahui",
+        "en-us": "known"
+    },
+    {
+        "word": "eh",
+        "en-us": "eh"
+    },
+    {
+        "word": "for",
+        "en-us": "for"
+    },
+    {
+        "word": "gedung",
+        "en-us": "building"
+    },
+    {
+        "word": "hewan",
+        "en-us": "animals"
+    },
+    {
+        "word": "kemana",
+        "en-us": "where"
+    },
+    {
+        "word": "kemungkinan",
+        "en-us": "possibility"
+    },
+    {
+        "word": "khawatir",
+        "en-us": "worried"
+    },
+    {
+        "word": "mendengar",
+        "en-us": "hear"
+    },
+    {
+        "word": "menteri",
+        "en-us": "minister"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "perasaan",
+        "en-us": "feeling"
+    },
+    {
+        "word": "pindah",
+        "en-us": "move"
+    },
+    {
+        "word": "sel",
+        "en-us": "cell"
+    },
+    {
+        "word": "titik",
+        "en-us": "point"
+    },
+    {
+        "word": "wakil",
+        "en-us": "representative"
+    },
+    {
+        "word": "alami",
+        "en-us": "natural"
+    },
+    {
+        "word": "asing",
+        "en-us": "foreign"
+    },
+    {
+        "word": "bakal",
+        "en-us": "will"
+    },
+    {
+        "word": "balik",
+        "en-us": "behind"
+    },
+    {
+        "word": "bicara",
+        "en-us": "talk"
+    },
+    {
+        "word": "enam",
+        "en-us": "six"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "kode",
+        "en-us": "code"
+    },
+    {
+        "word": "kopi",
+        "en-us": "coffee"
+    },
+    {
+        "word": "korea",
+        "en-us": "korea"
+    },
+    {
+        "word": "lanjut",
+        "en-us": "continue"
+    },
+    {
+        "word": "membaca",
+        "en-us": "read"
+    },
+    {
+        "word": "mengubah",
+        "en-us": "change"
+    },
+    {
+        "word": "miliki",
+        "en-us": "have"
+    },
+    {
+        "word": "misalnya",
+        "en-us": "e.g."
+    },
+    {
+        "word": "mohon",
+        "en-us": "please"
+    },
+    {
+        "word": "my",
+        "en-us": "my"
+    },
+    {
+        "word": "nyata",
+        "en-us": "real"
+    },
+    {
+        "word": "penggunaan",
+        "en-us": "use"
+    },
+    {
+        "word": "pernikahan",
+        "en-us": "marriage"
+    },
+    {
+        "word": "provinsi",
+        "en-us": "province"
+    },
+    {
+        "word": "sederhana",
+        "en-us": "simple"
+    },
+    {
+        "word": "temukan",
+        "en-us": "find"
+    },
+    {
+        "word": "up",
+        "en-us": "up"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "waktunya",
+        "en-us": "time"
+    },
+    {
+        "word": "detik",
+        "en-us": "sec"
+    },
+    {
+        "word": "gadis",
+        "en-us": "girl"
+    },
+    {
+        "word": "hujan",
+        "en-us": "rain"
+    },
+    {
+        "word": "kaya",
+        "en-us": "rich"
+    },
+    {
+        "word": "kemampuan",
+        "en-us": "ability"
+    },
+    {
+        "word": "listrik",
+        "en-us": "electricity"
+    },
+    {
+        "word": "mari",
+        "en-us": "let's"
+    },
+    {
+        "word": "membeli",
+        "en-us": "buy"
+    },
+    {
+        "word": "mengirim",
+        "en-us": "send"
+    },
+    {
+        "word": "mirip",
+        "en-us": "similar"
+    },
+    {
+        "word": "organisasi",
+        "en-us": "organization"
+    },
+    {
+        "word": "otak",
+        "en-us": "brain"
+    },
+    {
+        "word": "sepatu",
+        "en-us": "shoes"
+    },
+    {
+        "word": "tambahan",
+        "en-us": "additional"
+    },
+    {
+        "word": "tampak",
+        "en-us": "looks"
+    },
+    {
+        "word": "website",
+        "en-us": "website"
+    },
+    {
+        "word": "biarkan",
+        "en-us": "let"
+    },
+    {
+        "word": "entah",
+        "en-us": "either"
+    },
+    {
+        "word": "gue",
+        "en-us": "i"
+    },
+    {
+        "word": "hotel",
+        "en-us": "hotel"
+    },
+    {
+        "word": "industri",
+        "en-us": "industry"
+    },
+    {
+        "word": "isi",
+        "en-us": "content"
+    },
+    {
+        "word": "kayu",
+        "en-us": "wood"
+    },
+    {
+        "word": "kemenangan",
+        "en-us": "victory"
+    },
+    {
+        "word": "keuangan",
+        "en-us": "finance"
+    },
+    {
+        "word": "love",
+        "en-us": "love"
+    },
+    {
+        "word": "menyatakan",
+        "en-us": "state"
+    },
+    {
+        "word": "tokoh",
+        "en-us": "figures"
+    },
+    {
+        "word": "banget",
+        "en-us": "really"
+    },
+    {
+        "word": "bupati",
+        "en-us": "regent"
+    },
+    {
+        "word": "dewa",
+        "en-us": "god"
+    },
+    {
+        "word": "http",
+        "en-us": "http"
+    },
+    {
+        "word": "kawan",
+        "en-us": "friend"
+    },
+    {
+        "word": "lantai",
+        "en-us": "floor"
+    },
+    {
+        "word": "meraih",
+        "en-us": "reach"
+    },
+    {
+        "word": "sepertinya",
+        "en-us": "looks like"
+    },
+    {
+        "word": "tangga",
+        "en-us": "ladder"
+    },
+    {
+        "word": "terkadang",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "tiket",
+        "en-us": "tickets"
+    },
+    {
+        "word": "total",
+        "en-us": "total"
+    },
+    {
+        "word": "android",
+        "en-us": "android"
+    },
+    {
+        "word": "bukanlah",
+        "en-us": "not"
+    },
+    {
+        "word": "dingin",
+        "en-us": "cold"
+    },
+    {
+        "word": "energi",
+        "en-us": "energy"
+    },
+    {
+        "word": "grup",
+        "en-us": "group"
+    },
+    {
+        "word": "jalur",
+        "en-us": "path"
+    },
+    {
+        "word": "jarak",
+        "en-us": "distance"
+    },
+    {
+        "word": "jarang",
+        "en-us": "rarely"
+    },
+    {
+        "word": "jawaban",
+        "en-us": "answers"
+    },
+    {
+        "word": "kanan",
+        "en-us": "right"
+    },
+    {
+        "word": "karakter",
+        "en-us": "character"
+    },
+    {
+        "word": "kecamatan",
+        "en-us": "district"
+    },
+    {
+        "word": "kecuali",
+        "en-us": "except"
+    },
+    {
+        "word": "latihan",
+        "en-us": "exercise"
+    },
+    {
+        "word": "lengkap",
+        "en-us": "complete"
+    },
+    {
+        "word": "luka",
+        "en-us": "wound"
+    },
+    {
+        "word": "menangis",
+        "en-us": "cry"
+    },
+    {
+        "word": "pakaian",
+        "en-us": "clothing"
+    },
+    {
+        "word": "proyek",
+        "en-us": "project"
+    },
+    {
+        "word": "rahasia",
+        "en-us": "secret"
+    },
+    {
+        "word": "semangat",
+        "en-us": "spirit"
+    },
+    {
+        "word": "setidaknya",
+        "en-us": "at least"
+    },
+    {
+        "word": "sungai",
+        "en-us": "river"
+    },
+    {
+        "word": "tahan",
+        "en-us": "hold"
+    },
+    {
+        "word": "taman",
+        "en-us": "garden"
+    },
+    {
+        "word": "terbang",
+        "en-us": "fly"
+    },
+    {
+        "word": "aja",
+        "en-us": "wrote"
+    },
+    {
+        "word": "anaknya",
+        "en-us": "his son"
+    },
+    {
+        "word": "berlangsung",
+        "en-us": "takes place"
+    },
+    {
+        "word": "berupa",
+        "en-us": "form"
+    },
+    {
+        "word": "bodoh",
+        "en-us": "stupid"
+    },
+    {
+        "word": "disana",
+        "en-us": "there"
+    },
+    {
+        "word": "garis",
+        "en-us": "line"
+    },
+    {
+        "word": "habis",
+        "en-us": "discharged"
+    },
+    {
+        "word": "internasional",
+        "en-us": "international"
+    },
+    {
+        "word": "jaga",
+        "en-us": "keep"
+    },
+    {
+        "word": "jahat",
+        "en-us": "evil"
+    },
+    {
+        "word": "kakak",
+        "en-us": "big brother"
+    },
+    {
+        "word": "kejadian",
+        "en-us": "events"
+    },
+    {
+        "word": "mei",
+        "en-us": "may"
+    },
+    {
+        "word": "membuatmu",
+        "en-us": "makes you"
+    },
+    {
+        "word": "mencintaimu",
+        "en-us": "love you"
+    },
+    {
+        "word": "menyerang",
+        "en-us": "attack"
+    },
+    {
+        "word": "pertemuan",
+        "en-us": "meeting"
+    },
+    {
+        "word": "saatnya",
+        "en-us": "when"
+    },
+    {
+        "word": "sibuk",
+        "en-us": "busy"
+    },
+    {
+        "word": "status",
+        "en-us": "status"
+    },
+    {
+        "word": "tindakan",
+        "en-us": "action"
+    },
+    {
+        "word": "toko",
+        "en-us": "store"
+    },
+    {
+        "word": "tumbuh",
+        "en-us": "grow"
+    },
+    {
+        "word": "bandar",
+        "en-us": "city"
+    },
+    {
+        "word": "bapak",
+        "en-us": "father"
+    },
+    {
+        "word": "berwarna",
+        "en-us": "colored"
+    },
+    {
+        "word": "city",
+        "en-us": "city"
+    },
+    {
+        "word": "efek",
+        "en-us": "effect"
+    },
+    {
+        "word": "fokus",
+        "en-us": "focus"
+    },
+    {
+        "word": "hadir",
+        "en-us": "attend"
+    },
+    {
+        "word": "ide",
+        "en-us": "ideas"
+    },
+    {
+        "word": "keduanya",
+        "en-us": "both"
+    },
+    {
+        "word": "kiri",
+        "en-us": "left"
+    },
+    {
+        "word": "kunci",
+        "en-us": "key"
+    },
+    {
+        "word": "langkah",
+        "en-us": "steps"
+    },
+    {
+        "word": "laporan",
+        "en-us": "report"
+    },
+    {
+        "word": "membuatnya",
+        "en-us": "make it"
+    },
+    {
+        "word": "penulis",
+        "en-us": "author"
+    },
+    {
+        "word": "piala",
+        "en-us": "trophy"
+    },
+    {
+        "word": "raya",
+        "en-us": "raya"
+    },
+    {
+        "word": "september",
+        "en-us": "september"
+    },
+    {
+        "word": "siswa",
+        "en-us": "student"
+    },
+    {
+        "word": "smp",
+        "en-us": "smp"
+    },
+    {
+        "word": "super",
+        "en-us": "super"
+    },
+    {
+        "word": "unit",
+        "en-us": "unit"
+    },
+    {
+        "word": "angka",
+        "en-us": "figures"
+    },
+    {
+        "word": "begini",
+        "en-us": "here"
+    },
+    {
+        "word": "berkembang",
+        "en-us": "evolve"
+    },
+    {
+        "word": "diberi",
+        "en-us": "given"
+    },
+    {
+        "word": "jujur",
+        "en-us": "honest"
+    },
+    {
+        "word": "lah",
+        "en-us": "lah"
+    },
+    {
+        "word": "lokal",
+        "en-us": "local"
+    },
+    {
+        "word": "menyelesaikan",
+        "en-us": "complete"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "persen",
+        "en-us": "percent"
+    },
+    {
+        "word": "peserta",
+        "en-us": "participants"
+    },
+    {
+        "word": "tewas",
+        "en-us": "killed"
+    },
+    {
+        "word": "tni",
+        "en-us": "tni"
+    },
+    {
+        "word": "berbagi",
+        "en-us": "share"
+    },
+    {
+        "word": "bersih",
+        "en-us": "net"
+    },
+    {
+        "word": "gerakan",
+        "en-us": "movement"
+    },
+    {
+        "word": "kebijakan",
+        "en-us": "policy"
+    },
+    {
+        "word": "kerajaan",
+        "en-us": "kingdom"
+    },
+    {
+        "word": "komunikasi",
+        "en-us": "communication"
+    },
+    {
+        "word": "lembaga",
+        "en-us": "institution"
+    }
+]

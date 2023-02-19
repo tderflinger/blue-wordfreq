@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "de",
+        "en-us": "the"
+    },
+    {
+        "word": "van",
+        "en-us": "from"
+    },
+    {
+        "word": "het",
+        "en-us": "the"
+    },
+    {
+        "word": "een",
+        "en-us": "a"
+    },
+    {
+        "word": "en",
+        "en-us": "and"
+    },
+    {
+        "word": "in",
+        "en-us": "at"
+    },
+    {
+        "word": "is",
+        "en-us": "is"
+    },
+    {
+        "word": "op",
+        "en-us": "at"
+    },
+    {
+        "word": "ik",
+        "en-us": "me"
+    },
+    {
+        "word": "dat",
+        "en-us": "that"
+    },
+    {
+        "word": "voor",
+        "en-us": "for"
+    },
+    {
+        "word": "je",
+        "en-us": "your"
+    },
+    {
+        "word": "te",
+        "en-us": "at"
+    },
+    {
+        "word": "met",
+        "en-us": "with"
+    },
+    {
+        "word": "niet",
+        "en-us": "not"
+    },
+    {
+        "word": "zijn",
+        "en-us": "its"
+    },
+    {
+        "word": "die",
+        "en-us": "those"
+    },
+    {
+        "word": "als",
+        "en-us": "as"
+    },
+    {
+        "word": "er",
+        "en-us": "er"
+    },
+    {
+        "word": "maar",
+        "en-us": "but"
+    },
+    {
+        "word": "om",
+        "en-us": "to"
+    },
+    {
+        "word": "aan",
+        "en-us": "to"
+    },
+    {
+        "word": "hij",
+        "en-us": "he"
+    },
+    {
+        "word": "ook",
+        "en-us": "also"
+    },
+    {
+        "word": "ze",
+        "en-us": "them"
+    },
+    {
+        "word": "door",
+        "en-us": "by"
+    },
+    {
+        "word": "naar",
+        "en-us": "to"
+    },
+    {
+        "word": "uit",
+        "en-us": "from"
+    },
+    {
+        "word": "bij",
+        "en-us": "at"
+    },
+    {
+        "word": "dan",
+        "en-us": "then"
+    },
+    {
+        "word": "dit",
+        "en-us": "this"
+    },
+    {
+        "word": "was",
+        "en-us": "was"
+    },
+    {
+        "word": "we",
+        "en-us": "we"
+    },
+    {
+        "word": "wat",
+        "en-us": "what"
+    },
+    {
+        "word": "heeft",
+        "en-us": "has"
+    },
+    {
+        "word": "of",
+        "en-us": "or"
+    },
+    {
+        "word": "over",
+        "en-us": "about"
+    },
+    {
+        "word": "nog",
+        "en-us": "yet"
+    },
+    {
+        "word": "deze",
+        "en-us": "this"
+    },
+    {
+        "word": "hebben",
+        "en-us": "have"
+    },
+    {
+        "word": "kan",
+        "en-us": "can"
+    },
+    {
+        "word": "meer",
+        "en-us": "more"
+    },
+    {
+        "word": "zo",
+        "en-us": "so"
+    },
+    {
+        "word": "al",
+        "en-us": "al"
+    },
+    {
+        "word": "geen",
+        "en-us": "no"
+    },
+    {
+        "word": "mijn",
+        "en-us": "my"
+    },
+    {
+        "word": "wel",
+        "en-us": "well"
+    },
+    {
+        "word": "tot",
+        "en-us": "to"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "wordt",
+        "en-us": "is"
+    },
+    {
+        "word": "heb",
+        "en-us": "have"
+    },
+    {
+        "word": "worden",
+        "en-us": "be"
+    },
+    {
+        "word": "nu",
+        "en-us": "now"
+    },
+    {
+        "word": "haar",
+        "en-us": "her"
+    },
+    {
+        "word": "ben",
+        "en-us": "am"
+    },
+    {
+        "word": "kunnen",
+        "en-us": "can"
+    },
+    {
+        "word": "veel",
+        "en-us": "much"
+    },
+    {
+        "word": "jaar",
+        "en-us": "year"
+    },
+    {
+        "word": "me",
+        "en-us": "me"
+    },
+    {
+        "word": "moet",
+        "en-us": "must"
+    },
+    {
+        "word": "hoe",
+        "en-us": "how"
+    },
+    {
+        "word": "mensen",
+        "en-us": "people"
+    },
+    {
+        "word": "na",
+        "en-us": "after"
+    },
+    {
+        "word": "ons",
+        "en-us": "our"
+    },
+    {
+        "word": "waar",
+        "en-us": "where"
+    },
+    {
+        "word": "werd",
+        "en-us": "was"
+    },
+    {
+        "word": "goed",
+        "en-us": "good"
+    },
+    {
+        "word": "gaan",
+        "en-us": "go"
+    },
+    {
+        "word": "gaat",
+        "en-us": "goes"
+    },
+    {
+        "word": "onze",
+        "en-us": "our"
+    },
+    {
+        "word": "wil",
+        "en-us": "want"
+    },
+    {
+        "word": "zich",
+        "en-us": "itself"
+    },
+    {
+        "word": "zou",
+        "en-us": "would"
+    },
+    {
+        "word": "doen",
+        "en-us": "do"
+    },
+    {
+        "word": "andere",
+        "en-us": "other"
+    },
+    {
+        "word": "hier",
+        "en-us": "here"
+    },
+    {
+        "word": "dus",
+        "en-us": "so"
+    },
+    {
+        "word": "tegen",
+        "en-us": "at"
+    },
+    {
+        "word": "maken",
+        "en-us": "make"
+    },
+    {
+        "word": "alleen",
+        "en-us": "only"
+    },
+    {
+        "word": "mij",
+        "en-us": "me"
+    },
+    {
+        "word": "onder",
+        "en-us": "under"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "had",
+        "en-us": "had"
+    },
+    {
+        "word": "hun",
+        "en-us": "their"
+    },
+    {
+        "word": "twee",
+        "en-us": "two"
+    },
+    {
+        "word": "nieuwe",
+        "en-us": "new"
+    },
+    {
+        "word": "weer",
+        "en-us": "again"
+    },
+    {
+        "word": "zien",
+        "en-us": "see"
+    },
+    {
+        "word": "zal",
+        "en-us": "will"
+    },
+    {
+        "word": "jij",
+        "en-us": "you"
+    },
+    {
+        "word": "moeten",
+        "en-us": "must"
+    },
+    {
+        "word": "eerste",
+        "en-us": "first"
+    },
+    {
+        "word": "komt",
+        "en-us": "comes"
+    },
+    {
+        "word": "wij",
+        "en-us": "we"
+    },
+    {
+        "word": "echt",
+        "en-us": "truly"
+    },
+    {
+        "word": "eens",
+        "en-us": "once"
+    },
+    {
+        "word": "daar",
+        "en-us": "there"
+    },
+    {
+        "word": "heel",
+        "en-us": "very"
+    },
+    {
+        "word": "toch",
+        "en-us": "anyway"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "dag",
+        "en-us": "hello"
+    },
+    {
+        "word": "mee",
+        "en-us": "mee"
+    },
+    {
+        "word": "staat",
+        "en-us": "state"
+    },
+    {
+        "word": "alle",
+        "en-us": "all"
+    },
+    {
+        "word": "tijd",
+        "en-us": "time"
+    },
+    {
+        "word": "zij",
+        "en-us": "she"
+    },
+    {
+        "word": "zoals",
+        "en-us": "such as"
+    },
+    {
+        "word": "iets",
+        "en-us": "sth."
+    },
+    {
+        "word": "komen",
+        "en-us": "come"
+    },
+    {
+        "word": "leven",
+        "en-us": "life"
+    },
+    {
+        "word": "omdat",
+        "en-us": "because"
+    },
+    {
+        "word": "toen",
+        "en-us": "then"
+    },
+    {
+        "word": "ga",
+        "en-us": "go"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "waren",
+        "en-us": "were"
+    },
+    {
+        "word": "hem",
+        "en-us": "him"
+    },
+    {
+        "word": "jullie",
+        "en-us": "your"
+    },
+    {
+        "word": "tijdens",
+        "en-us": "during"
+    },
+    {
+        "word": "altijd",
+        "en-us": "always"
+    },
+    {
+        "word": "tussen",
+        "en-us": "between"
+    },
+    {
+        "word": "ja",
+        "en-us": "yes"
+    },
+    {
+        "word": "weet",
+        "en-us": "knows"
+    },
+    {
+        "word": "wie",
+        "en-us": "who"
+    },
+    {
+        "word": "laten",
+        "en-us": "let"
+    },
+    {
+        "word": "waarom",
+        "en-us": "why"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "alles",
+        "en-us": "everything"
+    },
+    {
+        "word": "net",
+        "en-us": "just"
+    },
+    {
+        "word": "via",
+        "en-us": "via"
+    },
+    {
+        "word": "even",
+        "en-us": "just"
+    },
+    {
+        "word": "gewoon",
+        "en-us": "simply"
+    },
+    {
+        "word": "grote",
+        "en-us": "large"
+    },
+    {
+        "word": "man",
+        "en-us": "man"
+    },
+    {
+        "word": "terug",
+        "en-us": "back"
+    },
+    {
+        "word": "af",
+        "en-us": "af"
+    },
+    {
+        "word": "laat",
+        "en-us": "late"
+    },
+    {
+        "word": "zonder",
+        "en-us": "without"
+    },
+    {
+        "word": "uur",
+        "en-us": "hours"
+    },
+    {
+        "word": "steeds",
+        "en-us": "becoming"
+    },
+    {
+        "word": "zie",
+        "en-us": "see"
+    },
+    {
+        "word": "bent",
+        "en-us": "are"
+    },
+    {
+        "word": "eigen",
+        "en-us": "own"
+    },
+    {
+        "word": "keer",
+        "en-us": "times"
+    },
+    {
+        "word": "maakt",
+        "en-us": "makes"
+    },
+    {
+        "word": "willen",
+        "en-us": "want"
+    },
+    {
+        "word": "iedereen",
+        "en-us": "everyone"
+    },
+    {
+        "word": "weg",
+        "en-us": "way"
+    },
+    {
+        "word": "hele",
+        "en-us": "whole"
+    },
+    {
+        "word": "iemand",
+        "en-us": "someone"
+    },
+    {
+        "word": "binnen",
+        "en-us": "within"
+    },
+    {
+        "word": "uw",
+        "en-us": "your"
+    },
+    {
+        "word": "werden",
+        "en-us": "were"
+    },
+    {
+        "word": "werk",
+        "en-us": "work"
+    },
+    {
+        "word": "nooit",
+        "en-us": "never"
+    },
+    {
+        "word": "zit",
+        "en-us": "sits"
+    },
+    {
+        "word": "\u00e9\u00e9n",
+        "en-us": "one"
+    },
+    {
+        "word": "drie",
+        "en-us": "three"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "zelf",
+        "en-us": "yourself"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "aantal",
+        "en-us": "number"
+    },
+    {
+        "word": "geven",
+        "en-us": "give"
+    },
+    {
+        "word": "hebt",
+        "en-us": "has"
+    },
+    {
+        "word": "kinderen",
+        "en-us": "children"
+    },
+    {
+        "word": "samen",
+        "en-us": "together"
+    },
+    {
+        "word": "vinden",
+        "en-us": "find"
+    },
+    {
+        "word": "kunt",
+        "en-us": "can"
+    },
+    {
+        "word": "plaats",
+        "en-us": "location"
+    },
+    {
+        "word": "snel",
+        "en-us": "fast"
+    },
+    {
+        "word": "toe",
+        "en-us": "toe"
+    },
+    {
+        "word": "deel",
+        "en-us": "part"
+    },
+    {
+        "word": "elkaar",
+        "en-us": "each other"
+    },
+    {
+        "word": "huis",
+        "en-us": "house"
+    },
+    {
+        "word": "laatste",
+        "en-us": "latest"
+    },
+    {
+        "word": "mag",
+        "en-us": "may"
+    },
+    {
+        "word": "nederland",
+        "en-us": "netherlands"
+    },
+    {
+        "word": "nodig",
+        "en-us": "needed"
+    },
+    {
+        "word": "vanaf",
+        "en-us": "from"
+    },
+    {
+        "word": "vind",
+        "en-us": "find"
+    },
+    {
+        "word": "vrouw",
+        "en-us": "woman"
+    },
+    {
+        "word": "weten",
+        "en-us": "know"
+    },
+    {
+        "word": "doet",
+        "en-us": "does"
+    },
+    {
+        "word": "krijgen",
+        "en-us": "get"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "want",
+        "en-us": "because"
+    },
+    {
+        "word": "allemaal",
+        "en-us": "all"
+    },
+    {
+        "word": "beter",
+        "en-us": "better"
+    },
+    {
+        "word": "erg",
+        "en-us": "very"
+    },
+    {
+        "word": "staan",
+        "en-us": "are"
+    },
+    {
+        "word": "zeggen",
+        "en-us": "say"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "zegt",
+        "en-us": "says"
+    },
+    {
+        "word": "denk",
+        "en-us": "think"
+    },
+    {
+        "word": "gemaakt",
+        "en-us": "made"
+    },
+    {
+        "word": "land",
+        "en-us": "country"
+    },
+    {
+        "word": "naam",
+        "en-us": "name"
+    },
+    {
+        "word": "zeker",
+        "en-us": "definitely"
+    },
+    {
+        "word": "zullen",
+        "en-us": "will"
+    },
+    {
+        "word": "misschien",
+        "en-us": "perhaps"
+    },
+    {
+        "word": "stad",
+        "en-us": "city"
+    },
+    {
+        "word": "verschillende",
+        "en-us": "different"
+    },
+    {
+        "word": "volgens",
+        "en-us": "according to"
+    },
+    {
+        "word": "anders",
+        "en-us": "otherwise"
+    },
+    {
+        "word": "goede",
+        "en-us": "good"
+    },
+    {
+        "word": "houden",
+        "en-us": "hold"
+    },
+    {
+        "word": "volgende",
+        "en-us": "following"
+    },
+    {
+        "word": "blijven",
+        "en-us": "stay"
+    },
+    {
+        "word": "graag",
+        "en-us": "please"
+    },
+    {
+        "word": "jou",
+        "en-us": "you"
+    },
+    {
+        "word": "kwam",
+        "en-us": "came"
+    },
+    {
+        "word": "verder",
+        "en-us": "continued"
+    },
+    {
+        "word": "wanneer",
+        "en-us": "when"
+    },
+    {
+        "word": "beste",
+        "en-us": "dear"
+    },
+    {
+        "word": "lang",
+        "en-us": "long"
+    },
+    {
+        "word": "niets",
+        "en-us": "nothing"
+    },
+    {
+        "word": "per",
+        "en-us": "per"
+    },
+    {
+        "word": "vandaag",
+        "en-us": "today"
+    },
+    {
+        "word": "vragen",
+        "en-us": "questions"
+    },
+    {
+        "word": "werken",
+        "en-us": "work"
+    },
+    {
+        "word": "dagen",
+        "en-us": "days"
+    },
+    {
+        "word": "eerst",
+        "en-us": "first"
+    },
+    {
+        "word": "elke",
+        "en-us": "any"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "vraag",
+        "en-us": "question"
+    },
+    {
+        "word": "zelfs",
+        "en-us": "even"
+    },
+    {
+        "word": "gebruikt",
+        "en-us": "used"
+    },
+    {
+        "word": "gezien",
+        "en-us": "seen"
+    },
+    {
+        "word": "ging",
+        "en-us": "went"
+    },
+    {
+        "word": "nee",
+        "en-us": "no"
+    },
+    {
+        "word": "wereld",
+        "en-us": "world"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "helemaal",
+        "en-us": "totally"
+    },
+    {
+        "word": "jaren",
+        "en-us": "years"
+    },
+    {
+        "word": "kom",
+        "en-us": "come"
+    },
+    {
+        "word": "lijkt",
+        "en-us": "seems"
+    },
+    {
+        "word": "paar",
+        "en-us": "pair"
+    },
+    {
+        "word": "doe",
+        "en-us": "do"
+    },
+    {
+        "word": "foto",
+        "en-us": "photo"
+    },
+    {
+        "word": "geld",
+        "en-us": "money"
+    },
+    {
+        "word": "kijk",
+        "en-us": "see"
+    },
+    {
+        "word": "vooral",
+        "en-us": "especially"
+    },
+    {
+        "word": "leuk",
+        "en-us": "nice"
+    },
+    {
+        "word": "nemen",
+        "en-us": "take"
+    },
+    {
+        "word": "vaak",
+        "en-us": "often"
+    },
+    {
+        "word": "achter",
+        "en-us": "behind"
+    },
+    {
+        "word": "gedaan",
+        "en-us": "done"
+    },
+    {
+        "word": "groot",
+        "en-us": "great"
+    },
+    {
+        "word": "natuurlijk",
+        "en-us": "natural"
+    },
+    {
+        "word": "sinds",
+        "en-us": "since"
+    },
+    {
+        "word": "zo'n",
+        "en-us": "about"
+    },
+    {
+        "word": "bijna",
+        "en-us": "almost"
+    },
+    {
+        "word": "geeft",
+        "en-us": "gives"
+    },
+    {
+        "word": "kijken",
+        "en-us": "watch"
+    },
+    {
+        "word": "mooi",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "ten",
+        "en-us": "at"
+    },
+    {
+        "word": "week",
+        "en-us": "week"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "dood",
+        "en-us": "dead"
+    },
+    {
+        "word": "hadden",
+        "en-us": "had"
+    },
+    {
+        "word": "familie",
+        "en-us": "family"
+    },
+    {
+        "word": "kon",
+        "en-us": "could"
+    },
+    {
+        "word": "nieuws",
+        "en-us": "news"
+    },
+    {
+        "word": "rond",
+        "en-us": "around"
+    },
+    {
+        "word": "website",
+        "en-us": "website"
+    },
+    {
+        "word": "wilt",
+        "en-us": "want"
+    },
+    {
+        "word": "zitten",
+        "en-us": "sit"
+    },
+    {
+        "word": "jouw",
+        "en-us": "your"
+    },
+    {
+        "word": "kleine",
+        "en-us": "small"
+    },
+    {
+        "word": "online",
+        "en-us": "online"
+    },
+    {
+        "word": "moment",
+        "en-us": "moment"
+    },
+    {
+        "word": "tweede",
+        "en-us": "second"
+    },
+    {
+        "word": "vrouwen",
+        "en-us": "women"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "ligt",
+        "en-us": "lies"
+    },
+    {
+        "word": "manier",
+        "en-us": "way"
+    },
+    {
+        "word": "politie",
+        "en-us": "police"
+    },
+    {
+        "word": "welke",
+        "en-us": "which"
+    },
+    {
+        "word": "buiten",
+        "en-us": "outside"
+    },
+    {
+        "word": "enkele",
+        "en-us": "single"
+    },
+    {
+        "word": "geleden",
+        "en-us": "ago"
+    },
+    {
+        "word": "geweest",
+        "en-us": "been"
+    },
+    {
+        "word": "kun",
+        "en-us": "kun"
+    },
+    {
+        "word": "water",
+        "en-us": "water"
+    },
+    {
+        "word": "zei",
+        "en-us": "said"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "eten",
+        "en-us": "food"
+    },
+    {
+        "word": "klaar",
+        "en-us": "ready"
+    },
+    {
+        "word": "mannen",
+        "en-us": "men"
+    },
+    {
+        "word": "nieuw",
+        "en-us": "new"
+    },
+    {
+        "word": "oude",
+        "en-us": "old"
+    },
+    {
+        "word": "september",
+        "en-us": "september"
+    },
+    {
+        "word": "ter",
+        "en-us": "to"
+    },
+    {
+        "word": "denken",
+        "en-us": "thinking"
+    },
+    {
+        "word": "echter",
+        "en-us": "however"
+    },
+    {
+        "word": "enige",
+        "en-us": "only"
+    },
+    {
+        "word": "gebruik",
+        "en-us": "use"
+    },
+    {
+        "word": "helpen",
+        "en-us": "help"
+    },
+    {
+        "word": "hoop",
+        "en-us": "hope"
+    },
+    {
+        "word": "men",
+        "en-us": "one"
+    },
+    {
+        "word": "minder",
+        "en-us": "less"
+    },
+    {
+        "word": "nou",
+        "en-us": "well"
+    },
+    {
+        "word": "open",
+        "en-us": "open"
+    },
+    {
+        "word": "beetje",
+        "en-us": "bit"
+    },
+    {
+        "word": "bekend",
+        "en-us": "well-known"
+    },
+    {
+        "word": "dingen",
+        "en-us": "things"
+    },
+    {
+        "word": "genoeg",
+        "en-us": "enough"
+    },
+    {
+        "word": "groep",
+        "en-us": "group"
+    },
+    {
+        "word": "later",
+        "en-us": "later"
+    },
+    {
+        "word": "maart",
+        "en-us": "march"
+    },
+    {
+        "word": "mogelijk",
+        "en-us": "possibly"
+    },
+    {
+        "word": "ziet",
+        "en-us": "see"
+    },
+    {
+        "word": "auto",
+        "en-us": "car"
+    },
+    {
+        "word": "school",
+        "en-us": "school"
+    },
+    {
+        "word": "soms",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "thuis",
+        "en-us": "home"
+    },
+    {
+        "word": "den",
+        "en-us": "the"
+    },
+    {
+        "word": "film",
+        "en-us": "film"
+    },
+    {
+        "word": "gebruiken",
+        "en-us": "use"
+    },
+    {
+        "word": "krijgt",
+        "en-us": "gets"
+    },
+    {
+        "word": "mooie",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "niks",
+        "en-us": "nothing"
+    },
+    {
+        "word": "spelen",
+        "en-us": "play"
+    },
+    {
+        "word": "zoek",
+        "en-us": "search"
+    },
+    {
+        "word": "blijft",
+        "en-us": "remains"
+    },
+    {
+        "word": "hen",
+        "en-us": "them"
+    },
+    {
+        "word": "onderzoek",
+        "en-us": "research"
+    },
+    {
+        "word": "terwijl",
+        "en-us": "while"
+    },
+    {
+        "word": "vier",
+        "en-us": "four"
+    },
+    {
+        "word": "zeg",
+        "en-us": "say"
+    },
+    {
+        "word": "zorgen",
+        "en-us": "concerns"
+    },
+    {
+        "word": "eigenlijk",
+        "en-us": "actually"
+    },
+    {
+        "word": "informatie",
+        "en-us": "information"
+    },
+    {
+        "word": "pas",
+        "en-us": "pass"
+    },
+    {
+        "word": "waarin",
+        "en-us": "in which"
+    },
+    {
+        "word": "amsterdam",
+        "en-us": "amsterdam"
+    },
+    {
+        "word": "april",
+        "en-us": "april"
+    },
+    {
+        "word": "nederlandse",
+        "en-us": "dutch"
+    },
+    {
+        "word": "probleem",
+        "en-us": "problem"
+    },
+    {
+        "word": "vanuit",
+        "en-us": "from"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "vindt",
+        "en-us": "finds"
+    },
+    {
+        "word": "zouden",
+        "en-us": "would"
+    },
+    {
+        "word": "maak",
+        "en-us": "make"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "ooit",
+        "en-us": "ever"
+    },
+    {
+        "word": "soort",
+        "en-us": "type"
+    },
+    {
+        "word": "vader",
+        "en-us": "father"
+    },
+    {
+        "word": "vast",
+        "en-us": "fixed"
+    },
+    {
+        "word": "vrienden",
+        "en-us": "friends"
+    },
+    {
+        "word": "zeer",
+        "en-us": "very"
+    },
+    {
+        "word": "zuid",
+        "en-us": "south"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "artikel",
+        "en-us": "article"
+    },
+    {
+        "word": "begin",
+        "en-us": "begin"
+    },
+    {
+        "word": "gebied",
+        "en-us": "area"
+    },
+    {
+        "word": "moest",
+        "en-us": "had to"
+    },
+    {
+        "word": "vrij",
+        "en-us": "free"
+    },
+    {
+        "word": "werkt",
+        "en-us": "works"
+    },
+    {
+        "word": "zodat",
+        "en-us": "so that"
+    },
+    {
+        "word": "amerikaanse",
+        "en-us": "american"
+    },
+    {
+        "word": "best",
+        "en-us": "best"
+    },
+    {
+        "word": "daarom",
+        "en-us": "therefore"
+    },
+    {
+        "word": "idee",
+        "en-us": "idea"
+    },
+    {
+        "word": "leren",
+        "en-us": "leather"
+    },
+    {
+        "word": "moeder",
+        "en-us": "mother"
+    },
+    {
+        "word": "ongeveer",
+        "en-us": "about"
+    },
+    {
+        "word": "regio",
+        "en-us": "region"
+    },
+    {
+        "word": "vijf",
+        "en-us": "five"
+    },
+    {
+        "word": "boven",
+        "en-us": "above"
+    },
+    {
+        "word": "der",
+        "en-us": "der"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "foto's",
+        "en-us": "photos"
+    },
+    {
+        "word": "niemand",
+        "en-us": "nobody"
+    },
+    {
+        "word": "oktober",
+        "en-us": "october"
+    },
+    {
+        "word": "verhaal",
+        "en-us": "story"
+    },
+    {
+        "word": "brengen",
+        "en-us": "bring"
+    },
+    {
+        "word": "eerder",
+        "en-us": "previously"
+    },
+    {
+        "word": "kans",
+        "en-us": "opportunity"
+    },
+    {
+        "word": "meest",
+        "en-us": "most"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "grootste",
+        "en-us": "largest"
+    },
+    {
+        "word": "hand",
+        "en-us": "hand"
+    },
+    {
+        "word": "horen",
+        "en-us": "hear"
+    },
+    {
+        "word": "november",
+        "en-us": "november"
+    },
+    {
+        "word": "opnieuw",
+        "en-us": "again"
+    },
+    {
+        "word": "ander",
+        "en-us": "other"
+    },
+    {
+        "word": "bestaat",
+        "en-us": "exists"
+    },
+    {
+        "word": "echte",
+        "en-us": "real"
+    },
+    {
+        "word": "kreeg",
+        "en-us": "got"
+    },
+    {
+        "word": "meisje",
+        "en-us": "girl"
+    },
+    {
+        "word": "muziek",
+        "en-us": "music"
+    },
+    {
+        "word": "naast",
+        "en-us": "next to"
+    },
+    {
+        "word": "slechts",
+        "en-us": "only"
+    },
+    {
+        "word": "waarbij",
+        "en-us": "in which"
+    },
+    {
+        "word": "zetten",
+        "en-us": "put"
+    },
+    {
+        "word": "zoon",
+        "en-us": "son"
+    },
+    {
+        "word": "daarna",
+        "en-us": "then"
+    },
+    {
+        "word": "duidelijk",
+        "en-us": "clearly"
+    },
+    {
+        "word": "hoofd",
+        "en-us": "head"
+    },
+    {
+        "word": "kind",
+        "en-us": "child"
+    },
+    {
+        "word": "minuten",
+        "en-us": "minutes"
+    },
+    {
+        "word": "vond",
+        "en-us": "found"
+    },
+    {
+        "word": "wachten",
+        "en-us": "wait"
+    },
+    {
+        "word": "zorg",
+        "en-us": "care"
+    },
+    {
+        "word": "zowel",
+        "en-us": "both"
+    },
+    {
+        "word": "boek",
+        "en-us": "book"
+    },
+    {
+        "word": "dank",
+        "en-us": "thanks"
+    },
+    {
+        "word": "gehad",
+        "en-us": "had"
+    },
+    {
+        "word": "gemeente",
+        "en-us": "municipality"
+    },
+    {
+        "word": "gratis",
+        "en-us": "free"
+    },
+    {
+        "word": "hoor",
+        "en-us": "hear"
+    },
+    {
+        "word": "hou",
+        "en-us": "love"
+    },
+    {
+        "word": "lekker",
+        "en-us": "nice"
+    },
+    {
+        "word": "maanden",
+        "en-us": "months"
+    },
+    {
+        "word": "problemen",
+        "en-us": "problems"
+    },
+    {
+        "word": "team",
+        "en-us": "team"
+    },
+    {
+        "word": "vroeg",
+        "en-us": "early"
+    },
+    {
+        "word": "weinig",
+        "en-us": "few"
+    },
+    {
+        "word": "belangrijk",
+        "en-us": "important"
+    },
+    {
+        "word": "blij",
+        "en-us": "happy"
+    },
+    {
+        "word": "druk",
+        "en-us": "print"
+    },
+    {
+        "word": "gelijk",
+        "en-us": "equal"
+    },
+    {
+        "word": "houdt",
+        "en-us": "holds"
+    },
+    {
+        "word": "lopen",
+        "en-us": "run"
+    },
+    {
+        "word": "mogen",
+        "en-us": "may"
+    },
+    {
+        "word": "oud",
+        "en-us": "old"
+    },
+    {
+        "word": "precies",
+        "en-us": "exactly"
+    },
+    {
+        "word": "vol",
+        "en-us": "full"
+    },
+    {
+        "word": "afgelopen",
+        "en-us": "past"
+    },
+    {
+        "word": "beginnen",
+        "en-us": "begin"
+    },
+    {
+        "word": "betekent",
+        "en-us": "means"
+    },
+    {
+        "word": "december",
+        "en-us": "december"
+    },
+    {
+        "word": "dezelfde",
+        "en-us": "same"
+    },
+    {
+        "word": "geval",
+        "en-us": "case"
+    },
+    {
+        "word": "miljoen",
+        "en-us": "million"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "sommige",
+        "en-us": "some"
+    },
+    {
+        "word": "zoeken",
+        "en-us": "search"
+    },
+    {
+        "word": "zoveel",
+        "en-us": "so many"
+    },
+    {
+        "word": "halen",
+        "en-us": "fetch"
+    },
+    {
+        "word": "lange",
+        "en-us": "long"
+    },
+    {
+        "word": "lezen",
+        "en-us": "read"
+    },
+    {
+        "word": "mei",
+        "en-us": "may"
+    },
+    {
+        "word": "moeilijk",
+        "en-us": "difficult"
+    },
+    {
+        "word": "nummer",
+        "en-us": "number"
+    },
+    {
+        "word": "ouders",
+        "en-us": "parents"
+    },
+    {
+        "word": "partij",
+        "en-us": "batch"
+    },
+    {
+        "word": "top",
+        "en-us": "top"
+    },
+    {
+        "word": "weken",
+        "en-us": "weeks"
+    },
+    {
+        "word": "zaken",
+        "en-us": "cases"
+    },
+    {
+        "word": "bezig",
+        "en-us": "busy"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "januari",
+        "en-us": "january"
+    },
+    {
+        "word": "langs",
+        "en-us": "along"
+    },
+    {
+        "word": "morgen",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "hulp",
+        "en-us": "help"
+    },
+    {
+        "word": "klein",
+        "en-us": "small"
+    },
+    {
+        "word": "krijg",
+        "en-us": "get"
+    },
+    {
+        "word": "m'n",
+        "en-us": "mine"
+    },
+    {
+        "word": "nadat",
+        "en-us": "after"
+    },
+    {
+        "word": "vele",
+        "en-us": "many"
+    },
+    {
+        "word": "bedankt",
+        "en-us": "thanks"
+    },
+    {
+        "word": "bijvoorbeeld",
+        "en-us": "e.g."
+    },
+    {
+        "word": "delen",
+        "en-us": "share"
+    },
+    {
+        "word": "gevonden",
+        "en-us": "found"
+    },
+    {
+        "word": "maand",
+        "en-us": "month"
+    },
+    {
+        "word": "noord",
+        "en-us": "north"
+    },
+    {
+        "word": "oorlog",
+        "en-us": "war"
+    },
+    {
+        "word": "praten",
+        "en-us": "talk"
+    },
+    {
+        "word": "recht",
+        "en-us": "straight"
+    },
+    {
+        "word": "wilde",
+        "en-us": "wild"
+    },
+    {
+        "word": "zag",
+        "en-us": "saw"
+    },
+    {
+        "word": "zet",
+        "en-us": "put"
+    },
+    {
+        "word": "begon",
+        "en-us": "began"
+    },
+    {
+        "word": "einde",
+        "en-us": "end"
+    },
+    {
+        "word": "kamer",
+        "en-us": "room"
+    },
+    {
+        "word": "maakte",
+        "en-us": "made"
+    },
+    {
+        "word": "meeste",
+        "en-us": "most"
+    },
+    {
+        "word": "plaatsen",
+        "en-us": "places"
+    },
+    {
+        "word": "prijs",
+        "en-us": "price"
+    },
+    {
+        "word": "programma",
+        "en-us": "program"
+    },
+    {
+        "word": "stond",
+        "en-us": "stood"
+    },
+    {
+        "word": "twitter",
+        "en-us": "twitter"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "facebook",
+        "en-us": "facebook"
+    },
+    {
+        "word": "gaf",
+        "en-us": "gave"
+    },
+    {
+        "word": "liggen",
+        "en-us": "lie"
+    },
+    {
+        "word": "meisjes",
+        "en-us": "girls"
+    },
+    {
+        "word": "neem",
+        "en-us": "take"
+    },
+    {
+        "word": "orde",
+        "en-us": "order"
+    },
+    {
+        "word": "volgen",
+        "en-us": "follow"
+    },
+    {
+        "word": "deed",
+        "en-us": "did"
+    },
+    {
+        "word": "geef",
+        "en-us": "give"
+    },
+    {
+        "word": "geplaatst",
+        "en-us": "posted"
+    },
+    {
+        "word": "juist",
+        "en-us": "right"
+    },
+    {
+        "word": "kant",
+        "en-us": "side"
+    },
+    {
+        "word": "landen",
+        "en-us": "countries"
+    },
+    {
+        "word": "reden",
+        "en-us": "reason"
+    },
+    {
+        "word": "vanwege",
+        "en-us": "because of"
+    },
+    {
+        "word": "waardoor",
+        "en-us": "allowing"
+    },
+    {
+        "word": "zaak",
+        "en-us": "case"
+    },
+    {
+        "word": "elk",
+        "en-us": "any"
+    },
+    {
+        "word": "euro",
+        "en-us": "euro"
+    },
+    {
+        "word": "europa",
+        "en-us": "europe"
+    },
+    {
+        "word": "gevoel",
+        "en-us": "sense"
+    },
+    {
+        "word": "geworden",
+        "en-us": "become"
+    },
+    {
+        "word": "jonge",
+        "en-us": "young"
+    },
+    {
+        "word": "media",
+        "en-us": "media"
+    },
+    {
+        "word": "tv",
+        "en-us": "tV"
+    },
+    {
+        "word": "valt",
+        "en-us": "falls"
+    },
+    {
+        "word": "voordat",
+        "en-us": "before"
+    },
+    {
+        "word": "aandacht",
+        "en-us": "attention"
+    },
+    {
+        "word": "anderen",
+        "en-us": "others"
+    },
+    {
+        "word": "beide",
+        "en-us": "both"
+    },
+    {
+        "word": "dacht",
+        "en-us": "thought"
+    },
+    {
+        "word": "geschiedenis",
+        "en-us": "history"
+    },
+    {
+        "word": "hetzelfde",
+        "en-us": "same"
+    },
+    {
+        "word": "juli",
+        "en-us": "july"
+    },
+    {
+        "word": "lees",
+        "en-us": "read"
+    },
+    {
+        "word": "midden",
+        "en-us": "middle"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "ogen",
+        "en-us": "eyes"
+    },
+    {
+        "word": "proberen",
+        "en-us": "try"
+    },
+    {
+        "word": "slecht",
+        "en-us": "bad"
+    },
+    {
+        "word": "stuk",
+        "en-us": "piece"
+    },
+    {
+        "word": "to",
+        "en-us": "to"
+    },
+    {
+        "word": "vervolgens",
+        "en-us": "then"
+    },
+    {
+        "word": "waarschijnlijk",
+        "en-us": "probably"
+    },
+    {
+        "word": "bedrijf",
+        "en-us": "company"
+    },
+    {
+        "word": "februari",
+        "en-us": "february"
+    },
+    {
+        "word": "gegeven",
+        "en-us": "given"
+    },
+    {
+        "word": "gelukkig",
+        "en-us": "happy"
+    },
+    {
+        "word": "handen",
+        "en-us": "hands"
+    },
+    {
+        "word": "juni",
+        "en-us": "june"
+    },
+    {
+        "word": "leden",
+        "en-us": "members"
+    },
+    {
+        "word": "lichaam",
+        "en-us": "body"
+    },
+    {
+        "word": "onderwijs",
+        "en-us": "education"
+    },
+    {
+        "word": "plek",
+        "en-us": "spot"
+    },
+    {
+        "word": "stellen",
+        "en-us": "set"
+    },
+    {
+        "word": "wedstrijd",
+        "en-us": "competition"
+    },
+    {
+        "word": "wist",
+        "en-us": "erases"
+    },
+    {
+        "word": "zes",
+        "en-us": "six"
+    },
+    {
+        "word": "dochter",
+        "en-us": "daughter"
+    },
+    {
+        "word": "ervan",
+        "en-us": "of it"
+    },
+    {
+        "word": "meteen",
+        "en-us": "right away"
+    },
+    {
+        "word": "persoon",
+        "en-us": "person"
+    },
+    {
+        "word": "rol",
+        "en-us": "role"
+    },
+    {
+        "word": "uiteindelijk",
+        "en-us": "ultimately"
+    },
+    {
+        "word": "vorm",
+        "en-us": "form"
+    },
+    {
+        "word": "woord",
+        "en-us": "word"
+    },
+    {
+        "word": "word",
+        "en-us": "become"
+    },
+    {
+        "word": "augustus",
+        "en-us": "august"
+    },
+    {
+        "word": "buurt",
+        "en-us": "neighborhood"
+    },
+    {
+        "word": "contact",
+        "en-us": "contact"
+    },
+    {
+        "word": "gepubliceerd",
+        "en-us": "published"
+    },
+    {
+        "word": "hoge",
+        "en-us": "high"
+    },
+    {
+        "word": "kopen",
+        "en-us": "buy"
+    },
+    {
+        "word": "leeftijd",
+        "en-us": "age"
+    },
+    {
+        "word": "lid",
+        "en-us": "member"
+    },
+    {
+        "word": "liefde",
+        "en-us": "love"
+    },
+    {
+        "word": "minister",
+        "en-us": "minister"
+    },
+    {
+        "word": "neemt",
+        "en-us": "takes"
+    },
+    {
+        "word": "toekomst",
+        "en-us": "future"
+    },
+    {
+        "word": "verenigde",
+        "en-us": "united"
+    },
+    {
+        "word": "zat",
+        "en-us": "sat"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "avond",
+        "en-us": "evening"
+    },
+    {
+        "word": "betalen",
+        "en-us": "pay"
+    },
+    {
+        "word": "denkt",
+        "en-us": "thinks"
+    },
+    {
+        "word": "doel",
+        "en-us": "target"
+    },
+    {
+        "word": "hart",
+        "en-us": "heart"
+    },
+    {
+        "word": "heen",
+        "en-us": "go"
+    },
+    {
+        "word": "ieder",
+        "en-us": "any"
+    },
+    {
+        "word": "organisatie",
+        "en-us": "organization"
+    },
+    {
+        "word": "provincie",
+        "en-us": "province"
+    },
+    {
+        "word": "tien",
+        "en-us": "ten"
+    },
+    {
+        "word": "vergeten",
+        "en-us": "forgotten"
+    },
+    {
+        "word": "actie",
+        "en-us": "action"
+    },
+    {
+        "word": "belangrijke",
+        "en-us": "important"
+    },
+    {
+        "word": "huidige",
+        "en-us": "current"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "nationale",
+        "en-us": "national"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "rest",
+        "en-us": "rest"
+    },
+    {
+        "word": "bang",
+        "en-us": "scared"
+    },
+    {
+        "word": "begint",
+        "en-us": "begins"
+    },
+    {
+        "word": "centrum",
+        "en-us": "center"
+    },
+    {
+        "word": "direct",
+        "en-us": "direct"
+    },
+    {
+        "word": "gezegd",
+        "en-us": "said"
+    },
+    {
+        "word": "god",
+        "en-us": "god"
+    },
+    {
+        "word": "internet",
+        "en-us": "internet"
+    },
+    {
+        "word": "inwoners",
+        "en-us": "inhabitants"
+    },
+    {
+        "word": "jan",
+        "en-us": "jan"
+    },
+    {
+        "word": "jarige",
+        "en-us": "birthday"
+    },
+    {
+        "word": "kwamen",
+        "en-us": "came"
+    },
+    {
+        "word": "leuke",
+        "en-us": "nice"
+    },
+    {
+        "word": "loopt",
+        "en-us": "runs"
+    },
+    {
+        "word": "oh",
+        "en-us": "oh"
+    },
+    {
+        "word": "plan",
+        "en-us": "plan"
+    },
+    {
+        "word": "president",
+        "en-us": "president"
+    },
+    {
+        "word": "zichzelf",
+        "en-us": "itself"
+    },
+    {
+        "word": "alsof",
+        "en-us": "as if"
+    },
+    {
+        "word": "basis",
+        "en-us": "basic"
+    },
+    {
+        "word": "derde",
+        "en-us": "third"
+    },
+    {
+        "word": "enkel",
+        "en-us": "only"
+    },
+    {
+        "word": "geloof",
+        "en-us": "faith"
+    },
+    {
+        "word": "genoemd",
+        "en-us": "named"
+    },
+    {
+        "word": "http",
+        "en-us": "http"
+    },
+    {
+        "word": "mens",
+        "en-us": "man"
+    },
+    {
+        "word": "overal",
+        "en-us": "everywhere"
+    },
+    {
+        "word": "politiek",
+        "en-us": "politics"
+    },
+    {
+        "word": "project",
+        "en-us": "project"
+    },
+    {
+        "word": "staten",
+        "en-us": "states"
+    },
+    {
+        "word": "vertellen",
+        "en-us": "tell"
+    },
+    {
+        "word": "waarvan",
+        "en-us": "of which"
+    },
+    {
+        "word": "woorden",
+        "en-us": "words"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "zin",
+        "en-us": "sentence"
+    },
+    {
+        "word": "bestaan",
+        "en-us": "existence"
+    },
+    {
+        "word": "ervoor",
+        "en-us": "before"
+    },
+    {
+        "word": "europese",
+        "en-us": "european"
+    },
+    {
+        "word": "extra",
+        "en-us": "additional"
+    },
+    {
+        "word": "grond",
+        "en-us": "soil"
+    },
+    {
+        "word": "hoeveel",
+        "en-us": "how many"
+    },
+    {
+        "word": "konden",
+        "en-us": "could"
+    },
+    {
+        "word": "kort",
+        "en-us": "short"
+    },
+    {
+        "word": "leiden",
+        "en-us": "lead"
+    },
+    {
+        "word": "seizoen",
+        "en-us": "season"
+    },
+    {
+        "word": "vallen",
+        "en-us": "fall"
+    },
+    {
+        "word": "algemeen",
+        "en-us": "general"
+    },
+    {
+        "word": "antwoord",
+        "en-us": "reply"
+    },
+    {
+        "word": "bericht",
+        "en-us": "message"
+    },
+    {
+        "word": "daarmee",
+        "en-us": "thus"
+    },
+    {
+        "word": "doden",
+        "en-us": "dead"
+    },
+    {
+        "word": "eind",
+        "en-us": "end"
+    },
+    {
+        "word": "geweldig",
+        "en-us": "great"
+    },
+    {
+        "word": "hard",
+        "en-us": "hard"
+    },
+    {
+        "word": "korte",
+        "en-us": "short"
+    },
+    {
+        "word": "links",
+        "en-us": "left"
+    },
+    {
+        "word": "meter",
+        "en-us": "meter"
+    },
+    {
+        "word": "nam",
+        "en-us": "took"
+    },
+    {
+        "word": "omgeving",
+        "en-us": "area"
+    },
+    {
+        "word": "onderdeel",
+        "en-us": "part"
+    },
+    {
+        "word": "speelt",
+        "en-us": "plays"
+    },
+    {
+        "word": "succes",
+        "en-us": "success"
+    },
+    {
+        "word": "vanavond",
+        "en-us": "tonight"
+    },
+    {
+        "word": "ver",
+        "en-us": "far"
+    },
+    {
+        "word": "welkom",
+        "en-us": "welcome"
+    },
+    {
+        "word": "wet",
+        "en-us": "law"
+    },
+    {
+        "word": "boeken",
+        "en-us": "books"
+    },
+    {
+        "word": "gebeurt",
+        "en-us": "happens"
+    },
+    {
+        "word": "gehouden",
+        "en-us": "held"
+    },
+    {
+        "word": "hoewel",
+        "en-us": "although"
+    },
+    {
+        "word": "iedere",
+        "en-us": "every"
+    },
+    {
+        "word": "kleur",
+        "en-us": "color"
+    },
+    {
+        "word": "langer",
+        "en-us": "longer"
+    },
+    {
+        "word": "site",
+        "en-us": "site"
+    },
+    {
+        "word": "stap",
+        "en-us": "step"
+    },
+    {
+        "word": "telefoon",
+        "en-us": "phone"
+    },
+    {
+        "word": "vorige",
+        "en-us": "previous"
+    },
+    {
+        "word": "waarmee",
+        "en-us": "by which"
+    },
+    {
+        "word": "waarop",
+        "en-us": "on which"
+    },
+    {
+        "word": "wonen",
+        "en-us": "live"
+    },
+    {
+        "word": "bed",
+        "en-us": "bed"
+    },
+    {
+        "word": "beeld",
+        "en-us": "image"
+    },
+    {
+        "word": "bezoek",
+        "en-us": "visit"
+    },
+    {
+        "word": "dienst",
+        "en-us": "service"
+    },
+    {
+        "word": "gek",
+        "en-us": "crazy"
+    },
+    {
+        "word": "inderdaad",
+        "en-us": "indeed"
+    },
+    {
+        "word": "jezelf",
+        "en-us": "yourself"
+    },
+    {
+        "word": "jongens",
+        "en-us": "boys"
+    },
+    {
+        "word": "leger",
+        "en-us": "army"
+    },
+    {
+        "word": "lijst",
+        "en-us": "list"
+    },
+    {
+        "word": "los",
+        "en-us": "loose"
+    },
+    {
+        "word": "personen",
+        "en-us": "persons"
+    },
+    {
+        "word": "rijden",
+        "en-us": "drive"
+    },
+    {
+        "word": "stem",
+        "en-us": "vote"
+    },
+    {
+        "word": "verloren",
+        "en-us": "lost"
+    },
+    {
+        "word": "zwarte",
+        "en-us": "black"
+    },
+    {
+        "word": "belangrijkste",
+        "en-us": "main"
+    },
+    {
+        "word": "blijf",
+        "en-us": "stay"
+    },
+    {
+        "word": "club",
+        "en-us": "club"
+    },
+    {
+        "word": "erop",
+        "en-us": "on it"
+    },
+    {
+        "word": "frankrijk",
+        "en-us": "france"
+    },
+    {
+        "word": "geboren",
+        "en-us": "born"
+    },
+    {
+        "word": "genomen",
+        "en-us": "taken"
+    },
+    {
+        "word": "helaas",
+        "en-us": "unfortunately"
+    },
+    {
+        "word": "kent",
+        "en-us": "knows"
+    },
+    {
+        "word": "mis",
+        "en-us": "miss"
+    },
+    {
+        "word": "ontwikkeling",
+        "en-us": "development"
+    },
+    {
+        "word": "rode",
+        "en-us": "red"
+    },
+    {
+        "word": "spel",
+        "en-us": "game"
+    },
+    {
+        "word": "sterk",
+        "en-us": "strong"
+    },
+    {
+        "word": "totaal",
+        "en-us": "total"
+    },
+    {
+        "word": "veilig",
+        "en-us": "safe"
+    },
+    {
+        "word": "vriend",
+        "en-us": "friend"
+    },
+    {
+        "word": "waaronder",
+        "en-us": "including"
+    },
+    {
+        "word": "bedrijven",
+        "en-us": "companies"
+    },
+    {
+        "word": "begonnen",
+        "en-us": "started"
+    },
+    {
+        "word": "diverse",
+        "en-us": "various"
+    },
+    {
+        "word": "inmiddels",
+        "en-us": "meanwhile"
+    },
+    {
+        "word": "internationale",
+        "en-us": "international"
+    },
+    {
+        "word": "licht",
+        "en-us": "light"
+    },
+    {
+        "word": "sociale",
+        "en-us": "social"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "veranderen",
+        "en-us": "change"
+    },
+    {
+        "word": "voorbij",
+        "en-us": "past"
+    },
+    {
+        "word": "voorkomen",
+        "en-us": "prevent"
+    },
+    {
+        "word": "vormen",
+        "en-us": "forms"
+    },
+    {
+        "word": "aanwezig",
+        "en-us": "present"
+    },
+    {
+        "word": "duitsland",
+        "en-us": "germany"
+    },
+    {
+        "word": "eiland",
+        "en-us": "island"
+    },
+    {
+        "word": "geschreven",
+        "en-us": "written"
+    },
+    {
+        "word": "hoeft",
+        "en-us": "need"
+    },
+    {
+        "word": "jongen",
+        "en-us": "boy"
+    },
+    {
+        "word": "ken",
+        "en-us": "ken"
+    },
+    {
+        "word": "la",
+        "en-us": "la"
+    },
+    {
+        "word": "link",
+        "en-us": "link"
+    },
+    {
+        "word": "meestal",
+        "en-us": "usually"
+    },
+    {
+        "word": "pijn",
+        "en-us": "pain"
+    },
+    {
+        "word": "prima",
+        "en-us": "fine"
+    },
+    {
+        "word": "punt",
+        "en-us": "point"
+    },
+    {
+        "word": "stoppen",
+        "en-us": "stop"
+    },
+    {
+        "word": "verwacht",
+        "en-us": "expected"
+    },
+    {
+        "word": "volgt",
+        "en-us": "follows"
+    },
+    {
+        "word": "actief",
+        "en-us": "active"
+    },
+    {
+        "word": "fijn",
+        "en-us": "fine"
+    },
+    {
+        "word": "gekomen",
+        "en-us": "come"
+    },
+    {
+        "word": "gekregen",
+        "en-us": "received"
+    },
+    {
+        "word": "koning",
+        "en-us": "king"
+    },
+    {
+        "word": "kop",
+        "en-us": "header"
+    },
+    {
+        "word": "liet",
+        "en-us": "had"
+    },
+    {
+        "word": "meerdere",
+        "en-us": "multiple"
+    },
+    {
+        "word": "nacht",
+        "en-us": "night"
+    },
+    {
+        "word": "normaal",
+        "en-us": "normal"
+    },
+    {
+        "word": "politieke",
+        "en-us": "political"
+    },
+    {
+        "word": "prachtig",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "regering",
+        "en-us": "government"
+    },
+    {
+        "word": "straat",
+        "en-us": "street"
+    },
+    {
+        "word": "trots",
+        "en-us": "proud"
+    },
+    {
+        "word": "voel",
+        "en-us": "feel"
+    },
+    {
+        "word": "vraagt",
+        "en-us": "asks"
+    },
+    {
+        "word": "vrije",
+        "en-us": "free"
+    },
+    {
+        "word": "zaterdag",
+        "en-us": "saturday"
+    },
+    {
+        "word": "belang",
+        "en-us": "interest"
+    },
+    {
+        "word": "bovendien",
+        "en-us": "in addition"
+    },
+    {
+        "word": "broer",
+        "en-us": "brother"
+    },
+    {
+        "word": "eindelijk",
+        "en-us": "finally"
+    },
+    {
+        "word": "ergens",
+        "en-us": "somewhere"
+    },
+    {
+        "word": "kennen",
+        "en-us": "know"
+    },
+    {
+        "word": "live",
+        "en-us": "live"
+    },
+    {
+        "word": "namen",
+        "en-us": "names"
+    },
+    {
+        "word": "nederlands",
+        "en-us": "dutch"
+    },
+    {
+        "word": "noemen",
+        "en-us": "cite"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "partijen",
+        "en-us": "parties"
+    },
+    {
+        "word": "periode",
+        "en-us": "period"
+    },
+    {
+        "word": "richting",
+        "en-us": "direction"
+    },
+    {
+        "word": "schreef",
+        "en-us": "wrote"
+    },
+    {
+        "word": "titel",
+        "en-us": "title"
+    },
+    {
+        "word": "universiteit",
+        "en-us": "university"
+    },
+    {
+        "word": "volledig",
+        "en-us": "complete"
+    },
+    {
+        "word": "zee",
+        "en-us": "sea"
+    },
+    {
+        "word": "belgi\u00eb",
+        "en-us": "belgium"
+    },
+    {
+        "word": "bepaalde",
+        "en-us": "certain"
+    },
+    {
+        "word": "brengt",
+        "en-us": "brings"
+    },
+    {
+        "word": "dorp",
+        "en-us": "village"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr"
+    },
+    {
+        "word": "for",
+        "en-us": "for"
+    },
+    {
+        "word": "gisteren",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "kiezen",
+        "en-us": "choose"
+    },
+    {
+        "word": "offici\u00eble",
+        "en-us": "official"
+    },
+    {
+        "word": "schrijven",
+        "en-us": "write"
+    },
+    {
+        "word": "afrika",
+        "en-us": "africa"
+    },
+    {
+        "word": "blijkt",
+        "en-us": "turns out"
+    },
+    {
+        "word": "daarnaast",
+        "en-us": "in addition"
+    },
+    {
+        "word": "heerlijk",
+        "en-us": "lovely"
+    },
+    {
+        "word": "hoogte",
+        "en-us": "height"
+    },
+    {
+        "word": "john",
+        "en-us": "john"
+    },
+    {
+        "word": "mocht",
+        "en-us": "should"
+    },
+    {
+        "word": "ondanks",
+        "en-us": "despite"
+    },
+    {
+        "word": "overleden",
+        "en-us": "deceased"
+    },
+    {
+        "word": "raad",
+        "en-us": "council"
+    },
+    {
+        "word": "reis",
+        "en-us": "trip"
+    },
+    {
+        "word": "serie",
+        "en-us": "series"
+    },
+    {
+        "word": "slapen",
+        "en-us": "sleep"
+    },
+    {
+        "word": "start",
+        "en-us": "start"
+    },
+    {
+        "word": "stel",
+        "en-us": "couple"
+    },
+    {
+        "word": "stemmen",
+        "en-us": "votes"
+    },
+    {
+        "word": "sturen",
+        "en-us": "send"
+    },
+    {
+        "word": "tegenwoordig",
+        "en-us": "nowadays"
+    },
+    {
+        "word": "utrecht",
+        "en-us": "utrecht"
+    },
+    {
+        "word": "versie",
+        "en-us": "version"
+    },
+    {
+        "word": "vertrouwen",
+        "en-us": "trust"
+    },
+    {
+        "word": "vriendin",
+        "en-us": "friend"
+    },
+    {
+        "word": "wakker",
+        "en-us": "awake"
+    },
+    {
+        "word": "z'n",
+        "en-us": "his"
+    },
+    {
+        "word": "ziekenhuis",
+        "en-us": "hospital"
+    },
+    {
+        "word": "acht",
+        "en-us": "eight"
+    },
+    {
+        "word": "baan",
+        "en-us": "job"
+    },
+    {
+        "word": "centraal",
+        "en-us": "central"
+    },
+    {
+        "word": "dicht",
+        "en-us": "close"
+    },
+    {
+        "word": "dieren",
+        "en-us": "animals"
+    },
+    {
+        "word": "gebracht",
+        "en-us": "brought"
+    },
+    {
+        "word": "gegaan",
+        "en-us": "gone"
+    },
+    {
+        "word": "gewonnen",
+        "en-us": "won"
+    },
+    {
+        "word": "half",
+        "en-us": "half"
+    },
+    {
+        "word": "ie",
+        "en-us": "ie"
+    },
+    {
+        "word": "no",
+        "en-us": "no"
+    },
+    {
+        "word": "overheid",
+        "en-us": "government"
+    },
+    {
+        "word": "relatie",
+        "en-us": "relation"
+    },
+    {
+        "word": "ruim",
+        "en-us": "large"
+    },
+    {
+        "word": "rust",
+        "en-us": "rest"
+    },
+    {
+        "word": "slechte",
+        "en-us": "bad"
+    },
+    {
+        "word": "tekst",
+        "en-us": "text"
+    },
+    {
+        "word": "vrijdag",
+        "en-us": "friday"
+    },
+    {
+        "word": "vs",
+        "en-us": "vs"
+    },
+    {
+        "word": "witte",
+        "en-us": "white"
+    },
+    {
+        "word": "york",
+        "en-us": "york"
+    },
+    {
+        "word": "bank",
+        "en-us": "bank"
+    },
+    {
+        "word": "energie",
+        "en-us": "energy"
+    },
+    {
+        "word": "gebouw",
+        "en-us": "building"
+    },
+    {
+        "word": "gingen",
+        "en-us": "went"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "helft",
+        "en-us": "half"
+    },
+    {
+        "word": "helpt",
+        "en-us": "helps"
+    },
+    {
+        "word": "hoog",
+        "en-us": "high"
+    },
+    {
+        "word": "juiste",
+        "en-us": "right"
+    },
+    {
+        "word": "klopt",
+        "en-us": "is correct"
+    },
+    {
+        "word": "kracht",
+        "en-us": "force"
+    },
+    {
+        "word": "les",
+        "en-us": "les"
+    },
+    {
+        "word": "ontvangen",
+        "en-us": "received"
+    },
+    {
+        "word": "pagina",
+        "en-us": "page"
+    },
+    {
+        "word": "reactie",
+        "en-us": "response"
+    },
+    {
+        "word": "ruimte",
+        "en-us": "space"
+    },
+    {
+        "word": "situatie",
+        "en-us": "situation"
+    },
+    {
+        "word": "sorry",
+        "en-us": "sorry"
+    },
+    {
+        "word": "spreken",
+        "en-us": "speak"
+    },
+    {
+        "word": "systeem",
+        "en-us": "system"
+    },
+    {
+        "word": "voelen",
+        "en-us": "feel"
+    },
+    {
+        "word": "voelt",
+        "en-us": "feels"
+    },
+    {
+        "word": "zeven",
+        "en-us": "seven"
+    },
+    {
+        "word": "zondag",
+        "en-us": "sunday"
+    },
+    {
+        "word": "bekende",
+        "en-us": "well-known"
+    },
+    {
+        "word": "dankzij",
+        "en-us": "thanks to"
+    },
+    {
+        "word": "gebeuren",
+        "en-us": "happen"
+    },
+    {
+        "word": "geheel",
+        "en-us": "whole"
+    },
+    {
+        "word": "hoort",
+        "en-us": "hear"
+    },
+    {
+        "word": "kaart",
+        "en-us": "map"
+    },
+    {
+        "word": "kerk",
+        "en-us": "church"
+    },
+    {
+        "word": "liever",
+        "en-us": "rather"
+    },
+    {
+        "word": "taal",
+        "en-us": "language"
+    },
+    {
+        "word": "voorbeeld",
+        "en-us": "example"
+    },
+    {
+        "word": "vroeger",
+        "en-us": "formerly"
+    },
+    {
+        "word": "west",
+        "en-us": "west"
+    },
+    {
+        "word": "bron",
+        "en-us": "source"
+    },
+    {
+        "word": "feit",
+        "en-us": "fact"
+    },
+    {
+        "word": "gevolg",
+        "en-us": "consequence"
+    },
+    {
+        "word": "gezet",
+        "en-us": "put"
+    },
+    {
+        "word": "gezicht",
+        "en-us": "face"
+    },
+    {
+        "word": "heet",
+        "en-us": "hot"
+    },
+    {
+        "word": "prachtige",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "punten",
+        "en-us": "points"
+    },
+    {
+        "word": "radio",
+        "en-us": "radio"
+    },
+    {
+        "word": "rotterdam",
+        "en-us": "rotterdam"
+    },
+    {
+        "word": "amerika",
+        "en-us": "america"
+    },
+    {
+        "word": "beschikbaar",
+        "en-us": "available"
+    },
+    {
+        "word": "betrokken",
+        "en-us": "concerned"
+    },
+    {
+        "word": "blog",
+        "en-us": "blog"
+    },
+    {
+        "word": "dragen",
+        "en-us": "wear"
+    },
+    {
+        "word": "fc",
+        "en-us": "fc"
+    },
+    {
+        "word": "gehoord",
+        "en-us": "heard"
+    },
+    {
+        "word": "gelegen",
+        "en-us": "located"
+    },
+    {
+        "word": "gevallen",
+        "en-us": "fallen"
+    },
+    {
+        "word": "heer",
+        "en-us": "mr."
+    },
+    {
+        "word": "jong",
+        "en-us": "young"
+    },
+    {
+        "word": "kennis",
+        "en-us": "knowledge"
+    },
+    {
+        "word": "keuze",
+        "en-us": "choice"
+    },
+    {
+        "word": "plezier",
+        "en-us": "fun"
+    },
+    {
+        "word": "slag",
+        "en-us": "stroke"
+    },
+    {
+        "word": "speciale",
+        "en-us": "special"
+    },
+    {
+        "word": "activiteiten",
+        "en-us": "activities"
+    },
+    {
+        "word": "cultuur",
+        "en-us": "culture"
+    },
+    {
+        "word": "daarvan",
+        "en-us": "of that"
+    },
+    {
+        "word": "duitse",
+        "en-us": "german"
+    },
+    {
+        "word": "economie",
+        "en-us": "economy"
+    },
+    {
+        "word": "eerlijk",
+        "en-us": "honest"
+    },
+    {
+        "word": "ene",
+        "en-us": "one"
+    },
+    {
+        "word": "gekozen",
+        "en-us": "selected"
+    },
+    {
+        "word": "haag",
+        "en-us": "hedge"
+    },
+    {
+        "word": "hotel",
+        "en-us": "hotel"
+    },
+    {
+        "word": "leggen",
+        "en-us": "lay"
+    },
+    {
+        "word": "markt",
+        "en-us": "market"
+    },
+    {
+        "word": "resultaten",
+        "en-us": "results"
+    },
+    {
+        "word": "rustig",
+        "en-us": "quiet"
+    },
+    {
+        "word": "samenwerking",
+        "en-us": "collaboration"
+    },
+    {
+        "word": "snap",
+        "en-us": "snap"
+    },
+    {
+        "word": "winnen",
+        "en-us": "win"
+    },
+    {
+        "word": "wit",
+        "en-us": "white"
+    },
+    {
+        "word": "zomer",
+        "en-us": "summer"
+    },
+    {
+        "word": "zwart",
+        "en-us": "black"
+    },
+    {
+        "word": "bijzonder",
+        "en-us": "special"
+    },
+    {
+        "word": "fout",
+        "en-us": "error"
+    },
+    {
+        "word": "franse",
+        "en-us": "french"
+    },
+    {
+        "word": "gedurende",
+        "en-us": "during"
+    },
+    {
+        "word": "geloven",
+        "en-us": "believe"
+    },
+    {
+        "word": "genieten",
+        "en-us": "enjoy"
+    },
+    {
+        "word": "gesprek",
+        "en-us": "conversation"
+    },
+    {
+        "word": "lokale",
+        "en-us": "local"
+    },
+    {
+        "word": "lucht",
+        "en-us": "air"
+    },
+    {
+        "word": "makkelijk",
+        "en-us": "easy"
+    },
+    {
+        "word": "pakken",
+        "en-us": "suits"
+    },
+    {
+        "word": "publiek",
+        "en-us": "public"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "regels",
+        "en-us": "rules"
+    },
+    {
+        "word": "val",
+        "en-us": "fall"
+    },
+    {
+        "word": "verhalen",
+        "en-us": "stories"
+    },
+    {
+        "word": "verschil",
+        "en-us": "difference"
+    },
+    {
+        "word": "voetbal",
+        "en-us": "soccer"
+    },
+    {
+        "word": "behalve",
+        "en-us": "except"
+    },
+    {
+        "word": "bereiken",
+        "en-us": "reach"
+    },
+    {
+        "word": "brand",
+        "en-us": "fire"
+    },
+    {
+        "word": "eraan",
+        "en-us": "to it"
+    },
+    {
+        "word": "geslacht",
+        "en-us": "gender"
+    },
+    {
+        "word": "geweldige",
+        "en-us": "great"
+    },
+    {
+        "word": "google",
+        "en-us": "google"
+    },
+    {
+        "word": "haat",
+        "en-us": "hate"
+    },
+    {
+        "word": "invloed",
+        "en-us": "influence"
+    },
+    {
+        "word": "kunst",
+        "en-us": "art"
+    },
+    {
+        "word": "moesten",
+        "en-us": "had to"
+    },
+    {
+        "word": "moord",
+        "en-us": "murder"
+    },
+    {
+        "word": "park",
+        "en-us": "park"
+    },
+    {
+        "word": "sport",
+        "en-us": "sport"
+    },
+    {
+        "word": "stelt",
+        "en-us": "states"
+    },
+    {
+        "word": "strijd",
+        "en-us": "battle"
+    },
+    {
+        "word": "wk",
+        "en-us": "wk"
+    },
+    {
+        "word": "bekijk",
+        "en-us": "view"
+    },
+    {
+        "word": "controle",
+        "en-us": "control"
+    },
+    {
+        "word": "dames",
+        "en-us": "ladies"
+    },
+    {
+        "word": "engels",
+        "en-us": "english"
+    },
+    {
+        "word": "geluk",
+        "en-us": "happiness"
+    },
+    {
+        "word": "gesproken",
+        "en-us": "spoken"
+    },
+    {
+        "word": "jongeren",
+        "en-us": "youth"
+    },
+    {
+        "word": "koffie",
+        "en-us": "coffee"
+    },
+    {
+        "word": "loop",
+        "en-us": "run"
+    },
+    {
+        "word": "macht",
+        "en-us": "power"
+    },
+    {
+        "word": "moeite",
+        "en-us": "effort"
+    },
+    {
+        "word": "ontstaan",
+        "en-us": "origin"
+    },
+    {
+        "word": "persoonlijke",
+        "en-us": "personal"
+    },
+    {
+        "word": "procent",
+        "en-us": "percent"
+    },
+    {
+        "word": "stop",
+        "en-us": "stop"
+    },
+    {
+        "word": "super",
+        "en-us": "super"
+    },
+    {
+        "word": "trekken",
+        "en-us": "pull"
+    },
+    {
+        "word": "verkiezingen",
+        "en-us": "elections"
+    },
+    {
+        "word": "waard",
+        "en-us": "worth"
+    },
+    {
+        "word": "aarde",
+        "en-us": "earth"
+    },
+    {
+        "word": "band",
+        "en-us": "band"
+    },
+    {
+        "word": "begrijpen",
+        "en-us": "understand"
+    },
+    {
+        "word": "betere",
+        "en-us": "better"
+    },
+    {
+        "word": "china",
+        "en-us": "china"
+    },
+    {
+        "word": "eeuw",
+        "en-us": "century"
+    },
+    {
+        "word": "feest",
+        "en-us": "party"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "gevraagd",
+        "en-us": "requested"
+    },
+    {
+        "word": "gewone",
+        "en-us": "ordinary"
+    },
+    {
+        "word": "hond",
+        "en-us": "dog"
+    },
+    {
+        "word": "huwelijk",
+        "en-us": "marriage"
+    },
+    {
+        "word": "tevens",
+        "en-us": "also"
+    },
+    {
+        "word": "vakantie",
+        "en-us": "vacation"
+    },
+    {
+        "word": "veiligheid",
+        "en-us": "safety"
+    },
+    {
+        "word": "waarheid",
+        "en-us": "truth"
+    },
+    {
+        "word": "wacht",
+        "en-us": "wait"
+    },
+    {
+        "word": "wees",
+        "en-us": "be"
+    },
+    {
+        "word": "bevolking",
+        "en-us": "population"
+    },
+    {
+        "word": "bieden",
+        "en-us": "offer"
+    },
+    {
+        "word": "bouwen",
+        "en-us": "build"
+    },
+    {
+        "word": "deur",
+        "en-us": "door"
+    },
+    {
+        "word": "erbij",
+        "en-us": "there"
+    },
+    {
+        "word": "ervaring",
+        "en-us": "experience"
+    },
+    {
+        "word": "films",
+        "en-us": "movies"
+    },
+    {
+        "word": "gebeurd",
+        "en-us": "happened"
+    },
+    {
+        "word": "groningen",
+        "en-us": "groningen"
+    },
+    {
+        "word": "holland",
+        "en-us": "holland"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "mezelf",
+        "en-us": "myself"
+    },
+    {
+        "word": "opgenomen",
+        "en-us": "included"
+    },
+    {
+        "word": "stand",
+        "en-us": "state"
+    },
+    {
+        "word": "studenten",
+        "en-us": "students"
+    },
+    {
+        "word": "terecht",
+        "en-us": "rightly"
+    },
+    {
+        "word": "vermoord",
+        "en-us": "murdered"
+    },
+    {
+        "word": "viel",
+        "en-us": "fell"
+    },
+    {
+        "word": "voormalige",
+        "en-us": "former"
+    },
+    {
+        "word": "vorig",
+        "en-us": "previous"
+    },
+    {
+        "word": "bevat",
+        "en-us": "contains"
+    },
+    {
+        "word": "bracht",
+        "en-us": "brought"
+    },
+    {
+        "word": "britse",
+        "en-us": "british"
+    },
+    {
+        "word": "burgemeester",
+        "en-us": "mayor"
+    }
+]

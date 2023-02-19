@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "og",
+        "en-us": "and"
+    },
+    {
+        "word": "er",
+        "en-us": "is"
+    },
+    {
+        "word": "af",
+        "en-us": "by"
+    },
+    {
+        "word": "det",
+        "en-us": "it"
+    },
+    {
+        "word": "at",
+        "en-us": "at"
+    },
+    {
+        "word": "en",
+        "en-us": "en"
+    },
+    {
+        "word": "til",
+        "en-us": "to"
+    },
+    {
+        "word": "p\u00e5",
+        "en-us": "at"
+    },
+    {
+        "word": "jeg",
+        "en-us": "i"
+    },
+    {
+        "word": "har",
+        "en-us": "has"
+    },
+    {
+        "word": "for",
+        "en-us": "for"
+    },
+    {
+        "word": "ikke",
+        "en-us": "not"
+    },
+    {
+        "word": "med",
+        "en-us": "with"
+    },
+    {
+        "word": "den",
+        "en-us": "the"
+    },
+    {
+        "word": "der",
+        "en-us": "the"
+    },
+    {
+        "word": "de",
+        "en-us": "from"
+    },
+    {
+        "word": "du",
+        "en-us": "from"
+    },
+    {
+        "word": "kan",
+        "en-us": "can"
+    },
+    {
+        "word": "som",
+        "en-us": "as"
+    },
+    {
+        "word": "s\u00e5",
+        "en-us": "so"
+    },
+    {
+        "word": "et",
+        "en-us": "and"
+    },
+    {
+        "word": "var",
+        "en-us": "was"
+    },
+    {
+        "word": "vi",
+        "en-us": "vi"
+    },
+    {
+        "word": "om",
+        "en-us": "about"
+    },
+    {
+        "word": "han",
+        "en-us": "he"
+    },
+    {
+        "word": "fra",
+        "en-us": "from"
+    },
+    {
+        "word": "men",
+        "en-us": "but"
+    },
+    {
+        "word": "skal",
+        "en-us": "shall"
+    },
+    {
+        "word": "ved",
+        "en-us": "at"
+    },
+    {
+        "word": "vil",
+        "en-us": "will"
+    },
+    {
+        "word": "ogs\u00e5",
+        "en-us": "also"
+    },
+    {
+        "word": "v\u00e6re",
+        "en-us": "be"
+    },
+    {
+        "word": "hvor",
+        "en-us": "where"
+    },
+    {
+        "word": "nu",
+        "en-us": "now"
+    },
+    {
+        "word": "man",
+        "en-us": "man"
+    },
+    {
+        "word": "hvis",
+        "en-us": "if"
+    },
+    {
+        "word": "sig",
+        "en-us": "go to"
+    },
+    {
+        "word": "efter",
+        "en-us": "by"
+    },
+    {
+        "word": "mig",
+        "en-us": "me"
+    },
+    {
+        "word": "eller",
+        "en-us": "or"
+    },
+    {
+        "word": "her",
+        "en-us": "here"
+    },
+    {
+        "word": "hvad",
+        "en-us": "what"
+    },
+    {
+        "word": "ud",
+        "en-us": "out"
+    },
+    {
+        "word": "alle",
+        "en-us": "all"
+    },
+    {
+        "word": "godt",
+        "en-us": "well"
+    },
+    {
+        "word": "meget",
+        "en-us": "very"
+    },
+    {
+        "word": "noget",
+        "en-us": "something"
+    },
+    {
+        "word": "da",
+        "en-us": "da"
+    },
+    {
+        "word": "dig",
+        "en-us": "you"
+    },
+    {
+        "word": "kunne",
+        "en-us": "could"
+    },
+    {
+        "word": "lige",
+        "en-us": "just"
+    },
+    {
+        "word": "min",
+        "en-us": "my"
+    },
+    {
+        "word": "n\u00e5r",
+        "en-us": "reach"
+    },
+    {
+        "word": "op",
+        "en-us": "at"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "blev",
+        "en-us": "became"
+    },
+    {
+        "word": "bliver",
+        "en-us": "become"
+    },
+    {
+        "word": "havde",
+        "en-us": "had"
+    },
+    {
+        "word": "mere",
+        "en-us": "more"
+    },
+    {
+        "word": "over",
+        "en-us": "about"
+    },
+    {
+        "word": "hun",
+        "en-us": "she"
+    },
+    {
+        "word": "se",
+        "en-us": "see"
+    },
+    {
+        "word": "\u00e5r",
+        "en-us": "year"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "bare",
+        "en-us": "just"
+    },
+    {
+        "word": "f\u00e5",
+        "en-us": "get"
+    },
+    {
+        "word": "have",
+        "en-us": "have"
+    },
+    {
+        "word": "dem",
+        "en-us": "dem"
+    },
+    {
+        "word": "to",
+        "en-us": "to"
+    },
+    {
+        "word": "lidt",
+        "en-us": "a little"
+    },
+    {
+        "word": "selv",
+        "en-us": "even"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "din",
+        "en-us": "your"
+    },
+    {
+        "word": "mange",
+        "en-us": "many"
+    },
+    {
+        "word": "vores",
+        "en-us": "our"
+    },
+    {
+        "word": "f\u00e5r",
+        "en-us": "get"
+    },
+    {
+        "word": "kun",
+        "en-us": "only"
+    },
+    {
+        "word": "deres",
+        "en-us": "their"
+    },
+    {
+        "word": "helt",
+        "en-us": "completely"
+    },
+    {
+        "word": "end",
+        "en-us": "end"
+    },
+    {
+        "word": "jo",
+        "en-us": "jo"
+    },
+    {
+        "word": "kommer",
+        "en-us": "come"
+    },
+    {
+        "word": "m\u00e5",
+        "en-us": "may"
+    },
+    {
+        "word": "dag",
+        "en-us": "day"
+    },
+    {
+        "word": "denne",
+        "en-us": "this"
+    },
+    {
+        "word": "dette",
+        "en-us": "debt"
+    },
+    {
+        "word": "hans",
+        "en-us": "his"
+    },
+    {
+        "word": "ind",
+        "en-us": "in"
+    },
+    {
+        "word": "flere",
+        "en-us": "more"
+    },
+    {
+        "word": "g\u00f8r",
+        "en-us": "do"
+    },
+    {
+        "word": "ja",
+        "en-us": "yes"
+    },
+    {
+        "word": "nok",
+        "en-us": "enough"
+    },
+    {
+        "word": "andre",
+        "en-us": "others"
+    },
+    {
+        "word": "mod",
+        "en-us": "mod"
+    },
+    {
+        "word": "alt",
+        "en-us": "alt"
+    },
+    {
+        "word": "v\u00e6ret",
+        "en-us": "been"
+    },
+    {
+        "word": "blive",
+        "en-us": "become"
+    },
+    {
+        "word": "god",
+        "en-us": "good"
+    },
+    {
+        "word": "g\u00e5r",
+        "en-us": "goes to"
+    },
+    {
+        "word": "igen",
+        "en-us": "again"
+    },
+    {
+        "word": "os",
+        "en-us": "us"
+    },
+    {
+        "word": "fik",
+        "en-us": "got"
+    },
+    {
+        "word": "hele",
+        "en-us": "all"
+    },
+    {
+        "word": "sammen",
+        "en-us": "together"
+    },
+    {
+        "word": "gang",
+        "en-us": "time"
+    },
+    {
+        "word": "ville",
+        "en-us": "city"
+    },
+    {
+        "word": "hvordan",
+        "en-us": "how"
+    },
+    {
+        "word": "nye",
+        "en-us": "new"
+    },
+    {
+        "word": "nogle",
+        "en-us": "some"
+    },
+    {
+        "word": "skulle",
+        "en-us": "would"
+    },
+    {
+        "word": "tid",
+        "en-us": "time"
+    },
+    {
+        "word": "danmark",
+        "en-us": "denmark"
+    },
+    {
+        "word": "dansk",
+        "en-us": "danish"
+    },
+    {
+        "word": "siden",
+        "en-us": "since"
+    },
+    {
+        "word": "ham",
+        "en-us": "him"
+    },
+    {
+        "word": "under",
+        "en-us": "at"
+    },
+    {
+        "word": "f\u00f8rste",
+        "en-us": "first"
+    },
+    {
+        "word": "sin",
+        "en-us": "its"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "g\u00f8re",
+        "en-us": "do"
+    },
+    {
+        "word": "m\u00e5ske",
+        "en-us": "perhaps"
+    },
+    {
+        "word": "danske",
+        "en-us": "danish"
+    },
+    {
+        "word": "ingen",
+        "en-us": "no"
+    },
+    {
+        "word": "siger",
+        "en-us": "says"
+    },
+    {
+        "word": "s\u00e5dan",
+        "en-us": "such"
+    },
+    {
+        "word": "altid",
+        "en-us": "always"
+    },
+    {
+        "word": "anden",
+        "en-us": "other"
+    },
+    {
+        "word": "kom",
+        "en-us": "come"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "del",
+        "en-us": "part"
+    },
+    {
+        "word": "uden",
+        "en-us": "without"
+    },
+    {
+        "word": "ser",
+        "en-us": "ser"
+    },
+    {
+        "word": "andet",
+        "en-us": "other"
+    },
+    {
+        "word": "fordi",
+        "en-us": "because"
+    },
+    {
+        "word": "gerne",
+        "en-us": "gladly"
+    },
+    {
+        "word": "nogen",
+        "en-us": "someone"
+    },
+    {
+        "word": "samme",
+        "en-us": "same"
+    },
+    {
+        "word": "store",
+        "en-us": "store"
+    },
+    {
+        "word": "tak",
+        "en-us": "thanks"
+    },
+    {
+        "word": "blevet",
+        "en-us": "been"
+    },
+    {
+        "word": "f\u00f8r",
+        "en-us": "before"
+    },
+    {
+        "word": "mellem",
+        "en-us": "between"
+    },
+    {
+        "word": "tilbage",
+        "en-us": "back"
+    },
+    {
+        "word": "tror",
+        "en-us": "think"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "dog",
+        "en-us": "dog"
+    },
+    {
+        "word": "sidste",
+        "en-us": "last"
+    },
+    {
+        "word": "arbejde",
+        "en-us": "work"
+    },
+    {
+        "word": "brug",
+        "en-us": "use"
+    },
+    {
+        "word": "dit",
+        "en-us": "said"
+    },
+    {
+        "word": "finde",
+        "en-us": "find"
+    },
+    {
+        "word": "tage",
+        "en-us": "take"
+    },
+    {
+        "word": "g\u00e5",
+        "en-us": "go to"
+    },
+    {
+        "word": "hvorfor",
+        "en-us": "why"
+    },
+    {
+        "word": "mit",
+        "en-us": "with"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "bedre",
+        "en-us": "better"
+    },
+    {
+        "word": "hos",
+        "en-us": "at"
+    },
+    {
+        "word": "lille",
+        "en-us": "small"
+    },
+    {
+        "word": "ret",
+        "en-us": "ret"
+    },
+    {
+        "word": "stor",
+        "en-us": "great"
+    },
+    {
+        "word": "bedste",
+        "en-us": "best"
+    },
+    {
+        "word": "komme",
+        "en-us": "come"
+    },
+    {
+        "word": "tre",
+        "en-us": "three"
+    },
+    {
+        "word": "giver",
+        "en-us": "provides"
+    },
+    {
+        "word": "k\u00f8benhavn",
+        "en-us": "copenhagen"
+    },
+    {
+        "word": "mest",
+        "en-us": "manure"
+    },
+    {
+        "word": "stadig",
+        "en-us": "still"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "folk",
+        "en-us": "people"
+    },
+    {
+        "word": "ny",
+        "en-us": "new"
+    },
+    {
+        "word": "aldrig",
+        "en-us": "never"
+    },
+    {
+        "word": "ned",
+        "en-us": "down"
+    },
+    {
+        "word": "b\u00e5de",
+        "en-us": "both"
+    },
+    {
+        "word": "b\u00f8rn",
+        "en-us": "children"
+    },
+    {
+        "word": "dine",
+        "en-us": "your"
+    },
+    {
+        "word": "disse",
+        "en-us": "these"
+    },
+    {
+        "word": "tager",
+        "en-us": "take"
+    },
+    {
+        "word": "endnu",
+        "en-us": "yet"
+    },
+    {
+        "word": "set",
+        "en-us": "set"
+    },
+    {
+        "word": "bruge",
+        "en-us": "use"
+    },
+    {
+        "word": "gik",
+        "en-us": "went"
+    },
+    {
+        "word": "hold",
+        "en-us": "hold"
+    },
+    {
+        "word": "mand",
+        "en-us": "basket"
+    },
+    {
+        "word": "nej",
+        "en-us": "no"
+    },
+    {
+        "word": "samt",
+        "en-us": "and"
+    },
+    {
+        "word": "ting",
+        "en-us": "things"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "f\u00e5et",
+        "en-us": "got"
+    },
+    {
+        "word": "gode",
+        "en-us": "good"
+    },
+    {
+        "word": "hendes",
+        "en-us": "her"
+    },
+    {
+        "word": "inden",
+        "en-us": "before"
+    },
+    {
+        "word": "mine",
+        "en-us": "mine"
+    },
+    {
+        "word": "st\u00e5r",
+        "en-us": "is"
+    },
+    {
+        "word": "give",
+        "en-us": "give"
+    },
+    {
+        "word": "hvem",
+        "en-us": "who"
+    },
+    {
+        "word": "omkring",
+        "en-us": "about"
+    },
+    {
+        "word": "synes",
+        "en-us": "appears"
+    },
+    {
+        "word": "derfor",
+        "en-us": "therefore"
+    },
+    {
+        "word": "f\u00f8rst",
+        "en-us": "first"
+    },
+    {
+        "word": "forskellige",
+        "en-us": "various"
+    },
+    {
+        "word": "vej",
+        "en-us": "path"
+    },
+    {
+        "word": "virkelig",
+        "en-us": "really"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "frem",
+        "en-us": "from"
+    },
+    {
+        "word": "klar",
+        "en-us": "clear"
+    },
+    {
+        "word": "mennesker",
+        "en-us": "people"
+    },
+    {
+        "word": "rigtig",
+        "en-us": "really"
+    },
+    {
+        "word": "sige",
+        "en-us": "say"
+    },
+    {
+        "word": "gange",
+        "en-us": "times"
+    },
+    {
+        "word": "gennem",
+        "en-us": "through"
+    },
+    {
+        "word": "hjem",
+        "en-us": "home"
+    },
+    {
+        "word": "hver",
+        "en-us": "every"
+    },
+    {
+        "word": "lide",
+        "en-us": "like"
+    },
+    {
+        "word": "blandt",
+        "en-us": "among"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "faktisk",
+        "en-us": "actually"
+    },
+    {
+        "word": "par",
+        "en-us": "by"
+    },
+    {
+        "word": "penge",
+        "en-us": "money"
+    },
+    {
+        "word": "sted",
+        "en-us": "place"
+    },
+    {
+        "word": "mens",
+        "en-us": "man"
+    },
+    {
+        "word": "n\u00e6ste",
+        "en-us": "next"
+    },
+    {
+        "word": "mindre",
+        "en-us": "less"
+    },
+    {
+        "word": "m\u00e5de",
+        "en-us": "way"
+    },
+    {
+        "word": "tog",
+        "en-us": "train"
+    },
+    {
+        "word": "d\u00f8d",
+        "en-us": "dead"
+    },
+    {
+        "word": "gamle",
+        "en-us": "old"
+    },
+    {
+        "word": "hvilket",
+        "en-us": "which"
+    },
+    {
+        "word": "verden",
+        "en-us": "world"
+    },
+    {
+        "word": "alts\u00e5",
+        "en-us": "so"
+    },
+    {
+        "word": "ligger",
+        "en-us": "located"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "mener",
+        "en-us": "think"
+    },
+    {
+        "word": "navn",
+        "en-us": "name"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "vel",
+        "en-us": "well"
+    },
+    {
+        "word": "allerede",
+        "en-us": "already"
+    },
+    {
+        "word": "dage",
+        "en-us": "days"
+    },
+    {
+        "word": "liv",
+        "en-us": "life"
+    },
+    {
+        "word": "aften",
+        "en-us": "night"
+    },
+    {
+        "word": "findes",
+        "en-us": "available"
+    },
+    {
+        "word": "grund",
+        "en-us": "due"
+    },
+    {
+        "word": "hende",
+        "en-us": "her"
+    },
+    {
+        "word": "sit",
+        "en-us": "site"
+    },
+    {
+        "word": "tidligere",
+        "en-us": "formerly"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "elsker",
+        "en-us": "love"
+    },
+    {
+        "word": "hj\u00e6lp",
+        "en-us": "help"
+    },
+    {
+        "word": "langt",
+        "en-us": "far"
+    },
+    {
+        "word": "m\u00e6nd",
+        "en-us": "men"
+    },
+    {
+        "word": "plads",
+        "en-us": "space"
+    },
+    {
+        "word": "side",
+        "en-us": "page"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "ellers",
+        "en-us": "otherwise"
+    },
+    {
+        "word": "finder",
+        "en-us": "find"
+    },
+    {
+        "word": "kender",
+        "en-us": "know"
+    },
+    {
+        "word": "lave",
+        "en-us": "low"
+    },
+    {
+        "word": "holde",
+        "en-us": "stay"
+    },
+    {
+        "word": "kr",
+        "en-us": "kr"
+    },
+    {
+        "word": "morgen",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "st\u00f8rre",
+        "en-us": "greater"
+    },
+    {
+        "word": "ude",
+        "en-us": "out"
+    },
+    {
+        "word": "stort",
+        "en-us": "huge"
+    },
+    {
+        "word": "vist",
+        "en-us": "viewed at"
+    },
+    {
+        "word": "haft",
+        "en-us": "had"
+    },
+    {
+        "word": "kort",
+        "en-us": "map"
+    },
+    {
+        "word": "l\u00e6ngere",
+        "en-us": "further"
+    },
+    {
+        "word": "tiden",
+        "en-us": "meanwhile"
+    },
+    {
+        "word": "unge",
+        "en-us": "young"
+    },
+    {
+        "word": "\u00e9n",
+        "en-us": "and"
+    },
+    {
+        "word": "begge",
+        "en-us": "both"
+    },
+    {
+        "word": "hj\u00e6lpe",
+        "en-us": "help"
+    },
+    {
+        "word": "jer",
+        "en-us": "you"
+    },
+    {
+        "word": "nyt",
+        "en-us": "news"
+    },
+    {
+        "word": "n\u00e6sten",
+        "en-us": "almost"
+    },
+    {
+        "word": "v\u00e6k",
+        "en-us": "away"
+    },
+    {
+        "word": "ofte",
+        "en-us": "often"
+    },
+    {
+        "word": "senere",
+        "en-us": "later"
+    },
+    {
+        "word": "sine",
+        "en-us": "sine"
+    },
+    {
+        "word": "stedet",
+        "en-us": "site"
+    },
+    {
+        "word": "\u00f8nsker",
+        "en-us": "want"
+    },
+    {
+        "word": "betyder",
+        "en-us": "means"
+    },
+    {
+        "word": "holder",
+        "en-us": "holds"
+    },
+    {
+        "word": "l\u00e6nge",
+        "en-us": "long"
+    },
+    {
+        "word": "sagde",
+        "en-us": "said"
+    },
+    {
+        "word": "sker",
+        "en-us": "happens"
+    },
+    {
+        "word": "ca",
+        "en-us": "ca"
+    },
+    {
+        "word": "gjorde",
+        "en-us": "did"
+    },
+    {
+        "word": "jeres",
+        "en-us": "your"
+    },
+    {
+        "word": "kvinder",
+        "en-us": "women"
+    },
+    {
+        "word": "lang",
+        "en-us": "long"
+    },
+    {
+        "word": "snart",
+        "en-us": "soon"
+    },
+    {
+        "word": "tale",
+        "en-us": "speak"
+    },
+    {
+        "word": "videre",
+        "en-us": "continue"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "indtil",
+        "en-us": "until"
+    },
+    {
+        "word": "lad",
+        "en-us": "load"
+    },
+    {
+        "word": "spiller",
+        "en-us": "play"
+    },
+    {
+        "word": "taget",
+        "en-us": "taken"
+    },
+    {
+        "word": "fire",
+        "en-us": "fire"
+    },
+    {
+        "word": "m\u00e5l",
+        "en-us": "target"
+    },
+    {
+        "word": "selvf\u00f8lgelig",
+        "en-us": "of course"
+    },
+    {
+        "word": "sikkert",
+        "en-us": "secure"
+    },
+    {
+        "word": "st\u00f8rste",
+        "en-us": "largest"
+    },
+    {
+        "word": "via",
+        "en-us": "via"
+    },
+    {
+        "word": "bag",
+        "en-us": "bag"
+    },
+    {
+        "word": "b\u00f8r",
+        "en-us": "should"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "gjort",
+        "en-us": "done"
+    },
+    {
+        "word": "heller",
+        "en-us": "also"
+    },
+    {
+        "word": "r\u00e6kke",
+        "en-us": "row"
+    },
+    {
+        "word": "sp\u00f8rgsm\u00e5l",
+        "en-us": "questions"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "bruger",
+        "en-us": "user"
+    },
+    {
+        "word": "byen",
+        "en-us": "city"
+    },
+    {
+        "word": "d\u00f8de",
+        "en-us": "dead"
+    },
+    {
+        "word": "sv\u00e6rt",
+        "en-us": "hard"
+    },
+    {
+        "word": "s\u00f8n",
+        "en-us": "son"
+    },
+    {
+        "word": "viser",
+        "en-us": "visit"
+    },
+    {
+        "word": "eneste",
+        "en-us": "only"
+    },
+    {
+        "word": "fantastisk",
+        "en-us": "amazing"
+    },
+    {
+        "word": "forhold",
+        "en-us": "relationship"
+    },
+    {
+        "word": "hurtigt",
+        "en-us": "quickly"
+    },
+    {
+        "word": "lavet",
+        "en-us": "made"
+    },
+    {
+        "word": "mor",
+        "en-us": "mother"
+    },
+    {
+        "word": "ord",
+        "en-us": "word"
+    },
+    {
+        "word": "rundt",
+        "en-us": "around"
+    },
+    {
+        "word": "burde",
+        "en-us": "ought to"
+    },
+    {
+        "word": "mad",
+        "en-us": "food"
+    },
+    {
+        "word": "arbejder",
+        "en-us": "working"
+    },
+    {
+        "word": "fem",
+        "en-us": "five"
+    },
+    {
+        "word": "hej",
+        "en-us": "hi"
+    },
+    {
+        "word": "h\u00e5ber",
+        "en-us": "hope"
+    },
+    {
+        "word": "is\u00e6r",
+        "en-us": "especially"
+    },
+    {
+        "word": "timer",
+        "en-us": "timer"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr"
+    },
+    {
+        "word": "fast",
+        "en-us": "almost"
+    },
+    {
+        "word": "film",
+        "en-us": "film"
+    },
+    {
+        "word": "fundet",
+        "en-us": "found"
+    },
+    {
+        "word": "gav",
+        "en-us": "gave"
+    },
+    {
+        "word": "g\u00e5et",
+        "en-us": "gone"
+    },
+    {
+        "word": "h\u00f8re",
+        "en-us": "consult"
+    },
+    {
+        "word": "kommune",
+        "en-us": "municipality"
+    },
+    {
+        "word": "laver",
+        "en-us": "wash"
+    },
+    {
+        "word": "egen",
+        "en-us": "own"
+    },
+    {
+        "word": "far",
+        "en-us": "far"
+    },
+    {
+        "word": "glad",
+        "en-us": "happy"
+    },
+    {
+        "word": "hvert",
+        "en-us": "every"
+    },
+    {
+        "word": "intet",
+        "en-us": "nothing"
+    },
+    {
+        "word": "k\u00f8rer",
+        "en-us": "running"
+    },
+    {
+        "word": "ligesom",
+        "en-us": "like"
+    },
+    {
+        "word": "nr",
+        "en-us": "no"
+    },
+    {
+        "word": "rigtigt",
+        "en-us": "right"
+    },
+    {
+        "word": "virker",
+        "en-us": "works"
+    },
+    {
+        "word": "aarhus",
+        "en-us": "aarhus"
+    },
+    {
+        "word": "hinanden",
+        "en-us": "each other"
+    },
+    {
+        "word": "m\u00e5tte",
+        "en-us": "mat"
+    },
+    {
+        "word": "vide",
+        "en-us": "empty"
+    },
+    {
+        "word": "bl.a",
+        "en-us": "among others"
+    },
+    {
+        "word": "f",
+        "en-us": "f"
+    },
+    {
+        "word": "igennem",
+        "en-us": "through"
+    },
+    {
+        "word": "kvinde",
+        "en-us": "woman"
+    },
+    {
+        "word": "ses",
+        "en-us": "ses"
+    },
+    {
+        "word": "uge",
+        "en-us": "week"
+    },
+    {
+        "word": "brugt",
+        "en-us": "used"
+    },
+    {
+        "word": "by",
+        "en-us": "by"
+    },
+    {
+        "word": "handler",
+        "en-us": "handler"
+    },
+    {
+        "word": "kommet",
+        "en-us": "come"
+    },
+    {
+        "word": "k\u00f8be",
+        "en-us": "buy"
+    },
+    {
+        "word": "lyder",
+        "en-us": "reads"
+    },
+    {
+        "word": "sidder",
+        "en-us": "sits"
+    },
+    {
+        "word": "t\u00e6t",
+        "en-us": "close"
+    },
+    {
+        "word": "vigtigt",
+        "en-us": "important"
+    },
+    {
+        "word": "billeder",
+        "en-us": "pictures"
+    },
+    {
+        "word": "bruges",
+        "en-us": "used"
+    },
+    {
+        "word": "danmarks",
+        "en-us": "denmark's"
+    },
+    {
+        "word": "dele",
+        "en-us": "parts"
+    },
+    {
+        "word": "fandt",
+        "en-us": "found"
+    },
+    {
+        "word": "flot",
+        "en-us": "flot"
+    },
+    {
+        "word": "forbindelse",
+        "en-us": "connection"
+    },
+    {
+        "word": "form",
+        "en-us": "form"
+    },
+    {
+        "word": "forst\u00e5r",
+        "en-us": "understand"
+    },
+    {
+        "word": "historie",
+        "en-us": "history"
+    },
+    {
+        "word": "m\u00f8de",
+        "en-us": "meet"
+    },
+    {
+        "word": "sagt",
+        "en-us": "said"
+    },
+    {
+        "word": "selvom",
+        "en-us": "even if"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "familie",
+        "en-us": "family"
+    },
+    {
+        "word": "fint",
+        "en-us": "fine"
+    },
+    {
+        "word": "fleste",
+        "en-us": "most"
+    },
+    {
+        "word": "kl",
+        "en-us": "at"
+    },
+    {
+        "word": "t\u00e6nker",
+        "en-us": "thinking"
+    },
+    {
+        "word": "usa",
+        "en-us": "usa"
+    },
+    {
+        "word": "valg",
+        "en-us": "election"
+    },
+    {
+        "word": "alligevel",
+        "en-us": "anyway"
+    },
+    {
+        "word": "hvilken",
+        "en-us": "which"
+    },
+    {
+        "word": "imod",
+        "en-us": "against"
+    },
+    {
+        "word": "problemer",
+        "en-us": "problems"
+    },
+    {
+        "word": "sm\u00e5",
+        "en-us": "small"
+    },
+    {
+        "word": "st\u00e5",
+        "en-us": "stand"
+    },
+    {
+        "word": "s\u00e6tte",
+        "en-us": "put"
+    },
+    {
+        "word": "tur",
+        "en-us": "tour"
+    },
+    {
+        "word": "vejen",
+        "en-us": "the way"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "dagen",
+        "en-us": "days"
+    },
+    {
+        "word": "fejl",
+        "en-us": "error"
+    },
+    {
+        "word": "f\u00f8lge",
+        "en-us": "follow"
+    },
+    {
+        "word": "l\u00e6se",
+        "en-us": "read"
+    },
+    {
+        "word": "personer",
+        "en-us": "people"
+    },
+    {
+        "word": "slet",
+        "en-us": "delete"
+    },
+    {
+        "word": "s\u00e5ledes",
+        "en-us": "thus"
+    },
+    {
+        "word": "venner",
+        "en-us": "friends"
+    },
+    {
+        "word": "al",
+        "en-us": "al"
+    },
+    {
+        "word": "blot",
+        "en-us": "just"
+    },
+    {
+        "word": "fort\u00e6ller",
+        "en-us": "tell"
+    },
+    {
+        "word": "f\u00f8ler",
+        "en-us": "feel"
+    },
+    {
+        "word": "job",
+        "en-us": "job"
+    },
+    {
+        "word": "kamp",
+        "en-us": "camp"
+    },
+    {
+        "word": "lov",
+        "en-us": "praise"
+    },
+    {
+        "word": "minutter",
+        "en-us": "minutes"
+    },
+    {
+        "word": "ok",
+        "en-us": "ok"
+    },
+    {
+        "word": "samtidig",
+        "en-us": "at the same time"
+    },
+    {
+        "word": "t\u00e6nke",
+        "en-us": "think"
+    },
+    {
+        "word": "alene",
+        "en-us": "only"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "lade",
+        "en-us": "visit"
+    },
+    {
+        "word": "odense",
+        "en-us": "odense"
+    },
+    {
+        "word": "pige",
+        "en-us": "girl"
+    },
+    {
+        "word": "bog",
+        "en-us": "book"
+    },
+    {
+        "word": "f.eks",
+        "en-us": "e.g."
+    },
+    {
+        "word": "fald",
+        "en-us": "drop"
+    },
+    {
+        "word": "hjemme",
+        "en-us": "home"
+    },
+    {
+        "word": "leder",
+        "en-us": "manager"
+    },
+    {
+        "word": "n\u00e5",
+        "en-us": "reach"
+    },
+    {
+        "word": "of",
+        "en-us": "or"
+    },
+    {
+        "word": "sikker",
+        "en-us": "secure"
+    },
+    {
+        "word": "skrevet",
+        "en-us": "written"
+    },
+    {
+        "word": "s\u00f8ger",
+        "en-us": "search"
+    },
+    {
+        "word": "engang",
+        "en-us": "sometime"
+    },
+    {
+        "word": "hvorn\u00e5r",
+        "en-us": "when"
+    },
+    {
+        "word": "live",
+        "en-us": "live"
+    },
+    {
+        "word": "l\u00e6s",
+        "en-us": "read"
+    },
+    {
+        "word": "netop",
+        "en-us": "just"
+    },
+    {
+        "word": "s\u00e6tter",
+        "en-us": "set"
+    },
+    {
+        "word": "barn",
+        "en-us": "children"
+    },
+    {
+        "word": "fri",
+        "en-us": "free"
+    },
+    {
+        "word": "fx",
+        "en-us": "e.g."
+    },
+    {
+        "word": "k\u00f8re",
+        "en-us": "run"
+    },
+    {
+        "word": "landet",
+        "en-us": "the country"
+    },
+    {
+        "word": "livet",
+        "en-us": "life"
+    },
+    {
+        "word": "l\u00f8bet",
+        "en-us": "over"
+    },
+    {
+        "word": "pr",
+        "en-us": "per"
+    },
+    {
+        "word": "sjovt",
+        "en-us": "fun"
+    },
+    {
+        "word": "slags",
+        "en-us": "sort of"
+    },
+    {
+        "word": "stille",
+        "en-us": "silent"
+    },
+    {
+        "word": "vand",
+        "en-us": "water"
+    },
+    {
+        "word": "velkommen",
+        "en-us": "welcome"
+    },
+    {
+        "word": "aalborg",
+        "en-us": "aalborg"
+    },
+    {
+        "word": "ad",
+        "en-us": "ad"
+    },
+    {
+        "word": "bad",
+        "en-us": "bath"
+    },
+    {
+        "word": "forbi",
+        "en-us": "visit"
+    },
+    {
+        "word": "hjemmeside",
+        "en-us": "website"
+    },
+    {
+        "word": "hj\u00e6lper",
+        "en-us": "help"
+    },
+    {
+        "word": "hus",
+        "en-us": "house"
+    },
+    {
+        "word": "skole",
+        "en-us": "school"
+    },
+    {
+        "word": "spil",
+        "en-us": "the hub"
+    },
+    {
+        "word": "spille",
+        "en-us": "play"
+    },
+    {
+        "word": "steder",
+        "en-us": "locations"
+    },
+    {
+        "word": "datter",
+        "en-us": "daughter"
+    },
+    {
+        "word": "dermed",
+        "en-us": "thus"
+    },
+    {
+        "word": "europa",
+        "en-us": "europa"
+    },
+    {
+        "word": "fuld",
+        "en-us": "full"
+    },
+    {
+        "word": "h\u00f8j",
+        "en-us": "high"
+    },
+    {
+        "word": "la",
+        "en-us": "the"
+    },
+    {
+        "word": "muligt",
+        "en-us": "possible"
+    },
+    {
+        "word": "samarbejde",
+        "en-us": "cooperation"
+    },
+    {
+        "word": "svar",
+        "en-us": "reply"
+    },
+    {
+        "word": "s\u00e6son",
+        "en-us": "season"
+    },
+    {
+        "word": "taler",
+        "en-us": "speak"
+    },
+    {
+        "word": "trods",
+        "en-us": "despite"
+    },
+    {
+        "word": "desuden",
+        "en-us": "also"
+    },
+    {
+        "word": "desv\u00e6rre",
+        "en-us": "sorry"
+    },
+    {
+        "word": "direkte",
+        "en-us": "directly"
+    },
+    {
+        "word": "gammel",
+        "en-us": "rickety"
+    },
+    {
+        "word": "hen",
+        "en-us": "hen"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "lyst",
+        "en-us": "feel like"
+    },
+    {
+        "word": "l\u00e6re",
+        "en-us": "learn"
+    },
+    {
+        "word": "medlemmer",
+        "en-us": "members"
+    },
+    {
+        "word": "mindst",
+        "en-us": "at least"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "rigtige",
+        "en-us": "real"
+    },
+    {
+        "word": "sp\u00e6ndende",
+        "en-us": "exciting"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "tag",
+        "en-us": "tag"
+    },
+    {
+        "word": "bil",
+        "en-us": "by car"
+    },
+    {
+        "word": "endelig",
+        "en-us": "finally"
+    },
+    {
+        "word": "holdt",
+        "en-us": "held"
+    },
+    {
+        "word": "h\u00f8rer",
+        "en-us": "hear"
+    },
+    {
+        "word": "land",
+        "en-us": "country"
+    },
+    {
+        "word": "passer",
+        "en-us": "go to"
+    },
+    {
+        "word": "sat",
+        "en-us": "sat"
+    },
+    {
+        "word": "betale",
+        "en-us": "pay"
+    },
+    {
+        "word": "hedder",
+        "en-us": "is called"
+    },
+    {
+        "word": "klart",
+        "en-us": "clearly"
+    },
+    {
+        "word": "mangler",
+        "en-us": "missing"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "problem",
+        "en-us": "problem"
+    },
+    {
+        "word": "skrive",
+        "en-us": "write"
+    },
+    {
+        "word": "stod",
+        "en-us": "stood"
+    },
+    {
+        "word": "venstre",
+        "en-us": "left"
+    },
+    {
+        "word": "begynder",
+        "en-us": "begin"
+    },
+    {
+        "word": "bor",
+        "en-us": "live"
+    },
+    {
+        "word": "inde",
+        "en-us": "inside"
+    },
+    {
+        "word": "john",
+        "en-us": "john"
+    },
+    {
+        "word": "m\u00e5neder",
+        "en-us": "months"
+    },
+    {
+        "word": "nummer",
+        "en-us": "number"
+    },
+    {
+        "word": "omr\u00e5det",
+        "en-us": "area"
+    },
+    {
+        "word": "resten",
+        "en-us": "rest"
+    },
+    {
+        "word": "seks",
+        "en-us": "sex"
+    },
+    {
+        "word": "sidst",
+        "en-us": "last"
+    },
+    {
+        "word": "\u00e5rs",
+        "en-us": "year"
+    },
+    {
+        "word": "bedst",
+        "en-us": "best"
+    },
+    {
+        "word": "billede",
+        "en-us": "image"
+    },
+    {
+        "word": "eu",
+        "en-us": "eu"
+    },
+    {
+        "word": "kr\u00e6ver",
+        "en-us": "requires"
+    },
+    {
+        "word": "marts",
+        "en-us": "march"
+    },
+    {
+        "word": "omr\u00e5de",
+        "en-us": "area"
+    },
+    {
+        "word": "politiet",
+        "en-us": "police"
+    },
+    {
+        "word": "pr\u00f8ve",
+        "en-us": "try"
+    },
+    {
+        "word": "time",
+        "en-us": "time"
+    },
+    {
+        "word": "uger",
+        "en-us": "weeks"
+    },
+    {
+        "word": "\u00e6ldre",
+        "en-us": "older"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "begyndte",
+        "en-us": "began"
+    },
+    {
+        "word": "derefter",
+        "en-us": "then"
+    },
+    {
+        "word": "fc",
+        "en-us": "fc"
+    },
+    {
+        "word": "foran",
+        "en-us": "in front of"
+    },
+    {
+        "word": "forst\u00e5",
+        "en-us": "understand"
+    },
+    {
+        "word": "f\u00f8lger",
+        "en-us": "follows"
+    },
+    {
+        "word": "huset",
+        "en-us": "the house"
+    },
+    {
+        "word": "lande",
+        "en-us": "countries"
+    },
+    {
+        "word": "masse",
+        "en-us": "mass"
+    },
+    {
+        "word": "pr\u00e6cis",
+        "en-us": "exactly"
+    },
+    {
+        "word": "tro",
+        "en-us": "believe"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "verdens",
+        "en-us": "world"
+    },
+    {
+        "word": "arbejdet",
+        "en-us": "work"
+    },
+    {
+        "word": "danskere",
+        "en-us": "danes"
+    },
+    {
+        "word": "eksempel",
+        "en-us": "example"
+    },
+    {
+        "word": "if\u00f8lge",
+        "en-us": "according to"
+    },
+    {
+        "word": "indenfor",
+        "en-us": "within"
+    },
+    {
+        "word": "it",
+        "en-us": "it"
+    },
+    {
+        "word": "jorden",
+        "en-us": "earth"
+    },
+    {
+        "word": "k\u00e6mpe",
+        "en-us": "fight"
+    },
+    {
+        "word": "musik",
+        "en-us": "music"
+    },
+    {
+        "word": "skriver",
+        "en-us": "writes"
+    },
+    {
+        "word": "tidspunkt",
+        "en-us": "time"
+    },
+    {
+        "word": "uddannelse",
+        "en-us": "education"
+    },
+    {
+        "word": "udvikling",
+        "en-us": "development"
+    },
+    {
+        "word": "enkelte",
+        "en-us": "single"
+    },
+    {
+        "word": "f\u00f8lgende",
+        "en-us": "following"
+    },
+    {
+        "word": "givet",
+        "en-us": "given"
+    },
+    {
+        "word": "millioner",
+        "en-us": "million"
+    },
+    {
+        "word": "person",
+        "en-us": "person"
+    },
+    {
+        "word": "spillet",
+        "en-us": "the game"
+    },
+    {
+        "word": "stop",
+        "en-us": "stop"
+    },
+    {
+        "word": "antal",
+        "en-us": "number"
+    },
+    {
+        "word": "eget",
+        "en-us": "own"
+    },
+    {
+        "word": "ene",
+        "en-us": "one"
+    },
+    {
+        "word": "fodbold",
+        "en-us": "football"
+    },
+    {
+        "word": "for\u00e6ldre",
+        "en-us": "parents"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "h\u00f8rt",
+        "en-us": "consulted"
+    },
+    {
+        "word": "kendte",
+        "en-us": "known"
+    },
+    {
+        "word": "maj",
+        "en-us": "may"
+    },
+    {
+        "word": "masser",
+        "en-us": "mass"
+    },
+    {
+        "word": "nogensinde",
+        "en-us": "ever"
+    },
+    {
+        "word": "skat",
+        "en-us": "tax"
+    },
+    {
+        "word": "st\u00f8tte",
+        "en-us": "support"
+    },
+    {
+        "word": "\u00e5ret",
+        "en-us": "year"
+    },
+    {
+        "word": "egne",
+        "en-us": "own"
+    },
+    {
+        "word": "fedt",
+        "en-us": "fat"
+    },
+    {
+        "word": "fort\u00e6lle",
+        "en-us": "tell"
+    },
+    {
+        "word": "gratis",
+        "en-us": "free"
+    },
+    {
+        "word": "husk",
+        "en-us": "remember"
+    },
+    {
+        "word": "lange",
+        "en-us": "long"
+    },
+    {
+        "word": "mening",
+        "en-us": "view"
+    },
+    {
+        "word": "rejse",
+        "en-us": "travel"
+    },
+    {
+        "word": "r\u00e5d",
+        "en-us": "advice"
+    },
+    {
+        "word": "samlet",
+        "en-us": "collected"
+    },
+    {
+        "word": "september",
+        "en-us": "september"
+    },
+    {
+        "word": "ske",
+        "en-us": "spew"
+    },
+    {
+        "word": "v\u00e6r",
+        "en-us": "be"
+    },
+    {
+        "word": "egentlig",
+        "en-us": "actually"
+    },
+    {
+        "word": "familien",
+        "en-us": "family"
+    },
+    {
+        "word": "fly",
+        "en-us": "fly"
+    },
+    {
+        "word": "gift",
+        "en-us": "gift"
+    },
+    {
+        "word": "kendt",
+        "en-us": "known"
+    },
+    {
+        "word": "normalt",
+        "en-us": "normally"
+    },
+    {
+        "word": "nuv\u00e6rende",
+        "en-us": "current"
+    },
+    {
+        "word": "plan",
+        "en-us": "plan"
+    },
+    {
+        "word": "politisk",
+        "en-us": "political"
+    },
+    {
+        "word": "sag",
+        "en-us": "case"
+    },
+    {
+        "word": "sagen",
+        "en-us": "say"
+    },
+    {
+        "word": "super",
+        "en-us": "great"
+    },
+    {
+        "word": "virksomheder",
+        "en-us": "companies"
+    },
+    {
+        "word": "aftale",
+        "en-us": "appointment"
+    },
+    {
+        "word": "beh\u00f8ver",
+        "en-us": "need"
+    },
+    {
+        "word": "fokus",
+        "en-us": "focus"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "herunder",
+        "en-us": "including"
+    },
+    {
+        "word": "hovedet",
+        "en-us": "head"
+    },
+    {
+        "word": "huske",
+        "en-us": "remember"
+    },
+    {
+        "word": "h\u00f8jt",
+        "en-us": "loud"
+    },
+    {
+        "word": "kampen",
+        "en-us": "fight"
+    },
+    {
+        "word": "k\u00e6reste",
+        "en-us": "dearest"
+    },
+    {
+        "word": "piger",
+        "en-us": "girls"
+    },
+    {
+        "word": "pris",
+        "en-us": "price"
+    },
+    {
+        "word": "sender",
+        "en-us": "send"
+    },
+    {
+        "word": "seneste",
+        "en-us": "latest"
+    },
+    {
+        "word": "st\u00e6rkt",
+        "en-us": "strongly"
+    },
+    {
+        "word": "uanset",
+        "en-us": "regardless of"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "vise",
+        "en-us": "visit"
+    },
+    {
+        "word": "dejligt",
+        "en-us": "lovely"
+    },
+    {
+        "word": "el",
+        "en-us": "el"
+    },
+    {
+        "word": "h\u00e5rdt",
+        "en-us": "hard"
+    },
+    {
+        "word": "let",
+        "en-us": "let"
+    },
+    {
+        "word": "mulighed",
+        "en-us": "opportunity"
+    },
+    {
+        "word": "m\u00e6rke",
+        "en-us": "brand"
+    },
+    {
+        "word": "peter",
+        "en-us": "peter"
+    },
+    {
+        "word": "sl\u00e5",
+        "en-us": "hit"
+    },
+    {
+        "word": "april",
+        "en-us": "april"
+    },
+    {
+        "word": "artikel",
+        "en-us": "article"
+    },
+    {
+        "word": "bl\u00e5",
+        "en-us": "blue"
+    },
+    {
+        "word": "f\u00e6lles",
+        "en-us": "common"
+    },
+    {
+        "word": "kalder",
+        "en-us": "call"
+    },
+    {
+        "word": "kampe",
+        "en-us": "matches"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "lever",
+        "en-us": "live"
+    },
+    {
+        "word": "l\u00f8b",
+        "en-us": "race"
+    },
+    {
+        "word": "okay",
+        "en-us": "okay"
+    },
+    {
+        "word": "sende",
+        "en-us": "send"
+    },
+    {
+        "word": "sendt",
+        "en-us": "sent"
+    },
+    {
+        "word": "sgu",
+        "en-us": "damn"
+    },
+    {
+        "word": "s\u00e6rlig",
+        "en-us": "especially"
+    },
+    {
+        "word": "tal",
+        "en-us": "at"
+    },
+    {
+        "word": "valgt",
+        "en-us": "selected"
+    },
+    {
+        "word": "vidste",
+        "en-us": "knew"
+    },
+    {
+        "word": "v\u00e6rd",
+        "en-us": "worth"
+    },
+    {
+        "word": "baggrund",
+        "en-us": "background"
+    },
+    {
+        "word": "b\u00f8ger",
+        "en-us": "books"
+    },
+    {
+        "word": "ekstra",
+        "en-us": "extra"
+    },
+    {
+        "word": "juni",
+        "en-us": "june"
+    },
+    {
+        "word": "lars",
+        "en-us": "lars"
+    },
+    {
+        "word": "leve",
+        "en-us": "live"
+    },
+    {
+        "word": "perfekt",
+        "en-us": "perfect"
+    },
+    {
+        "word": "sex",
+        "en-us": "sex"
+    },
+    {
+        "word": "skolen",
+        "en-us": "school"
+    },
+    {
+        "word": "spise",
+        "en-us": "eat"
+    },
+    {
+        "word": "tilf\u00e6lde",
+        "en-us": "case"
+    },
+    {
+        "word": "\u00f8nske",
+        "en-us": "wish"
+    },
+    {
+        "word": "bestemt",
+        "en-us": "certainly"
+    },
+    {
+        "word": "dyr",
+        "en-us": "animals"
+    },
+    {
+        "word": "ej",
+        "en-us": "not"
+    },
+    {
+        "word": "grad",
+        "en-us": "degree"
+    },
+    {
+        "word": "h\u00e5nd",
+        "en-us": "hand"
+    },
+    {
+        "word": "h\u00f8jere",
+        "en-us": "higher"
+    },
+    {
+        "word": "kaffe",
+        "en-us": "coffee"
+    },
+    {
+        "word": "k\u00f8benhavns",
+        "en-us": "copenhagen"
+    },
+    {
+        "word": "mio",
+        "en-us": "mio"
+    },
+    {
+        "word": "n\u00f8dt",
+        "en-us": "go to"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "sikre",
+        "en-us": "secure"
+    },
+    {
+        "word": "skabe",
+        "en-us": "create"
+    },
+    {
+        "word": "sort",
+        "en-us": "spell"
+    },
+    {
+        "word": "spillere",
+        "en-us": "players"
+    },
+    {
+        "word": "vinder",
+        "en-us": "win"
+    },
+    {
+        "word": "vis",
+        "en-us": "visit"
+    },
+    {
+        "word": "yderligere",
+        "en-us": "further"
+    },
+    {
+        "word": "\u00e5rets",
+        "en-us": "this year's"
+    },
+    {
+        "word": "cm",
+        "en-us": "cm"
+    },
+    {
+        "word": "d\u00e5rlig",
+        "en-us": "poor"
+    },
+    {
+        "word": "fat",
+        "en-us": "fat"
+    },
+    {
+        "word": "g\u00e6lder",
+        "en-us": "applies to"
+    },
+    {
+        "word": "ha",
+        "en-us": "ha"
+    },
+    {
+        "word": "hvide",
+        "en-us": "white"
+    },
+    {
+        "word": "h\u00f8jre",
+        "en-us": "right"
+    },
+    {
+        "word": "k\u00e6rlighed",
+        "en-us": "love"
+    },
+    {
+        "word": "manden",
+        "en-us": "the man"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "slog",
+        "en-us": "hit"
+    },
+    {
+        "word": "stand",
+        "en-us": "booth"
+    },
+    {
+        "word": "venter",
+        "en-us": "waiting"
+    },
+    {
+        "word": "\u00e5rhus",
+        "en-us": "aarhus"
+    },
+    {
+        "word": "best\u00e5r",
+        "en-us": "consists"
+    },
+    {
+        "word": "brugte",
+        "en-us": "used"
+    },
+    {
+        "word": "d\u00e5rligt",
+        "en-us": "bad"
+    },
+    {
+        "word": "ende",
+        "en-us": "end"
+    },
+    {
+        "word": "enkelt",
+        "en-us": "simply"
+    },
+    {
+        "word": "find",
+        "en-us": "find"
+    },
+    {
+        "word": "gud",
+        "en-us": "god"
+    },
+    {
+        "word": "helst",
+        "en-us": "preferably"
+    },
+    {
+        "word": "love",
+        "en-us": "love"
+    },
+    {
+        "word": "l\u00e6rer",
+        "en-us": "learn"
+    },
+    {
+        "word": "l\u00f8ber",
+        "en-us": "runs"
+    },
+    {
+        "word": "meter",
+        "en-us": "meter"
+    },
+    {
+        "word": "offentlige",
+        "en-us": "public"
+    },
+    {
+        "word": "starter",
+        "en-us": "start"
+    },
+    {
+        "word": "s\u00e6t",
+        "en-us": "set"
+    },
+    {
+        "word": "s\u00f8de",
+        "en-us": "sweet"
+    },
+    {
+        "word": "troede",
+        "en-us": "thought"
+    },
+    {
+        "word": "t\u00f8j",
+        "en-us": "clothes"
+    },
+    {
+        "word": "vandt",
+        "en-us": "won"
+    },
+    {
+        "word": "vinde",
+        "en-us": "win"
+    },
+    {
+        "word": "afsnit",
+        "en-us": "section"
+    },
+    {
+        "word": "bo",
+        "en-us": "bo"
+    },
+    {
+        "word": "forslag",
+        "en-us": "proposal"
+    },
+    {
+        "word": "fortsat",
+        "en-us": "continued"
+    },
+    {
+        "word": "galt",
+        "en-us": "apply"
+    },
+    {
+        "word": "indeholder",
+        "en-us": "contains"
+    },
+    {
+        "word": "januar",
+        "en-us": "january"
+    },
+    {
+        "word": "k",
+        "en-us": "k"
+    },
+    {
+        "word": "michael",
+        "en-us": "michael"
+    },
+    {
+        "word": "moderne",
+        "en-us": "modern"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "ol",
+        "en-us": "ol"
+    },
+    {
+        "word": "politik",
+        "en-us": "policy"
+    },
+    {
+        "word": "stil",
+        "en-us": "silent"
+    },
+    {
+        "word": "stykke",
+        "en-us": "piece"
+    },
+    {
+        "word": "tr\u00e6k",
+        "en-us": "drag"
+    },
+    {
+        "word": "vente",
+        "en-us": "sale"
+    },
+    {
+        "word": "vigtig",
+        "en-us": "important"
+    },
+    {
+        "word": "efterf\u00f8lgende",
+        "en-us": "subsequent"
+    },
+    {
+        "word": "efterh\u00e5nden",
+        "en-us": "gradually"
+    },
+    {
+        "word": "enten",
+        "en-us": "either"
+    },
+    {
+        "word": "erne",
+        "en-us": "again"
+    },
+    {
+        "word": "fors\u00f8g",
+        "en-us": "try"
+    },
+    {
+        "word": "f\u00f8dt",
+        "en-us": "born"
+    },
+    {
+        "word": "is",
+        "en-us": "is"
+    },
+    {
+        "word": "kommunen",
+        "en-us": "the municipality"
+    },
+    {
+        "word": "krig",
+        "en-us": "war"
+    },
+    {
+        "word": "medlem",
+        "en-us": "member"
+    },
+    {
+        "word": "nemt",
+        "en-us": "easily"
+    },
+    {
+        "word": "omr\u00e5der",
+        "en-us": "areas"
+    },
+    {
+        "word": "pr\u00f8ver",
+        "en-us": "samples"
+    },
+    {
+        "word": "rette",
+        "en-us": "direct"
+    },
+    {
+        "word": "samfund",
+        "en-us": "community"
+    },
+    {
+        "word": "sl\u00e5et",
+        "en-us": "turned off"
+    },
+    {
+        "word": "thomas",
+        "en-us": "thomas"
+    },
+    {
+        "word": "tvivl",
+        "en-us": "doubt"
+    },
+    {
+        "word": "\u00e5rig",
+        "en-us": "year old"
+    },
+    {
+        "word": "angreb",
+        "en-us": "attack"
+    },
+    {
+        "word": "bes\u00f8g",
+        "en-us": "visit"
+    },
+    {
+        "word": "formand",
+        "en-us": "president"
+    },
+    {
+        "word": "ganske",
+        "en-us": "quite"
+    },
+    {
+        "word": "gruppe",
+        "en-us": "group"
+    },
+    {
+        "word": "hvilke",
+        "en-us": "which"
+    },
+    {
+        "word": "lys",
+        "en-us": "light"
+    },
+    {
+        "word": "nemlig",
+        "en-us": "namely"
+    },
+    {
+        "word": "oktober",
+        "en-us": "october"
+    },
+    {
+        "word": "regeringen",
+        "en-us": "government"
+    },
+    {
+        "word": "r\u00f8de",
+        "en-us": "red"
+    },
+    {
+        "word": "skrev",
+        "en-us": "wrote"
+    },
+    {
+        "word": "syv",
+        "en-us": "seven"
+    },
+    {
+        "word": "tyskland",
+        "en-us": "germany"
+    },
+    {
+        "word": "\u00f8jne",
+        "en-us": "eyes"
+    },
+    {
+        "word": "august",
+        "en-us": "august"
+    },
+    {
+        "word": "betydning",
+        "en-us": "importance"
+    },
+    {
+        "word": "ens",
+        "en-us": "even"
+    },
+    {
+        "word": "f\u00e6rdig",
+        "en-us": "done"
+    },
+    {
+        "word": "h\u00f8je",
+        "en-us": "high"
+    },
+    {
+        "word": "krav",
+        "en-us": "requirements"
+    },
+    {
+        "word": "lokale",
+        "en-us": "local"
+    },
+    {
+        "word": "l\u00e6gger",
+        "en-us": "attach"
+    },
+    {
+        "word": "samlede",
+        "en-us": "total"
+    },
+    {
+        "word": "s\u00e6rligt",
+        "en-us": "especially"
+    },
+    {
+        "word": "tr\u00e6t",
+        "en-us": "tired"
+    },
+    {
+        "word": "type",
+        "en-us": "type"
+    },
+    {
+        "word": "ung",
+        "en-us": "young"
+    },
+    {
+        "word": "vild",
+        "en-us": "wild"
+    },
+    {
+        "word": "you",
+        "en-us": "you"
+    },
+    {
+        "word": "\u00e5bne",
+        "en-us": "open"
+    },
+    {
+        "word": "ansvar",
+        "en-us": "responsibility"
+    },
+    {
+        "word": "bogen",
+        "en-us": "arc"
+    },
+    {
+        "word": "dens",
+        "en-us": "its"
+    },
+    {
+        "word": "k\u00e6re",
+        "en-us": "dear"
+    },
+    {
+        "word": "ondt",
+        "en-us": "hurt"
+    },
+    {
+        "word": "periode",
+        "en-us": "period"
+    },
+    {
+        "word": "politiske",
+        "en-us": "political"
+    },
+    {
+        "word": "randers",
+        "en-us": "randers"
+    },
+    {
+        "word": "skete",
+        "en-us": "happened"
+    },
+    {
+        "word": "start",
+        "en-us": "start"
+    },
+    {
+        "word": "virksomhed",
+        "en-us": "company"
+    },
+    {
+        "word": "\u00e5rige",
+        "en-us": "year-old"
+    },
+    {
+        "word": "\u00e6ndre",
+        "en-us": "change"
+    },
+    {
+        "word": "\u00f8konomi",
+        "en-us": "economy"
+    },
+    {
+        "word": "b\u00f8rnene",
+        "en-us": "the children"
+    },
+    {
+        "word": "dr\u00e6bt",
+        "en-us": "killed"
+    },
+    {
+        "word": "fest",
+        "en-us": "fixed"
+    },
+    {
+        "word": "fin",
+        "en-us": "fine"
+    },
+    {
+        "word": "foreg\u00e5r",
+        "en-us": "going on"
+    },
+    {
+        "word": "forkert",
+        "en-us": "wrong"
+    },
+    {
+        "word": "ligner",
+        "en-us": "looks like"
+    },
+    {
+        "word": "m\u00e5ned",
+        "en-us": "month"
+    },
+    {
+        "word": "overfor",
+        "en-us": "to"
+    },
+    {
+        "word": "overhovedet",
+        "en-us": "at all"
+    },
+    {
+        "word": "pludselig",
+        "en-us": "suddenly"
+    },
+    {
+        "word": "point",
+        "en-us": "dot"
+    },
+    {
+        "word": "rent",
+        "en-us": "rent"
+    },
+    {
+        "word": "sommer",
+        "en-us": "summer"
+    },
+    {
+        "word": "sverige",
+        "en-us": "sweden"
+    },
+    {
+        "word": "s\u00f8d",
+        "en-us": "sweet"
+    },
+    {
+        "word": "t\u00e6nkte",
+        "en-us": "thought"
+    },
+    {
+        "word": "viste",
+        "en-us": "visited"
+    },
+    {
+        "word": "\u00f8je",
+        "en-us": "eye"
+    },
+    {
+        "word": "\u00f8vrigt",
+        "en-us": "moreover"
+    },
+    {
+        "word": "bange",
+        "en-us": "scared"
+    },
+    {
+        "word": "data",
+        "en-us": "data"
+    },
+    {
+        "word": "dejlig",
+        "en-us": "lovely"
+    },
+    {
+        "word": "falder",
+        "en-us": "fall"
+    },
+    {
+        "word": "hey",
+        "en-us": "hey"
+    },
+    {
+        "word": "historien",
+        "en-us": "the story"
+    },
+    {
+        "word": "id\u00e9",
+        "en-us": "idea"
+    },
+    {
+        "word": "kigge",
+        "en-us": "look"
+    },
+    {
+        "word": "klare",
+        "en-us": "clear"
+    },
+    {
+        "word": "kultur",
+        "en-us": "culture"
+    },
+    {
+        "word": "martin",
+        "en-us": "martin"
+    },
+    {
+        "word": "mm",
+        "en-us": "mm"
+    },
+    {
+        "word": "niveau",
+        "en-us": "level"
+    },
+    {
+        "word": "pr\u00f8v",
+        "en-us": "try"
+    },
+    {
+        "word": "ringe",
+        "en-us": "call"
+    },
+    {
+        "word": "sang",
+        "en-us": "sang"
+    },
+    {
+        "word": "sidde",
+        "en-us": "sit"
+    },
+    {
+        "word": "smuk",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "succes",
+        "en-us": "success"
+    },
+    {
+        "word": "ti",
+        "en-us": "ti"
+    },
+    {
+        "word": "top",
+        "en-us": "top"
+    },
+    {
+        "word": "t\u00f8r",
+        "en-us": "dare"
+    },
+    {
+        "word": "\u00f8l",
+        "en-us": "beer"
+    },
+    {
+        "word": "bilen",
+        "en-us": "car"
+    },
+    {
+        "word": "dk",
+        "en-us": "en"
+    },
+    {
+        "word": "forskel",
+        "en-us": "difference"
+    },
+    {
+        "word": "h\u00e5r",
+        "en-us": "hair"
+    },
+    {
+        "word": "ide",
+        "en-us": "idea"
+    },
+    {
+        "word": "lader",
+        "en-us": "loader"
+    },
+    {
+        "word": "sad",
+        "en-us": "sad"
+    },
+    {
+        "word": "sikkerhed",
+        "en-us": "security"
+    },
+    {
+        "word": "skaber",
+        "en-us": "creates"
+    },
+    {
+        "word": "skyld",
+        "en-us": "due"
+    },
+    {
+        "word": "sprog",
+        "en-us": "language"
+    },
+    {
+        "word": "stemme",
+        "en-us": "voice"
+    },
+    {
+        "word": "st\u00e6rk",
+        "en-us": "strong"
+    },
+    {
+        "word": "s\u00e6lger",
+        "en-us": "sell"
+    },
+    {
+        "word": "s\u00f8ren",
+        "en-us": "soren"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "udenfor",
+        "en-us": "outside"
+    },
+    {
+        "word": "ansatte",
+        "en-us": "employees"
+    },
+    {
+        "word": "biler",
+        "en-us": "cars"
+    },
+    {
+        "word": "december",
+        "en-us": "december"
+    },
+    {
+        "word": "faldt",
+        "en-us": "dropped"
+    },
+    {
+        "word": "fors\u00f8ger",
+        "en-us": "try"
+    },
+    {
+        "word": "gl\u00e6der",
+        "en-us": "welcomes"
+    },
+    {
+        "word": "hellere",
+        "en-us": "rather"
+    },
+    {
+        "word": "holdet",
+        "en-us": "the team"
+    },
+    {
+        "word": "k\u00f8ber",
+        "en-us": "buy"
+    },
+    {
+        "word": "k\u00f8bt",
+        "en-us": "bought"
+    },
+    {
+        "word": "l\u00e5",
+        "en-us": "go to"
+    },
+    {
+        "word": "l\u00e6st",
+        "en-us": "read epub"
+    },
+    {
+        "word": "midt",
+        "en-us": "mid"
+    },
+    {
+        "word": "m\u00f8der",
+        "en-us": "meetings"
+    },
+    {
+        "word": "nede",
+        "en-us": "down"
+    },
+    {
+        "word": "nielsen",
+        "en-us": "nielsen"
+    },
+    {
+        "word": "prisen",
+        "en-us": "price"
+    },
+    {
+        "word": "problemet",
+        "en-us": "problem"
+    },
+    {
+        "word": "pr\u00f8vet",
+        "en-us": "tried"
+    },
+    {
+        "word": "sket",
+        "en-us": "visited"
+    },
+    {
+        "word": "slut",
+        "en-us": "end"
+    },
+    {
+        "word": "smukke",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "sociale",
+        "en-us": "social"
+    },
+    {
+        "word": "sorte",
+        "en-us": "sort"
+    },
+    {
+        "word": "spillede",
+        "en-us": "played"
+    },
+    {
+        "word": "sp\u00f8rger",
+        "en-us": "asks"
+    },
+    {
+        "word": "starte",
+        "en-us": "start"
+    },
+    {
+        "word": "typisk",
+        "en-us": "typical"
+    },
+    {
+        "word": "valgte",
+        "en-us": "selected"
+    },
+    {
+        "word": "vejle",
+        "en-us": "road"
+    },
+    {
+        "word": "vildt",
+        "en-us": "wildly"
+    },
+    {
+        "word": "\u00f8nskede",
+        "en-us": "wanted"
+    },
+    {
+        "word": "anvendes",
+        "en-us": "used"
+    },
+    {
+        "word": "ferie",
+        "en-us": "holiday"
+    },
+    {
+        "word": "generelt",
+        "en-us": "in general"
+    },
+    {
+        "word": "husker",
+        "en-us": "remember"
+    },
+    {
+        "word": "kig",
+        "en-us": "look"
+    },
+    {
+        "word": "kommende",
+        "en-us": "coming"
+    },
+    {
+        "word": "naturligvis",
+        "en-us": "of course"
+    },
+    {
+        "word": "online",
+        "en-us": "online"
+    },
+    {
+        "word": "otte",
+        "en-us": "eight"
+    },
+    {
+        "word": "pengene",
+        "en-us": "the money"
+    },
+    {
+        "word": "rejser",
+        "en-us": "travel"
+    },
+    {
+        "word": "styrke",
+        "en-us": "strengthen"
+    },
+    {
+        "word": "team",
+        "en-us": "team"
+    },
+    {
+        "word": "vejret",
+        "en-us": "weather"
+    },
+    {
+        "word": "vigtigste",
+        "en-us": "main"
+    },
+    {
+        "word": "\u00e6gte",
+        "en-us": "genuine"
+    },
+    {
+        "word": "betaler",
+        "en-us": "pay"
+    },
+    {
+        "word": "bror",
+        "en-us": "brother"
+    },
+    {
+        "word": "enhver",
+        "en-us": "any"
+    },
+    {
+        "word": "fremtiden",
+        "en-us": "future"
+    },
+    {
+        "word": "idet",
+        "en-us": "taking"
+    },
+    {
+        "word": "jensen",
+        "en-us": "jensen"
+    },
+    {
+        "word": "kone",
+        "en-us": "wife"
+    },
+    {
+        "word": "l\u00e6kker",
+        "en-us": "delicious"
+    },
+    {
+        "word": "nat",
+        "en-us": "wet"
+    },
+    {
+        "word": "november",
+        "en-us": "november"
+    },
+    {
+        "word": "regering",
+        "en-us": "government"
+    },
+    {
+        "word": "sjov",
+        "en-us": "fun"
+    },
+    {
+        "word": "t\u00e6nk",
+        "en-us": "think"
+    },
+    {
+        "word": "udover",
+        "en-us": "in addition to"
+    },
+    {
+        "word": "vandet",
+        "en-us": "water"
+    },
+    {
+        "word": "ven",
+        "en-us": "ven"
+    },
+    {
+        "word": "york",
+        "en-us": "york"
+    },
+    {
+        "word": "\u00e5ben",
+        "en-us": "open"
+    },
+    {
+        "word": "\u00f8konomisk",
+        "en-us": "economic"
+    },
+    {
+        "word": "adgang",
+        "en-us": "access"
+    },
+    {
+        "word": "antallet",
+        "en-us": "number"
+    },
+    {
+        "word": "banen",
+        "en-us": "jobs"
+    },
+    {
+        "word": "ben",
+        "en-us": "ben"
+    },
+    {
+        "word": "drenge",
+        "en-us": "boys"
+    },
+    {
+        "word": "ender",
+        "en-us": "ends"
+    },
+    {
+        "word": "engelsk",
+        "en-us": "english"
+    },
+    {
+        "word": "esbjerg",
+        "en-us": "esbjerg"
+    },
+    {
+        "word": "gider",
+        "en-us": "bother"
+    },
+    {
+        "word": "indsats",
+        "en-us": "action"
+    },
+    {
+        "word": "klasse",
+        "en-us": "class"
+    },
+    {
+        "word": "lagt",
+        "en-us": "posted at"
+    },
+    {
+        "word": "league",
+        "en-us": "league"
+    },
+    {
+        "word": "lukket",
+        "en-us": "closed"
+    },
+    {
+        "word": "l\u00e6ge",
+        "en-us": "doctor"
+    },
+    {
+        "word": "pas",
+        "en-us": "not"
+    },
+    {
+        "word": "program",
+        "en-us": "program"
+    },
+    {
+        "word": "rolle",
+        "en-us": "role"
+    },
+    {
+        "word": "satte",
+        "en-us": "put"
+    },
+    {
+        "word": "specielt",
+        "en-us": "especially"
+    },
+    {
+        "word": "spor",
+        "en-us": "track"
+    },
+    {
+        "word": "telefon",
+        "en-us": "phone"
+    },
+    {
+        "word": "vundet",
+        "en-us": "won"
+    },
+    {
+        "word": "v\u00e6lger",
+        "en-us": "choose"
+    },
+    {
+        "word": "afg\u00f8rende",
+        "en-us": "crucial"
+    },
+    {
+        "word": "an",
+        "en-us": "to"
+    },
+    {
+        "word": "anderledes",
+        "en-us": "different"
+    },
+    {
+        "word": "baby",
+        "en-us": "baby"
+    },
+    {
+        "word": "d\u00f8r",
+        "en-us": "door"
+    },
+    {
+        "word": "februar",
+        "en-us": "february"
+    },
+    {
+        "word": "forts\u00e6tter",
+        "en-us": "continues"
+    },
+    {
+        "word": "fyr",
+        "en-us": "beacon"
+    },
+    {
+        "word": "f\u00f8rer",
+        "en-us": "leads"
+    },
+    {
+        "word": "guld",
+        "en-us": "gold"
+    },
+    {
+        "word": "kirke",
+        "en-us": "church"
+    },
+    {
+        "word": "kroner",
+        "en-us": "crowns"
+    },
+    {
+        "word": "lejlighed",
+        "en-us": "apartment"
+    },
+    {
+        "word": "lod",
+        "en-us": "lod"
+    },
+    {
+        "word": "mente",
+        "en-us": "meant"
+    },
+    {
+        "word": "pr\u00e6sident",
+        "en-us": "president"
+    },
+    {
+        "word": "resultater",
+        "en-us": "results"
+    },
+    {
+        "word": "sp\u00f8rge",
+        "en-us": "ask"
+    },
+    {
+        "word": "startede",
+        "en-us": "started"
+    },
+    {
+        "word": "system",
+        "en-us": "system"
+    },
+    {
+        "word": "tegn",
+        "en-us": "sign"
+    },
+    {
+        "word": "tredje",
+        "en-us": "third"
+    },
+    {
+        "word": "\u00f8vrige",
+        "en-us": "other"
+    },
+    {
+        "word": "amerikanske",
+        "en-us": "american"
+    },
+    {
+        "word": "dengang",
+        "en-us": "then"
+    },
+    {
+        "word": "derudover",
+        "en-us": "in addition"
+    },
+    {
+        "word": "form\u00e5l",
+        "en-us": "purpose"
+    },
+    {
+        "word": "hverken",
+        "en-us": "neither"
+    },
+    {
+        "word": "interessant",
+        "en-us": "interesting"
+    },
+    {
+        "word": "interesse",
+        "en-us": "interest"
+    },
+    {
+        "word": "k\u00f8rte",
+        "en-us": "ran"
+    },
+    {
+        "word": "ledelse",
+        "en-us": "management"
+    },
+    {
+        "word": "menneske",
+        "en-us": "human"
+    },
+    {
+        "word": "muligheder",
+        "en-us": "opportunities"
+    },
+    {
+        "word": "n\u00e6r",
+        "en-us": "near"
+    },
+    {
+        "word": "per",
+        "en-us": "per"
+    },
+    {
+        "word": "pga",
+        "en-us": "because of"
+    },
+    {
+        "word": "sider",
+        "en-us": "pages"
+    },
+    {
+        "word": "social",
+        "en-us": "social"
+    },
+    {
+        "word": "studerende",
+        "en-us": "students"
+    },
+    {
+        "word": "styr",
+        "en-us": "steer"
+    },
+    {
+        "word": "s\u00e6lge",
+        "en-us": "sell"
+    },
+    {
+        "word": "tilbud",
+        "en-us": "offer"
+    },
+    {
+        "word": "tjeneste",
+        "en-us": "service"
+    },
+    {
+        "word": "tr\u00e6ner",
+        "en-us": "coach"
+    },
+    {
+        "word": "tr\u00e6ning",
+        "en-us": "training"
+    },
+    {
+        "word": "udgave",
+        "en-us": "edition"
+    },
+    {
+        "word": "udtryk",
+        "en-us": "expression"
+    },
+    {
+        "word": "v\u00e6lge",
+        "en-us": "choose"
+    }
+]

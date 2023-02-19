@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "un",
+        "en-us": "and"
+    },
+    {
+        "word": "ir",
+        "en-us": "and"
+    },
+    {
+        "word": "ar",
+        "en-us": "via"
+    },
+    {
+        "word": "par",
+        "en-us": "on"
+    },
+    {
+        "word": "ka",
+        "en-us": "that"
+    },
+    {
+        "word": "no",
+        "en-us": "from"
+    },
+    {
+        "word": "k\u0101",
+        "en-us": "as"
+    },
+    {
+        "word": "uz",
+        "en-us": "to"
+    },
+    {
+        "word": "kas",
+        "en-us": "who"
+    },
+    {
+        "word": "ar\u012b",
+        "en-us": "also"
+    },
+    {
+        "word": "vai",
+        "en-us": "or"
+    },
+    {
+        "word": "bet",
+        "en-us": "but"
+    },
+    {
+        "word": "es",
+        "en-us": "i"
+    },
+    {
+        "word": "t\u0101",
+        "en-us": "so"
+    },
+    {
+        "word": "nav",
+        "en-us": "no"
+    },
+    {
+        "word": "to",
+        "en-us": "to"
+    },
+    {
+        "word": "tas",
+        "en-us": "this"
+    },
+    {
+        "word": "man",
+        "en-us": "me"
+    },
+    {
+        "word": "ja",
+        "en-us": "i"
+    },
+    {
+        "word": "lai",
+        "en-us": "to"
+    },
+    {
+        "word": "bija",
+        "en-us": "was"
+    },
+    {
+        "word": "ko",
+        "en-us": "by"
+    },
+    {
+        "word": "p\u0113c",
+        "en-us": "by"
+    },
+    {
+        "word": "tikai",
+        "en-us": "only"
+    },
+    {
+        "word": "tad",
+        "en-us": "then"
+    },
+    {
+        "word": "l\u012bdz",
+        "en-us": "to"
+    },
+    {
+        "word": "kad",
+        "en-us": "when"
+    },
+    {
+        "word": "var",
+        "en-us": "var"
+    },
+    {
+        "word": "jau",
+        "en-us": "already"
+    },
+    {
+        "word": "pie",
+        "en-us": "at"
+    },
+    {
+        "word": "tu",
+        "en-us": "here"
+    },
+    {
+        "word": "latvijas",
+        "en-us": "latvian"
+    },
+    {
+        "word": "v\u0113l",
+        "en-us": "see"
+    },
+    {
+        "word": "b\u016bs",
+        "en-us": "will be"
+    },
+    {
+        "word": "jo",
+        "en-us": "yes"
+    },
+    {
+        "word": "\u013coti",
+        "en-us": "very"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "gan",
+        "en-us": "both"
+    },
+    {
+        "word": "ne",
+        "en-us": "no"
+    },
+    {
+        "word": "savu",
+        "en-us": "own"
+    },
+    {
+        "word": "tev",
+        "en-us": "you are"
+    },
+    {
+        "word": "vi\u0146\u0161",
+        "en-us": "he"
+    },
+    {
+        "word": "gada",
+        "en-us": "the new European Year"
+    },
+    {
+        "word": "tik",
+        "en-us": "only"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "nu",
+        "en-us": "now"
+    },
+    {
+        "word": "\u0161o",
+        "en-us": "this"
+    },
+    {
+        "word": "m\u0113s",
+        "en-us": "we"
+    },
+    {
+        "word": "kur",
+        "en-us": "where"
+    },
+    {
+        "word": "visu",
+        "en-us": "all"
+    },
+    {
+        "word": "t\u0101s",
+        "en-us": "its"
+    },
+    {
+        "word": "esmu",
+        "en-us": "i am"
+    },
+    {
+        "word": "kaut",
+        "en-us": "although"
+    },
+    {
+        "word": "mums",
+        "en-us": "us"
+    },
+    {
+        "word": "tagad",
+        "en-us": "now"
+    },
+    {
+        "word": "vi\u0146a",
+        "en-us": "she"
+    },
+    {
+        "word": "m\u016bsu",
+        "en-us": "our"
+    },
+    {
+        "word": "viss",
+        "en-us": "all"
+    },
+    {
+        "word": "daudz",
+        "en-us": "many"
+    },
+    {
+        "word": "laik\u0101",
+        "en-us": "within"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "b\u016btu",
+        "en-us": "should"
+    },
+    {
+        "word": "valsts",
+        "en-us": "country"
+    },
+    {
+        "word": "pa",
+        "en-us": "see"
+    },
+    {
+        "word": "j\u016bs",
+        "en-us": "you"
+    },
+    {
+        "word": "tiek",
+        "en-us": "both"
+    },
+    {
+        "word": "pat",
+        "en-us": "see also"
+    },
+    {
+        "word": "vair\u0101k",
+        "en-us": "read more"
+    },
+    {
+        "word": "jums",
+        "en-us": "to you"
+    },
+    {
+        "word": "labi",
+        "en-us": "right"
+    },
+    {
+        "word": "b\u016bt",
+        "en-us": "be"
+    },
+    {
+        "word": "cik",
+        "en-us": "how"
+    },
+    {
+        "word": "k\u0101ds",
+        "en-us": "someone"
+    },
+    {
+        "word": "tam",
+        "en-us": "see"
+    },
+    {
+        "word": "vi\u0146u",
+        "en-us": "him"
+    },
+    {
+        "word": "mani",
+        "en-us": "me"
+    },
+    {
+        "word": "tur",
+        "en-us": "there"
+    },
+    {
+        "word": "latvij\u0101",
+        "en-us": "in latvia"
+    },
+    {
+        "word": "ta\u010du",
+        "en-us": "but"
+    },
+    {
+        "word": "var\u0113tu",
+        "en-us": "could"
+    },
+    {
+        "word": "bez",
+        "en-us": "without"
+    },
+    {
+        "word": "r\u012bgas",
+        "en-us": "leagues"
+    },
+    {
+        "word": "visi",
+        "en-us": "all"
+    },
+    {
+        "word": "kur\u0161",
+        "en-us": "who"
+    },
+    {
+        "word": "pret",
+        "en-us": "vs."
+    },
+    {
+        "word": "viens",
+        "en-us": "one"
+    },
+    {
+        "word": "\u0161\u012b",
+        "en-us": "this"
+    },
+    {
+        "word": "pirms",
+        "en-us": "before"
+    },
+    {
+        "word": "tie",
+        "en-us": "those"
+    },
+    {
+        "word": "tika",
+        "en-us": "was"
+    },
+    {
+        "word": "kop\u0101",
+        "en-us": "together"
+    },
+    {
+        "word": "tie\u0161i",
+        "en-us": "directly"
+    },
+    {
+        "word": "k\u0101du",
+        "en-us": "someone"
+    },
+    {
+        "word": "k\u0101p\u0113c",
+        "en-us": "why"
+    },
+    {
+        "word": "paldies",
+        "en-us": "thank you"
+    },
+    {
+        "word": "vi\u0146i",
+        "en-us": "they"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "t\u0101p\u0113c",
+        "en-us": "therefore"
+    },
+    {
+        "word": "esi",
+        "en-us": "you are"
+    },
+    {
+        "word": "gadu",
+        "en-us": "year"
+    },
+    {
+        "word": "gad\u0101",
+        "en-us": "in 2010"
+    },
+    {
+        "word": "j\u0101",
+        "en-us": "yes"
+    },
+    {
+        "word": "\u0161is",
+        "en-us": "this"
+    },
+    {
+        "word": "j\u016bsu",
+        "en-us": "your"
+    },
+    {
+        "word": "nek\u0101",
+        "en-us": "than"
+    },
+    {
+        "word": "tom\u0113r",
+        "en-us": "however"
+    },
+    {
+        "word": "tevi",
+        "en-us": "you"
+    },
+    {
+        "word": "laiku",
+        "en-us": "time"
+    },
+    {
+        "word": "kuru",
+        "en-us": "which"
+    },
+    {
+        "word": "vien",
+        "en-us": "only"
+    },
+    {
+        "word": "vienm\u0113r",
+        "en-us": "always"
+    },
+    {
+        "word": "pats",
+        "en-us": "same"
+    },
+    {
+        "word": "vairs",
+        "en-us": "longer"
+    },
+    {
+        "word": "viena",
+        "en-us": "one"
+    },
+    {
+        "word": "vienu",
+        "en-us": "one"
+    },
+    {
+        "word": "vienk\u0101r\u0161i",
+        "en-us": "simply"
+    },
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "n\u0113",
+        "en-us": "no"
+    },
+    {
+        "word": "eiropas",
+        "en-us": "europa"
+    },
+    {
+        "word": "l\u016bdzu",
+        "en-us": "please"
+    },
+    {
+        "word": "varb\u016bt",
+        "en-us": "maybe"
+    },
+    {
+        "word": "kuras",
+        "en-us": "which"
+    },
+    {
+        "word": "latvie\u0161u",
+        "en-us": "latvian"
+    },
+    {
+        "word": "te",
+        "en-us": "here"
+    },
+    {
+        "word": "\u0161aj\u0101",
+        "en-us": "in this"
+    },
+    {
+        "word": "cilv\u0113ki",
+        "en-us": "people"
+    },
+    {
+        "word": "vajag",
+        "en-us": "you need"
+    },
+    {
+        "word": "visiem",
+        "en-us": "all"
+    },
+    {
+        "word": "neko",
+        "en-us": "neko"
+    },
+    {
+        "word": "tr\u012bs",
+        "en-us": "three"
+    },
+    {
+        "word": "kura",
+        "en-us": "which"
+    },
+    {
+        "word": "kuri",
+        "en-us": "which"
+    },
+    {
+        "word": "kur\u0101",
+        "en-us": "where"
+    },
+    {
+        "word": "k\u0101da",
+        "en-us": "someone"
+    },
+    {
+        "word": "nekad",
+        "en-us": "never"
+    },
+    {
+        "word": "pasaules",
+        "en-us": "world"
+    },
+    {
+        "word": "r\u012bg\u0101",
+        "en-us": "in Riga"
+    },
+    {
+        "word": "taj\u0101",
+        "en-us": "in it"
+    },
+    {
+        "word": "d\u0113\u013c",
+        "en-us": "due to"
+    },
+    {
+        "word": "lab\u0101k",
+        "en-us": "better"
+    },
+    {
+        "word": "laika",
+        "en-us": "time"
+    },
+    {
+        "word": "laiks",
+        "en-us": "time"
+    },
+    {
+        "word": "starp",
+        "en-us": "between"
+    },
+    {
+        "word": "vi\u0146iem",
+        "en-us": "them"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "citu",
+        "en-us": "other"
+    },
+    {
+        "word": "nevar",
+        "en-us": "not"
+    },
+    {
+        "word": "pat\u012bk",
+        "en-us": "like"
+    },
+    {
+        "word": "viet\u0101",
+        "en-us": "instead of"
+    },
+    {
+        "word": "vi\u0146am",
+        "en-us": "him"
+    },
+    {
+        "word": "iesp\u0113jams",
+        "en-us": "available at"
+    },
+    {
+        "word": "iet",
+        "en-us": "go"
+    },
+    {
+        "word": "sevi",
+        "en-us": "myself"
+    },
+    {
+        "word": "t\u0101pat",
+        "en-us": "like"
+    },
+    {
+        "word": "cilv\u0113ku",
+        "en-us": "people"
+    },
+    {
+        "word": "esam",
+        "en-us": "we are"
+    },
+    {
+        "word": "savas",
+        "en-us": "own"
+    },
+    {
+        "word": "\u0161eit",
+        "en-us": "here"
+    },
+    {
+        "word": "atkal",
+        "en-us": "again"
+    },
+    {
+        "word": "dienas",
+        "en-us": "days"
+    },
+    {
+        "word": "dienu",
+        "en-us": "days"
+    },
+    {
+        "word": "m\u0101j\u0101s",
+        "en-us": "home"
+    },
+    {
+        "word": "tiem",
+        "en-us": "them"
+    },
+    {
+        "word": "notiek",
+        "en-us": "."
+    },
+    {
+        "word": "tos",
+        "en-us": "those"
+    },
+    {
+        "word": "\u0161odien",
+        "en-us": "today"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "cilv\u0113ks",
+        "en-us": "man"
+    },
+    {
+        "word": "protams",
+        "en-us": "of course"
+    },
+    {
+        "word": "mana",
+        "en-us": "mana"
+    },
+    {
+        "word": "piem\u0113ram",
+        "en-us": "e.g."
+    },
+    {
+        "word": "\u0161\u012bs",
+        "en-us": "these"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "tie\u0161\u0101m",
+        "en-us": "indeed"
+    },
+    {
+        "word": "darbu",
+        "en-us": "work"
+    },
+    {
+        "word": "dar\u012bt",
+        "en-us": "do"
+    },
+    {
+        "word": "katru",
+        "en-us": "each"
+    },
+    {
+        "word": "mans",
+        "en-us": "me"
+    },
+    {
+        "word": "t\u0101ds",
+        "en-us": "such"
+    },
+    {
+        "word": "vietu",
+        "en-us": "location"
+    },
+    {
+        "word": "darba",
+        "en-us": "working"
+    },
+    {
+        "word": "sporta",
+        "en-us": "sports"
+    },
+    {
+        "word": "kam",
+        "en-us": "to"
+    },
+    {
+        "word": "notika",
+        "en-us": "held"
+    },
+    {
+        "word": "pirmo",
+        "en-us": "first"
+    },
+    {
+        "word": "sp\u0113les",
+        "en-us": "games"
+    },
+    {
+        "word": "visas",
+        "en-us": "all"
+    },
+    {
+        "word": "lietas",
+        "en-us": "cases"
+    },
+    {
+        "word": "m\u0101jas",
+        "en-us": "home"
+    },
+    {
+        "word": "neviens",
+        "en-us": "none"
+    },
+    {
+        "word": "novada",
+        "en-us": "county"
+    },
+    {
+        "word": "reizi",
+        "en-us": "once"
+    },
+    {
+        "word": "r\u012bga",
+        "en-us": "riga"
+    },
+    {
+        "word": "sav\u0101",
+        "en-us": "in"
+    },
+    {
+        "word": "bijis",
+        "en-us": "was"
+    },
+    {
+        "word": "nekas",
+        "en-us": "nothing"
+    },
+    {
+        "word": "noteikti",
+        "en-us": "definitely"
+    },
+    {
+        "word": "pils\u0113tas",
+        "en-us": "cities"
+    },
+    {
+        "word": "t\u0101du",
+        "en-us": "such as"
+    },
+    {
+        "word": "vi\u0146as",
+        "en-us": "her"
+    },
+    {
+        "word": "bie\u017ei",
+        "en-us": "often"
+    },
+    {
+        "word": "gadus",
+        "en-us": "years"
+    },
+    {
+        "word": "labs",
+        "en-us": "labs"
+    },
+    {
+        "word": "nebija",
+        "en-us": "was not"
+    },
+    {
+        "word": "neesmu",
+        "en-us": "i am not"
+    },
+    {
+        "word": "pasaul\u0113",
+        "en-us": "world"
+    },
+    {
+        "word": "pirm\u0101",
+        "en-us": "first"
+    },
+    {
+        "word": "vieta",
+        "en-us": "location"
+    },
+    {
+        "word": "cilv\u0113kiem",
+        "en-us": "people"
+    },
+    {
+        "word": "t\u0101da",
+        "en-us": "such"
+    },
+    {
+        "word": "atrodas",
+        "en-us": "located at"
+    },
+    {
+        "word": "dom\u0101ju",
+        "en-us": "i think"
+    },
+    {
+        "word": "j\u0101b\u016bt",
+        "en-us": "must be"
+    },
+    {
+        "word": "laikam",
+        "en-us": "in time"
+    },
+    {
+        "word": "nevis",
+        "en-us": "not"
+    },
+    {
+        "word": "vietas",
+        "en-us": "locations"
+    },
+    {
+        "word": "visus",
+        "en-us": "all"
+    },
+    {
+        "word": "atpaka\u013c",
+        "en-us": "back"
+    },
+    {
+        "word": "da\u013ca",
+        "en-us": "part of"
+    },
+    {
+        "word": "divas",
+        "en-us": "two"
+    },
+    {
+        "word": "kult\u016bras",
+        "en-us": "cultures"
+    },
+    {
+        "word": "\u0101r\u0101",
+        "en-us": "out"
+    },
+    {
+        "word": "it",
+        "en-us": "it"
+    },
+    {
+        "word": "nezinu",
+        "en-us": "i don't know"
+    },
+    {
+        "word": "parasti",
+        "en-us": "usually"
+    },
+    {
+        "word": "\u0161\u0137iet",
+        "en-us": "seems to be"
+    },
+    {
+        "word": "ap",
+        "en-us": "ap"
+    },
+    {
+        "word": "gadiem",
+        "en-us": "years"
+    },
+    {
+        "word": "gandr\u012bz",
+        "en-us": "almost"
+    },
+    {
+        "word": "kam\u0113r",
+        "en-us": "while"
+    },
+    {
+        "word": "p\u0101r\u0101k",
+        "en-us": "too"
+    },
+    {
+        "word": "sev",
+        "en-us": "to"
+    },
+    {
+        "word": "citiem",
+        "en-us": "others"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "nedaudz",
+        "en-us": "slightly"
+    },
+    {
+        "word": "skolas",
+        "en-us": "schools"
+    },
+    {
+        "word": "vismaz",
+        "en-us": "at least"
+    },
+    {
+        "word": "\u016bdens",
+        "en-us": "water"
+    },
+    {
+        "word": "izskat\u0101s",
+        "en-us": "look"
+    },
+    {
+        "word": "krievijas",
+        "en-us": "russian"
+    },
+    {
+        "word": "noz\u012bm\u0113",
+        "en-us": "means"
+    },
+    {
+        "word": "varu",
+        "en-us": "power"
+    },
+    {
+        "word": "zemes",
+        "en-us": "land"
+    },
+    {
+        "word": "atrast",
+        "en-us": "find"
+    },
+    {
+        "word": "biju",
+        "en-us": "i was"
+    },
+    {
+        "word": "gribu",
+        "en-us": "i want"
+    },
+    {
+        "word": "kop\u0161",
+        "en-us": "since"
+    },
+    {
+        "word": "saka",
+        "en-us": "says"
+    },
+    {
+        "word": "darbs",
+        "en-us": "work"
+    },
+    {
+        "word": "naudu",
+        "en-us": "money"
+    },
+    {
+        "word": "neb\u016bs",
+        "en-us": "will not be"
+    },
+    {
+        "word": "dz\u012bves",
+        "en-us": "life"
+    },
+    {
+        "word": "dz\u012bvi",
+        "en-us": "life"
+    },
+    {
+        "word": "jeb",
+        "en-us": "or"
+    },
+    {
+        "word": "krievu",
+        "en-us": "russian"
+    },
+    {
+        "word": "nevaru",
+        "en-us": "i can't"
+    },
+    {
+        "word": "\u0101tri",
+        "en-us": "quickly"
+    },
+    {
+        "word": "dom\u0101",
+        "en-us": "think"
+    },
+    {
+        "word": "ielas",
+        "en-us": "streets"
+    },
+    {
+        "word": "p\u0101ris",
+        "en-us": "couple"
+    },
+    {
+        "word": "tai",
+        "en-us": "this is"
+    },
+    {
+        "word": "t\u0101l\u0101k",
+        "en-us": "further"
+    },
+    {
+        "word": "vari",
+        "en-us": "can"
+    },
+    {
+        "word": "\u012bpa\u0161i",
+        "en-us": "especially"
+    },
+    {
+        "word": "asv",
+        "en-us": "uS"
+    },
+    {
+        "word": "centrs",
+        "en-us": "centre"
+    },
+    {
+        "word": "dien\u0101",
+        "en-us": "on"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "jaunu",
+        "en-us": "new"
+    },
+    {
+        "word": "joproj\u0101m",
+        "en-us": "still"
+    },
+    {
+        "word": "pirmais",
+        "en-us": "first"
+    },
+    {
+        "word": "\u0161obr\u012bd",
+        "en-us": "currently"
+    },
+    {
+        "word": "aiz",
+        "en-us": "behind"
+    },
+    {
+        "word": "b\u0113rnu",
+        "en-us": "children"
+    },
+    {
+        "word": "grib",
+        "en-us": "wants"
+    },
+    {
+        "word": "liels",
+        "en-us": "great"
+    },
+    {
+        "word": "v\u0113l\u0101k",
+        "en-us": "later"
+    },
+    {
+        "word": "diena",
+        "en-us": "day"
+    },
+    {
+        "word": "iesp\u0113ja",
+        "en-us": "option"
+    },
+    {
+        "word": "ilgi",
+        "en-us": "long"
+    },
+    {
+        "word": "notiks",
+        "en-us": "will take place"
+    },
+    {
+        "word": "redz\u0113t",
+        "en-us": "see"
+    },
+    {
+        "word": "vajadz\u0113tu",
+        "en-us": "should"
+    },
+    {
+        "word": "visa",
+        "en-us": "visa"
+    },
+    {
+        "word": "kuriem",
+        "en-us": "which"
+    },
+    {
+        "word": "labu",
+        "en-us": "in favour of"
+    },
+    {
+        "word": "latvija",
+        "en-us": "latvia"
+    },
+    {
+        "word": "neb\u016btu",
+        "en-us": "should not"
+    },
+    {
+        "word": "pa\u0161u",
+        "en-us": "own"
+    },
+    {
+        "word": "tiks",
+        "en-us": "will be"
+    },
+    {
+        "word": "b\u0113rni",
+        "en-us": "children"
+    },
+    {
+        "word": "dz\u012bvo",
+        "en-us": "live"
+    },
+    {
+        "word": "laba",
+        "en-us": "good"
+    },
+    {
+        "word": "m\u0101kslas",
+        "en-us": "art"
+    },
+    {
+        "word": "m\u016bzikas",
+        "en-us": "music"
+    },
+    {
+        "word": "piln\u012bgi",
+        "en-us": "available from"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "savus",
+        "en-us": "their"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "galvenais",
+        "en-us": "main"
+    },
+    {
+        "word": "gr\u016bti",
+        "en-us": "difficult"
+    },
+    {
+        "word": "iel\u0101",
+        "en-us": "at"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "tikko",
+        "en-us": "just"
+    },
+    {
+        "word": "t\u0101tad",
+        "en-us": "so"
+    },
+    {
+        "word": "diezgan",
+        "en-us": "quite"
+    },
+    {
+        "word": "divi",
+        "en-us": "two"
+    },
+    {
+        "word": "savuk\u0101rt",
+        "en-us": "in turn"
+    },
+    {
+        "word": "sp\u0113l\u0113",
+        "en-us": "playing"
+    },
+    {
+        "word": "vien\u0101",
+        "en-us": "at"
+    },
+    {
+        "word": "vi\u0146ai",
+        "en-us": "for her"
+    },
+    {
+        "word": "baltijas",
+        "en-us": "baltic"
+    },
+    {
+        "word": "citi",
+        "en-us": "other"
+    },
+    {
+        "word": "kl\u0101t",
+        "en-us": "present"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "naudas",
+        "en-us": "money"
+    },
+    {
+        "word": "pati",
+        "en-us": "itself"
+    },
+    {
+        "word": "plkst",
+        "en-us": "6 pm"
+    },
+    {
+        "word": "sava",
+        "en-us": "own"
+    },
+    {
+        "word": "tava",
+        "en-us": "your"
+    },
+    {
+        "word": "tikt",
+        "en-us": "only"
+    },
+    {
+        "word": "valod\u0101",
+        "en-us": "language"
+    },
+    {
+        "word": "v\u0101rdu",
+        "en-us": "name"
+    },
+    {
+        "word": "auto",
+        "en-us": "car"
+    },
+    {
+        "word": "k\u0101das",
+        "en-us": "someone"
+    },
+    {
+        "word": "manas",
+        "en-us": "me"
+    },
+    {
+        "word": "nemaz",
+        "en-us": "not at all"
+    },
+    {
+        "word": "pirmaj\u0101",
+        "en-us": "first"
+    },
+    {
+        "word": "zem",
+        "en-us": "under"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "esat",
+        "en-us": "you are"
+    },
+    {
+        "word": "liela",
+        "en-us": "large"
+    },
+    {
+        "word": "manu",
+        "en-us": "my"
+    },
+    {
+        "word": "mazliet",
+        "en-us": "a little"
+    },
+    {
+        "word": "m\u016bs",
+        "en-us": "us"
+    },
+    {
+        "word": "sauc",
+        "en-us": "called"
+    },
+    {
+        "word": "ce\u013cu",
+        "en-us": "road"
+    },
+    {
+        "word": "dr\u012bz",
+        "en-us": "soon"
+    },
+    {
+        "word": "eiro",
+        "en-us": "euros"
+    },
+    {
+        "word": "n\u0101k",
+        "en-us": "coming"
+    },
+    {
+        "word": "septembr\u012b",
+        "en-us": "september"
+    },
+    {
+        "word": "teica",
+        "en-us": "said"
+    },
+    {
+        "word": "zi\u0146as",
+        "en-us": "news"
+    },
+    {
+        "word": "dara",
+        "en-us": "does"
+    },
+    {
+        "word": "izmanto",
+        "en-us": "used"
+    },
+    {
+        "word": "nevajag",
+        "en-us": "not required"
+    },
+    {
+        "word": "run\u0101",
+        "en-us": "speak"
+    },
+    {
+        "word": "valodas",
+        "en-us": "languages"
+    },
+    {
+        "word": "varam",
+        "en-us": "can"
+    },
+    {
+        "word": "visp\u0101r",
+        "en-us": "generally"
+    },
+    {
+        "word": "caur",
+        "en-us": "via"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "grupas",
+        "en-us": "groups"
+    },
+    {
+        "word": "l\u012bdzi",
+        "en-us": "to"
+    },
+    {
+        "word": "s\u0101kum\u0101",
+        "en-us": "beginning"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "tautas",
+        "en-us": "popular"
+    },
+    {
+        "word": "\u013cauj",
+        "en-us": ""
+    },
+    {
+        "word": "dziesmu",
+        "en-us": "track"
+    },
+    {
+        "word": "gal\u0101",
+        "en-us": "end"
+    },
+    {
+        "word": "priek\u0161\u0101",
+        "en-us": "front page"
+    },
+    {
+        "word": "skaits",
+        "en-us": "number of"
+    },
+    {
+        "word": "t\u0101d\u0113\u013c",
+        "en-us": "therefore"
+    },
+    {
+        "word": "t\u0101m",
+        "en-us": "them"
+    },
+    {
+        "word": "vasaras",
+        "en-us": "summer"
+    },
+    {
+        "word": "\u0161ie",
+        "en-us": "these"
+    },
+    {
+        "word": "aiziet",
+        "en-us": "go to"
+    },
+    {
+        "word": "dabas",
+        "en-us": "natural"
+    },
+    {
+        "word": "dro\u0161i",
+        "en-us": "secure"
+    },
+    {
+        "word": "jaut\u0101jums",
+        "en-us": "question"
+    },
+    {
+        "word": "p\u0113d\u0113j\u0101",
+        "en-us": "last"
+    },
+    {
+        "word": "reizes",
+        "en-us": "times"
+    },
+    {
+        "word": "teikt",
+        "en-us": "say"
+    },
+    {
+        "word": "varat",
+        "en-us": "you can"
+    },
+    {
+        "word": "v\u0113las",
+        "en-us": "willing"
+    },
+    {
+        "word": "\u0161im",
+        "en-us": "this"
+    },
+    {
+        "word": "da\u013cu",
+        "en-us": "part"
+    },
+    {
+        "word": "gad\u012bjum\u0101",
+        "en-us": "case"
+    },
+    {
+        "word": "gar\u0101m",
+        "en-us": "miss"
+    },
+    {
+        "word": "in",
+        "en-us": "and"
+    },
+    {
+        "word": "interneta",
+        "en-us": "internet"
+    },
+    {
+        "word": "komandas",
+        "en-us": "teams"
+    },
+    {
+        "word": "lab\u0101kais",
+        "en-us": "best"
+    },
+    {
+        "word": "lielu",
+        "en-us": "large"
+    },
+    {
+        "word": "mamma",
+        "en-us": "mamma"
+    },
+    {
+        "word": "maz\u0101k",
+        "en-us": "less"
+    },
+    {
+        "word": "pavisam",
+        "en-us": "total"
+    },
+    {
+        "word": "r\u012bt",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "str\u0101d\u0101",
+        "en-us": "working"
+    },
+    {
+        "word": "viegli",
+        "en-us": "easy"
+    },
+    {
+        "word": "\u0123imenes",
+        "en-us": "families"
+    },
+    {
+        "word": "b\u0113rniem",
+        "en-us": "for children"
+    },
+    {
+        "word": "centra",
+        "en-us": "centres"
+    },
+    {
+        "word": "dz\u012bve",
+        "en-us": "life"
+    },
+    {
+        "word": "iela",
+        "en-us": "street"
+    },
+    {
+        "word": "iesp\u0113ju",
+        "en-us": "possibility"
+    },
+    {
+        "word": "jauno",
+        "en-us": "new"
+    },
+    {
+        "word": "ned\u0113\u013cas",
+        "en-us": "weeks"
+    },
+    {
+        "word": "svar\u012bgi",
+        "en-us": "important"
+    },
+    {
+        "word": "ties\u012bbas",
+        "en-us": "right"
+    },
+    {
+        "word": "\u017e\u0113l",
+        "en-us": "sorry"
+    },
+    {
+        "word": "dod",
+        "en-us": "add"
+    },
+    {
+        "word": "gados",
+        "en-us": "years"
+    },
+    {
+        "word": "iedz\u012bvot\u0101ju",
+        "en-us": "population"
+    },
+    {
+        "word": "otr\u0101",
+        "en-us": "the other"
+    },
+    {
+        "word": "pirm\u0101s",
+        "en-us": "first"
+    },
+    {
+        "word": "vis\u0101",
+        "en-us": "throughout"
+    },
+    {
+        "word": "apr\u012bl\u012b",
+        "en-us": "april"
+    },
+    {
+        "word": "da\u017ei",
+        "en-us": "some"
+    },
+    {
+        "word": "draugi",
+        "en-us": "friends"
+    },
+    {
+        "word": "esot",
+        "en-us": "allegedly"
+    },
+    {
+        "word": "gribi",
+        "en-us": "gribi"
+    },
+    {
+        "word": "k\u013c\u016bst",
+        "en-us": "becomes"
+    },
+    {
+        "word": "pal\u012bdz\u012bbu",
+        "en-us": "help"
+    },
+    {
+        "word": "sievie\u0161u",
+        "en-us": "women"
+    },
+    {
+        "word": "sirds",
+        "en-us": "heart"
+    },
+    {
+        "word": "s\u0101kas",
+        "en-us": "starts at"
+    },
+    {
+        "word": "v\u0101rds",
+        "en-us": "name"
+    },
+    {
+        "word": "\u0161ogad",
+        "en-us": "this year"
+    },
+    {
+        "word": "beig\u0101s",
+        "en-us": "end"
+    },
+    {
+        "word": "ceru",
+        "en-us": "hope"
+    },
+    {
+        "word": "dz\u012bv\u0113",
+        "en-us": "in life"
+    },
+    {
+        "word": "izgl\u012bt\u012bbas",
+        "en-us": "education"
+    },
+    {
+        "word": "k\u0101d\u0101",
+        "en-us": "at"
+    },
+    {
+        "word": "p\u0101ri",
+        "en-us": "see more at"
+    },
+    {
+        "word": "sezonas",
+        "en-us": "season"
+    },
+    {
+        "word": "stundas",
+        "en-us": "hours"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "\u0101tr\u0101k",
+        "en-us": "sooner"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "ang\u013cu",
+        "en-us": "english"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "centr\u0101",
+        "en-us": "centre"
+    },
+    {
+        "word": "citas",
+        "en-us": "other"
+    },
+    {
+        "word": "cits",
+        "en-us": "other"
+    },
+    {
+        "word": "jauna",
+        "en-us": "new"
+    },
+    {
+        "word": "k\u0101dam",
+        "en-us": "to someone"
+    },
+    {
+        "word": "liep\u0101jas",
+        "en-us": "liepajas"
+    },
+    {
+        "word": "l\u016bk",
+        "en-us": "here's"
+    },
+    {
+        "word": "nr",
+        "en-us": "no"
+    },
+    {
+        "word": "pal\u012bdz\u0113t",
+        "en-us": "help"
+    },
+    {
+        "word": "pa\u0161i",
+        "en-us": "see"
+    },
+    {
+        "word": "saeimas",
+        "en-us": "saeimas"
+    },
+    {
+        "word": "t\u0101das",
+        "en-us": "such as"
+    },
+    {
+        "word": "uzman\u012bbu",
+        "en-us": "attention"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "zinu",
+        "en-us": "i know"
+    },
+    {
+        "word": "beidzot",
+        "en-us": "finally"
+    },
+    {
+        "word": "gaisa",
+        "en-us": "air"
+    },
+    {
+        "word": "jaun\u0101",
+        "en-us": "new"
+    },
+    {
+        "word": "jaut\u0101jumu",
+        "en-us": "question"
+    },
+    {
+        "word": "j\u0101iet",
+        "en-us": "go to"
+    },
+    {
+        "word": "j\u016bras",
+        "en-us": "maritime"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "kur\u0101m",
+        "en-us": "from"
+    },
+    {
+        "word": "liel\u0101",
+        "en-us": "large"
+    },
+    {
+        "word": "sp\u0113j",
+        "en-us": "capable"
+    },
+    {
+        "word": "tavs",
+        "en-us": "your"
+    },
+    {
+        "word": "tavu",
+        "en-us": "yours"
+    },
+    {
+        "word": "ak",
+        "en-us": "if"
+    },
+    {
+        "word": "dievs",
+        "en-us": "god"
+    },
+    {
+        "word": "d\u0113ls",
+        "en-us": "son"
+    },
+    {
+        "word": "katram",
+        "en-us": "each"
+    },
+    {
+        "word": "katrs",
+        "en-us": "each"
+    },
+    {
+        "word": "k\u0101rt\u012bb\u0101",
+        "en-us": "in order"
+    },
+    {
+        "word": "liel\u0101k\u0101",
+        "en-us": "most"
+    },
+    {
+        "word": "prieks",
+        "en-us": "pleasure"
+    },
+    {
+        "word": "probl\u0113mas",
+        "en-us": "problems"
+    },
+    {
+        "word": "var\u0113ja",
+        "en-us": "available at"
+    },
+    {
+        "word": "ventspils",
+        "en-us": "ventspils"
+    },
+    {
+        "word": "zin\u0101t",
+        "en-us": "know"
+    },
+    {
+        "word": "\u012bsti",
+        "en-us": "really"
+    },
+    {
+        "word": "agr\u0101k",
+        "en-us": "formerly"
+    },
+    {
+        "word": "daudzi",
+        "en-us": "many"
+    },
+    {
+        "word": "j\u0101nis",
+        "en-us": "j\u0101nis"
+    },
+    {
+        "word": "kurus",
+        "en-us": "by"
+    },
+    {
+        "word": "manis",
+        "en-us": "me"
+    },
+    {
+        "word": "miris",
+        "en-us": "dead"
+    },
+    {
+        "word": "patie\u0161\u0101m",
+        "en-us": "indeed"
+    },
+    {
+        "word": "saviem",
+        "en-us": "to"
+    },
+    {
+        "word": "sist\u0113mas",
+        "en-us": "systems"
+    },
+    {
+        "word": "valodu",
+        "en-us": "language"
+    },
+    {
+        "word": "veida",
+        "en-us": "type"
+    },
+    {
+        "word": "august\u0101",
+        "en-us": "august"
+    },
+    {
+        "word": "cilv\u0113ka",
+        "en-us": "human"
+    },
+    {
+        "word": "dro\u0161\u012bbas",
+        "en-us": "security"
+    },
+    {
+        "word": "dz\u012bvot",
+        "en-us": "live"
+    },
+    {
+        "word": "gr\u0101matu",
+        "en-us": "book"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "pareizi",
+        "en-us": "correctly"
+    },
+    {
+        "word": "paties\u012bb\u0101",
+        "en-us": "actually"
+    },
+    {
+        "word": "sievietes",
+        "en-us": "women"
+    },
+    {
+        "word": "zelta",
+        "en-us": "gold"
+    },
+    {
+        "word": "bijusi",
+        "en-us": "played"
+    },
+    {
+        "word": "b\u0113rns",
+        "en-us": "child"
+    },
+    {
+        "word": "filma",
+        "en-us": "film"
+    },
+    {
+        "word": "iesp\u0113jas",
+        "en-us": "options"
+    },
+    {
+        "word": "jauki",
+        "en-us": "nice"
+    },
+    {
+        "word": "komanda",
+        "en-us": "team"
+    },
+    {
+        "word": "k\u0101di",
+        "en-us": "any"
+    },
+    {
+        "word": "liekas",
+        "en-us": "remains"
+    },
+    {
+        "word": "mart\u0101",
+        "en-us": "march"
+    },
+    {
+        "word": "m\u0101c\u012bbu",
+        "en-us": "training"
+    },
+    {
+        "word": "novembr\u012b",
+        "en-us": "november"
+    },
+    {
+        "word": "paliek",
+        "en-us": "remains"
+    },
+    {
+        "word": "pils\u0113t\u0101",
+        "en-us": "in the city"
+    },
+    {
+        "word": "rokas",
+        "en-us": "hand"
+    },
+    {
+        "word": "skol\u0101",
+        "en-us": "in school"
+    },
+    {
+        "word": "vienalga",
+        "en-us": "anyway"
+    },
+    {
+        "word": "cilv\u0113kus",
+        "en-us": "people"
+    },
+    {
+        "word": "filmu",
+        "en-us": "film"
+    },
+    {
+        "word": "gadi",
+        "en-us": "years"
+    },
+    {
+        "word": "lieliski",
+        "en-us": "great"
+    },
+    {
+        "word": "meitene",
+        "en-us": "girl"
+    },
+    {
+        "word": "sieviete",
+        "en-us": "female"
+    },
+    {
+        "word": "skaidrs",
+        "en-us": "clear"
+    },
+    {
+        "word": "skolu",
+        "en-us": "school"
+    },
+    {
+        "word": "sp\u0113le",
+        "en-us": "game"
+    },
+    {
+        "word": "vajadz\u012bgs",
+        "en-us": "needed"
+    },
+    {
+        "word": "valoda",
+        "en-us": "language"
+    },
+    {
+        "word": "vid\u016b",
+        "en-us": "see"
+    },
+    {
+        "word": "vis\u0101m",
+        "en-us": "all"
+    },
+    {
+        "word": "vi\u0146us",
+        "en-us": "them"
+    },
+    {
+        "word": "\u0161oreiz",
+        "en-us": "this time"
+    },
+    {
+        "word": "dziesmas",
+        "en-us": "songs"
+    },
+    {
+        "word": "gads",
+        "en-us": "year"
+    },
+    {
+        "word": "kopum\u0101",
+        "en-us": "in general"
+    },
+    {
+        "word": "lietu",
+        "en-us": "case"
+    },
+    {
+        "word": "maij\u0101",
+        "en-us": "may"
+    },
+    {
+        "word": "otro",
+        "en-us": "second"
+    },
+    {
+        "word": "otru",
+        "en-us": "the other"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "p\u0101r",
+        "en-us": "over"
+    },
+    {
+        "word": "s\u0101k",
+        "en-us": "start"
+    },
+    {
+        "word": "t\u0101di",
+        "en-us": "such as"
+    },
+    {
+        "word": "v\u0113lies",
+        "en-us": "want more"
+    },
+    {
+        "word": "zini",
+        "en-us": "news"
+    },
+    {
+        "word": "aptuveni",
+        "en-us": "about"
+    },
+    {
+        "word": "blakus",
+        "en-us": "next to"
+    },
+    {
+        "word": "darbojas",
+        "en-us": "running"
+    },
+    {
+        "word": "da\u017eas",
+        "en-us": "some"
+    },
+    {
+        "word": "filmas",
+        "en-us": "film"
+    },
+    {
+        "word": "izmantot",
+        "en-us": "use"
+    },
+    {
+        "word": "kara",
+        "en-us": "punishment"
+    },
+    {
+        "word": "liek",
+        "en-us": "remedy"
+    },
+    {
+        "word": "man\u0101",
+        "en-us": "on my"
+    },
+    {
+        "word": "m\u0101ju",
+        "en-us": "houses"
+    },
+    {
+        "word": "pa\u0161\u0101",
+        "en-us": "itself"
+    },
+    {
+        "word": "p\u0113d\u0113jo",
+        "en-us": "last"
+    },
+    {
+        "word": "r\u012bta",
+        "en-us": "morning"
+    },
+    {
+        "word": "sen",
+        "en-us": "dream"
+    },
+    {
+        "word": "str\u0101d\u0101t",
+        "en-us": "work"
+    },
+    {
+        "word": "vien\u012bgais",
+        "en-us": "only"
+    },
+    {
+        "word": "darbi",
+        "en-us": "works"
+    },
+    {
+        "word": "ej",
+        "en-us": "see"
+    },
+    {
+        "word": "iek\u0161\u0101",
+        "en-us": "inside"
+    },
+    {
+        "word": "nakti",
+        "en-us": "overnight"
+    },
+    {
+        "word": "nauda",
+        "en-us": "benefits"
+    },
+    {
+        "word": "nepat\u012bk",
+        "en-us": "dislike"
+    },
+    {
+        "word": "pateikt",
+        "en-us": "tell"
+    },
+    {
+        "word": "piln\u012bb\u0101",
+        "en-us": "full"
+    },
+    {
+        "word": "priek\u0161",
+        "en-us": "for"
+    },
+    {
+        "word": "probl\u0113ma",
+        "en-us": "problem"
+    },
+    {
+        "word": "pus\u0113",
+        "en-us": "side"
+    },
+    {
+        "word": "skaties",
+        "en-us": "see"
+    },
+    {
+        "word": "uzreiz",
+        "en-us": "immediately"
+    },
+    {
+        "word": "valst\u012b",
+        "en-us": "country"
+    },
+    {
+        "word": "\u0161ovakar",
+        "en-us": "show evening"
+    },
+    {
+        "word": "aizsardz\u012bbas",
+        "en-us": "protection"
+    },
+    {
+        "word": "br\u012bv\u012bbas",
+        "en-us": "liberties"
+    },
+    {
+        "word": "darb\u0101",
+        "en-us": "at"
+    },
+    {
+        "word": "doties",
+        "en-us": "go"
+    },
+    {
+        "word": "draugs",
+        "en-us": "friend"
+    },
+    {
+        "word": "grupa",
+        "en-us": "group"
+    },
+    {
+        "word": "iepriek\u0161",
+        "en-us": "previously"
+    },
+    {
+        "word": "jauns",
+        "en-us": "new"
+    },
+    {
+        "word": "puses",
+        "en-us": "parties"
+    },
+    {
+        "word": "sav\u0101m",
+        "en-us": "their"
+    },
+    {
+        "word": "sp\u0113ku",
+        "en-us": "forces"
+    },
+    {
+        "word": "s\u0101ka",
+        "en-us": "started by"
+    },
+    {
+        "word": "u.c",
+        "en-us": "u.c"
+    },
+    {
+        "word": "vair\u0101kas",
+        "en-us": "more"
+    },
+    {
+        "word": "apm\u0113ram",
+        "en-us": "about"
+    },
+    {
+        "word": "grib\u0113tu",
+        "en-us": "prefer"
+    },
+    {
+        "word": "izdar\u012bt",
+        "en-us": "draw"
+    },
+    {
+        "word": "komandu",
+        "en-us": "command"
+    },
+    {
+        "word": "maz",
+        "en-us": "little"
+    },
+    {
+        "word": "min\u016btes",
+        "en-us": "minutes"
+    },
+    {
+        "word": "nakts",
+        "en-us": "night"
+    },
+    {
+        "word": "neesi",
+        "en-us": "neesi"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "pasaule",
+        "en-us": "world"
+    },
+    {
+        "word": "prezidents",
+        "en-us": "the President"
+    },
+    {
+        "word": "rezult\u0101t\u0101",
+        "en-us": "."
+    },
+    {
+        "word": "saprast",
+        "en-us": "understand"
+    },
+    {
+        "word": "savien\u012bbas",
+        "en-us": "unions"
+    },
+    {
+        "word": "taisn\u012bba",
+        "en-us": "true"
+    },
+    {
+        "word": "tevis",
+        "en-us": "you"
+    },
+    {
+        "word": "ziemas",
+        "en-us": "winter"
+    },
+    {
+        "word": "zi\u0146u",
+        "en-us": "message"
+    },
+    {
+        "word": "attiec\u012bbas",
+        "en-us": "relations"
+    },
+    {
+        "word": "beig\u0101m",
+        "en-us": "end"
+    },
+    {
+        "word": "diem\u017e\u0113l",
+        "en-us": "unfortunately"
+    },
+    {
+        "word": "jaunas",
+        "en-us": "new"
+    },
+    {
+        "word": "k\u0101dreiz",
+        "en-us": "ever"
+    },
+    {
+        "word": "lab\u0101",
+        "en-us": "good"
+    },
+    {
+        "word": "manupr\u0101t",
+        "en-us": "i think"
+    },
+    {
+        "word": "mekl\u0113",
+        "en-us": "looking for"
+    },
+    {
+        "word": "n\u0101ves",
+        "en-us": "death"
+    },
+    {
+        "word": "sp\u0113li",
+        "en-us": "game"
+    },
+    {
+        "word": "sp\u0113\u013cu",
+        "en-us": "games"
+    },
+    {
+        "word": "uzskata",
+        "en-us": "see"
+    },
+    {
+        "word": "vad\u012bt\u0101js",
+        "en-us": "manager"
+    },
+    {
+        "word": "valstu",
+        "en-us": "countries"
+    },
+    {
+        "word": "vesel\u012bbas",
+        "en-us": "health"
+    },
+    {
+        "word": "v\u0101rd\u0101",
+        "en-us": "on behalf of"
+    },
+    {
+        "word": "acis",
+        "en-us": "acis"
+    },
+    {
+        "word": "balvu",
+        "en-us": "prize"
+    },
+    {
+        "word": "cita",
+        "en-us": "other"
+    },
+    {
+        "word": "cit\u0101di",
+        "en-us": "otherwise"
+    },
+    {
+        "word": "dieva",
+        "en-us": "god"
+    },
+    {
+        "word": "divu",
+        "en-us": "two"
+    },
+    {
+        "word": "lab\u0101ko",
+        "en-us": "best"
+    },
+    {
+        "word": "lieta",
+        "en-us": "case"
+    },
+    {
+        "word": "m\u016bsdien\u0101s",
+        "en-us": "today"
+    },
+    {
+        "word": "nedr\u012bkst",
+        "en-us": "must not"
+    },
+    {
+        "word": "reiz\u0113m",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "var\u0113s",
+        "en-us": "can"
+    },
+    {
+        "word": "vec\u0101ki",
+        "en-us": "parents"
+    },
+    {
+        "word": "veid\u0101",
+        "en-us": "by way of"
+    },
+    {
+        "word": "\u0161\u0101du",
+        "en-us": "such"
+    },
+    {
+        "word": "brauc",
+        "en-us": "drive"
+    },
+    {
+        "word": "b\u016b\u0161u",
+        "en-us": "i'll be at"
+    },
+    {
+        "word": "da\u013cas",
+        "en-us": "parts"
+    },
+    {
+        "word": "dien\u0101m",
+        "en-us": "days"
+    },
+    {
+        "word": "domes",
+        "en-us": "city Council"
+    },
+    {
+        "word": "dom\u0101t",
+        "en-us": "think"
+    },
+    {
+        "word": "febru\u0101r\u012b",
+        "en-us": "february"
+    },
+    {
+        "word": "jaunie\u0161u",
+        "en-us": "youth"
+    },
+    {
+        "word": "nevienam",
+        "en-us": "to no one"
+    },
+    {
+        "word": "otraj\u0101",
+        "en-us": "the second"
+    },
+    {
+        "word": "partijas",
+        "en-us": "batches"
+    },
+    {
+        "word": "pa\u0161a",
+        "en-us": "pasha"
+    },
+    {
+        "word": "pieder",
+        "en-us": "available at"
+    },
+    {
+        "word": "reiz",
+        "en-us": "once"
+    },
+    {
+        "word": "run\u0101t",
+        "en-us": "talk"
+    },
+    {
+        "word": "sist\u0113ma",
+        "en-us": "system"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "v\u0101cu",
+        "en-us": "german"
+    },
+    {
+        "word": "b\u016bsi",
+        "en-us": "be"
+    },
+    {
+        "word": "ce\u013c\u0101",
+        "en-us": "on the go"
+    },
+    {
+        "word": "dziesma",
+        "en-us": "song"
+    },
+    {
+        "word": "gaida",
+        "en-us": "waiting for"
+    },
+    {
+        "word": "gr\u0101matas",
+        "en-us": "books"
+    },
+    {
+        "word": "k",
+        "en-us": "k"
+    },
+    {
+        "word": "k\u013cuva",
+        "en-us": "became"
+    },
+    {
+        "word": "k\u013c\u016bt",
+        "en-us": "become"
+    },
+    {
+        "word": "nopietni",
+        "en-us": "seriously"
+    },
+    {
+        "word": "piedal\u012bties",
+        "en-us": "participate"
+    },
+    {
+        "word": "prezidenta",
+        "en-us": "president"
+    },
+    {
+        "word": "radio",
+        "en-us": "radio"
+    },
+    {
+        "word": "tiesa",
+        "en-us": "court"
+    },
+    {
+        "word": "v\u0113rts",
+        "en-us": "worth"
+    },
+    {
+        "word": "ce\u013ca",
+        "en-us": "road"
+    },
+    {
+        "word": "darb\u012bbas",
+        "en-us": "activities"
+    },
+    {
+        "word": "da\u013c\u0101",
+        "en-us": "part of"
+    },
+    {
+        "word": "divus",
+        "en-us": "two"
+    },
+    {
+        "word": "dzim\u0161anas",
+        "en-us": "birth"
+    },
+    {
+        "word": "inform\u0101cijas",
+        "en-us": "information"
+    },
+    {
+        "word": "iz\u0146emot",
+        "en-us": "except"
+    },
+    {
+        "word": "kino",
+        "en-us": "cinema"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "lieliska",
+        "en-us": "excellent"
+    },
+    {
+        "word": "m\u016bsdienu",
+        "en-us": "today's"
+    },
+    {
+        "word": "novad\u0101",
+        "en-us": "in the county"
+    },
+    {
+        "word": "prom",
+        "en-us": "prom"
+    },
+    {
+        "word": "saules",
+        "en-us": "solar"
+    },
+    {
+        "word": "sp\u0113l\u0113s",
+        "en-us": "will play"
+    },
+    {
+        "word": "t\u0113vs",
+        "en-us": "father"
+    },
+    {
+        "word": "vecum\u0101",
+        "en-us": "aged"
+    },
+    {
+        "word": "vispirms",
+        "en-us": "first"
+    },
+    {
+        "word": "zin\u0101ms",
+        "en-us": "known"
+    },
+    {
+        "word": "\u0161iem",
+        "en-us": "these"
+    },
+    {
+        "word": "\u0161\u0101di",
+        "en-us": "following"
+    },
+    {
+        "word": "apk\u0101rt",
+        "en-us": "see"
+    },
+    {
+        "word": "br\u0101lis",
+        "en-us": "brother"
+    },
+    {
+        "word": "cit\u0101m",
+        "en-us": "other"
+    },
+    {
+        "word": "cm",
+        "en-us": "cm"
+    },
+    {
+        "word": "darb\u012bbu",
+        "en-us": "activities"
+    },
+    {
+        "word": "datu",
+        "en-us": "data"
+    },
+    {
+        "word": "gatavs",
+        "en-us": "ready"
+    },
+    {
+        "word": "izlases",
+        "en-us": "random"
+    },
+    {
+        "word": "izmantojot",
+        "en-us": "via"
+    },
+    {
+        "word": "koka",
+        "en-us": "wood"
+    },
+    {
+        "word": "kuram",
+        "en-us": "kuram"
+    },
+    {
+        "word": "meitenes",
+        "en-us": "girls"
+    },
+    {
+        "word": "me\u017ea",
+        "en-us": "forest"
+    },
+    {
+        "word": "pasauli",
+        "en-us": "the world"
+    },
+    {
+        "word": "skola",
+        "en-us": "school"
+    },
+    {
+        "word": "slikti",
+        "en-us": "bad"
+    },
+    {
+        "word": "tirdzniec\u012bbas",
+        "en-us": "trade"
+    },
+    {
+        "word": "uzvaru",
+        "en-us": "win"
+    },
+    {
+        "word": "va\u013c\u0101",
+        "en-us": "open"
+    },
+    {
+        "word": "visvair\u0101k",
+        "en-us": "most"
+    },
+    {
+        "word": "atbalstu",
+        "en-us": "support"
+    },
+    {
+        "word": "diviem",
+        "en-us": "two"
+    },
+    {
+        "word": "draugu",
+        "en-us": "friend"
+    },
+    {
+        "word": "futbola",
+        "en-us": "football"
+    },
+    {
+        "word": "ielu",
+        "en-us": "street"
+    },
+    {
+        "word": "k\u0101rtas",
+        "en-us": "in turn"
+    },
+    {
+        "word": "latviju",
+        "en-us": "latvia"
+    },
+    {
+        "word": "m\u0101ja",
+        "en-us": "home"
+    },
+    {
+        "word": "m\u012blu",
+        "en-us": "i love"
+    },
+    {
+        "word": "nesaprotu",
+        "en-us": "i don't understand"
+    },
+    {
+        "word": "padomes",
+        "en-us": "councils"
+    },
+    {
+        "word": "pa\u0161laik",
+        "en-us": "currently"
+    },
+    {
+        "word": "piedal\u012bj\u0101s",
+        "en-us": "participated"
+    },
+    {
+        "word": "roku",
+        "en-us": "year"
+    },
+    {
+        "word": "st\u0101sts",
+        "en-us": "story"
+    },
+    {
+        "word": "s\u0101kt",
+        "en-us": "start"
+    },
+    {
+        "word": "t\u0101d\u0113j\u0101di",
+        "en-us": "thus"
+    },
+    {
+        "word": "t\u0101lu",
+        "en-us": "far"
+    },
+    {
+        "word": "veido",
+        "en-us": "face"
+    },
+    {
+        "word": "vienam",
+        "en-us": "per"
+    },
+    {
+        "word": "zina",
+        "en-us": "zina"
+    },
+    {
+        "word": "\u0101rpus",
+        "en-us": "outside"
+    },
+    {
+        "word": "\u010dempion\u0101ta",
+        "en-us": "championship"
+    },
+    {
+        "word": "abi",
+        "en-us": "both"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "atceries",
+        "en-us": "remember"
+    },
+    {
+        "word": "durvis",
+        "en-us": "doors"
+    },
+    {
+        "word": "gadam",
+        "en-us": "for the year"
+    },
+    {
+        "word": "j\u0101dara",
+        "en-us": "to be done"
+    },
+    {
+        "word": "klases",
+        "en-us": "classes"
+    },
+    {
+        "word": "ministru",
+        "en-us": "minister"
+    },
+    {
+        "word": "pils",
+        "en-us": "palace"
+    },
+    {
+        "word": "saska\u0146\u0101",
+        "en-us": "according to"
+    },
+    {
+        "word": "skait\u0101",
+        "en-us": "including"
+    },
+    {
+        "word": "tav\u0101",
+        "en-us": "yours"
+    },
+    {
+        "word": "teritorij\u0101",
+        "en-us": "on the territory of"
+    },
+    {
+        "word": "utt",
+        "en-us": "etc"
+    },
+    {
+        "word": "uz\u0146\u0113mums",
+        "en-us": "company"
+    },
+    {
+        "word": "vakar",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "veids",
+        "en-us": "type"
+    },
+    {
+        "word": "vien\u012bg\u0101",
+        "en-us": "only"
+    },
+    {
+        "word": "virs",
+        "en-us": "above"
+    },
+    {
+        "word": "zemi",
+        "en-us": "country"
+    },
+    {
+        "word": "ce\u013c\u0161",
+        "en-us": "path"
+    },
+    {
+        "word": "cilv\u0113kam",
+        "en-us": "for people"
+    },
+    {
+        "word": "citus",
+        "en-us": "others"
+    },
+    {
+        "word": "da\u017e\u0101du",
+        "en-us": "various"
+    },
+    {
+        "word": "desmit",
+        "en-us": "ten"
+    },
+    {
+        "word": "galvu",
+        "en-us": "head"
+    },
+    {
+        "word": "hokeja",
+        "en-us": "hockey"
+    },
+    {
+        "word": "j",
+        "en-us": "j"
+    },
+    {
+        "word": "jelgavas",
+        "en-us": "jelgava"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "padomju",
+        "en-us": "soviet"
+    },
+    {
+        "word": "priek\u0161u",
+        "en-us": "forward"
+    },
+    {
+        "word": "saprotu",
+        "en-us": "understand"
+    },
+    {
+        "word": "telev\u012bzijas",
+        "en-us": "television"
+    },
+    {
+        "word": "vajadz\u0113ja",
+        "en-us": "needed"
+    },
+    {
+        "word": "valst\u012bs",
+        "en-us": "countries"
+    },
+    {
+        "word": "viet\u0101s",
+        "en-us": "locations"
+    },
+    {
+        "word": "v\u0113lreiz",
+        "en-us": "again"
+    },
+    {
+        "word": "braukt",
+        "en-us": "ride"
+    },
+    {
+        "word": "br\u012bd\u012b",
+        "en-us": "at the moment"
+    },
+    {
+        "word": "daugavpils",
+        "en-us": "daugavpils"
+    },
+    {
+        "word": "deju",
+        "en-us": "dance"
+    },
+    {
+        "word": "gatavi",
+        "en-us": "ready"
+    },
+    {
+        "word": "gr\u0101mata",
+        "en-us": "book"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "kausa",
+        "en-us": "cup"
+    },
+    {
+        "word": "lv",
+        "en-us": "en"
+    },
+    {
+        "word": "l\u012bgas",
+        "en-us": "leagues"
+    },
+    {
+        "word": "nevienu",
+        "en-us": "none"
+    },
+    {
+        "word": "pal\u012bdz",
+        "en-us": "assisted by"
+    },
+    {
+        "word": "pils\u0113tu",
+        "en-us": "city"
+    },
+    {
+        "word": "pusi",
+        "en-us": "half"
+    },
+    {
+        "word": "starptautisk\u0101",
+        "en-us": "international"
+    },
+    {
+        "word": "stundu",
+        "en-us": "hour"
+    },
+    {
+        "word": "tiesas",
+        "en-us": "courts"
+    },
+    {
+        "word": "t\u016bl\u012bt",
+        "en-us": "now"
+    },
+    {
+        "word": "vecuma",
+        "en-us": "age"
+    },
+    {
+        "word": "vienas",
+        "en-us": "one"
+    },
+    {
+        "word": "viet\u0101m",
+        "en-us": "for locations"
+    },
+    {
+        "word": "\u0161ai",
+        "en-us": "this"
+    },
+    {
+        "word": "gaismas",
+        "en-us": "lights"
+    },
+    {
+        "word": "galda",
+        "en-us": "table"
+    },
+    {
+        "word": "ieg\u016bt",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "interesanti",
+        "en-us": "interesting"
+    },
+    {
+        "word": "jaun\u0101s",
+        "en-us": "new"
+    },
+    {
+        "word": "k\u0101d\u0113\u013c",
+        "en-us": "why"
+    },
+    {
+        "word": "lab\u0101k\u0101",
+        "en-us": "best"
+    },
+    {
+        "word": "lielisks",
+        "en-us": "excellent"
+    },
+    {
+        "word": "nakt\u012b",
+        "en-us": "at night"
+    },
+    {
+        "word": "palika",
+        "en-us": "left"
+    },
+    {
+        "word": "pa\u0161am",
+        "en-us": "for yourself"
+    },
+    {
+        "word": "sa\u0146emt",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "sieviet\u0113m",
+        "en-us": "women"
+    },
+    {
+        "word": "te\u0101tra",
+        "en-us": "theatre"
+    },
+    {
+        "word": "t\u0101d\u0101",
+        "en-us": "such"
+    },
+    {
+        "word": "vair\u0101ki",
+        "en-us": "several"
+    },
+    {
+        "word": "vald\u012bbas",
+        "en-us": "governments"
+    },
+    {
+        "word": "valst\u012bm",
+        "en-us": "countries"
+    },
+    {
+        "word": "v\u0101rda",
+        "en-us": "name"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "\u0113kas",
+        "en-us": "buildings"
+    },
+    {
+        "word": "\u0123imene",
+        "en-us": "family"
+    },
+    {
+        "word": "att\u012bst\u012bbas",
+        "en-us": "development"
+    },
+    {
+        "word": "boj\u0101",
+        "en-us": "perish"
+    },
+    {
+        "word": "b\u0113rnus",
+        "en-us": "children"
+    },
+    {
+        "word": "centru",
+        "en-us": "centre"
+    },
+    {
+        "word": "dal\u012bbnieki",
+        "en-us": "members"
+    },
+    {
+        "word": "eirop\u0101",
+        "en-us": "in Europe"
+    },
+    {
+        "word": "for\u0161i",
+        "en-us": "cool"
+    },
+    {
+        "word": "jaunais",
+        "en-us": "new"
+    },
+    {
+        "word": "m\u0113r\u0137is",
+        "en-us": "objective"
+    },
+    {
+        "word": "nepiecie\u0161ams",
+        "en-us": "required"
+    },
+    {
+        "word": "oktobr\u012b",
+        "en-us": "october"
+    },
+    {
+        "word": "pagaid\u0101m",
+        "en-us": "for now"
+    },
+    {
+        "word": "pietiek",
+        "en-us": "sufficient"
+    },
+    {
+        "word": "pietiekami",
+        "en-us": "enough"
+    },
+    {
+        "word": "posm\u0101",
+        "en-us": "stage"
+    },
+    {
+        "word": "republikas",
+        "en-us": "republic"
+    },
+    {
+        "word": "saj\u016bta",
+        "en-us": "sense"
+    },
+    {
+        "word": "skaista",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "s\u0101k\u0101s",
+        "en-us": "started at"
+    },
+    {
+        "word": "tre\u0161o",
+        "en-us": "third"
+    },
+    {
+        "word": "vakar\u0101",
+        "en-us": "in the evening"
+    },
+    {
+        "word": "virzien\u0101",
+        "en-us": "towards"
+    },
+    {
+        "word": "arvien",
+        "en-us": "increasingly"
+    },
+    {
+        "word": "bankas",
+        "en-us": "banks"
+    },
+    {
+        "word": "da\u017e\u0101das",
+        "en-us": "various"
+    },
+    {
+        "word": "iemesls",
+        "en-us": "reason"
+    },
+    {
+        "word": "ik",
+        "en-us": "ik"
+    },
+    {
+        "word": "izdev\u0101s",
+        "en-us": "success"
+    },
+    {
+        "word": "lielo",
+        "en-us": "large"
+    },
+    {
+        "word": "l\u012bgumu",
+        "en-us": "contract"
+    },
+    {
+        "word": "m\u0101j\u0101",
+        "en-us": "in house"
+    },
+    {
+        "word": "n\u0101c",
+        "en-us": "come to"
+    },
+    {
+        "word": "punktu",
+        "en-us": "point"
+    },
+    {
+        "word": "p\u0113d\u0113jais",
+        "en-us": "last"
+    },
+    {
+        "word": "sabiedr\u012bbas",
+        "en-us": "public"
+    },
+    {
+        "word": "skaisti",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "sp\u0113l\u0113t",
+        "en-us": "play"
+    },
+    {
+        "word": "tikpat",
+        "en-us": "see also"
+    },
+    {
+        "word": "tirgus",
+        "en-us": "market"
+    },
+    {
+        "word": "v\u0113r\u0101",
+        "en-us": "into"
+    },
+    {
+        "word": "v\u0113stures",
+        "en-us": "history"
+    },
+    {
+        "word": "\u00b0",
+        "en-us": "\u00b0"
+    },
+    {
+        "word": "\u010dempion\u0101t\u0101",
+        "en-us": "at the Championships"
+    },
+    {
+        "word": "\u0137erme\u0146a",
+        "en-us": "body"
+    },
+    {
+        "word": "\u0161os",
+        "en-us": "these"
+    },
+    {
+        "word": "bij\u0101m",
+        "en-us": "we were"
+    },
+    {
+        "word": "cauri",
+        "en-us": "cauri"
+    },
+    {
+        "word": "c\u0113su",
+        "en-us": "c\u00e9ssu"
+    },
+    {
+        "word": "de",
+        "en-us": "de"
+    },
+    {
+        "word": "ekonomikas",
+        "en-us": "economies"
+    },
+    {
+        "word": "inform\u0101cija",
+        "en-us": "information"
+    },
+    {
+        "word": "la",
+        "en-us": "la"
+    },
+    {
+        "word": "lielas",
+        "en-us": "large"
+    },
+    {
+        "word": "liet\u0101m",
+        "en-us": "for cases"
+    },
+    {
+        "word": "otra",
+        "en-us": "the other"
+    },
+    {
+        "word": "pr\u0101t\u0101",
+        "en-us": "mind"
+    },
+    {
+        "word": "runa",
+        "en-us": "rune"
+    },
+    {
+        "word": "sacens\u012bbas",
+        "en-us": "competition"
+    },
+    {
+        "word": "sapratu",
+        "en-us": "roger"
+    },
+    {
+        "word": "sist\u0113mu",
+        "en-us": "system"
+    },
+    {
+        "word": "s\u0101kot",
+        "en-us": "starting at"
+    },
+    {
+        "word": "tavas",
+        "en-us": "yours"
+    },
+    {
+        "word": "turkl\u0101t",
+        "en-us": "see also"
+    },
+    {
+        "word": "uz\u0146\u0113mumu",
+        "en-us": "companies"
+    },
+    {
+        "word": "zi\u0146\u0101",
+        "en-us": "in the sense of"
+    },
+    {
+        "word": "z\u0101les",
+        "en-us": "medicines"
+    },
+    {
+        "word": "aicina",
+        "en-us": "invites"
+    },
+    {
+        "word": "div\u0101m",
+        "en-us": "for two"
+    },
+    {
+        "word": "draugiem",
+        "en-us": "for friends"
+    },
+    {
+        "word": "dzird\u0113t",
+        "en-us": "hear"
+    },
+    {
+        "word": "foto",
+        "en-us": "photo"
+    },
+    {
+        "word": "ha",
+        "en-us": "ha"
+    },
+    {
+        "word": "katra",
+        "en-us": "each"
+    },
+    {
+        "word": "konkurs\u0101",
+        "en-us": "in competition"
+    },
+    {
+        "word": "krievij\u0101",
+        "en-us": "in russia"
+    },
+    {
+        "word": "lauku",
+        "en-us": "fields"
+    },
+    {
+        "word": "m\u012blest\u012bba",
+        "en-us": "love"
+    },
+    {
+        "word": "patiesi",
+        "en-us": "indeed"
+    },
+    {
+        "word": "prieku",
+        "en-us": "for your pleasure"
+    },
+    {
+        "word": "rakstu",
+        "en-us": "article"
+    },
+    {
+        "word": "rezult\u0101ti",
+        "en-us": "results"
+    },
+    {
+        "word": "rodas",
+        "en-us": "."
+    },
+    {
+        "word": "rok\u0101s",
+        "en-us": "in the hands of"
+    },
+    {
+        "word": "sv\u0113tku",
+        "en-us": "festive"
+    },
+    {
+        "word": "v\u0113los",
+        "en-us": "wish"
+    },
+    {
+        "word": "atbalsta",
+        "en-us": "supported by"
+    },
+    {
+        "word": "dev\u0101s",
+        "en-us": "went to"
+    },
+    {
+        "word": "doma",
+        "en-us": "home"
+    },
+    {
+        "word": "glu\u017ei",
+        "en-us": ""
+    },
+    {
+        "word": "grup\u0101",
+        "en-us": "group"
+    },
+    {
+        "word": "inform\u0101ciju",
+        "en-us": "information"
+    },
+    {
+        "word": "j\u0113zus",
+        "en-us": "jesus"
+    },
+    {
+        "word": "j\u016bnij\u0101",
+        "en-us": "june"
+    },
+    {
+        "word": "l\u012bdz\u012bgi",
+        "en-us": "similar"
+    },
+    {
+        "word": "m\u0101te",
+        "en-us": "mother"
+    },
+    {
+        "word": "ned\u0113\u013cu",
+        "en-us": "weekly"
+    },
+    {
+        "word": "nesp\u0113j",
+        "en-us": "unable"
+    },
+    {
+        "word": "pagasta",
+        "en-us": "parish"
+    },
+    {
+        "word": "piedal\u0101s",
+        "en-us": "participating"
+    },
+    {
+        "word": "pils\u0113ta",
+        "en-us": "city"
+    },
+    {
+        "word": "programmas",
+        "en-us": "programmes"
+    },
+    {
+        "word": "sevis",
+        "en-us": "self"
+    },
+    {
+        "word": "universit\u0101tes",
+        "en-us": "universities"
+    },
+    {
+        "word": "vad\u012bb\u0101",
+        "en-us": "led by"
+    },
+    {
+        "word": "valmieras",
+        "en-us": "valmiera"
+    },
+    {
+        "word": "v\u0113l\u0113\u0161an\u0101s",
+        "en-us": "in the elections"
+    },
+    {
+        "word": "v\u012brietis",
+        "en-us": "male"
+    },
+    {
+        "word": "v\u012brie\u0161u",
+        "en-us": "men"
+    },
+    {
+        "word": "br\u012bdi",
+        "en-us": "moment"
+    },
+    {
+        "word": "g\u0101ja",
+        "en-us": "went to"
+    },
+    {
+        "word": "http",
+        "en-us": "http"
+    },
+    {
+        "word": "internet\u0101",
+        "en-us": "online at"
+    },
+    {
+        "word": "kurai",
+        "en-us": "available from:"
+    },
+    {
+        "word": "kur\u0101s",
+        "en-us": "where"
+    },
+    {
+        "word": "k\u0101jas",
+        "en-us": "legs"
+    },
+    {
+        "word": "labas",
+        "en-us": "good"
+    },
+    {
+        "word": "labr\u012bt",
+        "en-us": "good morning"
+    },
+    {
+        "word": "maz\u0101",
+        "en-us": "small"
+    },
+    {
+        "word": "m\u0101j\u0101m",
+        "en-us": "home"
+    },
+    {
+        "word": "m\u0113dz",
+        "en-us": "tends to"
+    },
+    {
+        "word": "m\u0113ne\u0161a",
+        "en-us": "of the month"
+    },
+    {
+        "word": "nacion\u0101l\u0101",
+        "en-us": "national"
+    },
+    {
+        "word": "nebiju",
+        "en-us": "i was not"
+    },
+    {
+        "word": "nost",
+        "en-us": "off"
+    },
+    {
+        "word": "projekta",
+        "en-us": "project"
+    },
+    {
+        "word": "rezult\u0101tu",
+        "en-us": "results"
+    },
+    {
+        "word": "satiksmes",
+        "en-us": "traffic"
+    },
+    {
+        "word": "tik\u0161an\u0101s",
+        "en-us": "meetings"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "v\u0101rdus",
+        "en-us": "names"
+    },
+    {
+        "word": "v\u012brs",
+        "en-us": "husband"
+    },
+    {
+        "word": "\u016bdeni",
+        "en-us": "water"
+    },
+    {
+        "word": "apk\u0101rtn\u0113",
+        "en-us": "in the surroundings"
+    },
+    {
+        "word": "da\u017ereiz",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "izmai\u0146as",
+        "en-us": "changes"
+    },
+    {
+        "word": "liel\u0101ko",
+        "en-us": "bulk"
+    },
+    {
+        "word": "l\u012bme\u0146a",
+        "en-us": "level"
+    },
+    {
+        "word": "mekl\u0113t",
+        "en-us": "search"
+    },
+    {
+        "word": "patika",
+        "en-us": "liked"
+    },
+    {
+        "word": "pirmie",
+        "en-us": "first"
+    },
+    {
+        "word": "policija",
+        "en-us": "police"
+    },
+    {
+        "word": "pui\u0161i",
+        "en-us": "email"
+    },
+    {
+        "word": "seko",
+        "en-us": "follow"
+    },
+    {
+        "word": "vasar\u0101",
+        "en-us": "in summer"
+    },
+    {
+        "word": "v\u0101rdi",
+        "en-us": "names"
+    },
+    {
+        "word": "bazn\u012bcas",
+        "en-us": "churches"
+    },
+    {
+        "word": "eur",
+        "en-us": "eur"
+    },
+    {
+        "word": "galvas",
+        "en-us": "heads"
+    },
+    {
+        "word": "galven\u0101",
+        "en-us": "main"
+    },
+    {
+        "word": "ideja",
+        "en-us": "idea"
+    },
+    {
+        "word": "idejas",
+        "en-us": "ideas"
+    },
+    {
+        "word": "iepaz\u012bties",
+        "en-us": "see"
+    },
+    {
+        "word": "j\u016btos",
+        "en-us": "i feel"
+    },
+    {
+        "word": "k\u0101j\u0101m",
+        "en-us": "on foot"
+    },
+    {
+        "word": "latvijai",
+        "en-us": "for latvia"
+    },
+    {
+        "word": "lielais",
+        "en-us": "big"
+    },
+    {
+        "word": "lik\u0101s",
+        "en-us": "seemed to be"
+    },
+    {
+        "word": "l\u012bmen\u012b",
+        "en-us": "at"
+    },
+    {
+        "word": "maija",
+        "en-us": "may"
+    },
+    {
+        "word": "maks\u0101",
+        "en-us": "paid"
+    },
+    {
+        "word": "mier\u012bgi",
+        "en-us": "calm"
+    },
+    {
+        "word": "ministrs",
+        "en-us": "minister"
+    },
+    {
+        "word": "nek\u0101da",
+        "en-us": "none"
+    },
+    {
+        "word": "nosaukumu",
+        "en-us": "name"
+    },
+    {
+        "word": "palikt",
+        "en-us": "stay at"
+    },
+    {
+        "word": "past\u0101v",
+        "en-us": "exists"
+    },
+    {
+        "word": "psrs",
+        "en-us": "psrs"
+    },
+    {
+        "word": "rada",
+        "en-us": "the Council"
+    },
+    {
+        "word": "sa\u0146em",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "sieva",
+        "en-us": "wife"
+    },
+    {
+        "word": "sv\u0113tki",
+        "en-us": "celebrations"
+    },
+    {
+        "word": "s\u0101kuma",
+        "en-us": "home"
+    },
+    {
+        "word": "telefonu",
+        "en-us": "telephone"
+    },
+    {
+        "word": "uzvaras",
+        "en-us": "victories"
+    },
+    {
+        "word": "uzzin\u0101t",
+        "en-us": "find out at"
+    },
+    {
+        "word": "uz\u0146\u0113muma",
+        "en-us": "of the company"
+    },
+    {
+        "word": "vad\u012bt\u0101ja",
+        "en-us": "manager"
+    },
+    {
+        "word": "v\u0113l\u0113\u0161anu",
+        "en-us": "elections"
+    },
+    {
+        "word": "\u012bpa\u0161\u012bbas",
+        "en-us": "properties"
+    },
+    {
+        "word": "bezmaksas",
+        "en-us": "free"
+    },
+    {
+        "word": "cenu",
+        "en-us": "price"
+    },
+    {
+        "word": "darbiem",
+        "en-us": "for works"
+    },
+    {
+        "word": "domas",
+        "en-us": "domas"
+    },
+    {
+        "word": "iedz\u012bvot\u0101ji",
+        "en-us": "residents"
+    },
+    {
+        "word": "ie\u0161u",
+        "en-us": "go to"
+    },
+    {
+        "word": "izv\u0113le",
+        "en-us": "choice"
+    },
+    {
+        "word": "j\u016blij\u0101",
+        "en-us": "july"
+    },
+    {
+        "word": "likumu",
+        "en-us": "the law"
+    },
+    {
+        "word": "nodro\u0161ina",
+        "en-us": "provided by"
+    }
+]

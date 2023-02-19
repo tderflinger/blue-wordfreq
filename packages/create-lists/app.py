@@ -35,7 +35,7 @@ for word in top_words:
 
 print(word_list)
 
-word_file = open("./word-lists/"+language_code+"-list.json", "w")
+word_file = open("../../word-lists/"+language_code+"-list.json", "w")
 json_object = json.dumps(word_list, indent=4)
 word_file.write(json_object)
 word_file.close()
