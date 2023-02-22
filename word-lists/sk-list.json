@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "sa",
+        "en-us": "with"
+    },
+    {
+        "word": "na",
+        "en-us": "at"
+    },
+    {
+        "word": "je",
+        "en-us": "is"
+    },
+    {
+        "word": "to",
+        "en-us": "to"
+    },
+    {
+        "word": "z",
+        "en-us": "z"
+    },
+    {
+        "word": "\u017ee",
+        "en-us": "that"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "ako",
+        "en-us": "like"
+    },
+    {
+        "word": "aj",
+        "en-us": "also"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "si",
+        "en-us": "see"
+    },
+    {
+        "word": "do",
+        "en-us": "to"
+    },
+    {
+        "word": "som",
+        "en-us": "i'm"
+    },
+    {
+        "word": "ale",
+        "en-us": "but"
+    },
+    {
+        "word": "po",
+        "en-us": "after"
+    },
+    {
+        "word": "za",
+        "en-us": "for"
+    },
+    {
+        "word": "tak",
+        "en-us": "yes"
+    },
+    {
+        "word": "od",
+        "en-us": "from"
+    },
+    {
+        "word": "\u010do",
+        "en-us": "what"
+    },
+    {
+        "word": "u\u017e",
+        "en-us": "for"
+    },
+    {
+        "word": "bol",
+        "en-us": "he was"
+    },
+    {
+        "word": "by",
+        "en-us": "by"
+    },
+    {
+        "word": "pre",
+        "en-us": "for"
+    },
+    {
+        "word": "s\u00fa",
+        "en-us": "are"
+    },
+    {
+        "word": "ak",
+        "en-us": "if"
+    },
+    {
+        "word": "k",
+        "en-us": "k"
+    },
+    {
+        "word": "alebo",
+        "en-us": "or"
+    },
+    {
+        "word": "nie",
+        "en-us": "no"
+    },
+    {
+        "word": "sme",
+        "en-us": "we are"
+    },
+    {
+        "word": "ich",
+        "en-us": "their"
+    },
+    {
+        "word": "len",
+        "en-us": "only"
+    },
+    {
+        "word": "vo",
+        "en-us": "in"
+    },
+    {
+        "word": "aby",
+        "en-us": "to"
+    },
+    {
+        "word": "ke\u010f",
+        "en-us": "when"
+    },
+    {
+        "word": "ktor\u00fd",
+        "en-us": "which"
+    },
+    {
+        "word": "ktor\u00e9",
+        "en-us": "which"
+    },
+    {
+        "word": "pri",
+        "en-us": "at"
+    },
+    {
+        "word": "m\u00e1",
+        "en-us": "my"
+    },
+    {
+        "word": "jeho",
+        "en-us": "its"
+    },
+    {
+        "word": "bola",
+        "en-us": "was"
+    },
+    {
+        "word": "bude",
+        "en-us": "will be"
+    },
+    {
+        "word": "ktor\u00e1",
+        "en-us": "which"
+    },
+    {
+        "word": "a\u017e",
+        "en-us": "to"
+    },
+    {
+        "word": "ve\u013emi",
+        "en-us": "very"
+    },
+    {
+        "word": "bolo",
+        "en-us": "was"
+    },
+    {
+        "word": "by\u0165",
+        "en-us": "be"
+    },
+    {
+        "word": "v\u00e1m",
+        "en-us": "you"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "jej",
+        "en-us": "her"
+    },
+    {
+        "word": "so",
+        "en-us": "so"
+    },
+    {
+        "word": "roku",
+        "en-us": "year"
+    },
+    {
+        "word": "ho",
+        "en-us": "him"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "e\u0161te",
+        "en-us": "still"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "zo",
+        "en-us": "from"
+    },
+    {
+        "word": "pod\u013ea",
+        "en-us": "by"
+    },
+    {
+        "word": "mi",
+        "en-us": "me"
+    },
+    {
+        "word": "v\u0161ak",
+        "en-us": "however,"
+    },
+    {
+        "word": "ani",
+        "en-us": "nor"
+    },
+    {
+        "word": "ste",
+        "en-us": "you are"
+    },
+    {
+        "word": "tu",
+        "en-us": "here"
+    },
+    {
+        "word": "viac",
+        "en-us": "read more"
+    },
+    {
+        "word": "kde",
+        "en-us": "where"
+    },
+    {
+        "word": "boli",
+        "en-us": "were"
+    },
+    {
+        "word": "pred",
+        "en-us": "before"
+    },
+    {
+        "word": "medzi",
+        "en-us": "between"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "m\u00f4\u017ee",
+        "en-us": "can"
+    },
+    {
+        "word": "n\u00e1s",
+        "en-us": "us"
+    },
+    {
+        "word": "v\u00e1s",
+        "en-us": "you"
+    },
+    {
+        "word": "no",
+        "en-us": "from"
+    },
+    {
+        "word": "tie\u017e",
+        "en-us": "also"
+    },
+    {
+        "word": "t\u00fdm",
+        "en-us": "team"
+    },
+    {
+        "word": "pozri",
+        "en-us": "see"
+    },
+    {
+        "word": "toho",
+        "en-us": "of this"
+    },
+    {
+        "word": "tom",
+        "en-us": "tom"
+    },
+    {
+        "word": "\u010di",
+        "en-us": "or"
+    },
+    {
+        "word": "pod",
+        "en-us": "under"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "po\u010das",
+        "en-us": "during"
+    },
+    {
+        "word": "potom",
+        "en-us": "then"
+    },
+    {
+        "word": "ju",
+        "en-us": "her"
+    },
+    {
+        "word": "v\u0161etko",
+        "en-us": "all"
+    },
+    {
+        "word": "bez",
+        "en-us": "without"
+    },
+    {
+        "word": "ja",
+        "en-us": "i"
+    },
+    {
+        "word": "rokov",
+        "en-us": "years"
+    },
+    {
+        "word": "tento",
+        "en-us": "this"
+    },
+    {
+        "word": "n\u00e1m",
+        "en-us": "us"
+    },
+    {
+        "word": "tam",
+        "en-us": "there"
+    },
+    {
+        "word": "iba",
+        "en-us": "only"
+    },
+    {
+        "word": "\u013eud\u00ed",
+        "en-us": "people"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "ma",
+        "en-us": "has"
+    },
+    {
+        "word": "nie\u010do",
+        "en-us": "something"
+    },
+    {
+        "word": "preto",
+        "en-us": "therefore"
+    },
+    {
+        "word": "de\u0148",
+        "en-us": "day"
+    },
+    {
+        "word": "mo\u017eno",
+        "en-us": "maybe"
+    },
+    {
+        "word": "preto\u017ee",
+        "en-us": "because"
+    },
+    {
+        "word": "tomu",
+        "en-us": "volume"
+    },
+    {
+        "word": "v\u0161etky",
+        "en-us": "all"
+    },
+    {
+        "word": "ma\u0165",
+        "en-us": "have"
+    },
+    {
+        "word": "mu",
+        "en-us": "him"
+    },
+    {
+        "word": "mali",
+        "en-us": "small"
+    },
+    {
+        "word": "pr\u00e1ve",
+        "en-us": "just"
+    },
+    {
+        "word": "teda",
+        "en-us": "so"
+    },
+    {
+        "word": "ten",
+        "en-us": "this one"
+    },
+    {
+        "word": "v\u010faka",
+        "en-us": "thanks"
+    },
+    {
+        "word": "dnes",
+        "en-us": "today"
+    },
+    {
+        "word": "v\u017edy",
+        "en-us": "always"
+    },
+    {
+        "word": "toto",
+        "en-us": "this"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "ka\u017ed\u00fd",
+        "en-us": "each"
+    },
+    {
+        "word": "svoje",
+        "en-us": "its"
+    },
+    {
+        "word": "asi",
+        "en-us": "about"
+    },
+    {
+        "word": "teraz",
+        "en-us": "now"
+    },
+    {
+        "word": "ve\u013ea",
+        "en-us": "many"
+    },
+    {
+        "word": "mal",
+        "en-us": "he had"
+    },
+    {
+        "word": "miesto",
+        "en-us": "place"
+    },
+    {
+        "word": "nad",
+        "en-us": "above"
+    },
+    {
+        "word": "najm\u00e4",
+        "en-us": "especially"
+    },
+    {
+        "word": "jeden",
+        "en-us": "one"
+    },
+    {
+        "word": "ktor\u00fa",
+        "en-us": "by"
+    },
+    {
+        "word": "st\u00e1le",
+        "en-us": "still"
+    },
+    {
+        "word": "tejto",
+        "en-us": "this"
+    },
+    {
+        "word": "ide",
+        "en-us": "go to"
+    },
+    {
+        "word": "proti",
+        "en-us": "vs."
+    },
+    {
+        "word": "tak\u017ee",
+        "en-us": "so"
+    },
+    {
+        "word": "spolu",
+        "en-us": "together"
+    },
+    {
+        "word": "\u010das",
+        "en-us": "time"
+    },
+    {
+        "word": "ktorej",
+        "en-us": "of which"
+    },
+    {
+        "word": "lebo",
+        "en-us": "because"
+    },
+    {
+        "word": "m\u00e1m",
+        "en-us": "i have"
+    },
+    {
+        "word": "tie",
+        "en-us": "those"
+    },
+    {
+        "word": "\u010dasti",
+        "en-us": "parts of"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "ni\u010d",
+        "en-us": "nothing"
+    },
+    {
+        "word": "oblasti",
+        "en-us": "areas"
+    },
+    {
+        "word": "okrem",
+        "en-us": "except"
+    },
+    {
+        "word": "im",
+        "en-us": "them"
+    },
+    {
+        "word": "napr\u00edklad",
+        "en-us": "for example"
+    },
+    {
+        "word": "svoju",
+        "en-us": "its"
+    },
+    {
+        "word": "\u013eudia",
+        "en-us": "people"
+    },
+    {
+        "word": "dobre",
+        "en-us": "good"
+    },
+    {
+        "word": "in\u00e9",
+        "en-us": "other"
+    },
+    {
+        "word": "nich",
+        "en-us": "them"
+    },
+    {
+        "word": "slovenskej",
+        "en-us": "slovak"
+    },
+    {
+        "word": "slovensku",
+        "en-us": "slovakia"
+    },
+    {
+        "word": "ur\u010dite",
+        "en-us": "definitely"
+    },
+    {
+        "word": "cez",
+        "en-us": "via"
+    },
+    {
+        "word": "ktor\u00fdch",
+        "en-us": "of which"
+    },
+    {
+        "word": "m\u00e1te",
+        "en-us": "you have"
+    },
+    {
+        "word": "m\u00f4\u017eete",
+        "en-us": "you can"
+    },
+    {
+        "word": "v\u0161etk\u00fdch",
+        "en-us": "all"
+    },
+    {
+        "word": "\u00faplne",
+        "en-us": "completely"
+    },
+    {
+        "word": "deti",
+        "en-us": "children"
+    },
+    {
+        "word": "kto",
+        "en-us": "who"
+    },
+    {
+        "word": "maj\u00fa",
+        "en-us": "they have"
+    },
+    {
+        "word": "mala",
+        "en-us": "small"
+    },
+    {
+        "word": "ktor\u00ed",
+        "en-us": "who"
+    },
+    {
+        "word": "\u017eivot",
+        "en-us": "life"
+    },
+    {
+        "word": "bud\u00fa",
+        "en-us": "will"
+    },
+    {
+        "word": "mus\u00ed",
+        "en-us": "must"
+    },
+    {
+        "word": "naozaj",
+        "en-us": "really"
+    },
+    {
+        "word": "tieto",
+        "en-us": "these"
+    },
+    {
+        "word": "\u010das\u0165",
+        "en-us": "part of"
+    },
+    {
+        "word": "m\u0148a",
+        "en-us": "me"
+    },
+    {
+        "word": "nieko\u013eko",
+        "en-us": "several"
+    },
+    {
+        "word": "svoj",
+        "en-us": "its"
+    },
+    {
+        "word": "svojej",
+        "en-us": "its"
+    },
+    {
+        "word": "mesta",
+        "en-us": "cities"
+    },
+    {
+        "word": "p\u00e1r",
+        "en-us": "couple"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "va\u0161e",
+        "en-us": "yours"
+    },
+    {
+        "word": "\u010dasto",
+        "en-us": "often"
+    },
+    {
+        "word": "pre\u010do",
+        "en-us": "why"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "ktor\u00e9ho",
+        "en-us": "of which"
+    },
+    {
+        "word": "m\u00e1me",
+        "en-us": "we have"
+    },
+    {
+        "word": "nach\u00e1dza",
+        "en-us": "located"
+    },
+    {
+        "word": "nov\u00e9",
+        "en-us": "new"
+    },
+    {
+        "word": "prv\u00fd",
+        "en-us": "first"
+    },
+    {
+        "word": "t\u00fato",
+        "en-us": "this"
+    },
+    {
+        "word": "\u010falej",
+        "en-us": "further"
+    },
+    {
+        "word": "cel\u00fd",
+        "en-us": "full"
+    },
+    {
+        "word": "dva",
+        "en-us": "two"
+    },
+    {
+        "word": "ku",
+        "en-us": "to"
+    },
+    {
+        "word": "tohto",
+        "en-us": "this"
+    },
+    {
+        "word": "tomto",
+        "en-us": "this"
+    },
+    {
+        "word": "\u010fal\u0161ie",
+        "en-us": "next"
+    },
+    {
+        "word": "budete",
+        "en-us": "you will"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "kedy",
+        "en-us": "when"
+    },
+    {
+        "word": "na\u0161e",
+        "en-us": "our"
+    },
+    {
+        "word": "samozrejme",
+        "en-us": "of course"
+    },
+    {
+        "word": "spolo\u010dnosti",
+        "en-us": "companies"
+    },
+    {
+        "word": "svojho",
+        "en-us": "his"
+    },
+    {
+        "word": "t\u00e1to",
+        "en-us": "this"
+    },
+    {
+        "word": "veci",
+        "en-us": "things"
+    },
+    {
+        "word": "dve",
+        "en-us": "two"
+    },
+    {
+        "word": "nej",
+        "en-us": "her"
+    },
+    {
+        "word": "okolo",
+        "en-us": "around"
+    },
+    {
+        "word": "tri",
+        "en-us": "three"
+    },
+    {
+        "word": "t\u00fdch",
+        "en-us": "those"
+    },
+    {
+        "word": "ktorom",
+        "en-us": "which"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "\u010d",
+        "en-us": "\u010d"
+    },
+    {
+        "word": "\u010dlovek",
+        "en-us": "man"
+    },
+    {
+        "word": "chcete",
+        "en-us": "want"
+    },
+    {
+        "word": "mohli",
+        "en-us": "could"
+    },
+    {
+        "word": "napr",
+        "en-us": "e.g."
+    },
+    {
+        "word": "dvoch",
+        "en-us": "two"
+    },
+    {
+        "word": "rok",
+        "en-us": "year"
+    },
+    {
+        "word": "seba",
+        "en-us": "myself"
+    },
+    {
+        "word": "sk\u00f4r",
+        "en-us": "formerly"
+    },
+    {
+        "word": "s\u00fa\u010das\u0165ou",
+        "en-us": "part of"
+    },
+    {
+        "word": "aspo\u0148",
+        "en-us": "at least"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "my",
+        "en-us": "my"
+    },
+    {
+        "word": "nesk\u00f4r",
+        "en-us": "later"
+    },
+    {
+        "word": "ne\u017e",
+        "en-us": "than"
+    },
+    {
+        "word": "nikdy",
+        "en-us": "never"
+    },
+    {
+        "word": "patr\u00ed",
+        "en-us": "include"
+    },
+    {
+        "word": "v\u00f4bec",
+        "en-us": "ever"
+    },
+    {
+        "word": "\u010dase",
+        "en-us": "time"
+    },
+    {
+        "word": "syst\u00e9m",
+        "en-us": "system"
+    },
+    {
+        "word": "lep\u0161ie",
+        "en-us": "better"
+    },
+    {
+        "word": "probl\u00e9m",
+        "en-us": "problem"
+    },
+    {
+        "word": "republiky",
+        "en-us": "republic"
+    },
+    {
+        "word": "sveta",
+        "en-us": "of the world"
+    },
+    {
+        "word": "v\u0161etci",
+        "en-us": "all"
+    },
+    {
+        "word": "dos\u0165",
+        "en-us": "enough"
+    },
+    {
+        "word": "t\u00fdchto",
+        "en-us": "these"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "d\u0148a",
+        "en-us": "of the day"
+    },
+    {
+        "word": "hlavne",
+        "en-us": "especially"
+    },
+    {
+        "word": "pri\u010dom",
+        "en-us": "while"
+    },
+    {
+        "word": "strany",
+        "en-us": "parties"
+    },
+    {
+        "word": "mieste",
+        "en-us": "site"
+    },
+    {
+        "word": "raz",
+        "en-us": "once"
+    },
+    {
+        "word": "roka",
+        "en-us": "year"
+    },
+    {
+        "word": "rokoch",
+        "en-us": "years"
+    },
+    {
+        "word": "svojich",
+        "en-us": "their"
+    },
+    {
+        "word": "meno",
+        "en-us": "name"
+    },
+    {
+        "word": "neho",
+        "en-us": "him"
+    },
+    {
+        "word": "niekedy",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "slovenska",
+        "en-us": "slovenian"
+    },
+    {
+        "word": "t\u00e1",
+        "en-us": "she"
+    },
+    {
+        "word": "z\u00e1rove\u0148",
+        "en-us": "simultaneously"
+    },
+    {
+        "word": "hne\u010f",
+        "en-us": "right away"
+    },
+    {
+        "word": "niektor\u00e9",
+        "en-us": "some"
+    },
+    {
+        "word": "r\u00e1mci",
+        "en-us": "within"
+    },
+    {
+        "word": "sebe",
+        "en-us": "myself"
+    },
+    {
+        "word": "spolo\u010dnos\u0165",
+        "en-us": "company"
+    },
+    {
+        "word": "sr",
+        "en-us": "sr"
+    },
+    {
+        "word": "str\u00e1nke",
+        "en-us": "page"
+    },
+    {
+        "word": "ve\u013ek\u00fd",
+        "en-us": "large"
+    },
+    {
+        "word": "\u017eivota",
+        "en-us": "life"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "hovor\u00ed",
+        "en-us": "he says"
+    },
+    {
+        "word": "in\u00fdch",
+        "en-us": "other"
+    },
+    {
+        "word": "kv\u00f4li",
+        "en-us": "due to"
+    },
+    {
+        "word": "mesto",
+        "en-us": "city"
+    },
+    {
+        "word": "mo\u017en\u00e9",
+        "en-us": "possible"
+    },
+    {
+        "word": "m\u00f4\u017eeme",
+        "en-us": "we can"
+    },
+    {
+        "word": "napriek",
+        "en-us": "despite"
+    },
+    {
+        "word": "niekto",
+        "en-us": "someone"
+    },
+    {
+        "word": "\u010fal\u0161\u00edch",
+        "en-us": "next"
+    },
+    {
+        "word": "nem\u00e1",
+        "en-us": "dumb"
+    },
+    {
+        "word": "takto",
+        "en-us": "follows"
+    },
+    {
+        "word": "bratislava",
+        "en-us": "bratislava"
+    },
+    {
+        "word": "celkom",
+        "en-us": "total"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "m\u00f4\u017eu",
+        "en-us": "can"
+    },
+    {
+        "word": "pokia\u013e",
+        "en-us": "if"
+    },
+    {
+        "word": "povedal",
+        "en-us": "he told"
+    },
+    {
+        "word": "r\u00fdchlo",
+        "en-us": "quickly"
+    },
+    {
+        "word": "svete",
+        "en-us": "world"
+    },
+    {
+        "word": "takmer",
+        "en-us": "almost"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "\u010d\u00edslo",
+        "en-us": "number"
+    },
+    {
+        "word": "\u0161koly",
+        "en-us": "schools"
+    },
+    {
+        "word": "die\u0165a",
+        "en-us": "child"
+    },
+    {
+        "word": "neviem",
+        "en-us": "i don't know"
+    },
+    {
+        "word": "nov\u00fd",
+        "en-us": "new"
+    },
+    {
+        "word": "presne",
+        "en-us": "exactly"
+    },
+    {
+        "word": "znamen\u00e1",
+        "en-us": "means"
+    },
+    {
+        "word": "\u010dasu",
+        "en-us": "time"
+    },
+    {
+        "word": "dostal",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "keby",
+        "en-us": "if"
+    },
+    {
+        "word": "k\u00fdm",
+        "en-us": "until"
+    },
+    {
+        "word": "nebude",
+        "en-us": "will not"
+    },
+    {
+        "word": "n\u00e1\u0161",
+        "en-us": "our"
+    },
+    {
+        "word": "n\u00edm",
+        "en-us": "him"
+    },
+    {
+        "word": "po\u010det",
+        "en-us": "number"
+    },
+    {
+        "word": "roky",
+        "en-us": "years"
+    },
+    {
+        "word": "tak\u00e9",
+        "en-us": "also"
+    },
+    {
+        "word": "ve\u013ek\u00e9",
+        "en-us": "large"
+    },
+    {
+        "word": "vr\u00e1tane",
+        "en-us": "including"
+    },
+    {
+        "word": "v\u00e1\u0161",
+        "en-us": "your"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "druhej",
+        "en-us": "the other"
+    },
+    {
+        "word": "inak",
+        "en-us": "otherwise"
+    },
+    {
+        "word": "najlep\u0161ie",
+        "en-us": "best"
+    },
+    {
+        "word": "n\u00e1js\u0165",
+        "en-us": "find"
+    },
+    {
+        "word": "obce",
+        "en-us": "municipalities"
+    },
+    {
+        "word": "pr\u00e1ce",
+        "en-us": "thesis"
+    },
+    {
+        "word": "slovensko",
+        "en-us": "slovakia"
+    },
+    {
+        "word": "trochu",
+        "en-us": "a little"
+    },
+    {
+        "word": "vtedy",
+        "en-us": "back then"
+    },
+    {
+        "word": "ceny",
+        "en-us": "prices"
+    },
+    {
+        "word": "obsahuje",
+        "en-us": "contains"
+    },
+    {
+        "word": "pomocou",
+        "en-us": "via"
+    },
+    {
+        "word": "predov\u0161etk\u00fdm",
+        "en-us": "especially"
+    },
+    {
+        "word": "pr\u00edpade",
+        "en-us": "case"
+    },
+    {
+        "word": "rada",
+        "en-us": "council"
+    },
+    {
+        "word": "r\u00f4znych",
+        "en-us": "various"
+    },
+    {
+        "word": "zatia\u013e",
+        "en-us": "so far"
+    },
+    {
+        "word": "za\u010diatku",
+        "en-us": "beginning"
+    },
+    {
+        "word": "\u010d\u00edm",
+        "en-us": "whereby"
+    },
+    {
+        "word": "\u017eeny",
+        "en-us": "women"
+    },
+    {
+        "word": "chce",
+        "en-us": "wants"
+    },
+    {
+        "word": "dobr\u00e9",
+        "en-us": "good"
+    },
+    {
+        "word": "dokonca",
+        "en-us": "even"
+    },
+    {
+        "word": "doma",
+        "en-us": "home"
+    },
+    {
+        "word": "jedna",
+        "en-us": "one"
+    },
+    {
+        "word": "jedn\u00e9ho",
+        "en-us": "one"
+    },
+    {
+        "word": "niektor\u00fdch",
+        "en-us": "some"
+    },
+    {
+        "word": "robi\u0165",
+        "en-us": "do"
+    },
+    {
+        "word": "syn",
+        "en-us": "son of"
+    },
+    {
+        "word": "\u0148om",
+        "en-us": "thereof"
+    },
+    {
+        "word": "\u017eiadne",
+        "en-us": "none"
+    },
+    {
+        "word": "op\u00e4\u0165",
+        "en-us": "again"
+    },
+    {
+        "word": "poveda\u0165",
+        "en-us": "say"
+    },
+    {
+        "word": "prv\u00e9",
+        "en-us": "first"
+    },
+    {
+        "word": "pr\u00e1cu",
+        "en-us": "work"
+    },
+    {
+        "word": "strane",
+        "en-us": "page"
+    },
+    {
+        "word": "vy",
+        "en-us": "you"
+    },
+    {
+        "word": "ak\u00e9",
+        "en-us": "what"
+    },
+    {
+        "word": "hry",
+        "en-us": "games"
+    },
+    {
+        "word": "m\u00f4j",
+        "en-us": "my"
+    },
+    {
+        "word": "pocit",
+        "en-us": "feeling"
+    },
+    {
+        "word": "probl\u00e9my",
+        "en-us": "problems"
+    },
+    {
+        "word": "s\u00e1m",
+        "en-us": "myself"
+    },
+    {
+        "word": "taktie\u017e",
+        "en-us": "also"
+    },
+    {
+        "word": "z\u00e1klade",
+        "en-us": "based on"
+    },
+    {
+        "word": "domov",
+        "en-us": "home"
+    },
+    {
+        "word": "d\u00e1",
+        "en-us": "can"
+    },
+    {
+        "word": "hod\u00edn",
+        "en-us": "hours"
+    },
+    {
+        "word": "jedno",
+        "en-us": "one"
+    },
+    {
+        "word": "jednu",
+        "en-us": "one"
+    },
+    {
+        "word": "min\u00fat",
+        "en-us": "minutes"
+    },
+    {
+        "word": "skupiny",
+        "en-us": "groups"
+    },
+    {
+        "word": "sp\u00f4sob",
+        "en-us": "way"
+    },
+    {
+        "word": "vidie\u0165",
+        "en-us": "see"
+    },
+    {
+        "word": "budeme",
+        "en-us": "we will"
+    },
+    {
+        "word": "mno\u017estvo",
+        "en-us": "quantity"
+    },
+    {
+        "word": "mysl\u00edm",
+        "en-us": "i think"
+    },
+    {
+        "word": "nimi",
+        "en-us": "them"
+    },
+    {
+        "word": "n\u00e1sledne",
+        "en-us": "subsequently"
+    },
+    {
+        "word": "spr\u00e1vne",
+        "en-us": "correct"
+    },
+    {
+        "word": "ti",
+        "en-us": "these"
+    },
+    {
+        "word": "dobr\u00fd",
+        "en-us": "good"
+    },
+    {
+        "word": "mohol",
+        "en-us": "could"
+    },
+    {
+        "word": "moje",
+        "en-us": "my"
+    },
+    {
+        "word": "otec",
+        "en-us": "father"
+    },
+    {
+        "word": "priamo",
+        "en-us": "directly"
+    },
+    {
+        "word": "telo",
+        "en-us": "body"
+    },
+    {
+        "word": "v\u00fdsledky",
+        "en-us": "results"
+    },
+    {
+        "word": "\u010fal\u0161\u00ed",
+        "en-us": "next"
+    },
+    {
+        "word": "bratislave",
+        "en-us": "bratislava"
+    },
+    {
+        "word": "john",
+        "en-us": "john"
+    },
+    {
+        "word": "ke\u010f\u017ee",
+        "en-us": "whereas"
+    },
+    {
+        "word": "postupne",
+        "en-us": "gradually"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "vlastne",
+        "en-us": "actually"
+    },
+    {
+        "word": "dom",
+        "en-us": "home"
+    },
+    {
+        "word": "domu",
+        "en-us": "home"
+    },
+    {
+        "word": "meste",
+        "en-us": "city"
+    },
+    {
+        "word": "nakoniec",
+        "en-us": "finally"
+    },
+    {
+        "word": "sebou",
+        "en-us": "with me"
+    },
+    {
+        "word": "svet",
+        "en-us": "world"
+    },
+    {
+        "word": "\u00eds\u0165",
+        "en-us": "go"
+    },
+    {
+        "word": "dlho",
+        "en-us": "long"
+    },
+    {
+        "word": "jednoducho",
+        "en-us": "simply"
+    },
+    {
+        "word": "jedn\u00fdm",
+        "en-us": "one"
+    },
+    {
+        "word": "pr\u00edli\u0161",
+        "en-us": "too"
+    },
+    {
+        "word": "r\u00f4zne",
+        "en-us": "various"
+    },
+    {
+        "word": "s\u00fa\u010dasnosti",
+        "en-us": "present"
+    },
+    {
+        "word": "tej",
+        "en-us": "this"
+    },
+    {
+        "word": "troch",
+        "en-us": "three"
+    },
+    {
+        "word": "t\u00fa",
+        "en-us": "this"
+    },
+    {
+        "word": "\u00e1no",
+        "en-us": "yes"
+    },
+    {
+        "word": "budem",
+        "en-us": "i'll be"
+    },
+    {
+        "word": "chcem",
+        "en-us": "i want"
+    },
+    {
+        "word": "da\u0165",
+        "en-us": "give"
+    },
+    {
+        "word": "dobe",
+        "en-us": "time"
+    },
+    {
+        "word": "druh\u00fd",
+        "en-us": "the other"
+    },
+    {
+        "word": "d\u00f4le\u017eit\u00e9",
+        "en-us": "important"
+    },
+    {
+        "word": "ktor\u00fdm",
+        "en-us": "to which"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "peniaze",
+        "en-us": "money"
+    },
+    {
+        "word": "pravdepodobne",
+        "en-us": "probably"
+    },
+    {
+        "word": "resp",
+        "en-us": "or"
+    },
+    {
+        "word": "r\u00e1d",
+        "en-us": "like"
+    },
+    {
+        "word": "skuto\u010dne",
+        "en-us": "indeed"
+    },
+    {
+        "word": "smrti",
+        "en-us": "deaths"
+    },
+    {
+        "word": "tzv",
+        "en-us": "called"
+    },
+    {
+        "word": "t\u00fdmto",
+        "en-us": "hereby"
+    },
+    {
+        "word": "dni",
+        "en-us": "days"
+    },
+    {
+        "word": "in\u00fd",
+        "en-us": "another"
+    },
+    {
+        "word": "jednej",
+        "en-us": "one"
+    },
+    {
+        "word": "obdob\u00ed",
+        "en-us": "period"
+    },
+    {
+        "word": "podobne",
+        "en-us": "similar"
+    },
+    {
+        "word": "rovnako",
+        "en-us": "as well"
+    },
+    {
+        "word": "storo\u010dia",
+        "en-us": "century"
+    },
+    {
+        "word": "urobi\u0165",
+        "en-us": "do"
+    },
+    {
+        "word": "v\u00e4\u010d\u0161ina",
+        "en-us": "most"
+    },
+    {
+        "word": "cena",
+        "en-us": "price"
+    },
+    {
+        "word": "dn\u00ed",
+        "en-us": "days"
+    },
+    {
+        "word": "hoci",
+        "en-us": "although"
+    },
+    {
+        "word": "krajiny",
+        "en-us": "countries"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "mal\u00e9",
+        "en-us": "small"
+    },
+    {
+        "word": "mne",
+        "en-us": "me"
+    },
+    {
+        "word": "na\u0161a",
+        "en-us": "our"
+    },
+    {
+        "word": "na\u0161ej",
+        "en-us": "our"
+    },
+    {
+        "word": "nech",
+        "en-us": "leave"
+    },
+    {
+        "word": "rady",
+        "en-us": "councils"
+    },
+    {
+        "word": "tak\u00fd",
+        "en-us": "such"
+    },
+    {
+        "word": "v\u0161etk\u00fdm",
+        "en-us": "to all"
+    },
+    {
+        "word": "pribli\u017ene",
+        "en-us": "approximately"
+    },
+    {
+        "word": "prvej",
+        "en-us": "first"
+    },
+    {
+        "word": "von",
+        "en-us": "from"
+    },
+    {
+        "word": "\u017eivote",
+        "en-us": "life"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "cel\u00e9",
+        "en-us": "full"
+    },
+    {
+        "word": "malo",
+        "en-us": "little"
+    },
+    {
+        "word": "mimo",
+        "en-us": "via"
+    },
+    {
+        "word": "nebolo",
+        "en-us": "it wasn't"
+    },
+    {
+        "word": "n\u00e1zov",
+        "en-us": "title"
+    },
+    {
+        "word": "pomoc",
+        "en-us": "help"
+    },
+    {
+        "word": "predsa",
+        "en-us": "yet"
+    },
+    {
+        "word": "syst\u00e9mu",
+        "en-us": "system"
+    },
+    {
+        "word": "typu",
+        "en-us": "type"
+    },
+    {
+        "word": "t\u00ed",
+        "en-us": "you"
+    },
+    {
+        "word": "za\u010dal",
+        "en-us": "started"
+    },
+    {
+        "word": "cie\u013eom",
+        "en-us": "aim"
+    },
+    {
+        "word": "kr\u00e1t",
+        "en-us": "times"
+    },
+    {
+        "word": "menej",
+        "en-us": "less"
+    },
+    {
+        "word": "mnoh\u00fdch",
+        "en-us": "many"
+    },
+    {
+        "word": "na\u0161ich",
+        "en-us": "our"
+    },
+    {
+        "word": "nikto",
+        "en-us": "nobody"
+    },
+    {
+        "word": "podarilo",
+        "en-us": "donated by"
+    },
+    {
+        "word": "treba",
+        "en-us": "to be"
+    },
+    {
+        "word": "t\u00fd\u017ede\u0148",
+        "en-us": "week"
+    },
+    {
+        "word": "chcel",
+        "en-us": "wanted"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "ove\u013ea",
+        "en-us": "much"
+    },
+    {
+        "word": "pom\u00f4c\u0165",
+        "en-us": "help"
+    },
+    {
+        "word": "pou\u017e\u00edva",
+        "en-us": "used"
+    },
+    {
+        "word": "predt\u00fdm",
+        "en-us": "previously"
+    },
+    {
+        "word": "p\u00e1n",
+        "en-us": "mr."
+    },
+    {
+        "word": "sta\u010d\u00ed",
+        "en-us": "just"
+    },
+    {
+        "word": "usa",
+        "en-us": "usa"
+    },
+    {
+        "word": "va\u0161ej",
+        "en-us": "your"
+    },
+    {
+        "word": "ve\u010f",
+        "en-us": "see"
+    },
+    {
+        "word": "vie",
+        "en-us": "vie"
+    },
+    {
+        "word": "zomrel",
+        "en-us": "died"
+    },
+    {
+        "word": "\u010fakujem",
+        "en-us": "thank you"
+    },
+    {
+        "word": "dosta\u0165",
+        "en-us": "get"
+    },
+    {
+        "word": "nejak\u00e9",
+        "en-us": "some"
+    },
+    {
+        "word": "nov\u00e1",
+        "en-us": "new"
+    },
+    {
+        "word": "n\u00e1zvom",
+        "en-us": "called"
+    },
+    {
+        "word": "pr\u00e1va",
+        "en-us": "rights"
+    },
+    {
+        "word": "pr\u00e1vo",
+        "en-us": "right"
+    },
+    {
+        "word": "pr\u00edbeh",
+        "en-us": "story by"
+    },
+    {
+        "word": "str\u00e1nky",
+        "en-us": "website"
+    },
+    {
+        "word": "svojom",
+        "en-us": "its"
+    },
+    {
+        "word": "vec",
+        "en-us": "thing"
+    },
+    {
+        "word": "vec\u00ed",
+        "en-us": "things"
+    },
+    {
+        "word": "ve\u013ekos\u0165",
+        "en-us": "size"
+    },
+    {
+        "word": "vody",
+        "en-us": "waters"
+    },
+    {
+        "word": "\u010dinnos\u0165",
+        "en-us": "activity"
+    },
+    {
+        "word": "miest",
+        "en-us": "places"
+    },
+    {
+        "word": "nem\u00f4\u017ee",
+        "en-us": "he can't"
+    },
+    {
+        "word": "obdobie",
+        "en-us": "period"
+    },
+    {
+        "word": "priebehu",
+        "en-us": "during"
+    },
+    {
+        "word": "program",
+        "en-us": "program"
+    },
+    {
+        "word": "spr\u00e1vy",
+        "en-us": "news"
+    },
+    {
+        "word": "s\u00fa\u0165a\u017ee",
+        "en-us": "competitions"
+    },
+    {
+        "word": "vedie\u0165",
+        "en-us": "know"
+    },
+    {
+        "word": "ve\u013ek\u00e1",
+        "en-us": "large"
+    },
+    {
+        "word": "viem",
+        "en-us": "i know"
+    },
+    {
+        "word": "v\u00fd\u0161ke",
+        "en-us": "height"
+    },
+    {
+        "word": "za\u010dala",
+        "en-us": "started"
+    },
+    {
+        "word": "ak\u00fd",
+        "en-us": "like"
+    },
+    {
+        "word": "cesta",
+        "en-us": "way"
+    },
+    {
+        "word": "cesty",
+        "en-us": "roads"
+    },
+    {
+        "word": "ha",
+        "en-us": "ha"
+    },
+    {
+        "word": "in",
+        "en-us": "and"
+    },
+    {
+        "word": "najviac",
+        "en-us": "most"
+    },
+    {
+        "word": "novej",
+        "en-us": "new"
+    },
+    {
+        "word": "nov\u00e9ho",
+        "en-us": "new"
+    },
+    {
+        "word": "os\u00f4b",
+        "en-us": "persons"
+    },
+    {
+        "word": "pr\u00e1ci",
+        "en-us": "work"
+    },
+    {
+        "word": "rozdiel",
+        "en-us": "difference"
+    },
+    {
+        "word": "slovensk\u00e9ho",
+        "en-us": "slovak"
+    },
+    {
+        "word": "za\u010dali",
+        "en-us": "started"
+    },
+    {
+        "word": "\u0161t\u00e1tu",
+        "en-us": "state"
+    },
+    {
+        "word": "cenu",
+        "en-us": "price"
+    },
+    {
+        "word": "cestu",
+        "en-us": "way"
+    },
+    {
+        "word": "fakt",
+        "en-us": "fact"
+    },
+    {
+        "word": "film",
+        "en-us": "film"
+    },
+    {
+        "word": "knihy",
+        "en-us": "books"
+    },
+    {
+        "word": "nebol",
+        "en-us": "he wasn't"
+    },
+    {
+        "word": "nejak\u00fd",
+        "en-us": "some"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "slovensk\u00fdch",
+        "en-us": "slovak"
+    },
+    {
+        "word": "stal",
+        "en-us": "steel"
+    },
+    {
+        "word": "super",
+        "en-us": "super"
+    },
+    {
+        "word": "\u0161tyri",
+        "en-us": "four"
+    },
+    {
+        "word": "de",
+        "en-us": "de"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "mnoho",
+        "en-us": "many"
+    },
+    {
+        "word": "moja",
+        "en-us": "my"
+    },
+    {
+        "word": "obci",
+        "en-us": "municipality"
+    },
+    {
+        "word": "pr\u00e1ca",
+        "en-us": "work"
+    },
+    {
+        "word": "zmysle",
+        "en-us": "meaning"
+    },
+    {
+        "word": "\u00b0",
+        "en-us": "\u00b0"
+    },
+    {
+        "word": "cel\u00fa",
+        "en-us": "full"
+    },
+    {
+        "word": "chc\u00fa",
+        "en-us": "want"
+    },
+    {
+        "word": "hodiny",
+        "en-us": "hours"
+    },
+    {
+        "word": "n\u00e1\u0161ho",
+        "en-us": "our"
+    },
+    {
+        "word": "pros\u00edm",
+        "en-us": "please"
+    },
+    {
+        "word": "pr\u00edde",
+        "en-us": "coming to"
+    },
+    {
+        "word": "rodiny",
+        "en-us": "families"
+    },
+    {
+        "word": "viacer\u00fdch",
+        "en-us": "more"
+    },
+    {
+        "word": "v\u00e4\u010d\u0161inou",
+        "en-us": "mostly"
+    },
+    {
+        "word": "\u010dinnosti",
+        "en-us": "activities"
+    },
+    {
+        "word": "auto",
+        "en-us": "auto"
+    },
+    {
+        "word": "av\u0161ak",
+        "en-us": "but"
+    },
+    {
+        "word": "funkcie",
+        "en-us": "functions"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "inform\u00e1cie",
+        "en-us": "information"
+    },
+    {
+        "word": "ko\u013eko",
+        "en-us": "how many"
+    },
+    {
+        "word": "mo\u017enos\u0165",
+        "en-us": "option"
+    },
+    {
+        "word": "ochrany",
+        "en-us": "protection"
+    },
+    {
+        "word": "pozrie\u0165",
+        "en-us": "see"
+    },
+    {
+        "word": "rob\u00ed",
+        "en-us": "does"
+    },
+    {
+        "word": "stalo",
+        "en-us": "table"
+    },
+    {
+        "word": "va\u0161u",
+        "en-us": "your"
+    },
+    {
+        "word": "ve\u013ekej",
+        "en-us": "large"
+    },
+    {
+        "word": "\u00fazem\u00ed",
+        "en-us": "territory"
+    },
+    {
+        "word": "\u010dloveka",
+        "en-us": "human"
+    },
+    {
+        "word": "cca",
+        "en-us": "approx."
+    },
+    {
+        "word": "ceste",
+        "en-us": "roads"
+    },
+    {
+        "word": "chcela",
+        "en-us": "she wanted"
+    },
+    {
+        "word": "eur\u00f3pskej",
+        "en-us": "european"
+    },
+    {
+        "word": "ka\u017ed\u00e9ho",
+        "en-us": "each"
+    },
+    {
+        "word": "kone\u010dne",
+        "en-us": "finally"
+    },
+    {
+        "word": "mu\u017ei",
+        "en-us": "men"
+    },
+    {
+        "word": "prv\u00e1",
+        "en-us": "first"
+    },
+    {
+        "word": "slovensk\u00fd",
+        "en-us": "slovak"
+    },
+    {
+        "word": "sp\u00e4\u0165",
+        "en-us": "back"
+    },
+    {
+        "word": "sv",
+        "en-us": "sv"
+    },
+    {
+        "word": "ve\u010der",
+        "en-us": "evening"
+    },
+    {
+        "word": "v\u00e1\u0161ho",
+        "en-us": "your"
+    },
+    {
+        "word": "mohla",
+        "en-us": "could"
+    },
+    {
+        "word": "najlep\u0161\u00ed",
+        "en-us": "best"
+    },
+    {
+        "word": "na\u0161u",
+        "en-us": "our"
+    },
+    {
+        "word": "radi",
+        "en-us": "like"
+    },
+    {
+        "word": "svojou",
+        "en-us": "with his"
+    },
+    {
+        "word": "v\u00fdkon",
+        "en-us": "performance"
+    },
+    {
+        "word": "\u0165a",
+        "en-us": "you"
+    },
+    {
+        "word": "celej",
+        "en-us": "all over"
+    },
+    {
+        "word": "chceli",
+        "en-us": "they wanted"
+    },
+    {
+        "word": "dal",
+        "en-us": "put"
+    },
+    {
+        "word": "matka",
+        "en-us": "mother"
+    },
+    {
+        "word": "minulosti",
+        "en-us": "past"
+    },
+    {
+        "word": "moc",
+        "en-us": "power"
+    },
+    {
+        "word": "mus\u00edm",
+        "en-us": "i have to"
+    },
+    {
+        "word": "m\u00f4\u017eem",
+        "en-us": "i can"
+    },
+    {
+        "word": "najprv",
+        "en-us": "first"
+    },
+    {
+        "word": "nami",
+        "en-us": "us"
+    },
+    {
+        "word": "nov\u00fdch",
+        "en-us": "new"
+    },
+    {
+        "word": "pomerne",
+        "en-us": "proportionately"
+    },
+    {
+        "word": "rad\u0161ej",
+        "en-us": "prefer"
+    },
+    {
+        "word": "r\u00e1no",
+        "en-us": "morning"
+    },
+    {
+        "word": "slu\u017eby",
+        "en-us": "services"
+    },
+    {
+        "word": "typ",
+        "en-us": "type"
+    },
+    {
+        "word": "vl\u00e1dy",
+        "en-us": "governments"
+    },
+    {
+        "word": "you",
+        "en-us": "you"
+    },
+    {
+        "word": "\u0161kole",
+        "en-us": "school"
+    },
+    {
+        "word": "\u017eije",
+        "en-us": "alive"
+    },
+    {
+        "word": "chceme",
+        "en-us": "we want"
+    },
+    {
+        "word": "in\u00e9ho",
+        "en-us": "other"
+    },
+    {
+        "word": "kniha",
+        "en-us": "book"
+    },
+    {
+        "word": "miesta",
+        "en-us": "locations"
+    },
+    {
+        "word": "musia",
+        "en-us": "must"
+    },
+    {
+        "word": "mus\u00edte",
+        "en-us": "you must"
+    },
+    {
+        "word": "pracova\u0165",
+        "en-us": "work"
+    },
+    {
+        "word": "pri\u0161iel",
+        "en-us": "arrived"
+    },
+    {
+        "word": "sem",
+        "en-us": "here"
+    },
+    {
+        "word": "skuto\u010dnosti",
+        "en-us": "facts"
+    },
+    {
+        "word": "smerom",
+        "en-us": "towards"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "\u010dlenov",
+        "en-us": "members"
+    },
+    {
+        "word": "\u0148ou",
+        "en-us": "her"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "bu\u010f",
+        "en-us": "either"
+    },
+    {
+        "word": "kraj\u00edn",
+        "en-us": "countries"
+    },
+    {
+        "word": "mal\u00fd",
+        "en-us": "small"
+    },
+    {
+        "word": "mm",
+        "en-us": "mm"
+    },
+    {
+        "word": "obec",
+        "en-us": "community"
+    },
+    {
+        "word": "obyvate\u013eov",
+        "en-us": "population"
+    },
+    {
+        "word": "projekt",
+        "en-us": "project"
+    },
+    {
+        "word": "prostredn\u00edctvom",
+        "en-us": "via"
+    },
+    {
+        "word": "rokmi",
+        "en-us": "flights"
+    },
+    {
+        "word": "skoro",
+        "en-us": "almost"
+    },
+    {
+        "word": "slovensk\u00e1",
+        "en-us": "slovak"
+    },
+    {
+        "word": "vo\u010di",
+        "en-us": "towards"
+    },
+    {
+        "word": "z\u00e1kon",
+        "en-us": "law"
+    },
+    {
+        "word": "boh",
+        "en-us": "god"
+    },
+    {
+        "word": "dostali",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "ka\u017ed\u00fa",
+        "en-us": "each"
+    },
+    {
+        "word": "model",
+        "en-us": "model"
+    },
+    {
+        "word": "mu\u017eov",
+        "en-us": "men"
+    },
+    {
+        "word": "nielen",
+        "en-us": "not only"
+    },
+    {
+        "word": "noc",
+        "en-us": "night"
+    },
+    {
+        "word": "noci",
+        "en-us": "nights"
+    },
+    {
+        "word": "okol\u00ed",
+        "en-us": "near"
+    },
+    {
+        "word": "peter",
+        "en-us": "peter"
+    },
+    {
+        "word": "poriadku",
+        "en-us": "ok"
+    },
+    {
+        "word": "ruky",
+        "en-us": "hands"
+    },
+    {
+        "word": "stoj\u00ed",
+        "en-us": "worth"
+    },
+    {
+        "word": "t\u00edm",
+        "en-us": "by"
+    },
+    {
+        "word": "veku",
+        "en-us": "age"
+    },
+    {
+        "word": "viete",
+        "en-us": "you know"
+    },
+    {
+        "word": "vplyv",
+        "en-us": "impact"
+    },
+    {
+        "word": "vyzer\u00e1",
+        "en-us": "looks like"
+    },
+    {
+        "word": "zase",
+        "en-us": "again"
+    },
+    {
+        "word": "za\u010d\u00edna",
+        "en-us": "starts at"
+    },
+    {
+        "word": "\u013eu\u010fom",
+        "en-us": "to the people"
+    },
+    {
+        "word": "\u0161kola",
+        "en-us": "school"
+    },
+    {
+        "word": "byt",
+        "en-us": "flat"
+    },
+    {
+        "word": "konci",
+        "en-us": "end"
+    },
+    {
+        "word": "ko\u0161ice",
+        "en-us": "kosice"
+    },
+    {
+        "word": "mesiac",
+        "en-us": "month"
+    },
+    {
+        "word": "organiz\u00e1cie",
+        "en-us": "organisations"
+    },
+    {
+        "word": "pekne",
+        "en-us": "nice"
+    },
+    {
+        "word": "sama",
+        "en-us": "itself"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "vieme",
+        "en-us": "we know"
+    },
+    {
+        "word": "vr\u00e1til",
+        "en-us": "returned"
+    },
+    {
+        "word": "vzniku",
+        "en-us": "origin"
+    },
+    {
+        "word": "za\u010da\u0165",
+        "en-us": "start"
+    },
+    {
+        "word": "z\u00e1kladn\u00e9",
+        "en-us": "basic"
+    },
+    {
+        "word": "\u017eien",
+        "en-us": "women"
+    },
+    {
+        "word": "centrum",
+        "en-us": "centre"
+    },
+    {
+        "word": "eur\u00f3pe",
+        "en-us": "europe"
+    },
+    {
+        "word": "hra\u0165",
+        "en-us": "play"
+    },
+    {
+        "word": "ii",
+        "en-us": "ii"
+    },
+    {
+        "word": "j",
+        "en-us": "j"
+    },
+    {
+        "word": "konca",
+        "en-us": "ends"
+    },
+    {
+        "word": "lo\u010f",
+        "en-us": "boat"
+    },
+    {
+        "word": "metrov",
+        "en-us": "meters"
+    },
+    {
+        "word": "m\u00f4c\u0165",
+        "en-us": "able"
+    },
+    {
+        "word": "nebola",
+        "en-us": "she wasn't"
+    },
+    {
+        "word": "nieko\u013ek\u00fdch",
+        "en-us": "several"
+    },
+    {
+        "word": "okt\u00f3bra",
+        "en-us": "october"
+    },
+    {
+        "word": "pr\u00edpadne",
+        "en-us": "alternatively"
+    },
+    {
+        "word": "rodina",
+        "en-us": "family"
+    },
+    {
+        "word": "spr\u00e1vu",
+        "en-us": "report"
+    },
+    {
+        "word": "sta\u0165",
+        "en-us": "state"
+    },
+    {
+        "word": "to\u013eko",
+        "en-us": "so much"
+    },
+    {
+        "word": "ty",
+        "en-us": "you"
+    },
+    {
+        "word": "zmeni\u0165",
+        "en-us": "change"
+    },
+    {
+        "word": "znova",
+        "en-us": "again"
+    },
+    {
+        "word": "zn\u00e1me",
+        "en-us": "known"
+    },
+    {
+        "word": "zoznam",
+        "en-us": "list"
+    },
+    {
+        "word": "dostala",
+        "en-us": "she got"
+    },
+    {
+        "word": "existuje",
+        "en-us": "exists"
+    },
+    {
+        "word": "jednotliv\u00fdch",
+        "en-us": "individual"
+    },
+    {
+        "word": "ne",
+        "en-us": "no"
+    },
+    {
+        "word": "nem\u00e1m",
+        "en-us": "i don't have"
+    },
+    {
+        "word": "ostatn\u00e9",
+        "en-us": "other"
+    },
+    {
+        "word": "patria",
+        "en-us": "include"
+    },
+    {
+        "word": "pou\u017ei\u0165",
+        "en-us": "use"
+    },
+    {
+        "word": "prvom",
+        "en-us": "first"
+    },
+    {
+        "word": "skupina",
+        "en-us": "group"
+    },
+    {
+        "word": "spojen\u00e9",
+        "en-us": "linked"
+    },
+    {
+        "word": "spolo\u010dne",
+        "en-us": "together"
+    },
+    {
+        "word": "stav",
+        "en-us": "status"
+    },
+    {
+        "word": "vedie",
+        "en-us": "leads"
+    },
+    {
+        "word": "vzh\u013eadom",
+        "en-us": "with regard to"
+    },
+    {
+        "word": "\u0148u",
+        "en-us": "her"
+    },
+    {
+        "word": "akoby",
+        "en-us": "as if"
+    },
+    {
+        "word": "eur\u00f3py",
+        "en-us": "europe"
+    },
+    {
+        "word": "hra",
+        "en-us": "game"
+    },
+    {
+        "word": "j\u00e1n",
+        "en-us": "john"
+    },
+    {
+        "word": "j\u00fana",
+        "en-us": "june"
+    },
+    {
+        "word": "mal\u00e1",
+        "en-us": "small"
+    },
+    {
+        "word": "michael",
+        "en-us": "michael"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "najsk\u00f4r",
+        "en-us": "first"
+    },
+    {
+        "word": "n\u00e1rodnej",
+        "en-us": "national"
+    },
+    {
+        "word": "predstavuje",
+        "en-us": "presented by"
+    },
+    {
+        "word": "prv\u00e9ho",
+        "en-us": "first"
+    },
+    {
+        "word": "septembra",
+        "en-us": "september"
+    },
+    {
+        "word": "svojim",
+        "en-us": "to their"
+    },
+    {
+        "word": "tak\u00e1",
+        "en-us": "such"
+    },
+    {
+        "word": "vlasy",
+        "en-us": "hair"
+    },
+    {
+        "word": "znovu",
+        "en-us": "again"
+    },
+    {
+        "word": "funguje",
+        "en-us": "works"
+    },
+    {
+        "word": "kr\u00e1\u013e",
+        "en-us": "king"
+    },
+    {
+        "word": "mesiacov",
+        "en-us": "months"
+    },
+    {
+        "word": "nemali",
+        "en-us": "they didn't"
+    },
+    {
+        "word": "novembra",
+        "en-us": "november"
+    },
+    {
+        "word": "oboch",
+        "en-us": "both"
+    },
+    {
+        "word": "o\u010di",
+        "en-us": "eyes"
+    },
+    {
+        "word": "slovo",
+        "en-us": "word"
+    },
+    {
+        "word": "slov\u00e1",
+        "en-us": "words"
+    },
+    {
+        "word": "stretnutie",
+        "en-us": "meeting"
+    },
+    {
+        "word": "v\u00fdrazne",
+        "en-us": "significantly"
+    },
+    {
+        "word": "\u00falohu",
+        "en-us": "role"
+    },
+    {
+        "word": "\u0165a\u017ek\u00e9",
+        "en-us": "difficult"
+    },
+    {
+        "word": "dc\u00e9ra",
+        "en-us": "daughter"
+    },
+    {
+        "word": "doby",
+        "en-us": "times"
+    },
+    {
+        "word": "dvere",
+        "en-us": "doors"
+    },
+    {
+        "word": "jasn\u00e9",
+        "en-us": "clear"
+    },
+    {
+        "word": "mohlo",
+        "en-us": "could"
+    },
+    {
+        "word": "mojej",
+        "en-us": "my"
+    },
+    {
+        "word": "nach\u00e1dzaj\u00fa",
+        "en-us": "located"
+    },
+    {
+        "word": "neboli",
+        "en-us": "or"
+    },
+    {
+        "word": "ned\u00e1",
+        "en-us": "can't"
+    },
+    {
+        "word": "obdobia",
+        "en-us": "periods"
+    },
+    {
+        "word": "pani",
+        "en-us": "ms."
+    },
+    {
+        "word": "po\u010dtu",
+        "en-us": "count"
+    },
+    {
+        "word": "prv\u00fdch",
+        "en-us": "first"
+    },
+    {
+        "word": "p\u00e4\u0165",
+        "en-us": "five"
+    },
+    {
+        "word": "sami",
+        "en-us": "themselves"
+    },
+    {
+        "word": "sp\u00f4sobom",
+        "en-us": "by way of"
+    },
+    {
+        "word": "syna",
+        "en-us": "son"
+    },
+    {
+        "word": "va\u0161a",
+        "en-us": "yours"
+    },
+    {
+        "word": "zem",
+        "en-us": "ground"
+    },
+    {
+        "word": "\u010dak\u00e1",
+        "en-us": "pending"
+    },
+    {
+        "word": "\u017eena",
+        "en-us": "woman"
+    },
+    {
+        "word": "cm",
+        "en-us": "cm"
+    },
+    {
+        "word": "dome",
+        "en-us": "home"
+    },
+    {
+        "word": "d\u00f4sledku",
+        "en-us": "due to"
+    },
+    {
+        "word": "hlavy",
+        "en-us": "heads"
+    },
+    {
+        "word": "jednou",
+        "en-us": "once"
+    },
+    {
+        "word": "mus\u00edme",
+        "en-us": "we must"
+    },
+    {
+        "word": "m\u00e1ja",
+        "en-us": "may"
+    },
+    {
+        "word": "odpove\u010f",
+        "en-us": "answer"
+    },
+    {
+        "word": "ona",
+        "en-us": "she"
+    },
+    {
+        "word": "oni",
+        "en-us": "they"
+    },
+    {
+        "word": "pol",
+        "en-us": "pol"
+    },
+    {
+        "word": "pri\u0161li",
+        "en-us": "they came"
+    },
+    {
+        "word": "str\u00e1nka",
+        "en-us": "page"
+    },
+    {
+        "word": "vy\u0161\u0161ie",
+        "en-us": "above"
+    },
+    {
+        "word": "z\u00e1pas",
+        "en-us": "match"
+    },
+    {
+        "word": "z\u00edska\u0165",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "apr\u00edla",
+        "en-us": "april"
+    },
+    {
+        "word": "celom",
+        "en-us": "throughout"
+    },
+    {
+        "word": "centre",
+        "en-us": "centre"
+    },
+    {
+        "word": "chv\u00ed\u013eu",
+        "en-us": "a while"
+    },
+    {
+        "word": "h\u013eadiska",
+        "en-us": "in terms of"
+    },
+    {
+        "word": "jednoduch\u00e9",
+        "en-us": "simple"
+    },
+    {
+        "word": "kult\u00fary",
+        "en-us": "cultures"
+    },
+    {
+        "word": "martin",
+        "en-us": "martin"
+    },
+    {
+        "word": "mili\u00f3nov",
+        "en-us": "million"
+    },
+    {
+        "word": "okam\u017eite",
+        "en-us": "immediately"
+    },
+    {
+        "word": "pokra\u010dova\u0165",
+        "en-us": "continue"
+    },
+    {
+        "word": "pomaly",
+        "en-us": "slowly"
+    },
+    {
+        "word": "priestor",
+        "en-us": "space"
+    },
+    {
+        "word": "proces",
+        "en-us": "process"
+    },
+    {
+        "word": "rodi\u010dia",
+        "en-us": "parents"
+    },
+    {
+        "word": "rozhodne",
+        "en-us": "definitely"
+    },
+    {
+        "word": "rozvoj",
+        "en-us": "development"
+    },
+    {
+        "word": "tis\u00edc",
+        "en-us": "thousand"
+    },
+    {
+        "word": "t\u00fd\u017edne",
+        "en-us": "weeks"
+    },
+    {
+        "word": "vami",
+        "en-us": "you"
+    },
+    {
+        "word": "\u0161t\u00fadia",
+        "en-us": "study"
+    },
+    {
+        "word": "\u0165a\u017eko",
+        "en-us": "hardly"
+    },
+    {
+        "word": "bl\u00edzkosti",
+        "en-us": "near"
+    },
+    {
+        "word": "celkovo",
+        "en-us": "total"
+    },
+    {
+        "word": "druh",
+        "en-us": "kind of"
+    },
+    {
+        "word": "druhom",
+        "en-us": "species"
+    },
+    {
+        "word": "d\u00e1va",
+        "en-us": "gives"
+    },
+    {
+        "word": "d\u00f4vod",
+        "en-us": "reason"
+    },
+    {
+        "word": "d\u013a\u017eka",
+        "en-us": "length"
+    },
+    {
+        "word": "kam",
+        "en-us": "to"
+    },
+    {
+        "word": "krvi",
+        "en-us": "blood"
+    },
+    {
+        "word": "musie\u0165",
+        "en-us": "have to"
+    },
+    {
+        "word": "m\u00f4jho",
+        "en-us": "my"
+    },
+    {
+        "word": "namiesto",
+        "en-us": "instead of"
+    },
+    {
+        "word": "nemaj\u00fa",
+        "en-us": "they don't have"
+    },
+    {
+        "word": "nemal",
+        "en-us": "he didn't"
+    },
+    {
+        "word": "odi\u0161iel",
+        "en-us": "left"
+    },
+    {
+        "word": "pe\u0148az\u00ed",
+        "en-us": "money"
+    },
+    {
+        "word": "podobe",
+        "en-us": "in the form of"
+    },
+    {
+        "word": "potrebuje",
+        "en-us": "needs"
+    },
+    {
+        "word": "povedala",
+        "en-us": "she told"
+    },
+    {
+        "word": "proste",
+        "en-us": "simple"
+    },
+    {
+        "word": "pr\u00edrody",
+        "en-us": "nature"
+    },
+    {
+        "word": "sily",
+        "en-us": "forces"
+    },
+    {
+        "word": "stane",
+        "en-us": "become"
+    },
+    {
+        "word": "s\u00fa\u010dasne",
+        "en-us": "simultaneously"
+    },
+    {
+        "word": "s\u00fa\u0165a\u017e",
+        "en-us": "competition"
+    },
+    {
+        "word": "ulici",
+        "en-us": "street"
+    },
+    {
+        "word": "vr\u00e1ti\u0165",
+        "en-us": "return to"
+    },
+    {
+        "word": "v\u00fdber",
+        "en-us": "selection"
+    },
+    {
+        "word": "z\u00edskal",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "\u010dom",
+        "en-us": "whereof"
+    },
+    {
+        "word": "bodov",
+        "en-us": "points"
+    },
+    {
+        "word": "dok\u00e1\u017ee",
+        "en-us": "can"
+    },
+    {
+        "word": "energie",
+        "en-us": "energy"
+    },
+    {
+        "word": "ist\u00e9",
+        "en-us": "sure"
+    },
+    {
+        "word": "janu\u00e1ra",
+        "en-us": "january"
+    },
+    {
+        "word": "kateg\u00f3rii",
+        "en-us": "category"
+    },
+    {
+        "word": "klubu",
+        "en-us": "club"
+    },
+    {
+        "word": "koniec",
+        "en-us": "end"
+    },
+    {
+        "word": "kr\u00e1sne",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "k\u00fapi\u0165",
+        "en-us": "buy"
+    },
+    {
+        "word": "oblas\u0165",
+        "en-us": "area"
+    },
+    {
+        "word": "ot\u00e1zky",
+        "en-us": "questions"
+    },
+    {
+        "word": "posledn\u00fd",
+        "en-us": "last"
+    },
+    {
+        "word": "pou\u017eitie",
+        "en-us": "use"
+    },
+    {
+        "word": "pravda",
+        "en-us": "the Truth"
+    },
+    {
+        "word": "spr\u00e1va",
+        "en-us": "report"
+    },
+    {
+        "word": "svetlo",
+        "en-us": "light"
+    },
+    {
+        "word": "tak\u00e9to",
+        "en-us": "such"
+    },
+    {
+        "word": "tvor\u00ed",
+        "en-us": "formed by"
+    },
+    {
+        "word": "ve\u013ek\u00fa",
+        "en-us": "great"
+    },
+    {
+        "word": "ve\u013ek\u00fdch",
+        "en-us": "large"
+    },
+    {
+        "word": "vlastnosti",
+        "en-us": "properties"
+    },
+    {
+        "word": "vodu",
+        "en-us": "water"
+    },
+    {
+        "word": "vysokej",
+        "en-us": "high"
+    },
+    {
+        "word": "v\u0161ade",
+        "en-us": "everywhere"
+    },
+    {
+        "word": "zmeny",
+        "en-us": "changes"
+    },
+    {
+        "word": "\u017eiadny",
+        "en-us": "none"
+    },
+    {
+        "word": "auta",
+        "en-us": "cars"
+    },
+    {
+        "word": "cel\u00e1",
+        "en-us": "full"
+    },
+    {
+        "word": "druh\u00e1",
+        "en-us": "the other"
+    },
+    {
+        "word": "d\u00f4vodu",
+        "en-us": "because of"
+    },
+    {
+        "word": "hlavn\u00e9",
+        "en-us": "main"
+    },
+    {
+        "word": "mnoh\u00e9",
+        "en-us": "many"
+    },
+    {
+        "word": "musel",
+        "en-us": "must"
+    },
+    {
+        "word": "naj\u010dastej\u0161ie",
+        "en-us": "most often"
+    },
+    {
+        "word": "navy\u0161e",
+        "en-us": "in addition,"
+    },
+    {
+        "word": "niekde",
+        "en-us": "somewhere"
+    },
+    {
+        "word": "niektor\u00ed",
+        "en-us": "some"
+    },
+    {
+        "word": "oproti",
+        "en-us": "versus"
+    },
+    {
+        "word": "posledn\u00e9",
+        "en-us": "latest"
+    },
+    {
+        "word": "pou\u017e\u00edvaj\u00fa",
+        "en-us": "used by"
+    },
+    {
+        "word": "pozrite",
+        "en-us": "see"
+    },
+    {
+        "word": "prezident",
+        "en-us": "president"
+    },
+    {
+        "word": "prich\u00e1dza",
+        "en-us": "coming"
+    },
+    {
+        "word": "programu",
+        "en-us": "program"
+    },
+    {
+        "word": "pr\u00edstup",
+        "en-us": "access"
+    },
+    {
+        "word": "p\u00e1\u010di",
+        "en-us": "likes"
+    },
+    {
+        "word": "p\u00f4sob\u00ed",
+        "en-us": "operates"
+    },
+    {
+        "word": "rozhodol",
+        "en-us": "decided"
+    },
+    {
+        "word": "sek\u00fand",
+        "en-us": "seconds"
+    },
+    {
+        "word": "stala",
+        "en-us": "became"
+    },
+    {
+        "word": "strednej",
+        "en-us": "medium"
+    },
+    {
+        "word": "s\u00edce",
+        "en-us": "although"
+    },
+    {
+        "word": "umo\u017e\u0148uje",
+        "en-us": "made possible by"
+    },
+    {
+        "word": "vlastn\u00e9",
+        "en-us": "own"
+    },
+    {
+        "word": "v\u00fdvoj",
+        "en-us": "development"
+    },
+    {
+        "word": "zrejme",
+        "en-us": "apparently"
+    },
+    {
+        "word": "\u010di\u017ee",
+        "en-us": "or"
+    },
+    {
+        "word": "\u0161t\u00e1t",
+        "en-us": "state"
+    },
+    {
+        "word": "\u0161t\u00e1tnej",
+        "en-us": "state"
+    },
+    {
+        "word": "\u017ei\u0165",
+        "en-us": "live"
+    },
+    {
+        "word": "cel\u00e9ho",
+        "en-us": "all around"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr."
+    },
+    {
+        "word": "druhy",
+        "en-us": "species"
+    },
+    {
+        "word": "lode",
+        "en-us": "ships"
+    },
+    {
+        "word": "museli",
+        "en-us": "they had to"
+    },
+    {
+        "word": "naopak",
+        "en-us": "on the contrary"
+    },
+    {
+        "word": "osobne",
+        "en-us": "in person"
+    },
+    {
+        "word": "ostatn\u00fdch",
+        "en-us": "others"
+    },
+    {
+        "word": "potrebn\u00e9",
+        "en-us": "needed"
+    },
+    {
+        "word": "pozor",
+        "en-us": "attention"
+    },
+    {
+        "word": "prostredia",
+        "en-us": "environments"
+    },
+    {
+        "word": "prv\u00fdkr\u00e1t",
+        "en-us": "first time"
+    },
+    {
+        "word": "t\u00edmu",
+        "en-us": "team"
+    },
+    {
+        "word": "va\u0161ich",
+        "en-us": "your"
+    },
+    {
+        "word": "vy\u0161e",
+        "en-us": "above"
+    },
+    {
+        "word": "zdroj",
+        "en-us": "source :"
+    },
+    {
+        "word": "z\u00e1kladnej",
+        "en-us": "basic"
+    },
+    {
+        "word": "\u00fanie",
+        "en-us": "union"
+    },
+    {
+        "word": "at\u010f",
+        "en-us": "etc."
+    },
+    {
+        "word": "boha",
+        "en-us": "god"
+    },
+    {
+        "word": "det\u00ed",
+        "en-us": "children"
+    },
+    {
+        "word": "d\u0148och",
+        "en-us": "days"
+    },
+    {
+        "word": "j\u00fala",
+        "en-us": "july"
+    },
+    {
+        "word": "kg",
+        "en-us": "kg"
+    },
+    {
+        "word": "krajine",
+        "en-us": "country"
+    },
+    {
+        "word": "krajin\u00e1ch",
+        "en-us": "countries"
+    },
+    {
+        "word": "marca",
+        "en-us": "march"
+    },
+    {
+        "word": "menom",
+        "en-us": "on behalf of"
+    },
+    {
+        "word": "miestnosti",
+        "en-us": "rooms"
+    },
+    {
+        "word": "m\u00e1\u0161",
+        "en-us": "you have"
+    },
+    {
+        "word": "osoba",
+        "en-us": "person"
+    },
+    {
+        "word": "ot\u00e1zku",
+        "en-us": "question"
+    },
+    {
+        "word": "pom\u00f4\u017ee",
+        "en-us": "help"
+    },
+    {
+        "word": "potrebujete",
+        "en-us": "need"
+    },
+    {
+        "word": "pracoval",
+        "en-us": "he worked"
+    },
+    {
+        "word": "r\u00fdchlos\u0165",
+        "en-us": "speed"
+    },
+    {
+        "word": "smr\u0165",
+        "en-us": "death"
+    },
+    {
+        "word": "svetovej",
+        "en-us": "world"
+    },
+    {
+        "word": "svojimi",
+        "en-us": "their"
+    },
+    {
+        "word": "svoj\u00edm",
+        "en-us": "with his"
+    },
+    {
+        "word": "tro\u0161ku",
+        "en-us": "a little"
+    },
+    {
+        "word": "viacero",
+        "en-us": "more"
+    },
+    {
+        "word": "voda",
+        "en-us": "water"
+    },
+    {
+        "word": "vojny",
+        "en-us": "wars"
+    },
+    {
+        "word": "v\u0161eobecne",
+        "en-us": "general"
+    },
+    {
+        "word": "zauj\u00edmav\u00e9",
+        "en-us": "interesting"
+    },
+    {
+        "word": "zd\u00e1",
+        "en-us": "seems"
+    },
+    {
+        "word": "z\u00e1kona",
+        "en-us": "act"
+    },
+    {
+        "word": "\u00fadaje",
+        "en-us": "data"
+    },
+    {
+        "word": "autor",
+        "en-us": "by"
+    },
+    {
+        "word": "d\u00fafam",
+        "en-us": "hope"
+    },
+    {
+        "word": "hlavn\u00fdm",
+        "en-us": "main"
+    },
+    {
+        "word": "izby",
+        "en-us": "rooms"
+    },
+    {
+        "word": "james",
+        "en-us": "james"
+    },
+    {
+        "word": "jedin\u00fd",
+        "en-us": "only"
+    },
+    {
+        "word": "ktorou",
+        "en-us": "by which"
+    },
+    {
+        "word": "list",
+        "en-us": "list"
+    },
+    {
+        "word": "napokon",
+        "en-us": "finally,"
+    },
+    {
+        "word": "nemu",
+        "en-us": "mute"
+    },
+    {
+        "word": "podporu",
+        "en-us": "support"
+    },
+    {
+        "word": "posledn\u00fdch",
+        "en-us": "last"
+    },
+    {
+        "word": "pracuje",
+        "en-us": "working"
+    },
+    {
+        "word": "rade",
+        "en-us": "advice"
+    },
+    {
+        "word": "v\u00e1\u017ene",
+        "en-us": "seriously"
+    },
+    {
+        "word": "v\u00fdznam",
+        "en-us": "meaning of"
+    },
+    {
+        "word": "zisti\u0165",
+        "en-us": "find out"
+    },
+    {
+        "word": "zn\u00e1my",
+        "en-us": "known"
+    },
+    {
+        "word": "zvy\u010dajne",
+        "en-us": "usually"
+    },
+    {
+        "word": "\u010deskej",
+        "en-us": "czech"
+    },
+    {
+        "word": "\u010dl\u00e1nku",
+        "en-us": "article"
+    },
+    {
+        "word": "bratislavy",
+        "en-us": "bratislava"
+    },
+    {
+        "word": "cirkvi",
+        "en-us": "churches"
+    },
+    {
+        "word": "druhov",
+        "en-us": "species"
+    },
+    {
+        "word": "hore",
+        "en-us": "up"
+    },
+    {
+        "word": "mu\u017e",
+        "en-us": "man"
+    },
+    {
+        "word": "niekoho",
+        "en-us": "someone"
+    },
+    {
+        "word": "nohy",
+        "en-us": "feet"
+    },
+    {
+        "word": "n\u00e1zor",
+        "en-us": "opinion"
+    },
+    {
+        "word": "predstavi\u0165",
+        "en-us": "introducing"
+    },
+    {
+        "word": "projektu",
+        "en-us": "project"
+    },
+    {
+        "word": "p\u00f4vodne",
+        "en-us": "originally from"
+    },
+    {
+        "word": "slovensk\u00e9",
+        "en-us": "slovak"
+    },
+    {
+        "word": "stavby",
+        "en-us": "buildings"
+    },
+    {
+        "word": "str\u00e1n",
+        "en-us": "pages"
+    },
+    {
+        "word": "tvoria",
+        "en-us": "form"
+    },
+    {
+        "word": "vyu\u017e\u00edva",
+        "en-us": "uses"
+    },
+    {
+        "word": "za\u010diatkom",
+        "en-us": "early"
+    },
+    {
+        "word": "decembra",
+        "en-us": "december"
+    },
+    {
+        "word": "diela",
+        "en-us": "works"
+    },
+    {
+        "word": "dobr\u00e1",
+        "en-us": "good"
+    },
+    {
+        "word": "firmy",
+        "en-us": "companies"
+    },
+    {
+        "word": "funkciu",
+        "en-us": "feature"
+    },
+    {
+        "word": "jedlo",
+        "en-us": "food"
+    },
+    {
+        "word": "kateg\u00f3rie",
+        "en-us": "categories"
+    },
+    {
+        "word": "knihu",
+        "en-us": "book"
+    },
+    {
+        "word": "odo",
+        "en-us": "from"
+    },
+    {
+        "word": "poriadne",
+        "en-us": "properly"
+    },
+    {
+        "word": "priate\u013eov",
+        "en-us": "friends"
+    },
+    {
+        "word": "profesor",
+        "en-us": "professor"
+    },
+    {
+        "word": "skon\u010dil",
+        "en-us": "finished"
+    },
+    {
+        "word": "slov",
+        "en-us": "words"
+    },
+    {
+        "word": "star\u00e1",
+        "en-us": "old"
+    },
+    {
+        "word": "takisto",
+        "en-us": "also"
+    },
+    {
+        "word": "tela",
+        "en-us": "bodies"
+    },
+    {
+        "word": "vedia",
+        "en-us": "they know"
+    },
+    {
+        "word": "video",
+        "en-us": "video"
+    },
+    {
+        "word": "vojna",
+        "en-us": "war"
+    },
+    {
+        "word": "vz\u0165ah",
+        "en-us": "relationship"
+    },
+    {
+        "word": "zemi",
+        "en-us": "country"
+    },
+    {
+        "word": "\u00farad",
+        "en-us": "office"
+    },
+    {
+        "word": "\u010dl\u00e1nok",
+        "en-us": "article"
+    },
+    {
+        "word": "\u0161tyroch",
+        "en-us": "four"
+    },
+    {
+        "word": "augusta",
+        "en-us": "august"
+    },
+    {
+        "word": "budovy",
+        "en-us": "buildings"
+    },
+    {
+        "word": "c\u00edti\u0165",
+        "en-us": "feel"
+    },
+    {
+        "word": "dali",
+        "en-us": "they gave"
+    },
+    {
+        "word": "dostane",
+        "en-us": "gets"
+    },
+    {
+        "word": "do\u0161lo",
+        "en-us": "occurred"
+    },
+    {
+        "word": "george",
+        "en-us": "george"
+    }
+]

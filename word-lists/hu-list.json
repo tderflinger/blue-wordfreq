@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "a",
+        "en-us": "a"
+    },
+    {
+        "word": "az",
+        "en-us": "from"
+    },
+    {
+        "word": "\u00e9s",
+        "en-us": "and"
+    },
+    {
+        "word": "nem",
+        "en-us": "not"
+    },
+    {
+        "word": "hogy",
+        "en-us": "to"
+    },
+    {
+        "word": "egy",
+        "en-us": "an"
+    },
+    {
+        "word": "is",
+        "en-us": "is"
+    },
+    {
+        "word": "de",
+        "en-us": "en"
+    },
+    {
+        "word": "meg",
+        "en-us": "and"
+    },
+    {
+        "word": "csak",
+        "en-us": "only"
+    },
+    {
+        "word": "ha",
+        "en-us": "ha"
+    },
+    {
+        "word": "van",
+        "en-us": "is"
+    },
+    {
+        "word": "volt",
+        "en-us": "was"
+    },
+    {
+        "word": "ez",
+        "en-us": "this is"
+    },
+    {
+        "word": "vagy",
+        "en-us": "or"
+    },
+    {
+        "word": "m\u00e1r",
+        "en-us": "already"
+    },
+    {
+        "word": "m\u00e9g",
+        "en-us": "more"
+    },
+    {
+        "word": "\u00e9n",
+        "en-us": "my"
+    },
+    {
+        "word": "kell",
+        "en-us": "at"
+    },
+    {
+        "word": "el",
+        "en-us": "el"
+    },
+    {
+        "word": "j\u00f3",
+        "en-us": "good"
+    },
+    {
+        "word": "ki",
+        "en-us": "off"
+    },
+    {
+        "word": "azt",
+        "en-us": "it"
+    },
+    {
+        "word": "most",
+        "en-us": "now"
+    },
+    {
+        "word": "akkor",
+        "en-us": "then"
+    },
+    {
+        "word": "mint",
+        "en-us": "such as"
+    },
+    {
+        "word": "1",
+        "en-us": "1"
+    },
+    {
+        "word": "ezt",
+        "en-us": "this"
+    },
+    {
+        "word": "minden",
+        "en-us": "all"
+    },
+    {
+        "word": "mert",
+        "en-us": "because"
+    },
+    {
+        "word": "magyar",
+        "en-us": "hungarian"
+    },
+    {
+        "word": "nagyon",
+        "en-us": "very"
+    },
+    {
+        "word": "\u00edgy",
+        "en-us": "so"
+    },
+    {
+        "word": "olyan",
+        "en-us": "such as"
+    },
+    {
+        "word": "itt",
+        "en-us": "here"
+    },
+    {
+        "word": "mi",
+        "en-us": "mi"
+    },
+    {
+        "word": "sem",
+        "en-us": "nor"
+    },
+    {
+        "word": "2",
+        "en-us": "2"
+    },
+    {
+        "word": "lesz",
+        "en-us": "will be"
+    },
+    {
+        "word": "lehet",
+        "en-us": "can be found at"
+    },
+    {
+        "word": "vagyok",
+        "en-us": "am"
+    },
+    {
+        "word": "majd",
+        "en-us": "then"
+    },
+    {
+        "word": "es",
+        "en-us": "es"
+    },
+    {
+        "word": "nagy",
+        "en-us": "large"
+    },
+    {
+        "word": "\u00fagy",
+        "en-us": "like"
+    },
+    {
+        "word": "3",
+        "en-us": "3"
+    },
+    {
+        "word": "be",
+        "en-us": "be"
+    },
+    {
+        "word": "nincs",
+        "en-us": "none"
+    },
+    {
+        "word": "aki",
+        "en-us": "who is"
+    },
+    {
+        "word": "k\u00e9t",
+        "en-us": "two"
+    },
+    {
+        "word": "fel",
+        "en-us": "up"
+    },
+    {
+        "word": "ut\u00e1n",
+        "en-us": "after"
+    },
+    {
+        "word": "ne",
+        "en-us": "ne"
+    },
+    {
+        "word": "\u00faj",
+        "en-us": "new"
+    },
+    {
+        "word": "amikor",
+        "en-us": "when"
+    },
+    {
+        "word": "ami",
+        "en-us": "which is"
+    },
+    {
+        "word": "els\u0151",
+        "en-us": "first"
+    },
+    {
+        "word": "te",
+        "en-us": "you"
+    },
+    {
+        "word": "t\u00f6bb",
+        "en-us": "more"
+    },
+    {
+        "word": "pedig",
+        "en-us": "and"
+    },
+    {
+        "word": "mindig",
+        "en-us": "always"
+    },
+    {
+        "word": "nekem",
+        "en-us": "me"
+    },
+    {
+        "word": "4",
+        "en-us": "4"
+    },
+    {
+        "word": "amit",
+        "en-us": "which"
+    },
+    {
+        "word": "szerint",
+        "en-us": "according to"
+    },
+    {
+        "word": "kis",
+        "en-us": "small"
+    },
+    {
+        "word": "mit",
+        "en-us": "with"
+    },
+    {
+        "word": "s",
+        "en-us": "s"
+    },
+    {
+        "word": "egyik",
+        "en-us": "one"
+    },
+    {
+        "word": "ilyen",
+        "en-us": "such as"
+    },
+    {
+        "word": "le",
+        "en-us": "from"
+    },
+    {
+        "word": "sok",
+        "en-us": "many"
+    },
+    {
+        "word": "5",
+        "en-us": "5"
+    },
+    {
+        "word": "e",
+        "en-us": "e"
+    },
+    {
+        "word": "j\u00f3l",
+        "en-us": "well"
+    },
+    {
+        "word": "i",
+        "en-us": "i"
+    },
+    {
+        "word": "mi\u00e9rt",
+        "en-us": "why"
+    },
+    {
+        "word": "volna",
+        "en-us": "have been"
+    },
+    {
+        "word": "az\u00e9rt",
+        "en-us": "therefore"
+    },
+    {
+        "word": "tudom",
+        "en-us": "i know"
+    },
+    {
+        "word": "budapest",
+        "en-us": "budapest"
+    },
+    {
+        "word": "milyen",
+        "en-us": "what"
+    },
+    {
+        "word": "igen",
+        "en-us": "yes"
+    },
+    {
+        "word": "k\u00f6z\u00f6tt",
+        "en-us": "between"
+    },
+    {
+        "word": "lett",
+        "en-us": "latvian"
+    },
+    {
+        "word": "ott",
+        "en-us": "there"
+    },
+    {
+        "word": "alatt",
+        "en-us": "under"
+    },
+    {
+        "word": "ember",
+        "en-us": "man"
+    },
+    {
+        "word": "ma",
+        "en-us": "today"
+    },
+    {
+        "word": "miatt",
+        "en-us": "due to"
+    },
+    {
+        "word": "t",
+        "en-us": "t"
+    },
+    {
+        "word": "lenne",
+        "en-us": "would be"
+    },
+    {
+        "word": "\u00e1ltal",
+        "en-us": "by"
+    },
+    {
+        "word": "h\u00e1t",
+        "en-us": "well"
+    },
+    {
+        "word": "m\u00e1s",
+        "en-us": "other"
+    },
+    {
+        "word": "\u0151",
+        "en-us": "\u0151"
+    },
+    {
+        "word": "mikor",
+        "en-us": "when"
+    },
+    {
+        "word": "valami",
+        "en-us": "something"
+    },
+    {
+        "word": "ben",
+        "en-us": "at"
+    },
+    {
+        "word": "eg\u00e9sz",
+        "en-us": "all"
+    },
+    {
+        "word": "arra",
+        "en-us": "to"
+    },
+    {
+        "word": "ez\u00e9rt",
+        "en-us": "therefore"
+    },
+    {
+        "word": "vannak",
+        "en-us": "are"
+    },
+    {
+        "word": "6",
+        "en-us": "6"
+    },
+    {
+        "word": "ahol",
+        "en-us": "where"
+    },
+    {
+        "word": "\u00e1t",
+        "en-us": "via"
+    },
+    {
+        "word": "ezek",
+        "en-us": "these"
+    },
+    {
+        "word": "8",
+        "en-us": "8"
+    },
+    {
+        "word": "legyen",
+        "en-us": "be"
+    },
+    {
+        "word": "nap",
+        "en-us": "day"
+    },
+    {
+        "word": "7",
+        "en-us": "7"
+    },
+    {
+        "word": "r\u00e1",
+        "en-us": "on"
+    },
+    {
+        "word": "the",
+        "en-us": "the"
+    },
+    {
+        "word": "el\u00e9g",
+        "en-us": "enough"
+    },
+    {
+        "word": "neki",
+        "en-us": "him"
+    },
+    {
+        "word": "azt\u00e1n",
+        "en-us": "then"
+    },
+    {
+        "word": "el\u0151tt",
+        "en-us": "before"
+    },
+    {
+        "word": "se",
+        "en-us": "se"
+    },
+    {
+        "word": "valaki",
+        "en-us": "someone"
+    },
+    {
+        "word": "\u00e9v",
+        "en-us": "year"
+    },
+    {
+        "word": "amely",
+        "en-us": "which is"
+    },
+    {
+        "word": "kicsit",
+        "en-us": "bit"
+    },
+    {
+        "word": "semmi",
+        "en-us": "nothing"
+    },
+    {
+        "word": "t\u00e9nyleg",
+        "en-us": "really"
+    },
+    {
+        "word": "mellett",
+        "en-us": "next to"
+    },
+    {
+        "word": "erre",
+        "en-us": "to"
+    },
+    {
+        "word": "fog",
+        "en-us": "will"
+    },
+    {
+        "word": "mindenki",
+        "en-us": "everyone"
+    },
+    {
+        "word": "neked",
+        "en-us": "for you"
+    },
+    {
+        "word": "na",
+        "en-us": "na"
+    },
+    {
+        "word": "n\u00e9lk\u00fcl",
+        "en-us": "without"
+    },
+    {
+        "word": "saj\u00e1t",
+        "en-us": "own"
+    },
+    {
+        "word": "sz\u00e9p",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "ahogy",
+        "en-us": "as"
+    },
+    {
+        "word": "akik",
+        "en-us": "who are"
+    },
+    {
+        "word": "h\u00e1rom",
+        "en-us": "three"
+    },
+    {
+        "word": "ink\u00e1bb",
+        "en-us": "rather"
+    },
+    {
+        "word": "jobb",
+        "en-us": "better"
+    },
+    {
+        "word": "szerintem",
+        "en-us": "i think"
+    },
+    {
+        "word": "egy\u00fctt",
+        "en-us": "together"
+    },
+    {
+        "word": "hogyan",
+        "en-us": "how"
+    },
+    {
+        "word": "t\u00fal",
+        "en-us": "beyond"
+    },
+    {
+        "word": "valamint",
+        "en-us": "and"
+    },
+    {
+        "word": "9",
+        "en-us": "9"
+    },
+    {
+        "word": "legjobb",
+        "en-us": "best from"
+    },
+    {
+        "word": "\u00fajra",
+        "en-us": "re"
+    },
+    {
+        "word": "biztos",
+        "en-us": "commissioner"
+    },
+    {
+        "word": "c",
+        "en-us": "c"
+    },
+    {
+        "word": "ezzel",
+        "en-us": "with this"
+    },
+    {
+        "word": "mivel",
+        "en-us": "whereas"
+    },
+    {
+        "word": "m\u00e1sik",
+        "en-us": "other"
+    },
+    {
+        "word": "n\u00e9h\u00e1ny",
+        "en-us": "some"
+    },
+    {
+        "word": "vissza",
+        "en-us": "back"
+    },
+    {
+        "word": "\u0151ket",
+        "en-us": "them"
+    },
+    {
+        "word": "ban",
+        "en-us": "ban"
+    },
+    {
+        "word": "ellen",
+        "en-us": "against"
+    },
+    {
+        "word": "ennek",
+        "en-us": "of this"
+    },
+    {
+        "word": "hanem",
+        "en-us": "but"
+    },
+    {
+        "word": "p\u00e1r",
+        "en-us": "couple"
+    },
+    {
+        "word": "benne",
+        "en-us": "included in"
+    },
+    {
+        "word": "ezen",
+        "en-us": "on this"
+    },
+    {
+        "word": "persze",
+        "en-us": "of course"
+    },
+    {
+        "word": "tov\u00e1bb",
+        "en-us": "more"
+    },
+    {
+        "word": "azonban",
+        "en-us": "however"
+    },
+    {
+        "word": "c\u00edm\u0171",
+        "en-us": "entitled"
+    },
+    {
+        "word": "emberek",
+        "en-us": "people"
+    },
+    {
+        "word": "illetve",
+        "en-us": "or"
+    },
+    {
+        "word": "k\u00f6sz\u00f6n\u00f6m",
+        "en-us": "thank you"
+    },
+    {
+        "word": "vele",
+        "en-us": "by"
+    },
+    {
+        "word": "\u00e9ves",
+        "en-us": "annual"
+    },
+    {
+        "word": "egyszer",
+        "en-us": "once"
+    },
+    {
+        "word": "tal\u00e1n",
+        "en-us": "perhaps"
+    },
+    {
+        "word": "ebben",
+        "en-us": "from this"
+    },
+    {
+        "word": "rossz",
+        "en-us": "bad"
+    },
+    {
+        "word": "teljesen",
+        "en-us": "completely"
+    },
+    {
+        "word": "b\u00e1r",
+        "en-us": "bar"
+    },
+    {
+        "word": "kellett",
+        "en-us": "had to"
+    },
+    {
+        "word": "teljes",
+        "en-us": "full"
+    },
+    {
+        "word": "voltak",
+        "en-us": "were"
+    },
+    {
+        "word": "annak",
+        "en-us": "its"
+    },
+    {
+        "word": "annyira",
+        "en-us": "so much"
+    },
+    {
+        "word": "este",
+        "en-us": "evening"
+    },
+    {
+        "word": "id\u0151",
+        "en-us": "time"
+    },
+    {
+        "word": "mind",
+        "en-us": "mind"
+    },
+    {
+        "word": "m\u00e1sodik",
+        "en-us": "second"
+    },
+    {
+        "word": "\u00e1ll",
+        "en-us": "available at"
+    },
+    {
+        "word": "jobban",
+        "en-us": "more"
+    },
+    {
+        "word": "legnagyobb",
+        "en-us": "largest"
+    },
+    {
+        "word": "n\u00e9zd",
+        "en-us": "see"
+    },
+    {
+        "word": "hozz\u00e1",
+        "en-us": "add to"
+    },
+    {
+        "word": "mindent",
+        "en-us": "everything"
+    },
+    {
+        "word": "utols\u00f3",
+        "en-us": "last"
+    },
+    {
+        "word": "val\u00f3",
+        "en-us": "from"
+    },
+    {
+        "word": "km",
+        "en-us": "km"
+    },
+    {
+        "word": "sor\u00e1n",
+        "en-us": "during"
+    },
+    {
+        "word": "vagyunk",
+        "en-us": "we are"
+    },
+    {
+        "word": "tudja",
+        "en-us": "you know"
+    },
+    {
+        "word": "el\u0151sz\u00f6r",
+        "en-us": "first"
+    },
+    {
+        "word": "fontos",
+        "en-us": "important"
+    },
+    {
+        "word": "hol",
+        "en-us": "where"
+    },
+    {
+        "word": "k\u00e9ne",
+        "en-us": "should be"
+    },
+    {
+        "word": "mondta",
+        "en-us": "said"
+    },
+    {
+        "word": "of",
+        "en-us": "of"
+    },
+    {
+        "word": "in",
+        "en-us": "in"
+    },
+    {
+        "word": "k\u00f6vetkez\u0151",
+        "en-us": "next"
+    },
+    {
+        "word": "magam",
+        "en-us": "myself"
+    },
+    {
+        "word": "pont",
+        "en-us": "point"
+    },
+    {
+        "word": "viszont",
+        "en-us": "but"
+    },
+    {
+        "word": "\u00f6ssze",
+        "en-us": "together with"
+    },
+    {
+        "word": "azok",
+        "en-us": "their"
+    },
+    {
+        "word": "d",
+        "en-us": "d"
+    },
+    {
+        "word": "dolog",
+        "en-us": "things"
+    },
+    {
+        "word": "eur\u00f3pai",
+        "en-us": "european"
+    },
+    {
+        "word": "f\u00e9rfi",
+        "en-us": "men"
+    },
+    {
+        "word": "lenni",
+        "en-us": "be"
+    },
+    {
+        "word": "n",
+        "en-us": "n"
+    },
+    {
+        "word": "nemzeti",
+        "en-us": "national"
+    },
+    {
+        "word": "os",
+        "en-us": "os"
+    },
+    {
+        "word": "sz\u00e1m\u00e1ra",
+        "en-us": "for"
+    },
+    {
+        "word": "sz\u00f3val",
+        "en-us": "so"
+    },
+    {
+        "word": "tudok",
+        "en-us": "i can"
+    },
+    {
+        "word": "m",
+        "en-us": "m"
+    },
+    {
+        "word": "soha",
+        "en-us": "never"
+    },
+    {
+        "word": "sz\u00f3",
+        "en-us": "word"
+    },
+    {
+        "word": "voltam",
+        "en-us": "i was"
+    },
+    {
+        "word": "alapj\u00e1n",
+        "en-us": "based on"
+    },
+    {
+        "word": "j\u00f6n",
+        "en-us": "comes from"
+    },
+    {
+        "word": "legal\u00e1bb",
+        "en-us": "at least"
+    },
+    {
+        "word": "magyarorsz\u00e1g",
+        "en-us": "hungary"
+    },
+    {
+        "word": "mag\u00e1t",
+        "en-us": "yourself"
+    },
+    {
+        "word": "mai",
+        "en-us": "may"
+    },
+    {
+        "word": "p\u00e9ld\u00e1ul",
+        "en-us": "for example"
+    },
+    {
+        "word": "tov\u00e1bbi",
+        "en-us": "more at"
+    },
+    {
+        "word": "azzal",
+        "en-us": "by"
+    },
+    {
+        "word": "dr",
+        "en-us": "dr"
+    },
+    {
+        "word": "ft",
+        "en-us": "ft"
+    },
+    {
+        "word": "ide",
+        "en-us": "here"
+    },
+    {
+        "word": "igaz",
+        "en-us": "true"
+    },
+    {
+        "word": "maga",
+        "en-us": "you"
+    },
+    {
+        "word": "szeptember",
+        "en-us": "september"
+    },
+    {
+        "word": "film",
+        "en-us": "film"
+    },
+    {
+        "word": "isten",
+        "en-us": "is"
+    },
+    {
+        "word": "k\u00e9s\u0151bb",
+        "en-us": "later"
+    },
+    {
+        "word": "megy",
+        "en-us": "go to"
+    },
+    {
+        "word": "m\u00e9gis",
+        "en-us": "yet"
+    },
+    {
+        "word": "sokkal",
+        "en-us": "much"
+    },
+    {
+        "word": "vil\u00e1g",
+        "en-us": "world"
+    },
+    {
+        "word": "\u00f3ta",
+        "en-us": "since"
+    },
+    {
+        "word": "amerikai",
+        "en-us": "uS"
+    },
+    {
+        "word": "azon",
+        "en-us": "of"
+    },
+    {
+        "word": "baj",
+        "en-us": "trouble"
+    },
+    {
+        "word": "m\u00edg",
+        "en-us": "while"
+    },
+    {
+        "word": "as",
+        "en-us": "as"
+    },
+    {
+        "word": "egyetlen",
+        "en-us": "single"
+    },
+    {
+        "word": "hossz\u00fa",
+        "en-us": "long"
+    },
+    {
+        "word": "mely",
+        "en-us": "which is"
+    },
+    {
+        "word": "n\u00e9met",
+        "en-us": "german"
+    },
+    {
+        "word": "re",
+        "en-us": "re"
+    },
+    {
+        "word": "tud",
+        "en-us": "can"
+    },
+    {
+        "word": "\u00e9l\u0151",
+        "en-us": "live from"
+    },
+    {
+        "word": "\u00f6sszes",
+        "en-us": "all"
+    },
+    {
+        "word": "ism\u00e9t",
+        "en-us": "again"
+    },
+    {
+        "word": "ja",
+        "en-us": "and"
+    },
+    {
+        "word": "k\u00f6zben",
+        "en-us": "meanwhile"
+    },
+    {
+        "word": "mintha",
+        "en-us": "as if"
+    },
+    {
+        "word": "nemzetk\u00f6zi",
+        "en-us": "international"
+    },
+    {
+        "word": "n\u0151",
+        "en-us": "women"
+    },
+    {
+        "word": "oda",
+        "en-us": "oda"
+    },
+    {
+        "word": "teh\u00e1t",
+        "en-us": "so"
+    },
+    {
+        "word": "x",
+        "en-us": "x"
+    },
+    {
+        "word": "0",
+        "en-us": "0"
+    },
+    {
+        "word": "b",
+        "en-us": "b"
+    },
+    {
+        "word": "egyre",
+        "en-us": "one"
+    },
+    {
+        "word": "engem",
+        "en-us": "me"
+    },
+    {
+        "word": "fekete",
+        "en-us": "black"
+    },
+    {
+        "word": "ig",
+        "en-us": "ig"
+    },
+    {
+        "word": "igaz\u00e1n",
+        "en-us": "really"
+    },
+    {
+        "word": "nagyobb",
+        "en-us": "larger"
+    },
+    {
+        "word": "sokat",
+        "en-us": "much"
+    },
+    {
+        "word": "\u00e9ve",
+        "en-us": "years"
+    },
+    {
+        "word": "bel\u00fcl",
+        "en-us": "inside"
+    },
+    {
+        "word": "jelent",
+        "en-us": "report"
+    },
+    {
+        "word": "ker\u00fclt",
+        "en-us": "has been"
+    },
+    {
+        "word": "r\u00e9gi",
+        "en-us": "old"
+    },
+    {
+        "word": "szia",
+        "en-us": "hi"
+    },
+    {
+        "word": "tudod",
+        "en-us": "you can"
+    },
+    {
+        "word": "t\u00f6rt\u00e9nt",
+        "en-us": "happened"
+    },
+    {
+        "word": "v",
+        "en-us": "v"
+    },
+    {
+        "word": "ak\u00e1r",
+        "en-us": "up to"
+    },
+    {
+        "word": "kedves",
+        "en-us": "dear"
+    },
+    {
+        "word": "k\u00e9sz\u00fclt",
+        "en-us": "made from"
+    },
+    {
+        "word": "k\u00f6z\u00fcl",
+        "en-us": "of which"
+    },
+    {
+        "word": "l",
+        "en-us": "l"
+    },
+    {
+        "word": "l\u00e1szl\u00f3",
+        "en-us": "\u00e1szl\u00f3"
+    },
+    {
+        "word": "megyek",
+        "en-us": "i'm going to"
+    },
+    {
+        "word": "siker\u00fclt",
+        "en-us": "managed by"
+    },
+    {
+        "word": "velem",
+        "en-us": "with me"
+    },
+    {
+        "word": "\u00f3ra",
+        "en-us": "hours"
+    },
+    {
+        "word": "\u0151k",
+        "en-us": "they are"
+    },
+    {
+        "word": "kapott",
+        "en-us": "obtained from"
+    },
+    {
+        "word": "p",
+        "en-us": "p"
+    },
+    {
+        "word": "senki",
+        "en-us": "nobody"
+    },
+    {
+        "word": "tudtam",
+        "en-us": "i knew"
+    },
+    {
+        "word": "arr\u00f3l",
+        "en-us": "about"
+    },
+    {
+        "word": "f\u00e9l",
+        "en-us": "party"
+    },
+    {
+        "word": "magyarorsz\u00e1gon",
+        "en-us": "in hungary"
+    },
+    {
+        "word": "megint",
+        "en-us": "again"
+    },
+    {
+        "word": "r\u00e9szt",
+        "en-us": "part of"
+    },
+    {
+        "word": "\u00fajabb",
+        "en-us": "more recent"
+    },
+    {
+        "word": "adott",
+        "en-us": "given at"
+    },
+    {
+        "word": "akarok",
+        "en-us": "i want"
+    },
+    {
+        "word": "eddig",
+        "en-us": "so far"
+    },
+    {
+        "word": "egyes",
+        "en-us": "some"
+    },
+    {
+        "word": "igazi",
+        "en-us": "real"
+    },
+    {
+        "word": "istv\u00e1n",
+        "en-us": "istv\u00e1n"
+    },
+    {
+        "word": "l\u00e1ny",
+        "en-us": "girl"
+    },
+    {
+        "word": "l\u00e1ttam",
+        "en-us": "i saw"
+    },
+    {
+        "word": "mire",
+        "en-us": "mire"
+    },
+    {
+        "word": "n\u0151i",
+        "en-us": "women"
+    },
+    {
+        "word": "szabad",
+        "en-us": "free"
+    },
+    {
+        "word": "v\u00e9ge",
+        "en-us": "end"
+    },
+    {
+        "word": "v\u00e9gre",
+        "en-us": "at last"
+    },
+    {
+        "word": "\u00e1n",
+        "en-us": "on"
+    },
+    {
+        "word": "\u00e9rtem",
+        "en-us": "i understand"
+    },
+    {
+        "word": "feh\u00e9r",
+        "en-us": "white"
+    },
+    {
+        "word": "fel\u00e9",
+        "en-us": "towards"
+    },
+    {
+        "word": "kb",
+        "en-us": "about"
+    },
+    {
+        "word": "new",
+        "en-us": "new"
+    },
+    {
+        "word": "angol",
+        "en-us": "english"
+    },
+    {
+        "word": "f\u0151",
+        "en-us": "main"
+    },
+    {
+        "word": "kellene",
+        "en-us": "should"
+    },
+    {
+        "word": "k\u00e9pes",
+        "en-us": "can"
+    },
+    {
+        "word": "n\u00e9gy",
+        "en-us": "four"
+    },
+    {
+        "word": "orsz\u00e1g",
+        "en-us": "country"
+    },
+    {
+        "word": "perc",
+        "en-us": "minute"
+    },
+    {
+        "word": "r\u00e9sze",
+        "en-us": "part of"
+    },
+    {
+        "word": "v\u00e1ros",
+        "en-us": "city"
+    },
+    {
+        "word": "v\u00e9g\u00e9n",
+        "en-us": "end"
+    },
+    {
+        "word": "abban",
+        "en-us": "at"
+    },
+    {
+        "word": "akar",
+        "en-us": "want"
+    },
+    {
+        "word": "kir\u00e1ly",
+        "en-us": "king"
+    },
+    {
+        "word": "munka",
+        "en-us": "work"
+    },
+    {
+        "word": "n\u00e9ha",
+        "en-us": "sometimes"
+    },
+    {
+        "word": "r\u00f3la",
+        "en-us": "about him"
+    },
+    {
+        "word": "valamit",
+        "en-us": "something from"
+    },
+    {
+        "word": "\u00fat",
+        "en-us": "road"
+    },
+    {
+        "word": "bele",
+        "en-us": "liven up"
+    },
+    {
+        "word": "k",
+        "en-us": "k"
+    },
+    {
+        "word": "k\u00fcl\u00f6nb\u00f6z\u0151",
+        "en-us": "various"
+    },
+    {
+        "word": "rem\u00e9lem",
+        "en-us": "hope"
+    },
+    {
+        "word": "tal\u00e1lhat\u00f3",
+        "en-us": "located at"
+    },
+    {
+        "word": "t\u00f6bbet",
+        "en-us": "more"
+    },
+    {
+        "word": "v\u00e9g\u00fcl",
+        "en-us": "finally"
+    },
+    {
+        "word": "\u00e9vi",
+        "en-us": "per year"
+    },
+    {
+        "word": "\u00f6t",
+        "en-us": "five"
+    },
+    {
+        "word": "am\u00edg",
+        "en-us": "until"
+    },
+    {
+        "word": "holnap",
+        "en-us": "tomorrow"
+    },
+    {
+        "word": "ii",
+        "en-us": "ii"
+    },
+    {
+        "word": "komolyan",
+        "en-us": "seriously"
+    },
+    {
+        "word": "kor\u00e1bban",
+        "en-us": "previously"
+    },
+    {
+        "word": "neh\u00e9z",
+        "en-us": "difficult"
+    },
+    {
+        "word": "rajta",
+        "en-us": "cited on"
+    },
+    {
+        "word": "semmit",
+        "en-us": "anything"
+    },
+    {
+        "word": "\u00e9let",
+        "en-us": "life"
+    },
+    {
+        "word": "\u0151t",
+        "en-us": "him"
+    },
+    {
+        "word": "addig",
+        "en-us": "add"
+    },
+    {
+        "word": "ahhoz",
+        "en-us": "to"
+    },
+    {
+        "word": "h",
+        "en-us": "h"
+    },
+    {
+        "word": "helyen",
+        "en-us": "location"
+    },
+    {
+        "word": "j\u00f6tt",
+        "en-us": "came from"
+    },
+    {
+        "word": "neve",
+        "en-us": "name"
+    },
+    {
+        "word": "on",
+        "en-us": "on"
+    },
+    {
+        "word": "online",
+        "en-us": "online"
+    },
+    {
+        "word": "pl",
+        "en-us": "pl"
+    },
+    {
+        "word": "reggel",
+        "en-us": "morning"
+    },
+    {
+        "word": "ugye",
+        "en-us": "isn't it"
+    },
+    {
+        "word": "ennyi",
+        "en-us": "that's it"
+    },
+    {
+        "word": "fogok",
+        "en-us": "i will"
+    },
+    {
+        "word": "j\u00e1nos",
+        "en-us": "j\u00e1nos"
+    },
+    {
+        "word": "k\u00edv\u00fcl",
+        "en-us": "outside"
+    },
+    {
+        "word": "leszek",
+        "en-us": "i will be"
+    },
+    {
+        "word": "menni",
+        "en-us": "go to"
+    },
+    {
+        "word": "miut\u00e1n",
+        "en-us": "after"
+    },
+    {
+        "word": "m\u00e1rcius",
+        "en-us": "march"
+    },
+    {
+        "word": "r\u00e1d",
+        "en-us": "on"
+    },
+    {
+        "word": "\u00f6n",
+        "en-us": "you"
+    },
+    {
+        "word": "el\u0151",
+        "en-us": "from"
+    },
+    {
+        "word": "harmadik",
+        "en-us": "third"
+    },
+    {
+        "word": "hiszem",
+        "en-us": "believe"
+    },
+    {
+        "word": "kereszt\u00fcl",
+        "en-us": "via"
+    },
+    {
+        "word": "k\u00f6zel",
+        "en-us": "near"
+    },
+    {
+        "word": "m\u00f3don",
+        "en-us": "by"
+    },
+    {
+        "word": "orsz\u00e1gos",
+        "en-us": "national"
+    },
+    {
+        "word": "p\u00e9ter",
+        "en-us": "peter"
+    },
+    {
+        "word": "\u00e9ppen",
+        "en-us": "just"
+    },
+    {
+        "word": "budapesti",
+        "en-us": "budapest"
+    },
+    {
+        "word": "hivatalos",
+        "en-us": "official"
+    },
+    {
+        "word": "szent",
+        "en-us": "holy"
+    },
+    {
+        "word": "szeretn\u00e9k",
+        "en-us": "i would like to"
+    },
+    {
+        "word": "sz\u00e1ma",
+        "en-us": "number"
+    },
+    {
+        "word": "\u00e1prilis",
+        "en-us": "april"
+    },
+    {
+        "word": "\u00e9pp",
+        "en-us": "just"
+    },
+    {
+        "word": "\u00e9rt",
+        "en-us": "for"
+    },
+    {
+        "word": "augusztus",
+        "en-us": "august"
+    },
+    {
+        "word": "et",
+        "en-us": "to"
+    },
+    {
+        "word": "ezeket",
+        "en-us": "these"
+    },
+    {
+        "word": "ezer",
+        "en-us": "thousands"
+    },
+    {
+        "word": "gyorsan",
+        "en-us": "quickly"
+    },
+    {
+        "word": "h\u00e9t",
+        "en-us": "week"
+    },
+    {
+        "word": "milli\u00f3",
+        "en-us": "million"
+    },
+    {
+        "word": "tetszik",
+        "en-us": "like"
+    },
+    {
+        "word": "t\u00f6bbi",
+        "en-us": "rest"
+    },
+    {
+        "word": "al\u00e1",
+        "en-us": "under"
+    },
+    {
+        "word": "csapat",
+        "en-us": "team"
+    },
+    {
+        "word": "egyszer\u0171en",
+        "en-us": "simply"
+    },
+    {
+        "word": "ferenc",
+        "en-us": "ferenc"
+    },
+    {
+        "word": "hat",
+        "en-us": "has"
+    },
+    {
+        "word": "h\u00e1z",
+        "en-us": "house"
+    },
+    {
+        "word": "mm",
+        "en-us": "mm"
+    },
+    {
+        "word": "nak",
+        "en-us": "nak"
+    },
+    {
+        "word": "sajnos",
+        "en-us": "unfortunately"
+    },
+    {
+        "word": "tegnap",
+        "en-us": "yesterday"
+    },
+    {
+        "word": "ut\u00e1na",
+        "en-us": "then"
+    },
+    {
+        "word": "akit",
+        "en-us": "akit"
+    },
+    {
+        "word": "elm\u00falt",
+        "en-us": "past"
+    },
+    {
+        "word": "megvan",
+        "en-us": "got it"
+    },
+    {
+        "word": "r\u00f6vid",
+        "en-us": "short"
+    },
+    {
+        "word": "ti",
+        "en-us": "ti"
+    },
+    {
+        "word": "t\u00f6k\u00e9letes",
+        "en-us": "perfect"
+    },
+    {
+        "word": "\u00e9vben",
+        "en-us": "year"
+    },
+    {
+        "word": "\u00e9vek",
+        "en-us": "years"
+    },
+    {
+        "word": "eur\u00f3pa",
+        "en-us": "europe"
+    },
+    {
+        "word": "hatalmas",
+        "en-us": "huge"
+    },
+    {
+        "word": "helyi",
+        "en-us": "local"
+    },
+    {
+        "word": "l\u00e9v\u0151",
+        "en-us": "located at"
+    },
+    {
+        "word": "ment",
+        "en-us": "go to"
+    },
+    {
+        "word": "minket",
+        "en-us": "us"
+    },
+    {
+        "word": "o",
+        "en-us": "o"
+    },
+    {
+        "word": "orosz",
+        "en-us": "russian"
+    },
+    {
+        "word": "sincs",
+        "en-us": "norcs"
+    },
+    {
+        "word": "tudjuk",
+        "en-us": "we know"
+    },
+    {
+        "word": "\u00e9rzem",
+        "en-us": "feel"
+    },
+    {
+        "word": "boldog",
+        "en-us": "happy"
+    },
+    {
+        "word": "haza",
+        "en-us": "home"
+    },
+    {
+        "word": "j\u00e1t\u00e9k",
+        "en-us": "game"
+    },
+    {
+        "word": "korm\u00e1ny",
+        "en-us": "government"
+    },
+    {
+        "word": "mennyire",
+        "en-us": "how much"
+    },
+    {
+        "word": "mondom",
+        "en-us": "say"
+    },
+    {
+        "word": "sz\u00e1mos",
+        "en-us": "several"
+    },
+    {
+        "word": "sz\u00f3l\u00f3",
+        "en-us": "on"
+    },
+    {
+        "word": "tett",
+        "en-us": "made"
+    },
+    {
+        "word": "u",
+        "en-us": "u"
+    },
+    {
+        "word": "utca",
+        "en-us": "street"
+    },
+    {
+        "word": "alig",
+        "en-us": "hardly"
+    },
+    {
+        "word": "annyi",
+        "en-us": "as many"
+    },
+    {
+        "word": "anya",
+        "en-us": "mother"
+    },
+    {
+        "word": "egyszer\u0171",
+        "en-us": "simple"
+    },
+    {
+        "word": "er\u0151s",
+        "en-us": "strong"
+    },
+    {
+        "word": "k\u00e9rd\u00e9s",
+        "en-us": "question"
+    },
+    {
+        "word": "k\u00f6z\u00f6s",
+        "en-us": "common"
+    },
+    {
+        "word": "magas",
+        "en-us": "high"
+    },
+    {
+        "word": "majdnem",
+        "en-us": "almost"
+    },
+    {
+        "word": "r\u00e1m",
+        "en-us": "me"
+    },
+    {
+        "word": "szeretem",
+        "en-us": "i love"
+    },
+    {
+        "word": "tudni",
+        "en-us": "to know"
+    },
+    {
+        "word": "t\u00f3l",
+        "en-us": "from"
+    },
+    {
+        "word": "v\u00e1lt",
+        "en-us": "become"
+    },
+    {
+        "word": "\u00e1ltal\u00e1ban",
+        "en-us": "usually"
+    },
+    {
+        "word": "\u00e1m",
+        "en-us": "but"
+    },
+    {
+        "word": "akinek",
+        "en-us": "for"
+    },
+    {
+        "word": "csal\u00e1d",
+        "en-us": "family"
+    },
+    {
+        "word": "ebb\u0151l",
+        "en-us": "from"
+    },
+    {
+        "word": "egyed\u00fcl",
+        "en-us": "alone"
+    },
+    {
+        "word": "egy\u00e9b",
+        "en-us": "other"
+    },
+    {
+        "word": "eg\u00e9szen",
+        "en-us": "up to"
+    },
+    {
+        "word": "gy\u00f6ny\u00f6r\u0171",
+        "en-us": "beautiful"
+    },
+    {
+        "word": "helyett",
+        "en-us": "instead of"
+    },
+    {
+        "word": "j\u00e1r",
+        "en-us": "go to"
+    },
+    {
+        "word": "okt\u00f3ber",
+        "en-us": "october"
+    },
+    {
+        "word": "otthon",
+        "en-us": "home"
+    },
+    {
+        "word": "ra",
+        "en-us": "ra"
+    },
+    {
+        "word": "sorozat",
+        "en-us": "series"
+    },
+    {
+        "word": "sosem",
+        "en-us": "never"
+    },
+    {
+        "word": "szinte",
+        "en-us": "almost"
+    },
+    {
+        "word": "\u00e9rdekes",
+        "en-us": "of interest"
+    },
+    {
+        "word": "and",
+        "en-us": "and"
+    },
+    {
+        "word": "bel\u0151le",
+        "en-us": "from"
+    },
+    {
+        "word": "egyet",
+        "en-us": "one"
+    },
+    {
+        "word": "fiatal",
+        "en-us": "young"
+    },
+    {
+        "word": "iskola",
+        "en-us": "school"
+    },
+    {
+        "word": "komoly",
+        "en-us": "serious"
+    },
+    {
+        "word": "nek\u00fcnk",
+        "en-us": "us"
+    },
+    {
+        "word": "sz\u00f3l",
+        "en-us": "about"
+    },
+    {
+        "word": "tart",
+        "en-us": "lasts"
+    },
+    {
+        "word": "t\u0151l",
+        "en-us": "from"
+    },
+    {
+        "word": "ugyan",
+        "en-us": "same"
+    },
+    {
+        "word": "\u00e1ll\u00f3",
+        "en-us": "available at"
+    },
+    {
+        "word": "att\u00f3l",
+        "en-us": "from"
+    },
+    {
+        "word": "azokat",
+        "en-us": "those"
+    },
+    {
+        "word": "azonnal",
+        "en-us": "immediately"
+    },
+    {
+        "word": "budapesten",
+        "en-us": "budapest"
+    },
+    {
+        "word": "egy\u00e9bk\u00e9nt",
+        "en-us": "by the way"
+    },
+    {
+        "word": "ehhez",
+        "en-us": "for this"
+    },
+    {
+        "word": "elleni",
+        "en-us": "against"
+    },
+    {
+        "word": "gyerek",
+        "en-us": "child"
+    },
+    {
+        "word": "hely",
+        "en-us": "location"
+    },
+    {
+        "word": "jelenleg",
+        "en-us": "currently"
+    },
+    {
+        "word": "m\u00falva",
+        "en-us": "in a few months"
+    },
+    {
+        "word": "nek",
+        "en-us": "to"
+    },
+    {
+        "word": "szint\u00e9n",
+        "en-us": "also"
+    },
+    {
+        "word": "sz\u00e9pen",
+        "en-us": "nicely"
+    },
+    {
+        "word": "tam\u00e1s",
+        "en-us": "tamas"
+    },
+    {
+        "word": "amelyek",
+        "en-us": "which are"
+    },
+    {
+        "word": "en",
+        "en-us": "en"
+    },
+    {
+        "word": "esetleg",
+        "en-us": "possibly"
+    },
+    {
+        "word": "g",
+        "en-us": "g"
+    },
+    {
+        "word": "gyerekek",
+        "en-us": "children"
+    },
+    {
+        "word": "hasonl\u00f3",
+        "en-us": "similar"
+    },
+    {
+        "word": "http",
+        "en-us": "http"
+    },
+    {
+        "word": "ideje",
+        "en-us": "time"
+    },
+    {
+        "word": "maradt",
+        "en-us": "left"
+    },
+    {
+        "word": "mondja",
+        "en-us": "says"
+    },
+    {
+        "word": "sz\u00fcletett",
+        "en-us": "born"
+    },
+    {
+        "word": "tenni",
+        "en-us": "be done"
+    },
+    {
+        "word": "akarom",
+        "en-us": "want"
+    },
+    {
+        "word": "csal\u00e1di",
+        "en-us": "families"
+    },
+    {
+        "word": "egy\u00e1ltal\u00e1n",
+        "en-us": "at all"
+    },
+    {
+        "word": "err\u0151l",
+        "en-us": "from"
+    },
+    {
+        "word": "f\u0151leg",
+        "en-us": "mainly"
+    },
+    {
+        "word": "hazai",
+        "en-us": "home"
+    },
+    {
+        "word": "jutott",
+        "en-us": "obtained from"
+    },
+    {
+        "word": "k\u00f6r\u00fcl",
+        "en-us": "around"
+    },
+    {
+        "word": "k\u00f6vet\u0151en",
+        "en-us": "following"
+    },
+    {
+        "word": "l\u00e1tni",
+        "en-us": "see"
+    },
+    {
+        "word": "napon",
+        "en-us": "days"
+    },
+    {
+        "word": "ny\u00e1ri",
+        "en-us": "summer"
+    },
+    {
+        "word": "ok",
+        "en-us": "ok"
+    },
+    {
+        "word": "pontosan",
+        "en-us": "exactly"
+    },
+    {
+        "word": "r",
+        "en-us": "r"
+    },
+    {
+        "word": "stb",
+        "en-us": "etc."
+    },
+    {
+        "word": "szemben",
+        "en-us": "opposite"
+    },
+    {
+        "word": "t\u00f6rt\u00e9nik",
+        "en-us": "happens"
+    },
+    {
+        "word": "v\u00e1r",
+        "en-us": "castle"
+    },
+    {
+        "word": "\u00e9rte",
+        "en-us": "for"
+    },
+    {
+        "word": "\u00e9vvel",
+        "en-us": "years"
+    },
+    {
+        "word": "fogja",
+        "en-us": "will"
+    },
+    {
+        "word": "helyet",
+        "en-us": "place"
+    },
+    {
+        "word": "id\u0151ben",
+        "en-us": "on time"
+    },
+    {
+        "word": "marad",
+        "en-us": "remain"
+    },
+    {
+        "word": "to",
+        "en-us": "to"
+    },
+    {
+        "word": "tv",
+        "en-us": "tv"
+    },
+    {
+        "word": "val\u00f3sz\u00edn\u0171leg",
+        "en-us": "probably"
+    },
+    {
+        "word": "venni",
+        "en-us": "taken from"
+    },
+    {
+        "word": "\u00e1llami",
+        "en-us": "public"
+    },
+    {
+        "word": "\u00e9rdemes",
+        "en-us": "worth"
+    },
+    {
+        "word": "adatok",
+        "en-us": "data"
+    },
+    {
+        "word": "akartam",
+        "en-us": "wanted"
+    },
+    {
+        "word": "eredeti",
+        "en-us": "original from"
+    },
+    {
+        "word": "fi\u00fa",
+        "en-us": "boy"
+    },
+    {
+        "word": "francia",
+        "en-us": "french"
+    },
+    {
+        "word": "gondoltam",
+        "en-us": "thought"
+    },
+    {
+        "word": "hamarosan",
+        "en-us": "coming soon"
+    },
+    {
+        "word": "j\u00f3zsef",
+        "en-us": "yosef"
+    },
+    {
+        "word": "k\u00e9sz",
+        "en-us": "ready"
+    },
+    {
+        "word": "k\u00f6z\u00e9",
+        "en-us": "include"
+    },
+    {
+        "word": "k\u00fcl\u00f6nleges",
+        "en-us": "special"
+    },
+    {
+        "word": "lehetett",
+        "en-us": "could be"
+    },
+    {
+        "word": "napot",
+        "en-us": "tagot"
+    },
+    {
+        "word": "nekik",
+        "en-us": "them"
+    },
+    {
+        "word": "n\u00e9z",
+        "en-us": "view"
+    },
+    {
+        "word": "rendszer",
+        "en-us": "system"
+    },
+    {
+        "word": "r\u00e9sz",
+        "en-us": "section"
+    },
+    {
+        "word": "sz\u00edvesen",
+        "en-us": "you are welcome"
+    },
+    {
+        "word": "tette",
+        "en-us": "made"
+    },
+    {
+        "word": "tettem",
+        "en-us": "i put"
+    },
+    {
+        "word": "zolt\u00e1n",
+        "en-us": "zolt\u00e1n"
+    },
+    {
+        "word": "\u00e1ltal\u00e1nos",
+        "en-us": "general"
+    },
+    {
+        "word": "febru\u00e1r",
+        "en-us": "february"
+    },
+    {
+        "word": "gazdas\u00e1gi",
+        "en-us": "economic"
+    },
+    {
+        "word": "gyakran",
+        "en-us": "often"
+    },
+    {
+        "word": "kisebb",
+        "en-us": "smaller"
+    },
+    {
+        "word": "mindenkinek",
+        "en-us": "for all"
+    },
+    {
+        "word": "oldalon",
+        "en-us": "at"
+    },
+    {
+        "word": "p\u00e9nzt",
+        "en-us": "money"
+    },
+    {
+        "word": "szeretlek",
+        "en-us": "i love you"
+    },
+    {
+        "word": "vagyis",
+        "en-us": "or"
+    },
+    {
+        "word": "vettem",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "el\u0151re",
+        "en-us": "in advance"
+    },
+    {
+        "word": "emberi",
+        "en-us": "human"
+    },
+    {
+        "word": "hittem",
+        "en-us": "believed"
+    },
+    {
+        "word": "id\u00e9n",
+        "en-us": "this year"
+    },
+    {
+        "word": "john",
+        "en-us": "john"
+    },
+    {
+        "word": "kapcsolatban",
+        "en-us": "about"
+    },
+    {
+        "word": "l\u00e1that\u00f3",
+        "en-us": "visible at"
+    },
+    {
+        "word": "melyik",
+        "en-us": "which"
+    },
+    {
+        "word": "mennyi",
+        "en-us": "how much"
+    },
+    {
+        "word": "mondani",
+        "en-us": "say"
+    },
+    {
+        "word": "sokan",
+        "en-us": "many"
+    },
+    {
+        "word": "sz",
+        "en-us": "s"
+    },
+    {
+        "word": "sz\u00e1m",
+        "en-us": "number"
+    },
+    {
+        "word": "\u00e9l",
+        "en-us": "live"
+    },
+    {
+        "word": "azaz",
+        "en-us": "i.e."
+    },
+    {
+        "word": "dolgok",
+        "en-us": "stuff"
+    },
+    {
+        "word": "ellen\u00e9re",
+        "en-us": "despite"
+    },
+    {
+        "word": "ismert",
+        "en-us": "known"
+    },
+    {
+        "word": "legt\u00f6bb",
+        "en-us": "most"
+    },
+    {
+        "word": "lesznek",
+        "en-us": "will be"
+    },
+    {
+        "word": "megjelent",
+        "en-us": "published on"
+    },
+    {
+        "word": "olasz",
+        "en-us": "italian"
+    },
+    {
+        "word": "s\u00e1ndor",
+        "en-us": "s\u00e1ndor"
+    },
+    {
+        "word": "t\u00e9r",
+        "en-us": "square"
+    },
+    {
+        "word": "al\u00e1bbi",
+        "en-us": "below"
+    },
+    {
+        "word": "annyit",
+        "en-us": "so much"
+    },
+    {
+        "word": "bels\u0151",
+        "en-us": "internal"
+    },
+    {
+        "word": "g\u00e1bor",
+        "en-us": "g\u00e1bor"
+    },
+    {
+        "word": "hiszen",
+        "en-us": "since"
+    },
+    {
+        "word": "jelenti",
+        "en-us": "reports"
+    },
+    {
+        "word": "kaptam",
+        "en-us": "i got"
+    },
+    {
+        "word": "lassan",
+        "en-us": "slowly"
+    },
+    {
+        "word": "magad",
+        "en-us": "yourself"
+    },
+    {
+        "word": "meghalt",
+        "en-us": "has died"
+    },
+    {
+        "word": "rengeteg",
+        "en-us": "plenty"
+    },
+    {
+        "word": "t\u0151le",
+        "en-us": "from"
+    },
+    {
+        "word": "vezet\u0151",
+        "en-us": "manager"
+    },
+    {
+        "word": "v\u00e9gig",
+        "en-us": "all the way to"
+    },
+    {
+        "word": "z",
+        "en-us": "z"
+    },
+    {
+        "word": "ilyet",
+        "en-us": "like this"
+    },
+    {
+        "word": "lehets\u00e9ges",
+        "en-us": "possible"
+    },
+    {
+        "word": "l\u00e1tom",
+        "en-us": "i see"
+    },
+    {
+        "word": "mondjuk",
+        "en-us": "say"
+    },
+    {
+        "word": "m\u00e1jus",
+        "en-us": "may"
+    },
+    {
+        "word": "m\u0171k\u00f6dik",
+        "en-us": "works"
+    },
+    {
+        "word": "remek",
+        "en-us": "great"
+    },
+    {
+        "word": "term\u00e9szetesen",
+        "en-us": "of course"
+    },
+    {
+        "word": "tiszta",
+        "en-us": "clear"
+    },
+    {
+        "word": "t\u0171nik",
+        "en-us": "appears on"
+    },
+    {
+        "word": "vel\u00fcnk",
+        "en-us": "us"
+    },
+    {
+        "word": "\u00edrt",
+        "en-us": "posted on"
+    },
+    {
+        "word": "alkalommal",
+        "en-us": "times"
+    },
+    {
+        "word": "amelyet",
+        "en-us": "which is"
+    },
+    {
+        "word": "attila",
+        "en-us": "attila"
+    },
+    {
+        "word": "biztosan",
+        "en-us": "certainly"
+    },
+    {
+        "word": "egyetem",
+        "en-us": "university"
+    },
+    {
+        "word": "el\u0151bb",
+        "en-us": "first"
+    },
+    {
+        "word": "el\u0151z\u0151",
+        "en-us": "previous"
+    },
+    {
+        "word": "fogom",
+        "en-us": "i will"
+    },
+    {
+        "word": "h\u00e9ten",
+        "en-us": "week"
+    },
+    {
+        "word": "k\u00ednai",
+        "en-us": "chinese"
+    },
+    {
+        "word": "megfelel\u0151",
+        "en-us": "corresponding to"
+    },
+    {
+        "word": "megyei",
+        "en-us": "county"
+    },
+    {
+        "word": "melyek",
+        "en-us": "which are"
+    },
+    {
+        "word": "m\u00falt",
+        "en-us": "past"
+    },
+    {
+        "word": "napi",
+        "en-us": "daily"
+    },
+    {
+        "word": "n\u0151k",
+        "en-us": "women"
+    },
+    {
+        "word": "p\u00e9nz",
+        "en-us": "money"
+    },
+    {
+        "word": "term\u00e9szetes",
+        "en-us": "natural"
+    },
+    {
+        "word": "bizonyos",
+        "en-us": "some"
+    },
+    {
+        "word": "f",
+        "en-us": "f"
+    },
+    {
+        "word": "kor",
+        "en-us": "age"
+    },
+    {
+        "word": "k\u00f6nny\u0171",
+        "en-us": "easy"
+    },
+    {
+        "word": "k\u00f6szi",
+        "en-us": "thanks"
+    },
+    {
+        "word": "lehetne",
+        "en-us": "could be"
+    },
+    {
+        "word": "nyert",
+        "en-us": "obtained from"
+    },
+    {
+        "word": "oldal",
+        "en-us": "page"
+    },
+    {
+        "word": "politikai",
+        "en-us": "political"
+    },
+    {
+        "word": "tudunk",
+        "en-us": "we can"
+    },
+    {
+        "word": "vajon",
+        "en-us": "whether"
+    },
+    {
+        "word": "v\u00edz",
+        "en-us": "water"
+    },
+    {
+        "word": "\u00faton",
+        "en-us": "by road"
+    },
+    {
+        "word": "csod\u00e1latos",
+        "en-us": "amazing"
+    },
+    {
+        "word": "embert",
+        "en-us": "human"
+    },
+    {
+        "word": "gondolom",
+        "en-us": "think"
+    },
+    {
+        "word": "h\u00fclye",
+        "en-us": "stupid"
+    },
+    {
+        "word": "ker\u00fcl",
+        "en-us": "is"
+    },
+    {
+        "word": "kor\u00e1bbi",
+        "en-us": "previous"
+    },
+    {
+        "word": "k\u00e9pek",
+        "en-us": "images from"
+    },
+    {
+        "word": "mindj\u00e1rt",
+        "en-us": "coming soon"
+    },
+    {
+        "word": "november",
+        "en-us": "november"
+    },
+    {
+        "word": "ok\u00e9",
+        "en-us": "ok"
+    },
+    {
+        "word": "sor",
+        "en-us": "line"
+    },
+    {
+        "word": "ut\u00f3bbi",
+        "en-us": "recent"
+    },
+    {
+        "word": "val\u00f3ban",
+        "en-us": "indeed"
+    },
+    {
+        "word": "vicces",
+        "en-us": "funny"
+    },
+    {
+        "word": "z\u00f6ld",
+        "en-us": "green"
+    },
+    {
+        "word": "ad",
+        "en-us": "ad"
+    },
+    {
+        "word": "arany",
+        "en-us": "gold"
+    },
+    {
+        "word": "az\u00f3ta",
+        "en-us": "since then"
+    },
+    {
+        "word": "gyere",
+        "en-us": "come to"
+    },
+    {
+        "word": "gy\u00f6rgy",
+        "en-us": "george"
+    },
+    {
+        "word": "k\u00f6z\u00f6tti",
+        "en-us": "between"
+    },
+    {
+        "word": "k\u00fcl\u00f6n",
+        "en-us": "separately"
+    },
+    {
+        "word": "meleg",
+        "en-us": "warm"
+    },
+    {
+        "word": "t\u00e9ged",
+        "en-us": "you"
+    },
+    {
+        "word": "t\u00edz",
+        "en-us": "ten"
+    },
+    {
+        "word": "\u00e1llt",
+        "en-us": "available from"
+    },
+    {
+        "word": "\u00e9jjel",
+        "en-us": "at night"
+    },
+    {
+        "word": "\u00e9rdekel",
+        "en-us": "interested in"
+    },
+    {
+        "word": "\u00far",
+        "en-us": "mr"
+    },
+    {
+        "word": "dolgot",
+        "en-us": "stuff"
+    },
+    {
+        "word": "d\u00edjat",
+        "en-us": "prize"
+    },
+    {
+        "word": "ennyire",
+        "en-us": "so much for"
+    },
+    {
+        "word": "enn\u00e9l",
+        "en-us": "at"
+    },
+    {
+        "word": "ett\u0151l",
+        "en-us": "from"
+    },
+    {
+        "word": "jelent\u0151s",
+        "en-us": "significant"
+    },
+    {
+        "word": "lajos",
+        "en-us": "lajos"
+    },
+    {
+        "word": "no",
+        "en-us": "no"
+    },
+    {
+        "word": "ot",
+        "en-us": "ot"
+    },
+    {
+        "word": "program",
+        "en-us": "programme"
+    },
+    {
+        "word": "seg\u00edt",
+        "en-us": "help"
+    },
+    {
+        "word": "tartozik",
+        "en-us": "belong to"
+    },
+    {
+        "word": "tesz",
+        "en-us": "tesz"
+    },
+    {
+        "word": "tudj\u00e1k",
+        "en-us": "you know"
+    },
+    {
+        "word": "tudsz",
+        "en-us": "you can"
+    },
+    {
+        "word": "vett",
+        "en-us": "taken from"
+    },
+    {
+        "word": "beteg",
+        "en-us": "sick"
+    },
+    {
+        "word": "kem\u00e9ny",
+        "en-us": "hard"
+    },
+    {
+        "word": "k\u00e9p",
+        "en-us": "image from"
+    },
+    {
+        "word": "k\u00fcls\u0151",
+        "en-us": "external"
+    },
+    {
+        "word": "l\u00e1tszik",
+        "en-us": "see"
+    },
+    {
+        "word": "mindegy",
+        "en-us": "whatever"
+    },
+    {
+        "word": "probl\u00e9ma",
+        "en-us": "problem"
+    },
+    {
+        "word": "rosszul",
+        "en-us": "wrong"
+    },
+    {
+        "word": "tartott",
+        "en-us": "held"
+    },
+    {
+        "word": "v\u00e9get",
+        "en-us": "end"
+    },
+    {
+        "word": "ann\u00e1l",
+        "en-us": "about"
+    },
+    {
+        "word": "dolgozni",
+        "en-us": "to work"
+    },
+    {
+        "word": "ekkor",
+        "en-us": "then"
+    },
+    {
+        "word": "eln\u00f6ke",
+        "en-us": "president"
+    },
+    {
+        "word": "els\u0151sorban",
+        "en-us": "primarily"
+    },
+    {
+        "word": "fognak",
+        "en-us": "they will"
+    },
+    {
+        "word": "j",
+        "en-us": "j"
+    },
+    {
+        "word": "kap",
+        "en-us": "cap"
+    },
+    {
+        "word": "kev\u00e9s",
+        "en-us": "few"
+    },
+    {
+        "word": "modern",
+        "en-us": "modern"
+    },
+    {
+        "word": "sz\u00fcks\u00e9ges",
+        "en-us": "required"
+    },
+    {
+        "word": "s\u0151t",
+        "en-us": "even"
+    },
+    {
+        "word": "t\u00f6rt\u00e9net",
+        "en-us": "story"
+    },
+    {
+        "word": "veled",
+        "en-us": "with you"
+    },
+    {
+        "word": "\u00f6r\u00fcl\u00f6k",
+        "en-us": "i'm glad"
+    },
+    {
+        "word": "csin\u00e1lni",
+        "en-us": "do"
+    },
+    {
+        "word": "egyben",
+        "en-us": "also"
+    },
+    {
+        "word": "elej\u00e9n",
+        "en-us": "beginning of"
+    },
+    {
+        "word": "eln\u00f6k",
+        "en-us": "president"
+    },
+    {
+        "word": "finom",
+        "en-us": "fine"
+    },
+    {
+        "word": "folyamatosan",
+        "en-us": "continuously"
+    },
+    {
+        "word": "igaz\u00e1b\u00f3l",
+        "en-us": "actually"
+    },
+    {
+        "word": "ingyenes",
+        "en-us": "free"
+    },
+    {
+        "word": "jaj",
+        "en-us": "yes"
+    },
+    {
+        "word": "janu\u00e1r",
+        "en-us": "january"
+    },
+    {
+        "word": "jelenlegi",
+        "en-us": "current"
+    },
+    {
+        "word": "j\u00f6v\u0151",
+        "en-us": "future"
+    },
+    {
+        "word": "kicsi",
+        "en-us": "small"
+    },
+    {
+        "word": "k\u00e9rlek",
+        "en-us": "please"
+    },
+    {
+        "word": "magyarok",
+        "en-us": "hungarians"
+    },
+    {
+        "word": "sport",
+        "en-us": "sport"
+    },
+    {
+        "word": "szab\u00f3",
+        "en-us": "tailor"
+    },
+    {
+        "word": "\u00e9r",
+        "en-us": "reach"
+    },
+    {
+        "word": "\u00fagyhogy",
+        "en-us": "so"
+    },
+    {
+        "word": "am\u00fagy",
+        "en-us": "by the way"
+    },
+    {
+        "word": "aut\u00f3",
+        "en-us": "car"
+    },
+    {
+        "word": "cm",
+        "en-us": "cm"
+    },
+    {
+        "word": "esetben",
+        "en-us": "case study"
+    },
+    {
+        "word": "eset\u00e9n",
+        "en-us": "in case of"
+    },
+    {
+        "word": "f\u00f6ld",
+        "en-us": "land"
+    },
+    {
+        "word": "haszn\u00e1lt",
+        "en-us": "used"
+    },
+    {
+        "word": "helyes",
+        "en-us": "correct"
+    },
+    {
+        "word": "hirtelen",
+        "en-us": "suddenly"
+    },
+    {
+        "word": "k\u00fcl\u00f6n\u00f6sen",
+        "en-us": "in particular"
+    },
+    {
+        "word": "napja",
+        "en-us": "day of"
+    },
+    {
+        "word": "n\u00e1lam",
+        "en-us": "at"
+    },
+    {
+        "word": "szeretn\u00e9m",
+        "en-us": "i would like"
+    },
+    {
+        "word": "sz\u00e1m\u00edt",
+        "en-us": "matters"
+    },
+    {
+        "word": "sz\u00fcks\u00e9g",
+        "en-us": "needed"
+    },
+    {
+        "word": "tov\u00e1bbra",
+        "en-us": "continue"
+    },
+    {
+        "word": "tudta",
+        "en-us": "could be found at"
+    },
+    {
+        "word": "t\u00f6rv\u00e9ny",
+        "en-us": "law"
+    },
+    {
+        "word": "\u00e9des",
+        "en-us": "sweet"
+    },
+    {
+        "word": "\u00e9lete",
+        "en-us": "his life"
+    },
+    {
+        "word": "\u00e9letem",
+        "en-us": "my life"
+    },
+    {
+        "word": "\u00e9lni",
+        "en-us": "live at"
+    },
+    {
+        "word": "\u00e9rdek\u00e9ben",
+        "en-us": "order"
+    },
+    {
+        "word": "\u00f6sszesen",
+        "en-us": "total"
+    },
+    {
+        "word": "adni",
+        "en-us": "give to"
+    },
+    {
+        "word": "db",
+        "en-us": "db"
+    },
+    {
+        "word": "egym\u00e1st",
+        "en-us": "each other"
+    },
+    {
+        "word": "embereket",
+        "en-us": "people"
+    },
+    {
+        "word": "ezel\u0151tt",
+        "en-us": "before"
+    },
+    {
+        "word": "for",
+        "en-us": "for"
+    },
+    {
+        "word": "gyors",
+        "en-us": "fast"
+    },
+    {
+        "word": "helyzet",
+        "en-us": "location"
+    },
+    {
+        "word": "h\u00e1ny",
+        "en-us": "vom"
+    },
+    {
+        "word": "id\u0151t",
+        "en-us": "time"
+    },
+    {
+        "word": "j\u00e1rt",
+        "en-us": "visited"
+    },
+    {
+        "word": "kultur\u00e1lis",
+        "en-us": "cultural"
+    },
+    {
+        "word": "michael",
+        "en-us": "michael"
+    },
+    {
+        "word": "mik\u00f6zben",
+        "en-us": "while"
+    },
+    {
+        "word": "mondtam",
+        "en-us": "i said"
+    },
+    {
+        "word": "m\u00f6g\u00f6tt",
+        "en-us": "behind"
+    },
+    {
+        "word": "n\u00e1lunk",
+        "en-us": "at"
+    },
+    {
+        "word": "rendelet",
+        "en-us": "regulation"
+    },
+    {
+        "word": "r\u00e9sz\u00e9t",
+        "en-us": "part of"
+    },
+    {
+        "word": "seg\u00edts\u00e9g\u00e9vel",
+        "en-us": "via"
+    },
+    {
+        "word": "sz\u00e1m\u00fa",
+        "en-us": "no."
+    },
+    {
+        "word": "tan\u00e1r",
+        "en-us": "teacher"
+    },
+    {
+        "word": "ter\u00fclet\u00e9n",
+        "en-us": "on"
+    },
+    {
+        "word": "teszi",
+        "en-us": "makes"
+    },
+    {
+        "word": "tudnak",
+        "en-us": "they can"
+    },
+    {
+        "word": "vagytok",
+        "en-us": "are you"
+    },
+    {
+        "word": "valahogy",
+        "en-us": "somehow"
+    },
+    {
+        "word": "verseny",
+        "en-us": "competition"
+    },
+    {
+        "word": "you",
+        "en-us": "you"
+    },
+    {
+        "word": "\u00e9rkezett",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "akarsz",
+        "en-us": "do you want"
+    },
+    {
+        "word": "c\u00e9g",
+        "en-us": "company"
+    },
+    {
+        "word": "dal",
+        "en-us": "dal"
+    },
+    {
+        "word": "darab",
+        "en-us": "piece"
+    },
+    {
+        "word": "december",
+        "en-us": "december"
+    },
+    {
+        "word": "hozott",
+        "en-us": "taken from"
+    },
+    {
+        "word": "iii",
+        "en-us": "iii"
+    },
+    {
+        "word": "indult",
+        "en-us": "launched"
+    },
+    {
+        "word": "j\u00fanius",
+        "en-us": "june"
+    },
+    {
+        "word": "kiad\u00f3",
+        "en-us": "for rent"
+    },
+    {
+        "word": "kurva",
+        "en-us": "curva"
+    },
+    {
+        "word": "k\u00f6nyv",
+        "en-us": "book"
+    },
+    {
+        "word": "k\u00f6sz\u00f6nj\u00fck",
+        "en-us": "thank you"
+    },
+    {
+        "word": "megye",
+        "en-us": "county"
+    },
+    {
+        "word": "melyet",
+        "en-us": "by"
+    },
+    {
+        "word": "m\u00e1sok",
+        "en-us": "others"
+    },
+    {
+        "word": "nev\u00e9t",
+        "en-us": "name"
+    },
+    {
+        "word": "ny\u00edlt",
+        "en-us": "open"
+    },
+    {
+        "word": "rendben",
+        "en-us": "oK"
+    },
+    {
+        "word": "r\u00e9gen",
+        "en-us": "used to be"
+    },
+    {
+        "word": "szeretne",
+        "en-us": "you want"
+    },
+    {
+        "word": "sz\u00e1momra",
+        "en-us": "for me"
+    },
+    {
+        "word": "tudott",
+        "en-us": "could"
+    },
+    {
+        "word": "vel\u00fck",
+        "en-us": "with them"
+    },
+    {
+        "word": "world",
+        "en-us": "world"
+    },
+    {
+        "word": "zene",
+        "en-us": "music"
+    },
+    {
+        "word": "\u00e9vekben",
+        "en-us": "years"
+    },
+    {
+        "word": "bizotts\u00e1g",
+        "en-us": "committee"
+    },
+    {
+        "word": "csup\u00e1n",
+        "en-us": "only"
+    },
+    {
+        "word": "felett",
+        "en-us": "via"
+    },
+    {
+        "word": "fi\u00fak",
+        "en-us": "guys"
+    },
+    {
+        "word": "ideig",
+        "en-us": "period"
+    },
+    {
+        "word": "k\u00e9pest",
+        "en-us": "compared to"
+    },
+    {
+        "word": "k\u00fclf\u00f6ldi",
+        "en-us": "foreign"
+    },
+    {
+        "word": "lenn\u00e9k",
+        "en-us": "i would be"
+    },
+    {
+        "word": "l\u00e9tre",
+        "en-us": "created by"
+    },
+    {
+        "word": "magyarorsz\u00e1gi",
+        "en-us": "hungary"
+    },
+    {
+        "word": "max",
+        "en-us": "max"
+    },
+    {
+        "word": "miel\u0151tt",
+        "en-us": "before"
+    },
+    {
+        "word": "mindenkit",
+        "en-us": "everyone"
+    },
+    {
+        "word": "nev\u0171",
+        "en-us": "from"
+    },
+    {
+        "word": "oh",
+        "en-us": "oh"
+    },
+    {
+        "word": "r\u00e9szben",
+        "en-us": "in part"
+    },
+    {
+        "word": "tagja",
+        "en-us": "member"
+    },
+    {
+        "word": "\u00e9let\u00e9t",
+        "en-us": "his life"
+    },
+    {
+        "word": "akart",
+        "en-us": "akart"
+    },
+    {
+        "word": "amire",
+        "en-us": "amire"
+    },
+    {
+        "word": "ami\u00e9rt",
+        "en-us": "why"
+    },
+    {
+        "word": "biztons\u00e1gi",
+        "en-us": "security"
+    },
+    {
+        "word": "david",
+        "en-us": "david"
+    },
+    {
+        "word": "innen",
+        "en-us": "from"
+    },
+    {
+        "word": "j\u00falius",
+        "en-us": "july"
+    },
+    {
+        "word": "la",
+        "en-us": "la"
+    },
+    {
+        "word": "legfontosabb",
+        "en-us": "most important"
+    },
+    {
+        "word": "mindk\u00e9t",
+        "en-us": "both"
+    },
+    {
+        "word": "old",
+        "en-us": "old"
+    },
+    {
+        "word": "oldal\u00e1n",
+        "en-us": "on"
+    },
+    {
+        "word": "tudom\u00e1nyos",
+        "en-us": "scientific"
+    },
+    {
+        "word": "t\u00f6bbsz\u00f6r",
+        "en-us": "more"
+    },
+    {
+        "word": "ugyanis",
+        "en-us": "because"
+    },
+    {
+        "word": "val\u00f3j\u00e1ban",
+        "en-us": "actually"
+    },
+    {
+        "word": "v\u00e1logatott",
+        "en-us": "retrieved from"
+    },
+    {
+        "word": "v\u00e9gzett",
+        "en-us": "done"
+    },
+    {
+        "word": "adja",
+        "en-us": "give"
+    },
+    {
+        "word": "amelynek",
+        "en-us": "whose"
+    },
+    {
+        "word": "andr\u00e1s",
+        "en-us": "andr\u00e1s"
+    },
+    {
+        "word": "apja",
+        "en-us": "apja"
+    },
+    {
+        "word": "egy\u00e9ni",
+        "en-us": "individual"
+    },
+    {
+        "word": "eu",
+        "en-us": "eu"
+    },
+    {
+        "word": "fia",
+        "en-us": "fia"
+    },
+    {
+        "word": "friss",
+        "en-us": "fresh"
+    },
+    {
+        "word": "hoz",
+        "en-us": "brings"
+    },
+    {
+        "word": "k\u00e9k",
+        "en-us": "blue"
+    },
+    {
+        "word": "k\u00e9pet",
+        "en-us": "image from"
+    },
+    {
+        "word": "mell\u00e9",
+        "en-us": "next to"
+    },
+    {
+        "word": "melynek",
+        "en-us": "of which"
+    },
+    {
+        "word": "munk\u00e1t",
+        "en-us": "work"
+    },
+    {
+        "word": "nektek",
+        "en-us": "for you"
+    },
+    {
+        "word": "n\u00e9lk\u00fcli",
+        "en-us": "without"
+    },
+    {
+        "word": "park",
+        "en-us": "park"
+    },
+    {
+        "word": "pontos",
+        "en-us": "exact"
+    },
+    {
+        "word": "reggelt",
+        "en-us": "morning"
+    },
+    {
+        "word": "szerinted",
+        "en-us": "according to you"
+    },
+    {
+        "word": "tal\u00e1ltam",
+        "en-us": "found at"
+    },
+    {
+        "word": "v\u00f6r\u00f6s",
+        "en-us": "red"
+    },
+    {
+        "word": "\u00b0",
+        "en-us": "\u00b0"
+    },
+    {
+        "word": "\u00e9jszaka",
+        "en-us": "night"
+    },
+    {
+        "word": "\u00e9letben",
+        "en-us": "alive"
+    },
+    {
+        "word": "\u00e9rz\u00e9s",
+        "en-us": "feeling"
+    },
+    {
+        "word": "besz\u00e9lni",
+        "en-us": "talk to"
+    },
+    {
+        "word": "el\u00e9gg\u00e9",
+        "en-us": "quite"
+    },
+    {
+        "word": "haszn\u00e1lni",
+        "en-us": "use"
+    },
+    {
+        "word": "hideg",
+        "en-us": "cold"
+    },
+    {
+        "word": "ilyenkor",
+        "en-us": "at this time"
+    },
+    {
+        "word": "jut",
+        "en-us": "jut"
+    },
+    {
+        "word": "j\u00f3t",
+        "en-us": "good luck"
+    },
+    {
+        "word": "j\u00f6nnek",
+        "en-us": "are coming"
+    },
+    {
+        "word": "kedvenc",
+        "en-us": "favourite"
+    },
+    {
+        "word": "magyarul",
+        "en-us": "in English"
+    },
+    {
+        "word": "nyelv\u0171",
+        "en-us": "language"
+    },
+    {
+        "word": "sose",
+        "en-us": "sose"
+    },
+    {
+        "word": "s\u00f6t\u00e9t",
+        "en-us": "dark"
+    },
+    {
+        "word": "\u00e1llam",
+        "en-us": "state"
+    },
+    {
+        "word": "\u00e9g",
+        "en-us": "sky"
+    },
+    {
+        "word": "bizony",
+        "en-us": "proof"
+    },
+    {
+        "word": "dolgokat",
+        "en-us": "stuff"
+    },
+    {
+        "word": "egyes\u00fclt",
+        "en-us": "merged"
+    },
+    {
+        "word": "egyszerre",
+        "en-us": "simultaneously"
+    },
+    {
+        "word": "el\u00e9rhet\u0151",
+        "en-us": "available at"
+    },
+    {
+        "word": "ezut\u00e1n",
+        "en-us": "then"
+    },
+    {
+        "word": "h\u00f3nap",
+        "en-us": "month"
+    },
+    {
+        "word": "itthon",
+        "en-us": "at home"
+    },
+    {
+        "word": "ker\u00fclet",
+        "en-us": "district"
+    },
+    {
+        "word": "m\u00e1ris",
+        "en-us": "already"
+    },
+    {
+        "word": "szeretn\u00e9l",
+        "en-us": "would you like"
+    },
+    {
+        "word": "tov\u00e1bb\u00e1",
+        "en-us": "also"
+    },
+    {
+        "word": "valahol",
+        "en-us": "somewhere"
+    },
+    {
+        "word": "vette",
+        "en-us": "vette"
+    },
+    {
+        "word": "\u00e9szre",
+        "en-us": "notice"
+    },
+    {
+        "word": "\u00f6tlet",
+        "en-us": "idea"
+    },
+    {
+        "word": "abb\u00f3l",
+        "en-us": "from"
+    },
+    {
+        "word": "adta",
+        "en-us": "adta"
+    },
+    {
+        "word": "bal\u00e1zs",
+        "en-us": "bal\u00e1zs"
+    },
+    {
+        "word": "emiatt",
+        "en-us": "for this reason"
+    },
+    {
+        "word": "esett",
+        "en-us": "esett"
+    },
+    {
+        "word": "hova",
+        "en-us": "where to"
+    },
+    {
+        "word": "kellemes",
+        "en-us": "pleasant"
+    },
+    {
+        "word": "kinek",
+        "en-us": "for whom"
+    },
+    {
+        "word": "k\u00e9sz\u00edtett",
+        "en-us": "prepared by"
+    },
+    {
+        "word": "l\u00e9tezik",
+        "en-us": "exists"
+    },
+    {
+        "word": "szereti",
+        "en-us": "likes"
+    },
+    {
+        "word": "sziget",
+        "en-us": "island"
+    },
+    {
+        "word": "tavaly",
+        "en-us": "last year"
+    },
+    {
+        "word": "tele",
+        "en-us": "tele"
+    },
+    {
+        "word": "t\u00e9li",
+        "en-us": "winter"
+    },
+    {
+        "word": "york",
+        "en-us": "york"
+    },
+    {
+        "word": "abba",
+        "en-us": "abba"
+    },
+    {
+        "word": "brit",
+        "en-us": "uK"
+    },
+    {
+        "word": "csoport",
+        "en-us": "group"
+    },
+    {
+        "word": "el\u00e9",
+        "en-us": "send to"
+    },
+    {
+        "word": "https",
+        "en-us": "https"
+    },
+    {
+        "word": "keres",
+        "en-us": "visit"
+    },
+    {
+        "word": "klub",
+        "en-us": "club"
+    },
+    {
+        "word": "kov\u00e1cs",
+        "en-us": "blacksmith"
+    },
+    {
+        "word": "k\u00f6zeli",
+        "en-us": "nearby"
+    },
+    {
+        "word": "k\u00f6zponti",
+        "en-us": "central"
+    },
+    {
+        "word": "l\u00e1nyok",
+        "en-us": "girls"
+    },
+    {
+        "word": "l\u00e9nyeg",
+        "en-us": "relevance"
+    },
+    {
+        "word": "messze",
+        "en-us": "far"
+    },
+    {
+        "word": "milli\u00e1rd",
+        "en-us": "billions"
+    },
+    {
+        "word": "minek",
+        "en-us": "go to"
+    },
+    {
+        "word": "mintegy",
+        "en-us": "about"
+    },
+    {
+        "word": "m\u0171szaki",
+        "en-us": "technical"
+    },
+    {
+        "word": "napig",
+        "en-us": "days"
+    },
+    {
+        "word": "nevet",
+        "en-us": "name"
+    },
+    {
+        "word": "n\u00e9v",
+        "en-us": "name"
+    },
+    {
+        "word": "olimpiai",
+        "en-us": "olympic"
+    },
+    {
+        "word": "r\u00e1ad\u00e1sul",
+        "en-us": "in addition"
+    },
+    {
+        "word": "t\u00e1rsas\u00e1g",
+        "en-us": "company"
+    },
+    {
+        "word": "t\u00f6bbek",
+        "en-us": "more"
+    },
+    {
+        "word": "val\u00f3di",
+        "en-us": "real"
+    },
+    {
+        "word": "v\u00e1rosban",
+        "en-us": "cities"
+    },
+    {
+        "word": "y",
+        "en-us": "y"
+    },
+    {
+        "word": "zsid\u00f3",
+        "en-us": "jewish"
+    },
+    {
+        "word": "\u00edrta",
+        "en-us": "written by"
+    },
+    {
+        "word": "\u00f6s",
+        "en-us": "also"
+    },
+    {
+        "word": "amivel",
+        "en-us": "amivel"
+    },
+    {
+        "word": "c\u00e9lja",
+        "en-us": "purpose"
+    },
+    {
+        "word": "d\u00e9l",
+        "en-us": "south"
+    },
+    {
+        "word": "d\u00edj",
+        "en-us": "fee"
+    },
+    {
+        "word": "egykori",
+        "en-us": "formerly"
+    },
+    {
+        "word": "ingyen",
+        "en-us": "free"
+    },
+    {
+        "word": "jap\u00e1n",
+        "en-us": "japanese"
+    },
+    {
+        "word": "mutatja",
+        "en-us": "shows"
+    },
+    {
+        "word": "orvosi",
+        "en-us": "medical"
+    },
+    {
+        "word": "piros",
+        "en-us": "red"
+    },
+    {
+        "word": "sokszor",
+        "en-us": "many times"
+    },
+    {
+        "word": "szinten",
+        "en-us": "levels"
+    },
+    {
+        "word": "t\u00f3th",
+        "en-us": "t\u00f3th"
+    },
+    {
+        "word": "t\u00f6r\u00f6k",
+        "en-us": "turkish"
+    },
+    {
+        "word": "akarja",
+        "en-us": "wants"
+    },
+    {
+        "word": "dolgozik",
+        "en-us": "works"
+    },
+    {
+        "word": "egyes\u00fclet",
+        "en-us": "association"
+    },
+    {
+        "word": "egym\u00e1s",
+        "en-us": "each other"
+    },
+    {
+        "word": "h\u00e1bor\u00fa",
+        "en-us": "war"
+    },
+    {
+        "word": "h\u00edr",
+        "en-us": "news"
+    },
+    {
+        "word": "kutya",
+        "en-us": "dog"
+    },
+    {
+        "word": "k\u00e1roly",
+        "en-us": "k\u00e1roly"
+    }
+]
