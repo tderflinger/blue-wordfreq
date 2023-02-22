@@ -9,12 +9,20 @@ Demo site: https://blue-wordfreq.netlify.app
 
 ## Installation
 
+For the `create-lists` application:
+
 ```bash
 python3 -m venv venv
 
 . venv/bin/activate
 
 pip3 install -r requirements.txt
+```
+
+For the `list-ui` application:
+
+```bash
+npm install
 ```
 
 ## Run
@@ -63,6 +71,7 @@ The `blue-workfreq` package contains the following:
 - `list-ui` - creates the UI as static pages for all languages
 - `blue-transliterator` - transliterates the word frequency lists for the respective language (`languageId`)
 
+Note, the `converter` package is deprecated.
 
 ## References
 
