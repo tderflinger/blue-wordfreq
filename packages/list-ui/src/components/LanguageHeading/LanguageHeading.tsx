@@ -1,4 +1,10 @@
-const LanguageHeading = ({ langName }) => {
+import { FC } from "react";
+
+type LanguageHeadingProps = {
+  langName: string;
+};
+
+const LanguageHeading: FC<LanguageHeadingProps> = ({ langName }) => {
   return (
     <>
       <h1 style={{ paddingTop: "3rem" }}>Frequency List {langName}</h1>

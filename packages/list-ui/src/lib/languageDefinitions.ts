@@ -1,4 +1,8 @@
-export const languageNames = {
+export type LanguageNamesType = {
+  [key: string]: string;
+}
+
+export const languageNames: LanguageNamesType = {
   cs: "Czech",
   nl: "Dutch",
   fr: "French",

@@ -2,8 +2,24 @@ import { readFile } from "fs/promises";
 import Table from "react-bootstrap/Table";
 import Dropdown from "react-bootstrap/Dropdown";
 import { languageNames } from "../lib/languageDefinitions";
+import { FC } from "react";
 
-const LanguagePage = ({ wordsList, languageName, languageCode }) => {
+type LanguagePageProps = {
+  wordsList: Array<WordListType>;
+  languageName: string;
+  languageCode: string;
+};
+
+type WordListType = {
+  word: string;
+  "en-us": string;
+};
+
+const LanguagePage: FC<LanguagePageProps> = ({
+  wordsList,
+  languageName,
+  languageCode,
+}) => {
   return (
     <div>
       <h1 style={{ paddingTop: "3rem" }}>Frequency List {languageName}</h1>
@@ -38,7 +54,7 @@ const LanguagePage = ({ wordsList, languageName, languageCode }) => {
           </tr>
         </thead>
         <tbody>
-          {wordsList.map((word, index: number) => (
+          {wordsList.map((word: WordListType, index: number) => (
             <tr key={index}>
               <td>{index + 1}</td>
               <td>{word?.word}</td>
@@ -69,10 +85,10 @@ const LanguagePage = ({ wordsList, languageName, languageCode }) => {
 };
 
 export async function getStaticPaths() {
-  const paths = [];
+  const paths: any[] = [];
   Object.keys(languageNames).forEach((lang) => {
     paths.push({ params: { langCode: lang } });
-    });
+  });
 
   return {
     paths,
@@ -80,8 +96,22 @@ export async function getStaticPaths() {
   };
 }
 
-export async function getStaticProps({ params }) {
+type ParamsType = {
+  langCode: string;
+};
+
+export async function getStaticProps({ params }: { params: ParamsType }) {
   const { langCode } = params;
+
+  if (!langCode) {
+    return {
+      redirect: {
+        destination: "/cs",
+        permanent: true,
+      },    
+    };
+  }
+
   const contents = await readFile(`../../word-lists/${langCode}-list.json`);
   const jsonList = JSON.parse(contents.toString());
 

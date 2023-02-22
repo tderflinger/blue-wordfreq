@@ -19,6 +19,8 @@ pip3 install -r requirements.txt
 
 ## Run
 
+For the `create-lists` application:
+
 Create deepl.env file with the following content:
 
 ```bash
@@ -35,38 +37,32 @@ source ./deepl.env
 python3 app.py languageId
 ```
 
-Where languageId is one of the following:
+For the `list-ui` application:
 
-- cs (Czech)
-- fr (French)
-- el (Greek)
-- zh (Mandarin)
-- ro (Romanian)
-- es (Spanish)
-- sv (Swedish)
-- tr (Turkish)
-- uk (Ukrainian)
+`list-ui` is a static Next.js site. You need the respective JSON files in the `/word-lists` folder.
+You can generate them using the `create-lists` application.
 
-## Converter
-
-Converter is a Go application that converts the JSON wordlist into
-HTML. The JSON wordlists are located in the `word-lists` directory.
-
-Run:
+In order to run for development:
 
 ```bash
-cd converter
-go run converter.go languageId languageName
+npm run dev
 ```
 
-The generated HTML files are then located in the `dist` directory.
-
-## Deployment
+For production:
 
 ```bash
-cd dist
-netlify deploy
+npm run build
+npm run export
 ```
+
+## Packages
+
+The `blue-workfreq` package contains the following:
+
+- `create-lists` - creates the word frequency lists for the respective language (`languageId`)
+- `list-ui` - creates the UI as static pages for all languages
+- `blue-transliterator` - transliterates the word frequency lists for the respective language (`languageId`)
+
 
 ## References
 
