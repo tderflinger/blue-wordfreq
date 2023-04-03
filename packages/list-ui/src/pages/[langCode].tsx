@@ -1,8 +1,9 @@
 import { readFile } from "fs/promises";
 import Table from "react-bootstrap/Table";
 import Dropdown from "react-bootstrap/Dropdown";
-import { languageNames } from "../lib/languageDefinitions";
+import { languageNames, transliteratedLanguages } from "../lib/languageDefinitions";
 import { FC } from "react";
+import LanguageHeading from "@/components/LanguageHeading/LanguageHeading";
 
 type LanguagePageProps = {
   wordsList: Array<WordListType>;
@@ -12,7 +13,8 @@ type LanguagePageProps = {
 
 type WordListType = {
   word: string;
-  "en-us": string;
+  en: string;
+  transliteration?: string;
 };
 
 const LanguagePage: FC<LanguagePageProps> = ({
@@ -21,12 +23,8 @@ const LanguagePage: FC<LanguagePageProps> = ({
   languageCode,
 }) => {
   return (
-    <div>
-      <h1 style={{ paddingTop: "3rem" }}>Frequency List {languageName}</h1>
-      <h2 style={{ fontSize: "1rem" }}>
-        Top 1000 most frequent words in {languageName} with their English
-        translation.
-      </h2>
+    <>
+      <LanguageHeading langName={languageName} />
       <div style={{ display: "flex" }}>
         <p style={{ width: "10rem", marginTop: "1rem" }}>Choose language:</p>
         <Dropdown style={{ marginTop: "0.5rem" }}>
@@ -57,8 +55,8 @@ const LanguagePage: FC<LanguagePageProps> = ({
           {wordsList.map((word: WordListType, index: number) => (
             <tr key={index}>
               <td>{index + 1}</td>
-              <td>{word?.word}</td>
-              <td>{word["en-us"]}</td>
+              <td>{word?.word} {word?.transliteration ? `(${word?.transliteration})` : null} </td>
+              <td>{word?.en}</td>
               <td>
                 <a
                   href={`https://${languageCode}.wiktionary.org/wiki/${word?.word}`}
@@ -80,7 +78,7 @@ const LanguagePage: FC<LanguagePageProps> = ({
           ))}
         </tbody>
       </Table>
-    </div>
+    </>
   );
 };
 
@@ -112,7 +110,14 @@ export async function getStaticProps({ params }: { params: ParamsType }) {
     };
   }
 
-  const contents = await readFile(`../../word-lists/${langCode}-list.json`);
+  const found = transliteratedLanguages.find((lang: string) => lang === langCode);
+  let contents;
+  if (found) {
+    contents = await readFile(`../../word-lists/${langCode}-list-tl.json`);
+  } else {
+    contents = await readFile(`../../word-lists/${langCode}-list.json`);
+  }
+
   const jsonList = JSON.parse(contents.toString());
 
   return {

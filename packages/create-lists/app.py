@@ -30,7 +30,7 @@ for word in top_words:
         first_char_lower = translation_word[0].lower()
     
     translation_word_first_lower = first_char_lower + result.text[1:]
-    entry = { "word": word, "en-us":  translation_word_first_lower}
+    entry = { "word": word, "en":  translation_word_first_lower}
     word_list.append(entry)
 
 print(word_list)

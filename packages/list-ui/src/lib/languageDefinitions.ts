@@ -25,3 +25,6 @@ export const languageNames: LanguageNamesType = {
   tr: "Turkish",
   uk: "Ukrainian",
 };
+
+// all the languages for which we have a transliteration
+export const transliteratedLanguages = ["el"];

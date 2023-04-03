@@ -5,7 +5,7 @@ Ideal for second language acquisition and language learning. The lists contain t
 
 Based on [wordfreq](https://github.com/rspeer/wordfreq), translated using [DeepL](https://www.deepl.com/translator).
 
-Demo site: https://blue-wordfreq.netlify.app
+Demo site: https://blue-wordfreq.netlify.app/cs
 
 ## Installation
 

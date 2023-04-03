@@ -1,4002 +1,4002 @@
 [
     {
         "word": "ja",
-        "en-us": "and"
+        "en": "and"
     },
     {
         "word": "on",
-        "en-us": "on"
+        "en": "on"
     },
     {
         "word": "ei",
-        "en-us": "no"
+        "en": "no"
     },
     {
         "word": "ett\u00e4",
-        "en-us": "to"
+        "en": "to"
     },
     {
         "word": "se",
-        "en-us": "se"
+        "en": "se"
     },
     {
         "word": "oli",
-        "en-us": "was"
+        "en": "was"
     },
     {
         "word": "mutta",
-        "en-us": "but"
+        "en": "but"
     },
     {
         "word": "ole",
-        "en-us": "ole"
+        "en": "ole"
     },
     {
         "word": "kun",
-        "en-us": "when"
+        "en": "when"
     },
     {
         "word": "niin",
-        "en-us": "then"
+        "en": "then"
     },
     {
         "word": "my\u00f6s",
-        "en-us": "also"
+        "en": "also"
     },
     {
         "word": "h\u00e4n",
-        "en-us": "he"
+        "en": "he"
     },
     {
         "word": "jos",
-        "en-us": "if"
+        "en": "if"
     },
     {
         "word": "ovat",
-        "en-us": "are"
+        "en": "are"
     },
     {
         "word": "voi",
-        "en-us": "may"
+        "en": "may"
     },
     {
         "word": "nyt",
-        "en-us": "now"
+        "en": "now"
     },
     {
         "word": "sen",
-        "en-us": "its"
+        "en": "its"
     },
     {
         "word": "kuin",
-        "en-us": "than"
+        "en": "than"
     },
     {
         "word": "tai",
-        "en-us": "or"
+        "en": "or"
     },
     {
         "word": "en",
-        "en-us": "en"
+        "en": "en"
     },
     {
         "word": "joka",
-        "en-us": "which"
+        "en": "which"
     },
     {
         "word": "olla",
-        "en-us": "be"
+        "en": "be"
     },
     {
         "word": "sit\u00e4",
-        "en-us": "it"
+        "en": "it"
     },
     {
         "word": "mit\u00e4",
-        "en-us": "what"
+        "en": "what"
     },
     {
         "word": "vain",
-        "en-us": "only"
+        "en": "only"
     },
     {
         "word": "jo",
-        "en-us": "already"
+        "en": "already"
     },
     {
         "word": "kanssa",
-        "en-us": "with"
+        "en": "with"
     },
     {
         "word": "t\u00e4m\u00e4",
-        "en-us": "this"
+        "en": "this"
     },
     {
         "word": "sitten",
-        "en-us": "then"
+        "en": "then"
     },
     {
         "word": "kaikki",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "olisi",
-        "en-us": "should be"
+        "en": "should be"
     },
     {
         "word": "ollut",
-        "en-us": "was"
+        "en": "was"
     },
     {
         "word": "viel\u00e4",
-        "en-us": "still"
+        "en": "still"
     },
     {
         "word": "kyll\u00e4",
-        "en-us": "yes"
+        "en": "yes"
     },
     {
         "word": "siit\u00e4",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "ne",
-        "en-us": "ne"
+        "en": "ne"
     },
     {
         "word": "suomen",
-        "en-us": "finland"
+        "en": "finland"
     },
     {
         "word": "hyv\u00e4",
-        "en-us": "good for"
+        "en": "good for"
     },
     {
         "word": "1",
-        "en-us": "1"
+        "en": "1"
     },
     {
         "word": "sek\u00e4",
-        "en-us": "and"
+        "en": "and"
     },
     {
         "word": "j\u00e4lkeen",
-        "en-us": "following"
+        "en": "following"
     },
     {
         "word": "miten",
-        "en-us": "how to"
+        "en": "how to"
     },
     {
         "word": "mukaan",
-        "en-us": "according to"
+        "en": "according to"
     },
     {
         "word": "paljon",
-        "en-us": "plenty"
+        "en": "plenty"
     },
     {
         "word": "saa",
-        "en-us": "get"
+        "en": "get"
     },
     {
         "word": "olen",
-        "en-us": "i am"
+        "en": "i am"
     },
     {
         "word": "pit\u00e4\u00e4",
-        "en-us": "keep"
+        "en": "keep"
     },
     {
         "word": "ihan",
-        "en-us": "just"
+        "en": "just"
     },
     {
         "word": "mit\u00e4\u00e4n",
-        "en-us": "anything"
+        "en": "anything"
     },
     {
         "word": "tulee",
-        "en-us": "comes from"
+        "en": "comes from"
     },
     {
         "word": "hyvin",
-        "en-us": "well"
+        "en": "well"
     },
     {
         "word": "t\u00e4ss\u00e4",
-        "en-us": "here"
+        "en": "here"
     },
     {
         "word": "h\u00e4nen",
-        "en-us": "his"
+        "en": "his"
     },
     {
         "word": "vaan",
-        "en-us": "but"
+        "en": "but"
     },
     {
         "word": "koska",
-        "en-us": "because"
+        "en": "because"
     },
     {
         "word": "2",
-        "en-us": "2"
+        "en": "2"
     },
     {
         "word": "aina",
-        "en-us": "always"
+        "en": "always"
     },
     {
         "word": "eiv\u00e4t",
-        "en-us": "do not"
+        "en": "do not"
     },
     {
         "word": "koko",
-        "en-us": "full"
+        "en": "full"
     },
     {
         "word": "kuitenkin",
-        "en-us": "however"
+        "en": "however"
     },
     {
         "word": "vaikka",
-        "en-us": "although"
+        "en": "although"
     },
     {
         "word": "mik\u00e4",
-        "en-us": "which"
+        "en": "which"
     },
     {
         "word": "vuoden",
-        "en-us": "years"
+        "en": "years"
     },
     {
         "word": "ennen",
-        "en-us": "before"
+        "en": "before"
     },
     {
         "word": "jotka",
-        "en-us": "who"
+        "en": "who"
     },
     {
         "word": "aika",
-        "en-us": "time"
+        "en": "time"
     },
     {
         "word": "eli",
-        "en-us": "i.e."
+        "en": "i.e."
     },
     {
         "word": "jossa",
-        "en-us": "where"
+        "en": "where"
     },
     {
         "word": "3",
-        "en-us": "3"
+        "en": "3"
     },
     {
         "word": "et",
-        "en-us": "to"
+        "en": "to"
     },
     {
         "word": "n\u00e4in",
-        "en-us": "like this"
+        "en": "like this"
     },
     {
         "word": "t\u00e4m\u00e4n",
-        "en-us": "this"
+        "en": "this"
     },
     {
         "word": "noin",
-        "en-us": "about"
+        "en": "about"
     },
     {
         "word": "vuonna",
-        "en-us": "in"
+        "en": "in"
     },
     {
         "word": "eik\u00e4",
-        "en-us": "nor"
+        "en": "nor"
     },
     {
         "word": "siis",
-        "en-us": "then"
+        "en": "then"
     },
     {
         "word": "sill\u00e4",
-        "en-us": "for"
+        "en": "for"
     },
     {
         "word": "ehk\u00e4",
-        "en-us": "perhaps"
+        "en": "perhaps"
     },
     {
         "word": "itse",
-        "en-us": "yourself"
+        "en": "yourself"
     },
     {
         "word": "onko",
-        "en-us": "whether"
+        "en": "whether"
     },
     {
         "word": "tehd\u00e4",
-        "en-us": "do"
+        "en": "do"
     },
     {
         "word": "tuo",
-        "en-us": "bring"
+        "en": "bring"
     },
     {
         "word": "v\u00e4h\u00e4n",
-        "en-us": "a little"
+        "en": "a little"
     },
     {
         "word": "yksi",
-        "en-us": "one"
+        "en": "one"
     },
     {
         "word": "jotain",
-        "en-us": "something from"
+        "en": "something from"
     },
     {
         "word": "juuri",
-        "en-us": "just"
+        "en": "just"
     },
     {
         "word": "siin\u00e4",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "suomessa",
-        "en-us": "in Finland"
+        "en": "in Finland"
     },
     {
         "word": "jonka",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "kuten",
-        "en-us": "such as"
+        "en": "such as"
     },
     {
         "word": "miksi",
-        "en-us": "why"
+        "en": "why"
     },
     {
         "word": "kaksi",
-        "en-us": "two"
+        "en": "two"
     },
     {
         "word": "lis\u00e4ksi",
-        "en-us": "in addition to"
+        "en": "in addition to"
     },
     {
         "word": "taas",
-        "en-us": "again"
+        "en": "again"
     },
     {
         "word": "tuli",
-        "en-us": "came from"
+        "en": "came from"
     },
     {
         "word": "en\u00e4\u00e4",
-        "en-us": "longer"
+        "en": "longer"
     },
     {
         "word": "joku",
-        "en-us": "someone from"
+        "en": "someone from"
     },
     {
         "word": "siihen",
-        "en-us": "to"
+        "en": "to"
     },
     {
         "word": "enemm\u00e4n",
-        "en-us": "more"
+        "en": "more"
     },
     {
         "word": "eri",
-        "en-us": "various"
+        "en": "various"
     },
     {
         "word": "ettei",
-        "en-us": "or else"
+        "en": "or else"
     },
     {
         "word": "t\u00e4st\u00e4",
-        "en-us": "here"
+        "en": "here"
     },
     {
         "word": "he",
-        "en-us": "hey"
+        "en": "hey"
     },
     {
         "word": "joten",
-        "en-us": "so"
+        "en": "so"
     },
     {
         "word": "kiitos",
-        "en-us": "thank you"
+        "en": "thank you"
     },
     {
         "word": "pit\u00e4isi",
-        "en-us": "should"
+        "en": "should"
     },
     {
         "word": "t\u00e4t\u00e4",
-        "en-us": "this"
+        "en": "this"
     },
     {
         "word": "vastaan",
-        "en-us": "against"
+        "en": "against"
     },
     {
         "word": "aikana",
-        "en-us": "during"
+        "en": "during"
     },
     {
         "word": "esimerkiksi",
-        "en-us": "for example"
+        "en": "for example"
     },
     {
         "word": "osa",
-        "en-us": "section"
+        "en": "section"
     },
     {
         "word": "yli",
-        "en-us": "via"
+        "en": "via"
     },
     {
         "word": "siell\u00e4",
-        "en-us": "there"
+        "en": "there"
     },
     {
         "word": "vai",
-        "en-us": "or"
+        "en": "or"
     },
     {
         "word": "5",
-        "en-us": "5"
+        "en": "5"
     },
     {
         "word": "no",
-        "en-us": "no"
+        "en": "no"
     },
     {
         "word": "kuinka",
-        "en-us": "how to"
+        "en": "how to"
     },
     {
         "word": "pois",
-        "en-us": "off"
+        "en": "off"
     },
     {
         "word": "suomi",
-        "en-us": "finnish"
+        "en": "finnish"
     },
     {
         "word": "vuotta",
-        "en-us": "years"
+        "en": "years"
     },
     {
         "word": "aivan",
-        "en-us": "just"
+        "en": "just"
     },
     {
         "word": "ilman",
-        "en-us": "without"
+        "en": "without"
     },
     {
         "word": "niit\u00e4",
-        "en-us": "them"
+        "en": "them"
     },
     {
         "word": "edes",
-        "en-us": "even"
+        "en": "even"
     },
     {
         "word": "mm",
-        "en-us": "mm"
+        "en": "mm"
     },
     {
         "word": "4",
-        "en-us": "4"
+        "en": "4"
     },
     {
         "word": "lis\u00e4\u00e4",
-        "en-us": "more at"
+        "en": "more at"
     },
     {
         "word": "olivat",
-        "en-us": "were"
+        "en": "were"
     },
     {
         "word": "mies",
-        "en-us": "man"
+        "en": "man"
     },
     {
         "word": "sai",
-        "en-us": "was sent to"
+        "en": "was sent to"
     },
     {
         "word": "t\u00e4ll\u00e4",
-        "en-us": "on this"
+        "en": "on this"
     },
     {
         "word": "aikaa",
-        "en-us": "time"
+        "en": "time"
     },
     {
         "word": "oikein",
-        "en-us": "correct"
+        "en": "correct"
     },
     {
         "word": "todella",
-        "en-us": "really"
+        "en": "really"
     },
     {
         "word": "min\u00e4",
-        "en-us": "me"
+        "en": "me"
     },
     {
         "word": "t\u00e4\u00e4ll\u00e4",
-        "en-us": "here"
+        "en": "here"
     },
     {
         "word": "miss\u00e4",
-        "en-us": "where"
+        "en": "where"
     },
     {
         "word": "saada",
-        "en-us": "send to"
+        "en": "send to"
     },
     {
         "word": "jopa",
-        "en-us": "even"
+        "en": "even"
     },
     {
         "word": "toinen",
-        "en-us": "another"
+        "en": "another"
     },
     {
         "word": "ainakin",
-        "en-us": "at least"
+        "en": "at least"
     },
     {
         "word": "kautta",
-        "en-us": "via"
+        "en": "via"
     },
     {
         "word": "t\u00e4h\u00e4n",
-        "en-us": "to this"
+        "en": "to this"
     },
     {
         "word": "ajan",
-        "en-us": "time"
+        "en": "time"
     },
     {
         "word": "kolme",
-        "en-us": "three"
+        "en": "three"
     },
     {
         "word": "me",
-        "en-us": "me"
+        "en": "me"
     },
     {
         "word": "n",
-        "en-us": "n"
+        "en": "n"
     },
     {
         "word": "t\u00e4n\u00e4\u00e4n",
-        "en-us": "today"
+        "en": "today"
     },
     {
         "word": "liian",
-        "en-us": "too"
+        "en": "too"
     },
     {
         "word": "meill\u00e4",
-        "en-us": "we have"
+        "en": "we have"
     },
     {
         "word": "ottaa",
-        "en-us": "take"
+        "en": "take"
     },
     {
         "word": "viime",
-        "en-us": "last"
+        "en": "last"
     },
     {
         "word": "alkaa",
-        "en-us": "starts at"
+        "en": "starts at"
     },
     {
         "word": "heti",
-        "en-us": "immediately"
+        "en": "immediately"
     },
     {
         "word": "mukana",
-        "en-us": "available at"
+        "en": "available at"
     },
     {
         "word": "usein",
-        "en-us": "often"
+        "en": "often"
     },
     {
         "word": "olevan",
-        "en-us": "be"
+        "en": "be"
     },
     {
         "word": "tekee",
-        "en-us": "makes"
+        "en": "makes"
     },
     {
         "word": "uusi",
-        "en-us": "new"
+        "en": "new"
     },
     {
         "word": "voisi",
-        "en-us": "could"
+        "en": "could"
     },
     {
         "word": "antaa",
-        "en-us": "provide"
+        "en": "provide"
     },
     {
         "word": "kertaa",
-        "en-us": "times"
+        "en": "times"
     },
     {
         "word": "koskaan",
-        "en-us": "ever"
+        "en": "ever"
     },
     {
         "word": "muuta",
-        "en-us": "change"
+        "en": "change"
     },
     {
         "word": "n\u00e4m\u00e4",
-        "en-us": "these"
+        "en": "these"
     },
     {
         "word": "n\u00e4ytt\u00e4\u00e4",
-        "en-us": "show"
+        "en": "show"
     },
     {
         "word": "olet",
-        "en-us": "you are at"
+        "en": "you are at"
     },
     {
         "word": "heid\u00e4n",
-        "en-us": "their"
+        "en": "their"
     },
     {
         "word": "hyv\u00e4\u00e4",
-        "en-us": "good"
+        "en": "good"
     },
     {
         "word": "menee",
-        "en-us": "goes to"
+        "en": "goes to"
     },
     {
         "word": "6",
-        "en-us": "6"
+        "en": "6"
     },
     {
         "word": "a",
-        "en-us": "a"
+        "en": "a"
     },
     {
         "word": "helsingin",
-        "en-us": "helsinki"
+        "en": "helsinki"
     },
     {
         "word": "kerran",
-        "en-us": "once"
+        "en": "once"
     },
     {
         "word": "samalla",
-        "en-us": "at the same time"
+        "en": "at the same time"
     },
     {
         "word": "silloin",
-        "en-us": "then"
+        "en": "then"
     },
     {
         "word": "teki",
-        "en-us": "did"
+        "en": "did"
     },
     {
         "word": "voidaan",
-        "en-us": "can be"
+        "en": "can be"
     },
     {
         "word": "mist\u00e4",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "tied\u00e4",
-        "en-us": "know"
+        "en": "know"
     },
     {
         "word": "v\u00e4lill\u00e4",
-        "en-us": "between"
+        "en": "between"
     },
     {
         "word": "asia",
-        "en-us": "case study"
+        "en": "case study"
     },
     {
         "word": "joskus",
-        "en-us": "sometimes"
+        "en": "sometimes"
     },
     {
         "word": "meid\u00e4n",
-        "en-us": "our"
+        "en": "our"
     },
     {
         "word": "muun",
-        "en-us": "other"
+        "en": "other"
     },
     {
         "word": "niiden",
-        "en-us": "their"
+        "en": "their"
     },
     {
         "word": "varmasti",
-        "en-us": "certainly"
+        "en": "certainly"
     },
     {
         "word": "h\u00e4net",
-        "en-us": "him"
+        "en": "him"
     },
     {
         "word": "ihmiset",
-        "en-us": "people"
+        "en": "people"
     },
     {
         "word": "jota",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "takia",
-        "en-us": "due to"
+        "en": "due to"
     },
     {
         "word": "yht\u00e4",
-        "en-us": "equals"
+        "en": "equals"
     },
     {
         "word": "kukaan",
-        "en-us": "anyone"
+        "en": "anyone"
     },
     {
         "word": "the",
-        "en-us": "the"
+        "en": "the"
     },
     {
         "word": "yhdess\u00e4",
-        "en-us": "together with"
+        "en": "together with"
     },
     {
         "word": "haluaa",
-        "en-us": "wants"
+        "en": "wants"
     },
     {
         "word": "muuten",
-        "en-us": "otherwise"
+        "en": "otherwise"
     },
     {
         "word": "varmaan",
-        "en-us": "probably"
+        "en": "probably"
     },
     {
         "word": "hieman",
-        "en-us": "a little"
+        "en": "a little"
     },
     {
         "word": "kiinni",
-        "en-us": "catch"
+        "en": "catch"
     },
     {
         "word": "k\u00e4ytt\u00e4\u00e4",
-        "en-us": "access"
+        "en": "access"
     },
     {
         "word": "silti",
-        "en-us": "still"
+        "en": "still"
     },
     {
         "word": "uuden",
-        "en-us": "new"
+        "en": "new"
     },
     {
         "word": "voit",
-        "en-us": "you can"
+        "en": "you can"
     },
     {
         "word": "aikaan",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "edelleen",
-        "en-us": "further"
+        "en": "further"
     },
     {
         "word": "helsinki",
-        "en-us": "helsinki"
+        "en": "helsinki"
     },
     {
         "word": "pari",
-        "en-us": "at par"
+        "en": "at par"
     },
     {
         "word": "p\u00e4\u00e4st\u00e4",
-        "en-us": "get to"
+        "en": "get to"
     },
     {
         "word": "vasta",
-        "en-us": "against"
+        "en": "against"
     },
     {
         "word": "alle",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "olin",
-        "en-us": "i was"
+        "en": "i was"
     },
     {
         "word": "oma",
-        "en-us": "your"
+        "en": "your"
     },
     {
         "word": "oman",
-        "en-us": "your"
+        "en": "your"
     },
     {
         "word": "saanut",
-        "en-us": "received by"
+        "en": "received by"
     },
     {
         "word": "suurin",
-        "en-us": "maximum"
+        "en": "maximum"
     },
     {
         "word": "tullut",
-        "en-us": "come to"
+        "en": "come to"
     },
     {
         "word": "t\u00e4ysin",
-        "en-us": "fully"
+        "en": "fully"
     },
     {
         "word": "vuoksi",
-        "en-us": "due to"
+        "en": "due to"
     },
     {
         "word": "yhden",
-        "en-us": "one"
+        "en": "one"
     },
     {
         "word": "yleens\u00e4",
-        "en-us": "usually"
+        "en": "usually"
     },
     {
         "word": "7",
-        "en-us": "7"
+        "en": "7"
     },
     {
         "word": "asti",
-        "en-us": "until"
+        "en": "until"
     },
     {
         "word": "kai",
-        "en-us": "probably"
+        "en": "probably"
     },
     {
         "word": "kannattaa",
-        "en-us": "worth"
+        "en": "worth"
     },
     {
         "word": "l\u00e4hes",
-        "en-us": "almost"
+        "en": "almost"
     },
     {
         "word": "maailman",
-        "en-us": "world"
+        "en": "world"
     },
     {
         "word": "menn\u00e4",
-        "en-us": "go to"
+        "en": "go to"
     },
     {
         "word": "paras",
-        "en-us": "best"
+        "en": "best"
     },
     {
         "word": "tuntuu",
-        "en-us": "feel"
+        "en": "feel"
     },
     {
         "word": "0",
-        "en-us": "0"
+        "en": "0"
     },
     {
         "word": "katso",
-        "en-us": "see"
+        "en": "see"
     },
     {
         "word": "kertoo",
-        "en-us": "reports"
+        "en": "reports"
     },
     {
         "word": "l\u00f6ytyy",
-        "en-us": "found at"
+        "en": "found at"
     },
     {
         "word": "tule",
-        "en-us": "come to"
+        "en": "come to"
     },
     {
         "word": "8",
-        "en-us": "8"
+        "en": "8"
     },
     {
         "word": "iso",
-        "en-us": "big"
+        "en": "big"
     },
     {
         "word": "jotta",
-        "en-us": "to"
+        "en": "to"
     },
     {
         "word": "muut",
-        "en-us": "other"
+        "en": "other"
     },
     {
         "word": "sama",
-        "en-us": "same"
+        "en": "same"
     },
     {
         "word": "sanoa",
-        "en-us": "say"
+        "en": "say"
     },
     {
         "word": "d",
-        "en-us": "d"
+        "en": "d"
     },
     {
         "word": "ensimm\u00e4inen",
-        "en-us": "first"
+        "en": "first"
     },
     {
         "word": "kuka",
-        "en-us": "who"
+        "en": "who"
     },
     {
         "word": "k\u00e4y",
-        "en-us": "visit"
+        "en": "visit"
     },
     {
         "word": "siksi",
-        "en-us": "therefore"
+        "en": "therefore"
     },
     {
         "word": "takaisin",
-        "en-us": "back to"
+        "en": "back to"
     },
     {
         "word": "toimii",
-        "en-us": "works for"
+        "en": "works for"
     },
     {
         "word": "tulla",
-        "en-us": "come to"
+        "en": "come to"
     },
     {
         "word": "juttu",
-        "en-us": "story from"
+        "en": "story from"
     },
     {
         "word": "nainen",
-        "en-us": "woman"
+        "en": "woman"
     },
     {
         "word": "sanoi",
-        "en-us": "said"
+        "en": "said"
     },
     {
         "word": "sinne",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "tiet\u00e4\u00e4",
-        "en-us": "know"
+        "en": "know"
     },
     {
         "word": "eritt\u00e4in",
-        "en-us": "very"
+        "en": "very"
     },
     {
         "word": "muassa",
-        "en-us": "among other things"
+        "en": "among other things"
     },
     {
         "word": "muita",
-        "en-us": "other"
+        "en": "other"
     },
     {
         "word": "sanoo",
-        "en-us": "says"
+        "en": "says"
     },
     {
         "word": "tarvitse",
-        "en-us": "need"
+        "en": "need"
     },
     {
         "word": "kuuluu",
-        "en-us": "belongs to"
+        "en": "belongs to"
     },
     {
         "word": "pieni",
-        "en-us": "small"
+        "en": "small"
     },
     {
         "word": "s",
-        "en-us": "s"
+        "en": "s"
     },
     {
         "word": "joo",
-        "en-us": "yes"
+        "en": "yes"
     },
     {
         "word": "kaiken",
-        "en-us": "everything"
+        "en": "everything"
     },
     {
         "word": "meni",
-        "en-us": "went to"
+        "en": "went to"
     },
     {
         "word": "my\u00f6hemmin",
-        "en-us": "later"
+        "en": "later"
     },
     {
         "word": "suuri",
-        "en-us": "large"
+        "en": "large"
     },
     {
         "word": "toisen",
-        "en-us": "second"
+        "en": "second"
     },
     {
         "word": "ensi",
-        "en-us": "next"
+        "en": "next"
     },
     {
         "word": "ihmisi\u00e4",
-        "en-us": "people"
+        "en": "people"
     },
     {
         "word": "l\u00e4pi",
-        "en-us": "through"
+        "en": "through"
     },
     {
         "word": "minun",
-        "en-us": "my"
+        "en": "my"
     },
     {
         "word": "osaa",
-        "en-us": "part of"
+        "en": "part of"
     },
     {
         "word": "rahaa",
-        "en-us": "money"
+        "en": "money"
     },
     {
         "word": "asiaa",
-        "en-us": "relevant"
+        "en": "relevant"
     },
     {
         "word": "kyse",
-        "en-us": "all about"
+        "en": "all about"
     },
     {
         "word": "piti",
-        "en-us": "liked"
+        "en": "liked"
     },
     {
         "word": "p\u00e4iv\u00e4",
-        "en-us": "day"
+        "en": "day"
     },
     {
         "word": "toki",
-        "en-us": "of course"
+        "en": "of course"
     },
     {
         "word": "ensin",
-        "en-us": "first"
+        "en": "first"
     },
     {
         "word": "jolloin",
-        "en-us": "whereby"
+        "en": "whereby"
     },
     {
         "word": "samaa",
-        "en-us": "same"
+        "en": "same"
     },
     {
         "word": "tosi",
-        "en-us": "true"
+        "en": "true"
     },
     {
         "word": "t\u00e4ytyy",
-        "en-us": "need"
+        "en": "need"
     },
     {
         "word": "esim",
-        "en-us": "e.g."
+        "en": "e.g."
     },
     {
         "word": "joita",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "kuitenkaan",
-        "en-us": "however"
+        "en": "however"
     },
     {
         "word": "mielt\u00e4",
-        "en-us": "view"
+        "en": "view"
     },
     {
         "word": "muiden",
-        "en-us": "other"
+        "en": "other"
     },
     {
         "word": "m\u00e4",
-        "en-us": "me"
+        "en": "me"
     },
     {
         "word": "p\u00e4\u00e4lle",
-        "en-us": "on"
+        "en": "on"
     },
     {
         "word": "tavalla",
-        "en-us": "by way of"
+        "en": "by way of"
     },
     {
         "word": "yh\u00e4",
-        "en-us": "still"
+        "en": "still"
     },
     {
         "word": "euroopan",
-        "en-us": "europe"
+        "en": "europe"
     },
     {
         "word": "jolla",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "josta",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "j\u00e4\u00e4",
-        "en-us": "ice"
+        "en": "ice"
     },
     {
         "word": "niist\u00e4",
-        "en-us": "about them"
+        "en": "about them"
     },
     {
         "word": "n\u00e4it\u00e4",
-        "en-us": "these"
+        "en": "these"
     },
     {
         "word": "p\u00e4iv\u00e4n",
-        "en-us": "days"
+        "en": "days"
     },
     {
         "word": "uutta",
-        "en-us": "new"
+        "en": "new"
     },
     {
         "word": "voivat",
-        "en-us": "can"
+        "en": "can"
     },
     {
         "word": "asioita",
-        "en-us": "issues"
+        "en": "issues"
     },
     {
         "word": "mun",
-        "en-us": "my"
+        "en": "my"
     },
     {
         "word": "nopeasti",
-        "en-us": "quickly"
+        "en": "quickly"
     },
     {
         "word": "parempi",
-        "en-us": "better"
+        "en": "better"
     },
     {
         "word": "tehnyt",
-        "en-us": "done"
+        "en": "done"
     },
     {
         "word": "ven\u00e4j\u00e4n",
-        "en-us": "russian"
+        "en": "russian"
     },
     {
         "word": "9",
-        "en-us": "9"
+        "en": "9"
     },
     {
         "word": "alkoi",
-        "en-us": "started"
+        "en": "started"
     },
     {
         "word": "euroa",
-        "en-us": "euros"
+        "en": "euros"
     },
     {
         "word": "joissa",
-        "en-us": "where"
+        "en": "where"
     },
     {
         "word": "j\u00e4i",
-        "en-us": "stayed at"
+        "en": "stayed at"
     },
     {
         "word": "maan",
-        "en-us": "land"
+        "en": "land"
     },
     {
         "word": "mihin",
-        "en-us": "where"
+        "en": "where"
     },
     {
         "word": "m\u00e4\u00e4r\u00e4",
-        "en-us": "quantity"
+        "en": "quantity"
     },
     {
         "word": "naisten",
-        "en-us": "women"
+        "en": "women"
     },
     {
         "word": "nelj\u00e4",
-        "en-us": "four"
+        "en": "four"
     },
     {
         "word": "olemme",
-        "en-us": "we are"
+        "en": "we are"
     },
     {
         "word": "saattaa",
-        "en-us": "may"
+        "en": "may"
     },
     {
         "word": "suoraan",
-        "en-us": "directly from"
+        "en": "directly from"
     },
     {
         "word": "totta",
-        "en-us": "true"
+        "en": "true"
     },
     {
         "word": "eik\u00f6",
-        "en-us": "isn't it"
+        "en": "isn't it"
     },
     {
         "word": "ikin\u00e4",
-        "en-us": "ever"
+        "en": "ever"
     },
     {
         "word": "joiden",
-        "en-us": "whose"
+        "en": "whose"
     },
     {
         "word": "of",
-        "en-us": "of"
+        "en": "of"
     },
     {
         "word": "sijaan",
-        "en-us": "instead"
+        "en": "instead"
     },
     {
         "word": "suomalainen",
-        "en-us": "finnish"
+        "en": "finnish"
     },
     {
         "word": "tarkoittaa",
-        "en-us": "means"
+        "en": "means"
     },
     {
         "word": "tehty",
-        "en-us": "made in"
+        "en": "made in"
     },
     {
         "word": "erityisesti",
-        "en-us": "in particular"
+        "en": "in particular"
     },
     {
         "word": "halua",
-        "en-us": "want"
+        "en": "want"
     },
     {
         "word": "kaikkien",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "mahdollista",
-        "en-us": "possible"
+        "en": "possible"
     },
     {
         "word": "mielest\u00e4",
-        "en-us": "opinion"
+        "en": "opinion"
     },
     {
         "word": "muista",
-        "en-us": "remember"
+        "en": "remember"
     },
     {
         "word": "tehd\u00e4\u00e4n",
-        "en-us": "will be made at"
+        "en": "will be made at"
     },
     {
         "word": "tilanne",
-        "en-us": "situation"
+        "en": "situation"
     },
     {
         "word": "vaikuttaa",
-        "en-us": "affects"
+        "en": "affects"
     },
     {
         "word": "\u00e4l\u00e4",
-        "en-us": "do"
+        "en": "do"
     },
     {
         "word": "aiemmin",
-        "en-us": "previously"
+        "en": "previously"
     },
     {
         "word": "kuva",
-        "en-us": "photo"
+        "en": "photo"
     },
     {
         "word": "maksaa",
-        "en-us": "pay"
+        "en": "pay"
     },
     {
         "word": "mink\u00e4",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "n\u00e4hd\u00e4",
-        "en-us": "see"
+        "en": "see"
     },
     {
         "word": "paikka",
-        "en-us": "location"
+        "en": "location"
     },
     {
         "word": "poliisi",
-        "en-us": "police"
+        "en": "police"
     },
     {
         "word": "sin\u00e4",
-        "en-us": "you"
+        "en": "you"
     },
     {
         "word": "uusia",
-        "en-us": "new"
+        "en": "new"
     },
     {
         "word": "varten",
-        "en-us": "for"
+        "en": "for"
     },
     {
         "word": "ainoa",
-        "en-us": "only"
+        "en": "only"
     },
     {
         "word": "h\u00e4nt\u00e4",
-        "en-us": "him"
+        "en": "him"
     },
     {
         "word": "mik\u00e4\u00e4n",
-        "en-us": "none"
+        "en": "none"
     },
     {
         "word": "oikeasti",
-        "en-us": "actually"
+        "en": "actually"
     },
     {
         "word": "ollaan",
-        "en-us": "are"
+        "en": "are"
     },
     {
         "word": "pakko",
-        "en-us": "forced"
+        "en": "forced"
     },
     {
         "word": "paremmin",
-        "en-us": "better"
+        "en": "better"
     },
     {
         "word": "perusteella",
-        "en-us": "based on"
+        "en": "based on"
     },
     {
         "word": "pian",
-        "en-us": "soon"
+        "en": "soon"
     },
     {
         "word": "tosin",
-        "en-us": "although"
+        "en": "although"
     },
     {
         "word": "tuon",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "t\u00e4n\u00e4",
-        "en-us": "via"
+        "en": "via"
     },
     {
         "word": "kauden",
-        "en-us": "season"
+        "en": "season"
     },
     {
         "word": "lopulta",
-        "en-us": "eventually"
+        "en": "eventually"
     },
     {
         "word": "p\u00e4iv\u00e4\u00e4",
-        "en-us": "days"
+        "en": "days"
     },
     {
         "word": "hetkell\u00e4",
-        "en-us": "presently"
+        "en": "presently"
     },
     {
         "word": "ihminen",
-        "en-us": "man"
+        "en": "man"
     },
     {
         "word": "kaikille",
-        "en-us": "for all"
+        "en": "for all"
     },
     {
         "word": "kovin",
-        "en-us": "very"
+        "en": "very"
     },
     {
         "word": "olleet",
-        "en-us": "have been"
+        "en": "have been"
     },
     {
         "word": "enk\u00e4",
-        "en-us": "and not"
+        "en": "and not"
     },
     {
         "word": "hei",
-        "en-us": "hey"
+        "en": "hey"
     },
     {
         "word": "in",
-        "en-us": "in"
+        "en": "in"
     },
     {
         "word": "kahden",
-        "en-us": "between two"
+        "en": "between two"
     },
     {
         "word": "minulle",
-        "en-us": "me"
+        "en": "me"
     },
     {
         "word": "onkin",
-        "en-us": "therefore"
+        "en": "therefore"
     },
     {
         "word": "sain",
-        "en-us": "got from"
+        "en": "got from"
     },
     {
         "word": "suomeen",
-        "en-us": "to Finland"
+        "en": "to Finland"
     },
     {
         "word": "toimi",
-        "en-us": "acted on"
+        "en": "acted on"
     },
     {
         "word": "asiasta",
-        "en-us": "matter"
+        "en": "matter"
     },
     {
         "word": "ihmisten",
-        "en-us": "people"
+        "en": "people"
     },
     {
         "word": "miehen",
-        "en-us": "man"
+        "en": "man"
     },
     {
         "word": "nimi",
-        "en-us": "name"
+        "en": "name"
     },
     {
         "word": "onneksi",
-        "en-us": "fortunately"
+        "en": "fortunately"
     },
     {
         "word": "ruotsin",
-        "en-us": "swedish"
+        "en": "swedish"
     },
     {
         "word": "sinun",
-        "en-us": "your"
+        "en": "your"
     },
     {
         "word": "tahansa",
-        "en-us": "any"
+        "en": "any"
     },
     {
         "word": "tapahtuu",
-        "en-us": "takes place at"
+        "en": "takes place at"
     },
     {
         "word": "ulos",
-        "en-us": "out"
+        "en": "out"
     },
     {
         "word": "viikon",
-        "en-us": "one week"
+        "en": "one week"
     },
     {
         "word": "yht\u00e4\u00e4n",
-        "en-us": "none"
+        "en": "none"
     },
     {
         "word": "luvun",
-        "en-us": "chapter"
+        "en": "chapter"
     },
     {
         "word": "monet",
-        "en-us": "many"
+        "en": "many"
     },
     {
         "word": "monta",
-        "en-us": "many"
+        "en": "many"
     },
     {
         "word": "suomalaiset",
-        "en-us": "finns"
+        "en": "finns"
     },
     {
         "word": "tee",
-        "en-us": "road"
+        "en": "road"
     },
     {
         "word": "vanha",
-        "en-us": "old"
+        "en": "old"
     },
     {
         "word": "verran",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "viisi",
-        "en-us": "five"
+        "en": "five"
     },
     {
         "word": "auttaa",
-        "en-us": "help"
+        "en": "help"
     },
     {
         "word": "avulla",
-        "en-us": "via"
+        "en": "via"
     },
     {
         "word": "ensimm\u00e4isen",
-        "en-us": "first"
+        "en": "first"
     },
     {
         "word": "hallituksen",
-        "en-us": "government"
+        "en": "government"
     },
     {
         "word": "joista",
-        "en-us": "of which"
+        "en": "of which"
     },
     {
         "word": "kaikkea",
-        "en-us": "first and foremost"
+        "en": "first and foremost"
     },
     {
         "word": "kaupungin",
-        "en-us": "city"
+        "en": "city"
     },
     {
         "word": "meille",
-        "en-us": "us"
+        "en": "us"
     },
     {
         "word": "minulla",
-        "en-us": "i have"
+        "en": "i have"
     },
     {
         "word": "naiset",
-        "en-us": "women"
+        "en": "women"
     },
     {
         "word": "nyky\u00e4\u00e4n",
-        "en-us": "today"
+        "en": "today"
     },
     {
         "word": "poika",
-        "en-us": "boy"
+        "en": "boy"
     },
     {
         "word": "puolesta",
-        "en-us": "on behalf of"
+        "en": "on behalf of"
     },
     {
         "word": "sielt\u00e4",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "tietoa",
-        "en-us": "information from"
+        "en": "information from"
     },
     {
         "word": "tuota",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "usko",
-        "en-us": "belief"
+        "en": "belief"
     },
     {
         "word": "voin",
-        "en-us": "i can"
+        "en": "i can"
     },
     {
         "word": "\u00e4iti",
-        "en-us": "mother"
+        "en": "mother"
     },
     {
         "word": "anna",
-        "en-us": "anna"
+        "en": "anna"
     },
     {
         "word": "asiat",
-        "en-us": "issues"
+        "en": "issues"
     },
     {
         "word": "kiva",
-        "en-us": "nice"
+        "en": "nice"
     },
     {
         "word": "kotiin",
-        "en-us": "home"
+        "en": "home"
     },
     {
         "word": "lasten",
-        "en-us": "children"
+        "en": "children"
     },
     {
         "word": "liikaa",
-        "en-us": "too much"
+        "en": "too much"
     },
     {
         "word": "moni",
-        "en-us": "many"
+        "en": "many"
     },
     {
         "word": "pid\u00e4",
-        "en-us": "like"
+        "en": "like"
     },
     {
         "word": "pohjois",
-        "en-us": "north"
+        "en": "north"
     },
     {
         "word": "saat",
-        "en-us": "get"
+        "en": "get"
     },
     {
         "word": "vaikea",
-        "en-us": "difficult"
+        "en": "difficult"
     },
     {
         "word": "valtion",
-        "en-us": "state"
+        "en": "state"
     },
     {
         "word": "vuosi",
-        "en-us": "year"
+        "en": "year"
     },
     {
         "word": "alussa",
-        "en-us": "early"
+        "en": "early"
     },
     {
         "word": "kohti",
-        "en-us": "per"
+        "en": "per"
     },
     {
         "word": "l\u00e4hell\u00e4",
-        "en-us": "near"
+        "en": "near"
     },
     {
         "word": "ohi",
-        "en-us": "ohi"
+        "en": "ohi"
     },
     {
         "word": "pitk\u00e4\u00e4n",
-        "en-us": "for a long time"
+        "en": "for a long time"
     },
     {
         "word": "p\u00e4\u00e4see",
-        "en-us": "can be accessed at"
+        "en": "can be accessed at"
     },
     {
         "word": "samaan",
-        "en-us": "same"
+        "en": "same"
     },
     {
         "word": "tulisi",
-        "en-us": "come to"
+        "en": "come to"
     },
     {
         "word": "uutiset",
-        "en-us": "news from"
+        "en": "news from"
     },
     {
         "word": "alla",
-        "en-us": "below"
+        "en": "below"
     },
     {
         "word": "asian",
-        "en-us": "case"
+        "en": "case"
     },
     {
         "word": "helposti",
-        "en-us": "easily"
+        "en": "easily"
     },
     {
         "word": "huono",
-        "en-us": "bad"
+        "en": "bad"
     },
     {
         "word": "johon",
-        "en-us": "to which"
+        "en": "to which"
     },
     {
         "word": "jokainen",
-        "en-us": "each"
+        "en": "each"
     },
     {
         "word": "joko",
-        "en-us": "either"
+        "en": "either"
     },
     {
         "word": "jonkun",
-        "en-us": "someone"
+        "en": "someone"
     },
     {
         "word": "j\u00e4lleen",
-        "en-us": "again"
+        "en": "again"
     },
     {
         "word": "miesten",
-        "en-us": "men"
+        "en": "men"
     },
     {
         "word": "riitt\u00e4\u00e4",
-        "en-us": "suffice it to say"
+        "en": "suffice it to say"
     },
     {
         "word": "takana",
-        "en-us": "behind"
+        "en": "behind"
     },
     {
         "word": "to",
-        "en-us": "to"
+        "en": "to"
     },
     {
         "word": "toivottavasti",
-        "en-us": "hopefully"
+        "en": "hopefully"
     },
     {
         "word": "ty\u00f6t\u00e4",
-        "en-us": "work"
+        "en": "work"
     },
     {
         "word": "t\u00e4nne",
-        "en-us": "here"
+        "en": "here"
     },
     {
         "word": "t\u00e4\u00e4",
-        "en-us": "this"
+        "en": "this"
     },
     {
         "word": "t\u00f6it\u00e4",
-        "en-us": "works"
+        "en": "works"
     },
     {
         "word": "vittu",
-        "en-us": "fuck"
+        "en": "fuck"
     },
     {
         "word": "auto",
-        "en-us": "car"
+        "en": "car"
     },
     {
         "word": "hyvi\u00e4",
-        "en-us": "good"
+        "en": "good"
     },
     {
         "word": "kohta",
-        "en-us": "on"
+        "en": "on"
     },
     {
         "word": "k\u00e4vi",
-        "en-us": "visited"
+        "en": "visited"
     },
     {
         "word": "k\u00e4yd\u00e4",
-        "en-us": "visit"
+        "en": "visit"
     },
     {
         "word": "melkein",
-        "en-us": "almost"
+        "en": "almost"
     },
     {
         "word": "miljoonaa",
-        "en-us": "million"
+        "en": "million"
     },
     {
         "word": "minua",
-        "en-us": "me"
+        "en": "me"
     },
     {
         "word": "ongelma",
-        "en-us": "problem"
+        "en": "problem"
     },
     {
         "word": "paitsi",
-        "en-us": "except"
+        "en": "except"
     },
     {
         "word": "sellainen",
-        "en-us": "kind of"
+        "en": "kind of"
     },
     {
         "word": "t",
-        "en-us": "t"
+        "en": "t"
     },
     {
         "word": "yritt\u00e4\u00e4",
-        "en-us": "try"
+        "en": "try"
     },
     {
         "word": "eilen",
-        "en-us": "yesterday"
+        "en": "yesterday"
     },
     {
         "word": "emme",
-        "en-us": "we"
+        "en": "we"
     },
     {
         "word": "etel\u00e4",
-        "en-us": "south"
+        "en": "south"
     },
     {
         "word": "hallitus",
-        "en-us": "government"
+        "en": "government"
     },
     {
         "word": "i",
-        "en-us": "i"
+        "en": "i"
     },
     {
         "word": "kunnes",
-        "en-us": "until"
+        "en": "until"
     },
     {
         "word": "laittaa",
-        "en-us": "put"
+        "en": "put"
     },
     {
         "word": "lapset",
-        "en-us": "children"
+        "en": "children"
     },
     {
         "word": "oikea",
-        "en-us": "right"
+        "en": "right"
     },
     {
         "word": "omaa",
-        "en-us": "own"
+        "en": "own"
     },
     {
         "word": "ostaa",
-        "en-us": "buy at"
+        "en": "buy at"
     },
     {
         "word": "prosenttia",
-        "en-us": "percent"
+        "en": "percent"
     },
     {
         "word": "seuraa",
-        "en-us": "follow"
+        "en": "follow"
     },
     {
         "word": "silt\u00e4",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "tietysti",
-        "en-us": "of course"
+        "en": "of course"
     },
     {
         "word": "alueella",
-        "en-us": "in the region of"
+        "en": "in the region of"
     },
     {
         "word": "e",
-        "en-us": "e"
+        "en": "e"
     },
     {
         "word": "eniten",
-        "en-us": "most"
+        "en": "most"
     },
     {
         "word": "klo",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "kotona",
-        "en-us": "at home"
+        "en": "at home"
     },
     {
         "word": "kysymys",
-        "en-us": "question"
+        "en": "question"
     },
     {
         "word": "miehet",
-        "en-us": "men"
+        "en": "men"
     },
     {
         "word": "p\u00e4iv\u00e4n\u00e4",
-        "en-us": "on"
+        "en": "on"
     },
     {
         "word": "useita",
-        "en-us": "several"
+        "en": "several"
     },
     {
         "word": "yhteydess\u00e4",
-        "en-us": "in connection with"
+        "en": "in connection with"
     },
     {
         "word": "apua",
-        "en-us": "help"
+        "en": "help"
     },
     {
         "word": "huolimatta",
-        "en-us": "despite"
+        "en": "despite"
     },
     {
         "word": "ihmisen",
-        "en-us": "human"
+        "en": "human"
     },
     {
         "word": "joilla",
-        "en-us": "where"
+        "en": "where"
     },
     {
         "word": "kauan",
-        "en-us": "long"
+        "en": "long"
     },
     {
         "word": "k\u00e4ytt\u00f6\u00f6n",
-        "en-us": "available at"
+        "en": "available at"
     },
     {
         "word": "maa",
-        "en-us": "land"
+        "en": "land"
     },
     {
         "word": "melko",
-        "en-us": "quite"
+        "en": "quite"
     },
     {
         "word": "minusta",
-        "en-us": "about me"
+        "en": "about me"
     },
     {
         "word": "molemmat",
-        "en-us": "both"
+        "en": "both"
     },
     {
         "word": "saadaan",
-        "en-us": "obtained from"
+        "en": "obtained from"
     },
     {
         "word": "sille",
-        "en-us": "to"
+        "en": "to"
     },
     {
         "word": "sinulle",
-        "en-us": "you"
+        "en": "you"
     },
     {
         "word": "syy",
-        "en-us": "cause"
+        "en": "cause"
     },
     {
         "word": "syyt\u00e4",
-        "en-us": "reason"
+        "en": "reason"
     },
     {
         "word": "tekem\u00e4\u00e4n",
-        "en-us": "make"
+        "en": "make"
     },
     {
         "word": "tuntia",
-        "en-us": "hours"
+        "en": "hours"
     },
     {
         "word": "eu",
-        "en-us": "eu"
+        "en": "eu"
     },
     {
         "word": "hienoa",
-        "en-us": "great"
+        "en": "great"
     },
     {
         "word": "h\u00e4nell\u00e4",
-        "en-us": "him at"
+        "en": "him at"
     },
     {
         "word": "j\u00e4tt\u00e4\u00e4",
-        "en-us": "submit"
+        "en": "submit"
     },
     {
         "word": "kello",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "kyseess\u00e4",
-        "en-us": "in the case of"
+        "en": "in the case of"
     },
     {
         "word": "l\u00e4hinn\u00e4",
-        "en-us": "mainly"
+        "en": "mainly"
     },
     {
         "word": "l\u00e4hte\u00e4",
-        "en-us": "go to"
+        "en": "go to"
     },
     {
         "word": "m",
-        "en-us": "m"
+        "en": "m"
     },
     {
         "word": "muutama",
-        "en-us": "a few"
+        "en": "a few"
     },
     {
         "word": "my\u00f6t\u00e4",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "new",
-        "en-us": "new"
+        "en": "new"
     },
     {
         "word": "saavat",
-        "en-us": "get"
+        "en": "get"
     },
     {
         "word": "sun",
-        "en-us": "sun"
+        "en": "sun"
     },
     {
         "word": "toi",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "tulevat",
-        "en-us": "come to"
+        "en": "come to"
     },
     {
         "word": "tulossa",
-        "en-us": "coming soon"
+        "en": "coming soon"
     },
     {
         "word": "vastaa",
-        "en-us": "responds to"
+        "en": "responds to"
     },
     {
         "word": "voinut",
-        "en-us": "could"
+        "en": "could"
     },
     {
         "word": "v\u00e4hemm\u00e4n",
-        "en-us": "less"
+        "en": "less"
     },
     {
         "word": "yksin",
-        "en-us": "alone"
+        "en": "alone"
     },
     {
         "word": "ymm\u00e4rr\u00e4",
-        "en-us": "understand"
+        "en": "understand"
     },
     {
         "word": "helsingiss\u00e4",
-        "en-us": "in helsinki"
+        "en": "in helsinki"
     },
     {
         "word": "huomenna",
-        "en-us": "tomorrow"
+        "en": "tomorrow"
     },
     {
         "word": "jatkaa",
-        "en-us": "continue"
+        "en": "continue"
     },
     {
         "word": "kuoli",
-        "en-us": "died"
+        "en": "died"
     },
     {
         "word": "n\u00e4iden",
-        "en-us": "these"
+        "en": "these"
     },
     {
         "word": "ota",
-        "en-us": "contact"
+        "en": "contact"
     },
     {
         "word": "oy",
-        "en-us": "oy"
+        "en": "oy"
     },
     {
         "word": "saman",
-        "en-us": "same"
+        "en": "same"
     },
     {
         "word": "sis\u00e4ll\u00e4",
-        "en-us": "inside"
+        "en": "inside"
     },
     {
         "word": "tapauksessa",
-        "en-us": "case study"
+        "en": "case study"
     },
     {
         "word": "tytt\u00f6",
-        "en-us": "girl"
+        "en": "girl"
     },
     {
         "word": "t\u00e4rke\u00e4\u00e4",
-        "en-us": "important"
+        "en": "important"
     },
     {
         "word": "c",
-        "en-us": "c"
+        "en": "c"
     },
     {
         "word": "el\u00e4\u00e4",
-        "en-us": "live at"
+        "en": "live at"
     },
     {
         "word": "h\u00e4nelle",
-        "en-us": "him"
+        "en": "him"
     },
     {
         "word": "kokonaan",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "l\u00f6yt\u00e4\u00e4",
-        "en-us": "find"
+        "en": "find"
     },
     {
         "word": "muu",
-        "en-us": "other"
+        "en": "other"
     },
     {
         "word": "naisen",
-        "en-us": "women's"
+        "en": "women's"
     },
     {
         "word": "oleva",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "pitk\u00e4",
-        "en-us": "long"
+        "en": "long"
     },
     {
         "word": "p\u00e4\u00e4ll\u00e4",
-        "en-us": "on"
+        "en": "on"
     },
     {
         "word": "toisaalta",
-        "en-us": "on the other hand"
+        "en": "on the other hand"
     },
     {
         "word": "vaatii",
-        "en-us": "requests"
+        "en": "requests"
     },
     {
         "word": "valmis",
-        "en-us": "ready"
+        "en": "ready"
     },
     {
         "word": "video",
-        "en-us": "video"
+        "en": "video"
     },
     {
         "word": "yhteens\u00e4",
-        "en-us": "total"
+        "en": "total"
     },
     {
         "word": "edess\u00e4",
-        "en-us": "in front of"
+        "en": "in front of"
     },
     {
         "word": "itsens\u00e4",
-        "en-us": "itself"
+        "en": "itself"
     },
     {
         "word": "jossain",
-        "en-us": "somewhere on"
+        "en": "somewhere on"
     },
     {
         "word": "muutaman",
-        "en-us": "a few"
+        "en": "a few"
     },
     {
         "word": "pit\u00e4nyt",
-        "en-us": "liked"
+        "en": "liked"
     },
     {
         "word": "tapa",
-        "en-us": "by way of"
+        "en": "by way of"
     },
     {
         "word": "tarkoitus",
-        "en-us": "purpose"
+        "en": "purpose"
     },
     {
         "word": "tarpeeksi",
-        "en-us": "enough"
+        "en": "enough"
     },
     {
         "word": "tuskin",
-        "en-us": "hardly"
+        "en": "hardly"
     },
     {
         "word": "tv",
-        "en-us": "tv"
+        "en": "tv"
     },
     {
         "word": "uudelleen",
-        "en-us": "re"
+        "en": "re"
     },
     {
         "word": "vaiheessa",
-        "en-us": "stage"
+        "en": "stage"
     },
     {
         "word": "ainakaan",
-        "en-us": "at least"
+        "en": "at least"
     },
     {
         "word": "auton",
-        "en-us": "car"
+        "en": "car"
     },
     {
         "word": "b",
-        "en-us": "b"
+        "en": "b"
     },
     {
         "word": "hyv\u00e4t",
-        "en-us": "good for"
+        "en": "good for"
     },
     {
         "word": "is\u00e4",
-        "en-us": "dad"
+        "en": "dad"
     },
     {
         "word": "kasvaa",
-        "en-us": "grow"
+        "en": "grow"
     },
     {
         "word": "kymmenen",
-        "en-us": "ten"
+        "en": "ten"
     },
     {
         "word": "k\u00e4ytet\u00e4\u00e4n",
-        "en-us": "used at"
+        "en": "used at"
     },
     {
         "word": "loppuun",
-        "en-us": "end"
+        "en": "end"
     },
     {
         "word": "luvulla",
-        "en-us": "century"
+        "en": "century"
     },
     {
         "word": "l\u00e4htee",
-        "en-us": "leaves"
+        "en": "leaves"
     },
     {
         "word": "l\u00e4hti",
-        "en-us": "retrieved from"
+        "en": "retrieved from"
     },
     {
         "word": "nuorten",
-        "en-us": "young people"
+        "en": "young people"
     },
     {
         "word": "n\u00e4ist\u00e4",
-        "en-us": "of these"
+        "en": "of these"
     },
     {
         "word": "olisin",
-        "en-us": "would be"
+        "en": "would be"
     },
     {
         "word": "oo",
-        "en-us": "oo"
+        "en": "oo"
     },
     {
         "word": "sellaista",
-        "en-us": "such as"
+        "en": "such as"
     },
     {
         "word": "sis\u00e4\u00e4n",
-        "en-us": "in"
+        "en": "in"
     },
     {
         "word": "tarvitaan",
-        "en-us": "needed"
+        "en": "needed"
     },
     {
         "word": "viikolla",
-        "en-us": "during the week"
+        "en": "during the week"
     },
     {
         "word": "ala",
-        "en-us": "area"
+        "en": "area"
     },
     {
         "word": "and",
-        "en-us": "and"
+        "en": "and"
     },
     {
         "word": "eteenp\u00e4in",
-        "en-us": "forward"
+        "en": "forward"
     },
     {
         "word": "heit\u00e4",
-        "en-us": "throw"
+        "en": "throw"
     },
     {
         "word": "hieno",
-        "en-us": "fine"
+        "en": "fine"
     },
     {
         "word": "hinta",
-        "en-us": "price"
+        "en": "price"
     },
     {
         "word": "ilmeisesti",
-        "en-us": "apparently"
+        "en": "apparently"
     },
     {
         "word": "kertoi",
-        "en-us": "told"
+        "en": "told"
     },
     {
         "word": "lapsen",
-        "en-us": "child"
+        "en": "child"
     },
     {
         "word": "muuttaa",
-        "en-us": "change"
+        "en": "change"
     },
     {
         "word": "p\u00e4\u00e4ss\u00e4",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "samoin",
-        "en-us": "also"
+        "en": "also"
     },
     {
         "word": "taitaa",
-        "en-us": "i think"
+        "en": "i think"
     },
     {
         "word": "tietenkin",
-        "en-us": "of course"
+        "en": "of course"
     },
     {
         "word": "tuolla",
-        "en-us": "there"
+        "en": "there"
     },
     {
         "word": "t\u00e4\u00e4lt\u00e4",
-        "en-us": "here"
+        "en": "here"
     },
     {
         "word": "ven\u00e4j\u00e4",
-        "en-us": "russian"
+        "en": "russian"
     },
     {
         "word": "alan",
-        "en-us": "sector"
+        "en": "sector"
     },
     {
         "word": "alkaen",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "el\u00e4m\u00e4",
-        "en-us": "life"
+        "en": "life"
     },
     {
         "word": "helppo",
-        "en-us": "easy"
+        "en": "easy"
     },
     {
         "word": "jotenkin",
-        "en-us": "somehow"
+        "en": "somehow"
     },
     {
         "word": "k",
-        "en-us": "k"
+        "en": "k"
     },
     {
         "word": "kaikkia",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "kaupunki",
-        "en-us": "city"
+        "en": "city"
     },
     {
         "word": "kirjoittaa",
-        "en-us": "write to"
+        "en": "write to"
     },
     {
         "word": "k\u00e4yt\u00e4nn\u00f6ss\u00e4",
-        "en-us": "practice"
+        "en": "practice"
     },
     {
         "word": "mahdollisuus",
-        "en-us": "opportunity"
+        "en": "opportunity"
     },
     {
         "word": "menness\u00e4",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "odottaa",
-        "en-us": "expect"
+        "en": "expect"
     },
     {
         "word": "olemaan",
-        "en-us": "be"
+        "en": "be"
     },
     {
         "word": "parasta",
-        "en-us": "best for"
+        "en": "best for"
     },
     {
         "word": "pysty",
-        "en-us": "vertical"
+        "en": "vertical"
     },
     {
         "word": "tunnin",
-        "en-us": "hours"
+        "en": "hours"
     },
     {
         "word": "v",
-        "en-us": "v"
+        "en": "v"
     },
     {
         "word": "varsinkin",
-        "en-us": "especially"
+        "en": "especially"
     },
     {
         "word": "vuodessa",
-        "en-us": "per year"
+        "en": "per year"
     },
     {
         "word": "x",
-        "en-us": "x"
+        "en": "x"
     },
     {
         "word": "etenkin",
-        "en-us": "in particular"
+        "en": "in particular"
     },
     {
         "word": "ilta",
-        "en-us": "evening"
+        "en": "evening"
     },
     {
         "word": "johtaa",
-        "en-us": "leads"
+        "en": "leads"
     },
     {
         "word": "katsoa",
-        "en-us": "see"
+        "en": "see"
     },
     {
         "word": "kesken",
-        "en-us": "among"
+        "en": "among"
     },
     {
         "word": "kuulostaa",
-        "en-us": "sounds like"
+        "en": "sounds like"
     },
     {
         "word": "k\u00e4yt\u00f6ss\u00e4",
-        "en-us": "available at"
+        "en": "available at"
     },
     {
         "word": "menn\u00e4\u00e4n",
-        "en-us": "let's go to"
+        "en": "let's go to"
     },
     {
         "word": "mik\u00e4li",
-        "en-us": "as far as"
+        "en": "as far as"
     },
     {
         "word": "n\u00e4kyy",
-        "en-us": "appears on"
+        "en": "appears on"
     },
     {
         "word": "p",
-        "en-us": "p"
+        "en": "p"
     },
     {
         "word": "peli",
-        "en-us": "game"
+        "en": "game"
     },
     {
         "word": "puoli",
-        "en-us": "half"
+        "en": "half"
     },
     {
         "word": "p\u00e4in",
-        "en-us": "facing"
+        "en": "facing"
     },
     {
         "word": "siten",
-        "en-us": "thus"
+        "en": "thus"
     },
     {
         "word": "sm",
-        "en-us": "sm"
+        "en": "sm"
     },
     {
         "word": "kannalta",
-        "en-us": "in terms of"
+        "en": "in terms of"
     },
     {
         "word": "kaudella",
-        "en-us": "in the period"
+        "en": "in the period"
     },
     {
         "word": "mielest\u00e4ni",
-        "en-us": "i think"
+        "en": "i think"
     },
     {
         "word": "minuuttia",
-        "en-us": "minutes"
+        "en": "minutes"
     },
     {
         "word": "musta",
-        "en-us": "black"
+        "en": "black"
     },
     {
         "word": "mut",
-        "en-us": "mut"
+        "en": "mut"
     },
     {
         "word": "nousi",
-        "en-us": "rose from"
+        "en": "rose from"
     },
     {
         "word": "nuo",
-        "en-us": "those"
+        "en": "those"
     },
     {
         "word": "oikeus",
-        "en-us": "entitled"
+        "en": "entitled"
     },
     {
         "word": "olemassa",
-        "en-us": "exists"
+        "en": "exists"
     },
     {
         "word": "omat",
-        "en-us": "my"
+        "en": "my"
     },
     {
         "word": "oon",
-        "en-us": "oon"
+        "en": "oon"
     },
     {
         "word": "puhua",
-        "en-us": "talk to"
+        "en": "talk to"
     },
     {
         "word": "puolella",
-        "en-us": "side"
+        "en": "side"
     },
     {
         "word": "sinua",
-        "en-us": "you"
+        "en": "you"
     },
     {
         "word": "ty\u00f6",
-        "en-us": "work"
+        "en": "work"
     },
     {
         "word": "t\u00e4ynn\u00e4",
-        "en-us": "full"
+        "en": "full"
     },
     {
         "word": "vie",
-        "en-us": "email"
+        "en": "email"
     },
     {
         "word": "viimeinen",
-        "en-us": "last"
+        "en": "last"
     },
     {
         "word": "voitti",
-        "en-us": "won by"
+        "en": "won by"
     },
     {
         "word": "yhteen",
-        "en-us": "together with"
+        "en": "together with"
     },
     {
         "word": "antoi",
-        "en-us": "issued"
+        "en": "issued"
     },
     {
         "word": "eih\u00e4n",
-        "en-us": "not"
+        "en": "not"
     },
     {
         "word": "h",
-        "en-us": "h"
+        "en": "h"
     },
     {
         "word": "haluavat",
-        "en-us": "want"
+        "en": "want"
     },
     {
         "word": "hyv\u00e4n",
-        "en-us": "good"
+        "en": "good"
     },
     {
         "word": "kuusi",
-        "en-us": "six"
+        "en": "six"
     },
     {
         "word": "kuvan",
-        "en-us": "image from"
+        "en": "image from"
     },
     {
         "word": "lapsi",
-        "en-us": "children"
+        "en": "children"
     },
     {
         "word": "mieleen",
-        "en-us": "reminiscent of"
+        "en": "reminiscent of"
     },
     {
         "word": "mulla",
-        "en-us": "mulla"
+        "en": "mulla"
     },
     {
         "word": "ongelmia",
-        "en-us": "problems"
+        "en": "problems"
     },
     {
         "word": "otti",
-        "en-us": "took"
+        "en": "took"
     },
     {
         "word": "puolet",
-        "en-us": "half"
+        "en": "half"
     },
     {
         "word": "saisi",
-        "en-us": "could be obtained from"
+        "en": "could be obtained from"
     },
     {
         "word": "selv\u00e4sti",
-        "en-us": "clearly"
+        "en": "clearly"
     },
     {
         "word": "tunne",
-        "en-us": "feel"
+        "en": "feel"
     },
     {
         "word": "ty\u00f6n",
-        "en-us": "work"
+        "en": "work"
     },
     {
         "word": "ajaa",
-        "en-us": "drive"
+        "en": "drive"
     },
     {
         "word": "asiassa",
-        "en-us": "in fact"
+        "en": "in fact"
     },
     {
         "word": "haluan",
-        "en-us": "i want"
+        "en": "i want"
     },
     {
         "word": "haluat",
-        "en-us": "you want"
+        "en": "you want"
     },
     {
         "word": "http",
-        "en-us": "http"
+        "en": "http"
     },
     {
         "word": "kohtaan",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "kova",
-        "en-us": "hard"
+        "en": "hard"
     },
     {
         "word": "lue",
-        "en-us": "read at"
+        "en": "read at"
     },
     {
         "word": "mennyt",
-        "en-us": "gone"
+        "en": "gone"
     },
     {
         "word": "n\u00e4hnyt",
-        "en-us": "seen on"
+        "en": "seen on"
     },
     {
         "word": "yritys",
-        "en-us": "company"
+        "en": "company"
     },
     {
         "word": "aiheesta",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "ainoastaan",
-        "en-us": "only"
+        "en": "only"
     },
     {
         "word": "auki",
-        "en-us": "open"
+        "en": "open"
     },
     {
         "word": "ihmist\u00e4",
-        "en-us": "people"
+        "en": "people"
     },
     {
         "word": "kertoa",
-        "en-us": "tell"
+        "en": "tell"
     },
     {
         "word": "l\u00e4hde",
-        "en-us": "source :"
+        "en": "source :"
     },
     {
         "word": "maassa",
-        "en-us": "in the country"
+        "en": "in the country"
     },
     {
         "word": "milloin",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "nuori",
-        "en-us": "young"
+        "en": "young"
     },
     {
         "word": "onhan",
-        "en-us": "after all,"
+        "en": "after all,"
     },
     {
         "word": "pelin",
-        "en-us": "game"
+        "en": "game"
     },
     {
         "word": "p\u00e4\u00e4si",
-        "en-us": "your head"
+        "en": "your head"
     },
     {
         "word": "tampere",
-        "en-us": "tampere"
+        "en": "tampere"
     },
     {
         "word": "toimintaa",
-        "en-us": "activities"
+        "en": "activities"
     },
     {
         "word": "toista",
-        "en-us": "repeat from"
+        "en": "repeat from"
     },
     {
         "word": "tosiaan",
-        "en-us": "indeed"
+        "en": "indeed"
     },
     {
         "word": "tuossa",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "turun",
-        "en-us": "turku"
+        "en": "turku"
     },
     {
         "word": "t\u00f6iss\u00e4",
-        "en-us": "at work"
+        "en": "at work"
     },
     {
         "word": "varma",
-        "en-us": "be sure"
+        "en": "be sure"
     },
     {
         "word": "vitun",
-        "en-us": "fuck"
+        "en": "fuck"
     },
     {
         "word": "vuodesta",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "vuosina",
-        "en-us": "years"
+        "en": "years"
     },
     {
         "word": "v\u00e4hint\u00e4\u00e4n",
-        "en-us": "at least"
+        "en": "at least"
     },
     {
         "word": "v\u00e4\u00e4rin",
-        "en-us": "abuse"
+        "en": "abuse"
     },
     {
         "word": "ymm\u00e4rt\u00e4\u00e4",
-        "en-us": "understand"
+        "en": "understand"
     },
     {
         "word": "ymp\u00e4ri",
-        "en-us": "around"
+        "en": "around"
     },
     {
         "word": "el\u00e4m\u00e4\u00e4",
-        "en-us": "life"
+        "en": "life"
     },
     {
         "word": "ku",
-        "en-us": "ku"
+        "en": "ku"
     },
     {
         "word": "kunnon",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "lukea",
-        "en-us": "read at"
+        "en": "read at"
     },
     {
         "word": "miest\u00e4",
-        "en-us": "men"
+        "en": "men"
     },
     {
         "word": "oletko",
-        "en-us": "are you"
+        "en": "are you"
     },
     {
         "word": "presidentti",
-        "en-us": "president"
+        "en": "president"
     },
     {
         "word": "sinulla",
-        "en-us": "you have"
+        "en": "you have"
     },
     {
         "word": "sopii",
-        "en-us": "suitable for"
+        "en": "suitable for"
     },
     {
         "word": "suhteen",
-        "en-us": "regarding"
+        "en": "regarding"
     },
     {
         "word": "suuntaan",
-        "en-us": "direction"
+        "en": "direction"
     },
     {
         "word": "tasa",
-        "en-us": "tasa"
+        "en": "tasa"
     },
     {
         "word": "teen",
-        "en-us": "teen"
+        "en": "teen"
     },
     {
         "word": "tekev\u00e4t",
-        "en-us": "make"
+        "en": "make"
     },
     {
         "word": "t\u00e4rke\u00e4",
-        "en-us": "important"
+        "en": "important"
     },
     {
         "word": "vuotias",
-        "en-us": "years old"
+        "en": "years old"
     },
     {
         "word": "aloittaa",
-        "en-us": "to start"
+        "en": "to start"
     },
     {
         "word": "alueen",
-        "en-us": "area"
+        "en": "area"
     },
     {
         "word": "hoitaa",
-        "en-us": "to be managed by"
+        "en": "to be managed by"
     },
     {
         "word": "jokin",
-        "en-us": "any"
+        "en": "any"
     },
     {
         "word": "jotkut",
-        "en-us": "some"
+        "en": "some"
     },
     {
         "word": "keski",
-        "en-us": "middle"
+        "en": "middle"
     },
     {
         "word": "ket\u00e4\u00e4n",
-        "en-us": "anyone"
+        "en": "anyone"
     },
     {
         "word": "kolmen",
-        "en-us": "three"
+        "en": "three"
     },
     {
         "word": "k\u00e4ynyt",
-        "en-us": "accessed at"
+        "en": "accessed at"
     },
     {
         "word": "l\u00e4htien",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "n\u00e4kee",
-        "en-us": "sees"
+        "en": "sees"
     },
     {
         "word": "paikalla",
-        "en-us": "on the spot"
+        "en": "on the spot"
     },
     {
         "word": "sarjan",
-        "en-us": "series"
+        "en": "series"
     },
     {
         "word": "tampereen",
-        "en-us": "tampere"
+        "en": "tampere"
     },
     {
         "word": "tiedot",
-        "en-us": "details"
+        "en": "details"
     },
     {
         "word": "tied\u00e4n",
-        "en-us": "i know"
+        "en": "i know"
     },
     {
         "word": "toimia",
-        "en-us": "actions"
+        "en": "actions"
     },
     {
         "word": "toiseen",
-        "en-us": "another"
+        "en": "another"
     },
     {
         "word": "t\u00f6ihin",
-        "en-us": "for work"
+        "en": "for work"
     },
     {
         "word": "uudet",
-        "en-us": "new"
+        "en": "new"
     },
     {
         "word": "varsin",
-        "en-us": "quite"
+        "en": "quite"
     },
     {
         "word": "voisin",
-        "en-us": "i could"
+        "en": "i could"
     },
     {
         "word": "aamulla",
-        "en-us": "in the morning"
+        "en": "in the morning"
     },
     {
         "word": "esiin",
-        "en-us": "esiin"
+        "en": "esiin"
     },
     {
         "word": "jonkin",
-        "en-us": "for"
+        "en": "for"
     },
     {
         "word": "kaveri",
-        "en-us": "mate"
+        "en": "mate"
     },
     {
         "word": "kest\u00e4\u00e4",
-        "en-us": "lasts"
+        "en": "lasts"
     },
     {
         "word": "meit\u00e4",
-        "en-us": "about us"
+        "en": "about us"
     },
     {
         "word": "p\u00e4\u00e4tt\u00e4\u00e4",
-        "en-us": "decide"
+        "en": "decide"
     },
     {
         "word": "viikkoa",
-        "en-us": "weeks"
+        "en": "weeks"
     },
     {
         "word": "el\u00e4m\u00e4n",
-        "en-us": "life"
+        "en": "life"
     },
     {
         "word": "homma",
-        "en-us": "homma"
+        "en": "homma"
     },
     {
         "word": "it\u00e4",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "kaunis",
-        "en-us": "beautiful"
+        "en": "beautiful"
     },
     {
         "word": "kuvaa",
-        "en-us": "picture from"
+        "en": "picture from"
     },
     {
         "word": "matti",
-        "en-us": "mate"
+        "en": "mate"
     },
     {
         "word": "ok",
-        "en-us": "ok"
+        "en": "ok"
     },
     {
         "word": "pekka",
-        "en-us": "pekka"
+        "en": "pekka"
     },
     {
         "word": "poliisin",
-        "en-us": "police"
+        "en": "police"
     },
     {
         "word": "ruotsissa",
-        "en-us": "in Sweden"
+        "en": "in Sweden"
     },
     {
         "word": "saakka",
-        "en-us": "until"
+        "en": "until"
     },
     {
         "word": "suomalaisen",
-        "en-us": "finnish"
+        "en": "finnish"
     },
     {
         "word": "suomea",
-        "en-us": "in Finnish"
+        "en": "in Finnish"
     },
     {
         "word": "takaa",
-        "en-us": "guaranteed"
+        "en": "guaranteed"
     },
     {
         "word": "tapahtui",
-        "en-us": "happened"
+        "en": "happened"
     },
     {
         "word": "te",
-        "en-us": "you"
+        "en": "you"
     },
     {
         "word": "todenn\u00e4k\u00f6isesti",
-        "en-us": "likely to be"
+        "en": "likely to be"
     },
     {
         "word": "toiminta",
-        "en-us": "action"
+        "en": "action"
     },
     {
         "word": "tukea",
-        "en-us": "support"
+        "en": "support"
     },
     {
         "word": "jostain",
-        "en-us": "from somewhere"
+        "en": "from somewhere"
     },
     {
         "word": "kirja",
-        "en-us": "book"
+        "en": "book"
     },
     {
         "word": "kohdalla",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "kunhan",
-        "en-us": "as long as"
+        "en": "as long as"
     },
     {
         "word": "kunnossa",
-        "en-us": "oK"
+        "en": "oK"
     },
     {
         "word": "naisia",
-        "en-us": "women"
+        "en": "women"
     },
     {
         "word": "osalta",
-        "en-us": "regarding"
+        "en": "regarding"
     },
     {
         "word": "pidet\u00e4\u00e4n",
-        "en-us": "is located at"
+        "en": "is located at"
     },
     {
         "word": "p\u00e4\u00e4se",
-        "en-us": "accessed at"
+        "en": "accessed at"
     },
     {
         "word": "saksan",
-        "en-us": "german"
+        "en": "german"
     },
     {
         "word": "syyst\u00e4",
-        "en-us": "reason"
+        "en": "reason"
     },
     {
         "word": "valita",
-        "en-us": "complain"
+        "en": "complain"
     },
     {
         "word": "vett\u00e4",
-        "en-us": "water"
+        "en": "water"
     },
     {
         "word": "vuoteen",
-        "en-us": "by"
+        "en": "by"
     },
     {
         "word": "aiheuttaa",
-        "en-us": "cause"
+        "en": "cause"
     },
     {
         "word": "arvo",
-        "en-us": "value"
+        "en": "value"
     },
     {
         "word": "erilaisia",
-        "en-us": "various"
+        "en": "various"
     },
     {
         "word": "hetken",
-        "en-us": "at the moment"
+        "en": "at the moment"
     },
     {
         "word": "itse\u00e4\u00e4n",
-        "en-us": "themselves"
+        "en": "themselves"
     },
     {
         "word": "joukkue",
-        "en-us": "team"
+        "en": "team"
     },
     {
         "word": "joutuu",
-        "en-us": "gets to"
+        "en": "gets to"
     },
     {
         "word": "kannata",
-        "en-us": "support"
+        "en": "support"
     },
     {
         "word": "kuukauden",
-        "en-us": "month"
+        "en": "month"
     },
     {
         "word": "lapsia",
-        "en-us": "children"
+        "en": "children"
     },
     {
         "word": "mene",
-        "en-us": "go to"
+        "en": "go to"
     },
     {
         "word": "oikeastaan",
-        "en-us": "actually"
+        "en": "actually"
     },
     {
         "word": "paha",
-        "en-us": "evil"
+        "en": "evil"
     },
     {
         "word": "rahat",
-        "en-us": "money"
+        "en": "money"
     },
     {
         "word": "ruokaa",
-        "en-us": "food"
+        "en": "food"
     },
     {
         "word": "suomalaisten",
-        "en-us": "for Finns"
+        "en": "for Finns"
     },
     {
         "word": "s\u00e4",
-        "en-us": "at"
+        "en": "at"
     },
     {
         "word": "tarvitsee",
-        "en-us": "needs"
+        "en": "needs"
     },
     {
         "word": "tilaa",
-        "en-us": "subscribe at"
+        "en": "subscribe at"
     },
     {
         "word": "toisin",
-        "en-us": "unlike"
+        "en": "unlike"
     },
     {
         "word": "uskon",
-        "en-us": "uscon"
+        "en": "uscon"
     },
     {
         "word": "vapaa",
-        "en-us": "free"
+        "en": "free"
     },
     {
         "word": "verrattuna",
-        "en-us": "compared to"
+        "en": "compared to"
     },
     {
         "word": "ai",
-        "en-us": "ai"
+        "en": "ai"
     },
     {
         "word": "alusta",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "euron",
-        "en-us": "euro"
+        "en": "euro"
     },
     {
         "word": "johtaja",
-        "en-us": "director"
+        "en": "director"
     },
     {
         "word": "kerta",
-        "en-us": "once"
+        "en": "once"
     },
     {
         "word": "kes\u00e4ll\u00e4",
-        "en-us": "summer"
+        "en": "summer"
     },
     {
         "word": "lopussa",
-        "en-us": "end of"
+        "en": "end of"
     },
     {
         "word": "maahan",
-        "en-us": "ground"
+        "en": "ground"
     },
     {
         "word": "menossa",
-        "en-us": "going to"
+        "en": "going to"
     },
     {
         "word": "mill\u00e4",
-        "en-us": "with"
+        "en": "with"
     },
     {
         "word": "nostaa",
-        "en-us": "to raise"
+        "en": "to raise"
     },
     {
         "word": "vaikeaa",
-        "en-us": "difficult"
+        "en": "difficult"
     },
     {
         "word": "vuosien",
-        "en-us": "years"
+        "en": "years"
     },
     {
         "word": "ensimm\u00e4ist\u00e4",
-        "en-us": "first"
+        "en": "first"
     },
     {
         "word": "joutui",
-        "en-us": "got to"
+        "en": "got to"
     },
     {
         "word": "kiinnostaa",
-        "en-us": "of interest"
+        "en": "of interest"
     },
     {
         "word": "kuulla",
-        "en-us": "consult"
+        "en": "consult"
     },
     {
         "word": "my\u00f6sk\u00e4\u00e4n",
-        "en-us": "also"
+        "en": "also"
     },
     {
         "word": "ns",
-        "en-us": "ns"
+        "en": "ns"
     },
     {
         "word": "osan",
-        "en-us": "part of"
+        "en": "part of"
     },
     {
         "word": "tehtiin",
-        "en-us": "was made"
+        "en": "was made"
     },
     {
         "word": "teht\u00e4v\u00e4",
-        "en-us": "mission"
+        "en": "mission"
     },
     {
         "word": "vet\u00e4\u00e4",
-        "en-us": "retrieved from"
+        "en": "retrieved from"
     },
     {
         "word": "voitto",
-        "en-us": "gain"
+        "en": "gain"
     },
     {
         "word": "v\u00e4ltt\u00e4m\u00e4tt\u00e4",
-        "en-us": "necessarily"
+        "en": "necessarily"
     },
     {
         "word": "yliopiston",
-        "en-us": "university"
+        "en": "university"
     },
     {
         "word": "alas",
-        "en-us": "down"
+        "en": "down"
     },
     {
         "word": "antti",
-        "en-us": "antti"
+        "en": "antti"
     },
     {
         "word": "erityisen",
-        "en-us": "especially"
+        "en": "especially"
     },
     {
         "word": "helppoa",
-        "en-us": "easy"
+        "en": "easy"
     },
     {
         "word": "is",
-        "en-us": "is"
+        "en": "is"
     },
     {
         "word": "jatkuu",
-        "en-us": "continued on"
+        "en": "continued on"
     },
     {
         "word": "kuvia",
-        "en-us": "photos from"
+        "en": "photos from"
     },
     {
         "word": "k\u00e4ytt\u00f6",
-        "en-us": "use"
+        "en": "use"
     },
     {
         "word": "maailma",
-        "en-us": "world"
+        "en": "world"
     },
     {
         "word": "niiss\u00e4",
-        "en-us": "where"
+        "en": "where"
     },
     {
         "word": "n\u00e4hd\u00e4\u00e4n",
-        "en-us": "see you at"
+        "en": "see you at"
     },
     {
         "word": "olisivat",
-        "en-us": "would be"
+        "en": "would be"
     },
     {
         "word": "parin",
-        "en-us": "the pair"
+        "en": "the pair"
     },
     {
         "word": "suomesta",
-        "en-us": "from Finland"
+        "en": "from Finland"
     },
     {
         "word": "tein",
-        "en-us": "i did"
+        "en": "i did"
     },
     {
         "word": "tuosta",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "yhti\u00f6n",
-        "en-us": "company"
+        "en": "company"
     },
     {
         "word": "ymm\u00e4rr\u00e4n",
-        "en-us": "i understand"
+        "en": "i understand"
     },
     {
         "word": "aikaisemmin",
-        "en-us": "previously"
+        "en": "previously"
     },
     {
         "word": "elokuva",
-        "en-us": "cinema"
+        "en": "cinema"
     },
     {
         "word": "esitt\u00e4\u00e4",
-        "en-us": "present"
+        "en": "present"
     },
     {
         "word": "eteen",
-        "en-us": "forward"
+        "en": "forward"
     },
     {
         "word": "etten",
-        "en-us": "etten"
+        "en": "etten"
     },
     {
         "word": "heille",
-        "en-us": "them"
+        "en": "them"
     },
     {
         "word": "hyv\u00e4lt\u00e4",
-        "en-us": "looking good"
+        "en": "looking good"
     },
     {
         "word": "jne",
-        "en-us": "etc"
+        "en": "etc"
     },
     {
         "word": "kantaa",
-        "en-us": "position"
+        "en": "position"
     },
     {
         "word": "live",
-        "en-us": "live"
+        "en": "live"
     },
     {
         "word": "maailmassa",
-        "en-us": "world"
+        "en": "world"
     },
     {
         "word": "miss\u00e4\u00e4n",
-        "en-us": "anywhere"
+        "en": "anywhere"
     },
     {
         "word": "muualla",
-        "en-us": "elsewhere"
+        "en": "elsewhere"
     },
     {
         "word": "oliko",
-        "en-us": "was it"
+        "en": "was it"
     },
     {
         "word": "paska",
-        "en-us": "shit"
+        "en": "shit"
     },
     {
         "word": "perhe",
-        "en-us": "family"
+        "en": "family"
     },
     {
         "word": "puhutaan",
-        "en-us": "let's talk about"
+        "en": "let's talk about"
     },
     {
         "word": "saan",
-        "en-us": "get"
+        "en": "get"
     },
     {
         "word": "samassa",
-        "en-us": "in the same"
+        "en": "in the same"
     },
     {
         "word": "seitsem\u00e4n",
-        "en-us": "seven"
+        "en": "seven"
     },
     {
         "word": "sent\u00e4\u00e4n",
-        "en-us": "at least"
+        "en": "at least"
     },
     {
         "word": "tapahtunut",
-        "en-us": "happened"
+        "en": "happened"
     },
     {
         "word": "turku",
-        "en-us": "turku"
+        "en": "turku"
     },
     {
         "word": "t\u00e4ll\u00f6in",
-        "en-us": "in this case"
+        "en": "in this case"
     },
     {
         "word": "yrityksen",
-        "en-us": "company"
+        "en": "company"
     },
     {
         "word": "ajatus",
-        "en-us": "idea"
+        "en": "idea"
     },
     {
         "word": "asioista",
-        "en-us": "issues"
+        "en": "issues"
     },
     {
         "word": "huomattavasti",
-        "en-us": "considerably"
+        "en": "considerably"
     },
     {
         "word": "itsekin",
-        "en-us": "myself"
+        "en": "myself"
     },
     {
         "word": "just",
-        "en-us": "just"
+        "en": "just"
     },
     {
         "word": "kausi",
-        "en-us": "kausi"
+        "en": "kausi"
     },
     {
         "word": "kerro",
-        "en-us": "tell"
+        "en": "tell"
     },
     {
         "word": "keskell\u00e4",
-        "en-us": "middle"
+        "en": "middle"
     },
     {
         "word": "kolmas",
-        "en-us": "third"
+        "en": "third"
     },
     {
         "word": "lehden",
-        "en-us": "magazine"
+        "en": "magazine"
     },
     {
         "word": "l\u00f6ytyi",
-        "en-us": "found at"
+        "en": "found at"
     },
     {
         "word": "mahdollisimman",
-        "en-us": "as far as possible"
+        "en": "as far as possible"
     },
     {
         "word": "mukava",
-        "en-us": "nice"
+        "en": "nice"
     },
     {
         "word": "n\u00e4e",
-        "en-us": "see"
+        "en": "see"
     },
     {
         "word": "omasta",
-        "en-us": "from"
+        "en": "from"
     },
     {
         "word": "osuus",
-        "en-us": "share"
+        "en": "share"
     },
     {
         "word": "otetaan",
-        "en-us": "taken from"
+        "en": "taken from"
     },
     {
         "word": "pelk\u00e4st\u00e4\u00e4n",
-        "en-us": "only"
+        "en": "only"
     },
     {
         "word": "perustuu",
-        "en-us": "based on"
+        "en": "based on"
     },
     {
         "word": "puolueen",
-        "en-us": "party of"
+        "en": "party of"
     },
     {
         "word": "riit\u00e4",
-        "en-us": "suffice it to say"
+        "en": "suffice it to say"
     },
     {
         "word": "seuraava",
-        "en-us": "next"
+        "en": "next"
     },
     {
         "word": "sit",
-        "en-us": "sit"
+        "en": "sit"
     },
     {
         "word": "tarjolla",
-        "en-us": "available at"
+        "en": "available at"
     },
     {
         "word": "uudestaan",
-        "en-us": "again from"
+        "en": "again from"
     },
     {
         "word": "voittaa",
-        "en-us": "win"
+        "en": "win"
     },
     {
         "word": "v\u00e4li\u00e4",
-        "en-us": "meanwhile"
+        "en": "meanwhile"
     },
     {
         "word": "yhteytt\u00e4",
-        "en-us": "contact"
+        "en": "contact"
     },
     {
         "word": "yle",
-        "en-us": "yle"
+        "en": "yle"
     },
     {
         "word": "entinen",
-        "en-us": "formerly"
+        "en": "formerly"
     },
     {
         "word": "heill\u00e4",
-        "en-us": "they have"
+        "en": "they have"
     },
     {
         "word": "henkil\u00f6",
-        "en-us": "person"
+        "en": "person"
     },
     {
         "word": "h\u00e4nest\u00e4",
-        "en-us": "about him"
+        "en": "about him"
     },
     {
         "word": "idea",
-        "en-us": "idea"
+        "en": "idea"
     },
     {
         "word": "illalla",
-        "en-us": "in the evening"
+        "en": "in the evening"
     },
     {
         "word": "itselleen",
-        "en-us": "for themselves"
+        "en": "for themselves"
     },
     {
         "word": "jatkuvasti",
-        "en-us": "continuously"
+        "en": "continuously"
     },
     {
         "word": "km",
-        "en-us": "km"
+        "en": "km"
     },
     {
         "word": "koulun",
-        "en-us": "school"
+        "en": "school"
     },
     {
         "word": "kovasti",
-        "en-us": "very much"
+        "en": "very much"
     },
     {
         "word": "kunnolla",
-        "en-us": "properly"
+        "en": "properly"
     },
     {
         "word": "la",
-        "en-us": "la"
+        "en": "la"
     },
     {
         "word": "niihin",
-        "en-us": "related to them"
+        "en": "related to them"
     },
     {
         "word": "nousee",
-        "en-us": "rise"
+        "en": "rise"
     },
     {
         "word": "oikeassa",
-        "en-us": "right"
+        "en": "right"
     },
     {
         "word": "omia",
-        "en-us": "own"
+        "en": "own"
     },
     {
         "word": "oulun",
-        "en-us": "oulu"
+        "en": "oulu"
     },
     {
         "word": "puolestaan",
-        "en-us": "in turn"
+        "en": "in turn"
     },
     {
         "word": "r",
-        "en-us": "r"
+        "en": "r"
     },
     {
         "word": "valitettavasti",
-        "en-us": "unfortunately"
+        "en": "unfortunately"
     },
     {
         "word": "viimeksi",
-        "en-us": "last visited"
+        "en": "last visited"
     },
     {
         "word": "vuosia",
-        "en-us": "for years"
+        "en": "for years"
     },
     {
         "word": "eu:n",
-        "en-us": "of the eu"
+        "en": "of the eu"
     },
     {
         "word": "hauska",
-        "en-us": "funny"
+        "en": "funny"
     },
     {
         "word": "hetki",
-        "en-us": "moment"
+        "en": "moment"
     },
     {
         "word": "illan",
-        "en-us": "evening"
+        "en": "evening"
     },
     {
         "word": "irti",
-        "en-us": "off"
+        "en": "off"
     },
     {
         "word": "it",
-        "en-us": "it"
+        "en": "it"
     },
     {
         "word": "j\u00e4\u00e4d\u00e4",
-        "en-us": "stay at"
+        "en": "stay at"
     },
     {
         "word": "kahdeksan",
-        "en-us": "eight"
+        "en": "eight"
     },
     {
         "word": "kaikilla",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "kaikista",
-        "en-us": "all"
+        "en": "all"
     },
     {
         "word": "kev\u00e4\u00e4ll\u00e4",
-        "en-us": "spring"
+        "en": "spring"
     },
     {
         "word": "koira",
-        "en-us": "dog"
+        "en": "dog"
     },
     {
         "word": "l",
-        "en-us": "l"
+        "en": "l"
     },
     {
         "word": "lehti",
-        "en-us": "newspaper"
+        "en": "newspaper"
     },
     {
         "word": "liittyy",
-        "en-us": "linked to"
+        "en": "linked to"
     },
     {
         "word": "lopettaa",
-        "en-us": "stop"
+        "en": "stop"
     },
     {
         "word": "o",
-        "en-us": "o"
+        "en": "o"
     },
     {
         "word": "olis",
-        "en-us": "would be"
+        "en": "would be"
     },
     {
         "word": "omaan",
-        "en-us": "yours"
+        "en": "yours"
     },
     {
         "word": "paikan",
-        "en-us": "location"
+        "en": "location"
     },
     {
         "word": "pelaa",
-        "en-us": "play at"
+        "en": "play at"
     },
     {
         "word": "saatu",
-        "en-us": "obtained from"
+        "en": "obtained from"
     },
     {
         "word": "sanoin",
-        "en-us": "said"
+        "en": "said"
     },
     {
         "word": "sis\u00e4lt\u00e4\u00e4",
-        "en-us": "includes"
+        "en": "includes"
     },
     {
         "word": "talous",
-        "en-us": "economy"
+        "en": "economy"
     },
     {
         "word": "tasolla",
-        "en-us": "level"
+        "en": "level"
     },
     {
         "word": "toisella",
-        "en-us": "on"
+        "en": "on"
     },
     {
         "word": "toivon",
-        "en-us": "i hope"
+        "en": "i hope"
     },
     {
         "word": "varaa",
-        "en-us": "book at"
+        "en": "book at"
     },
     {
         "word": "ehdottomasti",
-        "en-us": "definitely"
+        "en": "definitely"
     },
     {
         "word": "ensimm\u00e4isen\u00e4",
-        "en-us": "first on"
+        "en": "first on"
     },
     {
         "word": "john",
-        "en-us": "john"
+        "en": "john"
     },
     {
         "word": "jokaisen",
-        "en-us": "each"
+        "en": "each"
     },
     {
         "word": "julkaistu",
-        "en-us": "published at"
+        "en": "published at"
     },
     {
         "word": "j\u00e4\u00e4nyt",
-        "en-us": "remain"
+        "en": "remain"
     },
     {
         "word": "kovaa",
-        "en-us": "hard"
+        "en": "hard"
     },
     {
         "word": "kuollut",
-        "en-us": "dead"
+        "en": "dead"
     },
     {
         "word": "kuulemma",
-        "en-us": "reportedly"
+        "en": "reportedly"
     },
     {
         "word": "miehi\u00e4",
-        "en-us": "men"
+        "en": "men"
     },
     {
         "word": "monia",
-        "en-us": "many"
+        "en": "many"
     },
     {
         "word": "muistan",
-        "en-us": "i remember"
+        "en": "i remember"
     },
     {
         "word": "selv\u00e4\u00e4",
-        "en-us": "clear"
+        "en": "clear"
     },
     {
         "word": "tarina",
-        "en-us": "story from"
+        "en": "story from"
     },
     {
         "word": "tavoin",
-        "en-us": "like"
+        "en": "like"
     },
     {
         "word": "tutkimus",
-        "en-us": "research"
+        "en": "research"
     },
     {
         "word": "valtio",
-        "en-us": "state"
+        "en": "state"
     },
     {
         "word": "eip\u00e4",
-        "en-us": "no"
+        "en": "no"
     },
     {
         "word": "est\u00e4\u00e4",
-        "en-us": "block"
+        "en": "block"
     },
     {
         "word": "euroopassa",
-        "en-us": "in Europe"
+        "en": "in Europe"
     },
     {
         "word": "finland",
-        "en-us": "finland"
+        "en": "finland"
     },
     {
         "word": "for",
-        "en-us": "for"
+        "en": "for"
     },
     {
         "word": "joukkueen",
-        "en-us": "team"
+        "en": "team"
     }
 ]
