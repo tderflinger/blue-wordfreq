@@ -7,6 +7,12 @@ Based on [wordfreq](https://github.com/rspeer/wordfreq), translated using [DeepL
 
 Demo site: https://blue-wordfreq.netlify.app/cs
 
+## Transliteration
+
+For the Greek language there is a transliteration offered for each word in brackets. The transliteration
+system is aimed at preserving etymology. Thus, it differs a bit from the standard transliteration in
+ISO 843. For example, "β" is transliterated as "b" and not "v" as in ISO 843.
+
 ## Installation
 
 For the `create-lists` application:
@@ -76,6 +82,8 @@ Note, the `converter` package is deprecated.
 ## References
 
 Thanks to the work of [wordfreq](https://github.com/rspeer/wordfreq)!
+
+The `blue-transliterator` package uses the ICU library for transliteration: https://unicode-org.github.io/icu/userguide/transforms/general
 
 ## License
 
