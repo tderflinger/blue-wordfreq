@@ -28,4 +28,4 @@ export const languageNames: LanguageNamesType = {
 };
 
 // all the languages for which we have a transliteration
-export const transliteratedLanguages = ["el", "ko"];
+export const transliteratedLanguages = ["el", "ko", "zh"];
