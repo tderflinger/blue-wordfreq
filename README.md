@@ -11,7 +11,9 @@ Demo site: https://blue-wordfreq.netlify.app/cs
 
 For the Greek language there is a transliteration offered for each word in brackets. The transliteration
 system is aimed at preserving etymology. Thus, it differs a bit from the standard transliteration in
-ISO 843. For example, "β" is transliterated as "b" and not "v" as in ISO 843.
+[ISO 843](https://en.wikipedia.org/wiki/ISO_843). For example, "β" is transliterated as "b" and not "v" as in ISO 843.
+
+The transliteration of Korean follows the National Institute of Korean Language guidelines on Romanization of Korean.
 
 ## Installation
 

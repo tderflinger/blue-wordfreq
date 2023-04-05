@@ -12,6 +12,7 @@ export const languageNames: LanguageNamesType = {
   id: "Indonesian",
   it: "Italian",
   ja: "Japanese",
+  ko: "Korean",
   lt: "Lithuanian",
   lv: "Latvian",
   zh: "Mandarin",
@@ -27,4 +28,4 @@ export const languageNames: LanguageNamesType = {
 };
 
 // all the languages for which we have a transliteration
-export const transliteratedLanguages = ["el"];
+export const transliteratedLanguages = ["el", "ko"];

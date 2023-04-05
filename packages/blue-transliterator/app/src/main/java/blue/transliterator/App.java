@@ -7,26 +7,13 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 public class App {
 
-    public static void main(String[] args) {
-        // Create a transliterator object for Greek to Latin script
-        Transliterator transliterator = Transliterator.getInstance("Greek-Latin");
-
-        // The input string to be transliterated
-        String input = "Καλημέρα κόσμε!";
-
-        // Transliterate the input string from Greek to Latin script
-        String output = transliterator.transliterate(input);
-
-        TransliteratorJson[] transliteratorJson = new TransliteratorJson[1010];
-
-        // Print the transliterated output
-        System.out.println(output);
-
+    private static void transliterateList(Transliterator transliterator, String fileName, String outputFilename) {
         ObjectMapper mapper = new ObjectMapper();
+        TransliteratorJson[] transliteratorJson = new TransliteratorJson[1000];
 
         try {
             // Read the JSON file into a JsonNode object
-            JsonNode rootNode = mapper.readTree(new File("/Users/td/Pro/projects/blue-wordfreq/word-lists/el-list.json"));
+            JsonNode rootNode = mapper.readTree(new File(fileName));
 
             int count = 0;
 
@@ -35,15 +22,25 @@ public class App {
                 String enUs = node.get("en").asText();
 
                 System.out.println("Word: " + word);
-                System.out.println("en-us: " + enUs);
+                System.out.println("En: " + enUs);
                 System.out.println("Transliteration: " + transliterator.transliterate(word));
                 transliteratorJson[count] = new TransliteratorJson(word, enUs, transliterator.transliterate(word));
                 count++;
             }
 
-            mapper.writeValue(new File("/Users/td/Pro/projects/blue-wordfreq/word-lists/el-list-tl.json"), transliteratorJson);
+            mapper.writeValue(new File(outputFilename), transliteratorJson);
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+    }
+
+    public static void main(String[] args) {
+        // Create a transliterator object for Greek to Latin script
+        Transliterator transliterator = Transliterator.getInstance("Greek-Latin");
+        App.transliterateList(transliterator, "../../word-lists/el-list.json", "../../word-lists/el-list-tl.json");
+
+        Transliterator transliteratorHangul = Transliterator.getInstance("Hangul-Latin");
+        App.transliterateList(transliteratorHangul, "../../word-lists/ko-list.json", "../../word-lists/ko-list-tl.json");
     }
 }
