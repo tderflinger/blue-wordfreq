@@ -45,5 +45,10 @@ public class App {
 
         Transliterator transliteratorHan = Transliterator.getInstance("Han-Latin");
         App.transliterateList(transliteratorHan, "../../word-lists/zh-list.json", "../../word-lists/zh-list-tl.json");
+
+        Transliterator transliteratorCyr = Transliterator.getInstance("Cyrillic-Latin");
+        App.transliterateList(transliteratorCyr, "../../word-lists/uk-list.json", "../../word-lists/uk-list-tl.json");
+        App.transliterateList(transliteratorCyr, "../../word-lists/bg-list.json", "../../word-lists/bg-list-tl.json");
+
     }
 }

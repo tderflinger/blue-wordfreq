@@ -45,7 +45,7 @@ const LanguagePage: FC<LanguagePageProps> = ({
       <Table striped bordered hover responsive>
         <thead style={{ backgroundColor: "#1A56C5", color: "white" }}>
           <tr>
-            <th>#</th>
+            <th>No.</th>
             <th>{languageName}</th>
             <th>English</th>
             <th>Links</th>

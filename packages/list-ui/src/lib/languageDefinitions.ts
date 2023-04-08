@@ -3,6 +3,7 @@ export type LanguageNamesType = {
 }
 
 export const languageNames: LanguageNamesType = {
+  bg: "Bulgarian",
   cs: "Czech",
   nl: "Dutch",
   fr: "French",
@@ -28,4 +29,4 @@ export const languageNames: LanguageNamesType = {
 };
 
 // all the languages for which we have a transliteration
-export const transliteratedLanguages = ["el", "ko", "zh"];
+export const transliteratedLanguages = ["el", "ko", "zh", "uk", "bg"];
