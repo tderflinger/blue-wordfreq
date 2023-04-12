@@ -4,6 +4,8 @@ export type LanguageNamesType = {
 
 export const languageNames: LanguageNamesType = {
   bg: "Bulgarian",
+  ca: "Catalan",
+  hr: "Croatian",
   cs: "Czech",
   nl: "Dutch",
   fr: "French",

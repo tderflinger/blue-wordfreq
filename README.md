@@ -79,8 +79,6 @@ The `blue-workfreq` package contains the following:
 - `list-ui` - creates the UI as static pages for all languages
 - `blue-transliterator` - transliterates the word frequency lists for the respective language (`languageId`)
 
-Note, the `converter` package is deprecated.
-
 ## References
 
 Thanks to the work of [wordfreq](https://github.com/rspeer/wordfreq)!
